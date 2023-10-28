@@ -1,14 +1,14 @@
 import sys
 import os
 
+from src.exception import CustomException
+from src.logger import logging
+
 sys.path.append('../../data')
 
 import pandas as pd
 
 from dataclasses import dataclass
-
-from src.exception import CustomException
-from src.logger import logging
 
 
 
@@ -23,38 +23,48 @@ class DataIngestion:
         self.temp_csv_folder = "./data/CSV_tables"
 
     def read_excel_workbook(self):
+        logging.info("Reading Excel workbook...")
         try:
             # Read all sheets from the Excel workbook
             excel_data = pd.read_excel(self.config.excel_file_path, sheet_name=None)
+            
+            logging.info("Excel workbook read successfully.")
             return excel_data
         
         except Exception as e:
+            logging.error(f"Error reading Excel workbook: {str(e)}")
             raise CustomException(e, sys)
         
     def select_tables(self, excel_data):
         try:
+            logging.info("Selecting tables...")
             selected_tables = {}
             for table_name in self.config.tables:
                 if table_name in excel_data:
                     # Assuming 'table_name' is the sheet name
                     selected_tables[table_name] = excel_data[table_name]
                 else:
-                    print(f"Sheet '{table_name}' not found in the Excel workbook.")
+                    logging.warning(f"Sheet '{table_name}' not found in the Excel workbook.")
+            logging.info("Tables selected.")
+            
             return selected_tables  
             
         except Exception as e:
+            logging.error(f"Error selecting tables: {str(e)}")
             raise CustomException(e, sys)
         
         
     def export_tables_as_csv(self, selected_tables):
         try:
+            logging.info("Exporting tables as CSV...")
             os.makedirs(self.temp_csv_folder, exist_ok=True)  # Create folder if it doesn't exist
             for table_name, table_data in selected_tables.items():
                 table_csv_path = os.path.join(self.temp_csv_folder, f"{table_name}.csv")
                 table_data.to_csv(table_csv_path, index=False)
-                print(f"Exported '{table_name}' as CSV to '{table_csv_path}'")
-                
+                logging.info(f"Exported '{table_name}' as CSV to '{table_csv_path}'")
+            logging.info("Tables exported as CSV.")
         except Exception as e:
+            logging.error(f"Error exporting tables as CSV: {str(e)}")
             raise CustomException(e, sys)
  
     

@@ -1,32 +1,31 @@
-Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7
-,Vendedores,,Categoría,,ID Cuenta,Cuenta,
-,Christian,,Agua,,1010,Ahorros,
-,Fausto,,Agua Saborizada,,1020,Caja,
-,Marisa y Kuky,,Aperitivo,,1030,Caja Azul,
-,Adriana,,Bebida Blanca,,1040,Debito y Credito,
-,Gero,,Caja,,1050,Kuky y Marisa,
-,,,Carga,,,,
-,,,Cerveza,,,,
-,,,Chocolate,,,,
-,Categoría Transacción,,Cigarrillo,,Tipo Transacción,,Detalle Transacción
-,Salario Empleado,,Embutidos,,Débito,,Kuky y Marisa
-,Gastos,,Energizante,,Crédito,,Fausto
-,Utilidades,,Espumante,,Transferencia,,Christian
-,Ahorros,,Farmacia,,Extracción,,Certificado de Domicilio
-,Suministros,,Fotocopia,,,,Información Sumaria
-,Trámites,,Galletita,,,,Negatividad
-,Municipalidad,,Gaseosa,,,,Gero
-,Contador,,Golosina,,,,Adriana
-,Servicios,,Jugo,,,,
-,,,Lácteos,,,,
-,,,Librería,,,,
-,,,Mercadito,,,,
-,,,Panificado,,,,
-,,,Snack,,,,
-,,,Soda,,,,
-,,,Varios,,,,
-,,,Vino,,,,
-,,,Regalería,,,,
-,,,Cotillón,,,,
-,,,Mercería,,,,
-,,,Pastas,,,,
+employee,Unnamed: 1,category,Unnamed: 3,account_id,account,Unnamed: 6,transaction_type,Unnamed: 8,transaction_detail,Unnamed: 10,category.1
+Christian,,Agua,,1010.0,Ahorros,,Débito,,Kuky y Marisa,,Salario Empleado
+Fausto,,Agua Saborizada,,1020.0,Caja,,Crédito,,Fausto,,Gastos
+Marisa y Kuky,,Aperitivo,,1030.0,Caja Azul,,Transferencia,,Christian,,Utilidades
+Adriana,,Bebida Blanca,,1040.0,Debito y Credito,,Extracción,,Certificado de Domicilio,,Ahorros
+Gero,,Caja,,1050.0,Kuky y Marisa,,,,Información Sumaria,,Suministros
+,,Carga,,,,,,,Negatividad,,Trámites
+,,Cerveza,,,,,,,Gero,,Municipalidad
+,,Chocolate,,,,,,,Adriana,,Contador
+,,Cigarrillo,,,,,,,,,Servicios
+,,Embutidos,,,,,,,,,
+,,Energizante,,,,,,,,,
+,,Espumante,,,,,,,,,
+,,Farmacia,,,,,,,,,
+,,Fotocopia,,,,,,,,,
+,,Galletita,,,,,,,,,
+,,Gaseosa,,,,,,,,,
+,,Golosina,,,,,,,,,
+,,Jugo,,,,,,,,,
+,,Lácteos,,,,,,,,,
+,,Librería,,,,,,,,,
+,,Mercadito,,,,,,,,,
+,,Panificado,,,,,,,,,
+,,Snack,,,,,,,,,
+,,Soda,,,,,,,,,
+,,Varios,,,,,,,,,
+,,Vino,,,,,,,,,
+,,Regalería,,,,,,,,,
+,,Cotillón,,,,,,,,,
+,,Mercería,,,,,,,,,
+,,Pastas,,,,,,,,,
