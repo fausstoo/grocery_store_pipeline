@@ -1,6 +1,8 @@
 import os
 import sys
 
+sys.path.append('/data/')
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -27,10 +29,25 @@ class DataTransformation:
         
     def clean_data(self):
         self.drop_columns()
+        self.fill_na_values()
+        self.drop_na()
         self.transform_date_columns()
         self.transform_numeric_columns()
-        self.fill_na_values()
-            
+              
+    def fill_na_values(self):
+        # Fill NaN values in 'platform' column
+        platform_col = 'platform'
+        if platform_col in self.config.data.columns:
+            self.config.data[platform_col] = self.config.data[platform_col].fillna("")
+
+        # Fill NaN values in 'detail' column
+        detail_col = 'detail'
+        if detail_col in self.config.data.columns:
+            self.config.data[detail_col] = self.config.data[detail_col].fillna("")
+                    
+    def drop_na(self):
+        self.config.data.dropna(subset=self.config.data.columns, inplace=True)
+                            
     def drop_columns(self):
         for col in self.config.columns_to_drop:
             if col in self.config.data.columns:
@@ -39,6 +56,7 @@ class DataTransformation:
     def transform_date_columns(self):
         for col in self.config.date_columns:
             if col in self.config.data.columns:
+                self.config.data[col] = self.config.data[col].str.split(' ').str[0]
                 self.config.data[col] = pd.to_datetime(self.config.data[col], format='%Y-%m-%d')
 
     def transform_numeric_columns(self):
@@ -64,7 +82,7 @@ class DataTransformation:
             
 if __name__ == "__main__":
     # SALES table
-    sales_df = pd.read_csv("/data/CSV_tables/sales.csv")
+    sales_df = pd.read_csv("./data/CSV_tables/sales.csv")
     
     sales_config = DataTransformationConfig(
         data=sales_df,
@@ -82,7 +100,7 @@ if __name__ == "__main__":
     
     # PRODUCTS RECIEVED table
     
-    pr_df = pd.read_csv("/data/CSV_tables/products_recieved.csv")
+    pr_df = pd.read_csv("./data/CSV_tables/products_recieved.csv")
     pr_config = DataTransformationConfig(
         data=pr_df,
         columns_to_drop=['product', 'category'],
@@ -98,7 +116,7 @@ if __name__ == "__main__":
     print(pr_config.data.head())
     
     # TRANSACTIONS
-    tr_df = pd.read_csv("/data/CSV_tables/transactions.csv")
+    tr_df = pd.read_csv("./data/CSV_tables/transactions.csv")
     
     tr_config = DataTransformationConfig(
         data=tr_df,
