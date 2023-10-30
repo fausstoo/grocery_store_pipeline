@@ -22,7 +22,7 @@ AGUACALIENTE,Agua,Agua caliente 1,56.0,100,1
 7790895646621,Agua Saborizada,Aquarius Pomelo 2250ml,416.66,530,21
 7790895003288,Agua Saborizada,Aquarius Pomelo 2250ml,416.66,530,22
 7790895004971,Agua Saborizada,Aquarius Pomelo Rosado 2250ml,416.66,530,23
-7790036001647,Agua Saborizada,Baggio Fresh Manzana Liviano 1500L,211.66,320,24
+7790036001647,Agua Saborizada,Baggio Fresh Manzana Liviano 1500ml,211.66,320,24
 7790036975405,Agua Saborizada,Baggio Fresh Manzana Liviano 200ml,49.0,70,25
 7790036001678,Agua Saborizada,Baggio Fresh Mix Frutal 1500ml,211.66,320,26
 7790036001562,Agua Saborizada,Baggio Fresh Naranja 1500ml,211.66,320,27
@@ -115,7 +115,7 @@ FRAPERASTELLA,Cerveza,Frapera Stella Artois ,4160.0,5200,105
 7793147001827,Cerveza,Miller  473ml,297.41,360,114
 7792798006502,Cerveza,Patagonia  Bohemian Pilsener 473 cc,335.87,450,115
 7792798002399,Cerveza,Patagonia 24.7 730 ml,592.37,770,116
-7792798002351,Cerveza,Patagonia Amber Lager 730 ml,592.37,770,117
+7792798002351,Cerveza,Patagonia Amber Lager 730ml,592.37,770,117
 7792798002368,Cerveza,Patagonia Bohemian Pilsener 730 cc,592.37,770,118
 7792798002375,Cerveza,Patagonia Weisse 730 cc,592.37,770,119
 7792798009640,Cerveza,Promoción Brahma + Vaso,225.0,720,120
@@ -1192,3 +1192,4 @@ TERMOAMIGO,Varios,Termo Lumilagro Amigo con asa x 1 litro,1039.0,1800,1150
 7791843008294,Vino,Viñas de Balbo 1125ml,583.33,680,1191
 7798001610320,Vino,Vino de Marte Malbec 750 cc,430.0,800,1192
 7790314003226,Vino,Vino Toro Clásico Tinto 750 cc,430.82,550,1193
+7799054003931,Cigarrillo,Sueltos $10,0.0,20,231

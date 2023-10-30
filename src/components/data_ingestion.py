@@ -69,10 +69,10 @@ class DataIngestion:
  
     
     
-    # Usage Example
+
 if __name__ == "__main__":
     config = DataIngestionConfig(excel_file_path="./data/Los_Puche_4.xlsm", tables=[
-        "sales", "products_recieved", "transactions", "general", "products"
+        "sales", "products_recieved", "transactions", "products"
     ])
     data_ingestion = DataIngestion(config)
 
@@ -83,6 +83,7 @@ if __name__ == "__main__":
         print(f"Table Name: {table_name}")
         print(table_data.head())
         
-        
+    
+    # ----- USE CODE BELOW TO CHECK TABLES INGESTED -----
     # Export selected tables as CSVs
     data_ingestion.export_tables_as_csv(selected_tables)
