@@ -1,4 +1,4 @@
-transaction_ID,date,account,transaction_type,category,detail,total
+transaction_id,date,account,transaction_type,category,detail,total
 1,2022-12-03,Caja,Débito,Salario Empleado,Fausto,1200
 2,2022-12-04,Caja,Débito,Salario Empleado,Fausto,1200
 3,2022-12-04,Caja,Crédito,Starting Balance,Starting Balance,1974

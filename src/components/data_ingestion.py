@@ -20,7 +20,7 @@ class DataIngestionConfig:
 class DataIngestion:
     def __init__(self, config: DataIngestionConfig):
         self.config = config
-        self.temp_csv_folder = "./data/CSV_tables"
+        self.csv_folder = "./data/CSV_tables"
 
     def read_excel_workbook(self):
         logging.info("Reading Excel workbook...")
@@ -32,7 +32,6 @@ class DataIngestion:
             return excel_data
         
         except Exception as e:
-            logging.error(f"Error reading Excel workbook: {str(e)}")
             raise CustomException(e, sys)
         
     def select_tables(self, excel_data):
@@ -50,21 +49,24 @@ class DataIngestion:
             return selected_tables  
             
         except Exception as e:
-            logging.error(f"Error selecting tables: {str(e)}")
             raise CustomException(e, sys)
         
         
     def export_tables_as_csv(self, selected_tables):
         try:
             logging.info("Exporting tables as CSV...")
-            os.makedirs(self.temp_csv_folder, exist_ok=True)  # Create folder if it doesn't exist
+            
+            # Create folder if it doesn't exist
+            os.makedirs(self.csv_folder, exist_ok=True)  
+            
             for table_name, table_data in selected_tables.items():
-                table_csv_path = os.path.join(self.temp_csv_folder, f"{table_name}.csv")
+                table_csv_path = os.path.join(self.csv_folder, f"{table_name}.csv")
                 table_data.to_csv(table_csv_path, index=False)
+                
                 logging.info(f"Exported '{table_name}' as CSV to '{table_csv_path}'")
             logging.info("Tables exported as CSV.")
+            
         except Exception as e:
-            logging.error(f"Error exporting tables as CSV: {str(e)}")
             raise CustomException(e, sys)
  
     

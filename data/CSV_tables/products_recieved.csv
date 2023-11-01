@@ -1,4 +1,4 @@
-purchase_id,date,employee,account,platform,category,product,unit_cost,qty,unit_price,total,product_id
+invoice_number,date,employee,account,platform,category,product,unit_cost,qty,unit_price,total,product_id
 1.0,2022-12-03 09:37:38,Fausto,Caja,,Panificado,Pan Dulce Milanés Las Colonias 600 grs,507.32,8,660,4058.56,957.0
 1.0,2022-12-03 09:37:38,Fausto,Caja,,Golosina,Garrapiñadas de Maní Alteza 80g,75.54,20,100,1510.8,538.0
 1.0,2022-12-03 09:37:38,Fausto,Caja,,Golosina,Turrón de Maní Fel-Fort,188.15,10,250,1881.5,571.0

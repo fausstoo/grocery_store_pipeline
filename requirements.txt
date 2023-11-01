@@ -3,4 +3,6 @@ numpy
 matplotlib
 seaborn
 openpyxl
+mysql
+SQLAlchemy
 -e .

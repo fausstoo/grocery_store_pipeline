@@ -13,8 +13,9 @@ from src.components.data_transformation import DataTransformationConfig
 from src.components.data_transformation import DataTransformation
 
 
-sales_df = pd.read_csv("./../../data/CSV_tables/sales.csv")
+sales_df = pd.read_csv("./../../data/CSV_cleaned_tables/transactions.csv")
 
+sales_df.isna().sum()
 
 # Configuration for transforming the 'sales' table
 sales_transformation_config = DataTransformationConfig(

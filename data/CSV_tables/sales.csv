@@ -1,4 +1,4 @@
-sales_id,date,employee,payment_type,product_code,category,product,platform,qty,unit_price,total,Precio de Costo,Total COGS,Ganancia Neta,product_id
+invoice_number,date,employee,payment_type,product_code,category,product,platform,qty,unit_price,total,Precio de Costo,Total COGS,Ganancia Neta,product_id
 10,2022-12-04,Fausto,Efectivo,954456325874,Carga,Carga Virtual,Log In,600,1,660,1.0,600.0,60.0,85.0
 11,2022-12-04,Fausto,Efectivo,7790036000589,Jugo,Baggio Pronto Durazno 200ml,,1,100,100,95.84,95.84,4.159999999999997,585.0
 13,2022-12-04,Fausto,Efectivo,77953513,Cigarrillo,Chesterfield 20 Común ,,2,350,700,460.0,920.0,-220.0,200.0
