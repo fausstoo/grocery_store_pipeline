@@ -26,6 +26,7 @@ class InsertDataConfig:
     session: type
     csv_path: str
     batch_size: int
+    primary_key_name: str
     
 class InsertData:
     def __init__(self, config:InsertDataConfig):
@@ -44,10 +45,18 @@ class InsertData:
 
                 for index, row in batch.iterrows():
                     instance = self.config.model(**row.to_dict())
-                    self.config.session.add(instance)
+                    
+                    # Check if a record with the same primary key or unique constraint already exists
+                    primary_key_name = self.config.primary_key_name
+                    existing_record = self.config.session.query(self.config.model).filter_by(
+                        **{primary_key_name: getattr(instance, primary_key_name)}
+                    ).first()
+                    
+                    if existing_record is None:
+                        # If it doesn't exist, insert the data
+                        self.config.session.add(instance)
 
                 self.config.session.commit()
-                
                 
         except CustomException as e:
             raise CustomException(sys,e)    
@@ -90,7 +99,8 @@ if __name__=="__main__":
                 model=Sales,
                 session=Session(),
                 csv_path=sales_csv_path,
-                batch_size=100
+                batch_size=100,
+                primary_key_name="sales_id"
             )
             sales_insertion = InsertData(sales_config)
             sales_insertion.insert_data_into_table()
@@ -107,7 +117,8 @@ if __name__=="__main__":
                 model=ProductsRecieved,
                 session=Session(),
                 csv_path=products_recieved_csv_path,
-                batch_size=100
+                batch_size=100,
+                primary_key_name="purchase_id"
             )
             pr_insertion = InsertData(pr_config)
             pr_insertion.insert_data_into_table()
@@ -123,7 +134,8 @@ if __name__=="__main__":
                 model=Products,
                 session=Session(),
                 csv_path=products_csv_path,
-                batch_size=100
+                batch_size=100,
+                primary_key_name="product_id"
             )
             products_insertion = InsertData(products_config)
             products_insertion.insert_data_into_table()
@@ -139,7 +151,8 @@ if __name__=="__main__":
                 model=Transactions,
                 session=Session(),
                 csv_path=transactions_csv_path,
-                batch_size=100
+                batch_size=100,
+                primary_key_name="transaction_id"
             )
             transactions_insertion = InsertData(transactions_config)
             transactions_insertion.insert_data_into_table()
