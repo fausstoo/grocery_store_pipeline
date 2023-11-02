@@ -45,16 +45,21 @@ class InsertData:
 
                 for index, row in batch.iterrows():
                     instance = self.config.model(**row.to_dict())
-                    
+                    session = self.config.session
+
                     # Check if a record with the same primary key or unique constraint already exists
                     primary_key_name = self.config.primary_key_name
-                    existing_record = self.config.session.query(self.config.model).filter_by(
+                    existing_record = session.query(self.config.model).filter_by(
                         **{primary_key_name: getattr(instance, primary_key_name)}
                     ).first()
-                    
-                    if existing_record is None:
-                        # If it doesn't exist, insert the data
-                        self.config.session.add(instance)
+
+                    if existing_record:
+                        # Update the existing record with new data
+                        for key, value in row.items():
+                            setattr(existing_record, key, value)
+                    else:
+                        # Insert the new record
+                        session.add(instance)
 
                 self.config.session.commit()
                 

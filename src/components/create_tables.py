@@ -36,7 +36,7 @@ try:
 
     class Sales(Base):
         __tablename__ = 'sales' 
-        sales_id = Column(Integer, primary_key=True, autoincrement=True)
+        sales_id = Column(Integer, primary_key=True)
         invoice_number = Column(Integer)
         date = Column(Date)
         employee = Column(String(16))
@@ -48,7 +48,7 @@ try:
 
     class ProductsRecieved(Base):
         __tablename__ = 'products_recieved' 
-        purchase_id = Column(Integer, primary_key=True, autoincrement=True)
+        purchase_id = Column(Integer, primary_key=True)
         invoice_number = Column(Integer)
         date = Column(Date)
         employee = Column(String(16))
@@ -66,11 +66,11 @@ try:
         category = Column(String(16))
         unit_cost = Column(Float)
         unit_price = Column(Float)
-        product_id = Column(Integer, primary_key=True, autoincrement=True)
+        product_id = Column(Integer, primary_key=True)
         
     class Transactions(Base):
         __tablename__ = 'transactions' 
-        transaction_id = Column(Integer, primary_key=True, autoincrement=True)
+        transaction_id = Column(Integer, primary_key=True)
         date = Column(Date)
         account = Column(String(16))
         transaction_type = Column(String(16))

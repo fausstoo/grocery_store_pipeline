@@ -159,7 +159,7 @@ if __name__ == "__main__":
     products_config = DataTransformationConfig(
         data=products_df,
         table_name="products",
-        columns_to_drop=['product_code','product_id'],
+        columns_to_drop=['product_code'],
         date_columns=[],
         int_columns=[],
         float_columns=['unit_cost', 'unit_price']
@@ -177,7 +177,7 @@ if __name__ == "__main__":
     tr_config = DataTransformationConfig(
         data=tr_df,
         table_name="transactions",
-        columns_to_drop=['transaction_id'],
+        columns_to_drop=[],
         date_columns=['date'],
         int_columns=[],
         float_columns=['total']
