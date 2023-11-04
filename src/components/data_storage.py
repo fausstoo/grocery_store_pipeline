@@ -85,7 +85,7 @@ if __name__=="__main__":
     try:
         connection = engine.connect()
         
-        print("Connected to MySQL database!")
+        logging.info("Connected to the database!")
         
 
         Session = sessionmaker(bind=engine)
@@ -166,10 +166,12 @@ if __name__=="__main__":
         except CustomException as e:
             raise CustomException(sys, e)
         
+        finally:
+            if 'connection' in locals():
+                connection.close()
+                print("Connection closed")    
+                
     except CustomException as e:
         raise CustomException(sys, e)
 
-    finally:
-        if 'connection' in locals():
-            connection.close()
-            print("Connection closed")
+    

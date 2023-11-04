@@ -5,4 +5,5 @@ seaborn
 openpyxl
 mysql
 SQLAlchemy
+schedule
 -e .
