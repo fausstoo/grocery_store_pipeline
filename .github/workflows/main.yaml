@@ -35,18 +35,25 @@ jobs:
       -
         name: Build and push
         uses: docker/build-push-action@v5
-        run: |
-        docker buildx build --push -t grocery_store_pipeline:latest .
+        with:
+          context: .
+          tags: grocery_store_pipeline:latest
       
   deploy:
     needs: build
     runs-on: ubuntu-latest
 
+    services:
+      myapp:
+        image: grocery_store_pipeline:latest
+        ports:
+          - 80:80
+
     steps:
     - name: Checkout code
       uses: actions/checkout@v2
-    
+
     - name: Run Docker container
       run: |
-        docker run grocery_store_pipeline:latest
-        
+        # Use the "myapp" service container to run your app
+        docker run myapp
