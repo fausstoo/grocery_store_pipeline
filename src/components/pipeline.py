@@ -1,7 +1,7 @@
 import os
 import sys
 
-sys.path.append('/')
+sys.path.append('/src/')
 
 import schedule
 import time

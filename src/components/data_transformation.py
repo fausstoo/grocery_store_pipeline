@@ -1,7 +1,7 @@
 import os
 import sys
 
-sys.path.append('/grocery_store_pipeline/src')
+sys.path.append('/src/components/')
 sys.path.append('/data/')
 
 import pandas as pd
@@ -9,8 +9,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-from src.logger import logging
-from src.exception import CustomException
+from logger import logging
+from exception import CustomException
 
 
 from dataclasses import dataclass
