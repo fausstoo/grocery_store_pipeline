@@ -26,9 +26,9 @@ jobs:
         DB_PORT: ${{ secrets.DB_PORT }}
         DB_DATABASE: ${{ secrets.DB_DATABASE }}
       run: |
+        docker login -u $DOCKER_USERNAME -p $DOCKER_PASSWORD
         docker buildx create --use
         docker buildx inspect --bootstrap
-        docker login -u $DOCKER_USERNAME -p $DOCKER_PASSWORD
         docker buildx build --push -t grocery_store_pipeline:latest .
     
   deploy:
