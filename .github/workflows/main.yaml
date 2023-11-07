@@ -35,10 +35,10 @@ jobs:
       -
         name: Build and push
         uses: docker/build-push-action@v5
-        with:
-          context: .
-          push: true
-          tags: ${{ secrets.DOCKER_USERNAME }}/${{ github.event.repository.name }}:latest
+        run: |
+        docker buildx create --use
+        docker buildx inspect --bootstrap
+        docker buildx build --push -t grocery_store_pipeline:latest .
       
   deploy:
     needs: build
