@@ -18,7 +18,6 @@ from logger import logging
 # Database credentials
 import db_credentials
 
-pylint: disable=wrong-import-position
 
 # Import from data_ingestion.py
 from components.data_ingestion import DataIngestionConfig, DataIngestion
@@ -32,7 +31,6 @@ from components.create_tables import Sales, ProductsRecieved, Products, Transact
 # Import from data_storage.py
 from components.data_storage import InsertDataConfig, InsertData
 
-pylint: enable=wrong-import-position
 
 #---------------------------------------------------------------------------------
 #                       DATA INGESTION CONFIGURATION                             |
