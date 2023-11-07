@@ -3,7 +3,7 @@ numpy
 matplotlib
 seaborn
 openpyxl
-mysql
+mysql-connector-python
 SQLAlchemy
 schedule
--e .
+mysqlclient

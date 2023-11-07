@@ -13,6 +13,9 @@ from sqlalchemy.orm import Session
 from src.exception import CustomException
 from src.logger import logging
 
+# Database credentials
+import db_credentials
+
 # Import from data_ingestion.py
 from src.components.data_ingestion import DataIngestionConfig, DataIngestion
 
@@ -205,11 +208,11 @@ if __name__=="__main__":
 #---------------------------------------------------------------------------------
     try:
         # Engine parameters
-        host = '127.0.0.1'
-        username = 'root'
-        password = '40179589Fa$$'
-        port = 3306
-        database = 'grocery_store'
+        host = os.environ.get('DB_HOST')
+        username = os.environ.get('DB_USERNAME')
+        password = os.environ.get('DB_PASSWORD')
+        port = os.environ.get('DB_PORT')
+        database = os.environ.get('DB_DATABASE')
 
         # Create database URL
         db_url = f'mysql://{username}:{password}@{host}:{port}/{database}'

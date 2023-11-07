@@ -10,14 +10,14 @@ from sqlalchemy.ext.declarative import declarative_base
 
 from src.exception import CustomException
 from src.logger import logging
-
+import db_credentials
 
 # Engine parameters
-host = '127.0.0.1'
-username = 'root'
-password = '40179589Fa$$'
-port = 3306
-database = 'grocery_store'
+host = db_credentials.host
+username = db_credentials.username
+password = db_credentials.password
+port = db_credentials.port
+database = db_credentials.database
 
 # Create database URL
 db_url = f'mysql://{username}:{password}@{host}:{port}/{database}'
