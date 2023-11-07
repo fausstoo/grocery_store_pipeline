@@ -1,7 +1,7 @@
 import os
 import sys
 
-sys.path.append('/src/')
+sys.path.append('/')
 
 import schedule
 import time
@@ -12,23 +12,23 @@ from sqlalchemy import create_engine, Column, Integer, String, Date, Float
 from sqlalchemy.orm import sessionmaker
 from sqlalchemy.orm import Session
 
-from src.exception import CustomException
-from src.logger import logging
+from exception import CustomException
+from logger import logging
 
 # Database credentials
 import db_credentials
 
 # Import from data_ingestion.py
-from src.components.data_ingestion import DataIngestionConfig, DataIngestion
+from components.data_ingestion import DataIngestionConfig, DataIngestion
 
 # Import from data_transformation.py
-from src.components.data_transformation import DataTransformationConfig, DataTransformation
+from components.data_transformation import DataTransformationConfig, DataTransformation
 
 # Import from create_tables.py
-from src.components.create_tables import Sales, ProductsRecieved, Products, Transactions
+from components.create_tables import Sales, ProductsRecieved, Products, Transactions
 
 # Import from data_storage.py
-from src.components.data_storage import InsertDataConfig, InsertData
+from components.data_storage import InsertDataConfig, InsertData
 
 
 #---------------------------------------------------------------------------------
