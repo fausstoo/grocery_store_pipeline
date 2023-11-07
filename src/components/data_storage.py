@@ -1,6 +1,8 @@
 import sys
 import os
 
+sys.path.append('/grocery_store_pipeline/src')
+
 import pandas as pd
 
 from sqlalchemy import create_engine, Column, Integer, String, Date, Float

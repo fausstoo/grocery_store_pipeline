@@ -1,6 +1,8 @@
 import sys
 import os
 
+sys.path.append('/grocery_store_pipeline/src')
+
 from src.exception import CustomException
 from src.logger import logging
 
