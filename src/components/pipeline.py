@@ -1,7 +1,7 @@
 import os
 import sys
 
-sys.path.append('/grocery_store_pipeline/src')
+sys.path.append('/src/')
 
 import schedule
 import time
