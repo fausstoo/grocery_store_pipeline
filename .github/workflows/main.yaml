@@ -43,7 +43,7 @@ jobs:
 
       - name: Run ETL process in Docker container
         run: |
-          docker run --rm \
+          docker run --rm 
             -e DB_HOST=${{ secrets.DB_HOST }}
             -e DB_USER=${{ secrets.DB_USER }}
             -e DB_PASSWORD=${{ secrets.DB_PASSWORD }}
