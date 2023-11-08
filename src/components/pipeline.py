@@ -215,7 +215,7 @@ if __name__=="__main__":
         host = os.environ.get('DB_HOST')
         username = os.environ.get('DB_USERNAME')
         password = os.environ.get('DB_PASSWORD')
-        port = int(os.environ.get('DB_PORT'))
+        port = int(os.environ.get('DB_PORT', 3306))
         database = os.environ.get('DB_DATABASE')
 
         # Create database URL
