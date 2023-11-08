@@ -23,9 +23,7 @@ jobs:
             echo "Database connection failed."
             exit 1
           fi
-
-        options: --health-cmd="mysqladmin ping" --health-interval=10s --health-timeout=5s --health-retries=3
-
+          
   containerize-pipeline:
     needs: check-database-connection
     runs-on: ubuntu-latest
