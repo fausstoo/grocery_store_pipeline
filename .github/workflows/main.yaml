@@ -17,13 +17,13 @@ jobs:
           DB_PORT: ${{ secrets.DB_PORT }}
           DB_DATABASE: ${{ secrets.DB_DATABASE }}
         run: |
-          if mysql -h ${{ secrets.DB_HOST }} -u ${{ secrets.DB_USERNAME }} -p"${{ secrets.DB_PASSWORD }}" -P ${{ secrets.DB_PORT }} ${{ secrets.DB_DATABASE }} -e "SELECT 1"; then
+          if mysql -h ${{ secrets.DB_HOST }} -u ${{ secrets.DB_HOST }} -p"${{ secrets.DB_PASSWORD }}" -P ${{ secrets.DB_PORT }} ${{ secrets.DB_DATABASE }} -e "SELECT 1"; then
             echo "Database connection successful."
           else
             echo "Database connection failed."
             exit 1
           fi
-          
+
   containerize-pipeline:
     needs: check-database-connection
     runs-on: ubuntu-latest
