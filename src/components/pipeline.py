@@ -16,7 +16,7 @@ from exception import CustomException
 from logger import logging
 
 # Database credentials
-import db_credentials
+# import db_credentials
 
 
 # Import from data_ingestion.py
