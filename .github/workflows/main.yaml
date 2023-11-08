@@ -6,19 +6,21 @@ on:
       - main
 
 
-db:
-  image: mysql:8
-  restart: always
+version: "3.9"
+services:
+  mysql:
+    restart: always
+    container_name: "mysql"
+    image: mysql:latest
+    ports:
+      - 3306:3306
   environment:
     DB_HOST: ${{ secrets.DB_HOST }}
     DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
     DB_DATABASE: ${{ secrets.DB_DATABASE }}
-  ports:
-    - "3306:3306"
 
-jobs:
   containerize-pipeline:
-    needs: db
+    needs: mysql
     runs-on: ubuntu-latest
     steps:
       - name: Check out code
