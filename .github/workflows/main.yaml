@@ -6,14 +6,16 @@ on:
       - main
 
 jobs:
-  db:
-  image: mysql
-  environment:
-    DB_HOST: ${{ secrets.DB_HOST }}
-    DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
-    DB_DATABASE: ${{ secrets.DB_DATABASE }}
-  ports:
-    - "3306:3306"
+  services:
+    db:
+      image: mysql
+      restart: always
+      environment:
+        DB_HOST: ${{ secrets.DB_HOST }}
+        DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
+        DB_DATABASE: ${{ secrets.DB_DATABASE }}
+      ports:
+        - "3306:3306"
 
   containerize-pipeline:
     needs: db
