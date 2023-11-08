@@ -1,8 +1,8 @@
 import os
 import sys
 
-sys.path.append('/src/components/')
-sys.path.append('/data/')
+sys.path.append('/grocery_store_pipeline/src/')
+sys.path.append('/grocery_store_pipeline/data/')
 
 import pandas as pd
 import numpy as np

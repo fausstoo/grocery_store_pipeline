@@ -1,10 +1,10 @@
 import sys
 import os
 
-sys.path.append('/grocery_store_pipeline/src')
+sys.path.append('/grocery_store_pipeline/src/')
 
-from src.exception import CustomException
-from src.logger import logging
+from exception import CustomException
+from logger import logging
 
 sys.path.append('../../data')
 

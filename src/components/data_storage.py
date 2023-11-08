@@ -1,7 +1,8 @@
 import sys
 import os
 
-sys.path.append('/grocery_store_pipeline/src')
+sys.path.append('/grocery_store_pipeline/src/')
+sys.path.append('/grocery_store_pipeline/data/')
 
 import pandas as pd
 
@@ -9,14 +10,14 @@ from sqlalchemy import create_engine, Column, Integer, String, Date, Float
 from sqlalchemy.orm import sessionmaker
 from sqlalchemy.orm import Session
 
-from src.components.create_tables import Sales
-from src.components.create_tables import ProductsRecieved
-from src.components.create_tables import Products
-from src.components.create_tables import Transactions
+from components.create_tables import Sales
+from components.create_tables import ProductsRecieved
+from components.create_tables import Products
+from components.create_tables import Transactions
 
-from src.exception import CustomException
-from src.logger import logging
-import db_credentials
+from exception import CustomException
+from logger import logging
+# import db_credentials
 
 
 from dataclasses import dataclass
@@ -72,11 +73,11 @@ class InsertData:
 if __name__=="__main__":
     
     # Engine parameters
-    host = db_credentials.host
-    username = db_credentials.username
-    password = db_credentials.password
-    port = db_credentials.port
-    database = db_credentials.database
+    host = os.environ.get('DB_HOST')
+    username = os.environ.get('DB_USERNAME')
+    password = os.environ.get('DB_PASSWORD')
+    port = os.environ.get('DB_PORT')
+    database = os.environ.get('DB_DATABASE')
 
     # Create database URL
     db_url = f'mysql://{username}:{password}@{host}:{port}/{database}'
