@@ -9,8 +9,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-from logger import logging
-from exception import CustomException
+from src.logger import logging
+from src.exception import CustomException
 
 
 from dataclasses import dataclass

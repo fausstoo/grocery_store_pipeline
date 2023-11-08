@@ -10,13 +10,13 @@ from sqlalchemy import create_engine, Column, Integer, String, Date, Float
 from sqlalchemy.orm import sessionmaker
 from sqlalchemy.orm import Session
 
-from components.create_tables import Sales
-from components.create_tables import ProductsRecieved
-from components.create_tables import Products
-from components.create_tables import Transactions
+from src.components.create_tables import Sales
+from src.components.create_tables import ProductsRecieved
+from src.components.create_tables import Products
+from src.components.create_tables import Transactions
 
-from exception import CustomException
-from logger import logging
+from src.exception import CustomException
+from src.logger import logging
 # import db_credentials
 
 

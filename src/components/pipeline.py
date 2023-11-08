@@ -13,24 +13,24 @@ from sqlalchemy import create_engine, Column, Integer, String, Date, Float
 from sqlalchemy.orm import sessionmaker
 from sqlalchemy.orm import Session
 
-from exception import CustomException
-from logger import logging
+from src.exception import CustomException
+from src.logger import logging
 
 # Database credentials
 # import db_credentials
 
 
 # Import from data_ingestion.py
-from components.data_ingestion import DataIngestionConfig, DataIngestion
+from src.components.data_ingestion import DataIngestionConfig, DataIngestion
 
 # Import from data_transformation.py
-from components.data_transformation import DataTransformationConfig, DataTransformation
+from src.components.data_transformation import DataTransformationConfig, DataTransformation
 
 # Import from create_tables.py
-from components.create_tables import Sales, ProductsRecieved, Products, Transactions
+from src.components.create_tables import Sales, ProductsRecieved, Products, Transactions
 
 # Import from data_storage.py
-from components.data_storage import InsertDataConfig, InsertData
+from src.components.data_storage import InsertDataConfig, InsertData
 
 
 #---------------------------------------------------------------------------------

@@ -3,8 +3,8 @@ import os
 
 sys.path.append('/grocery_store_pipeline/src/')
 
-from exception import CustomException
-from logger import logging
+from src.exception import CustomException
+from src.logger import logging
 
 sys.path.append('../../data')
 

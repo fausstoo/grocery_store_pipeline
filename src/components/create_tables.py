@@ -10,8 +10,8 @@ from sqlalchemy.orm import sessionmaker
 from sqlalchemy.orm import Session
 from sqlalchemy.ext.declarative import declarative_base
 
-from exception import CustomException
-from logger import logging
+from src.exception import CustomException
+from src.logger import logging
 # import db_credentials
 
 # Engine parameters

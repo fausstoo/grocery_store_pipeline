@@ -1,4 +1,4 @@
-name: CI/CD Pipeline
+name: Python Pipeline CI
 
 on:
   push:
@@ -6,35 +6,42 @@ on:
       - main
 
 jobs:
-  containerize-and-run-pipeline:
+  build:
     runs-on: ubuntu-latest
 
-    services:
-      mysql:
-        image: mysql:latest
-        ports:
-          - 3306:3306
-        env:
-          MYSQL_ROOT_PASSWORD: ${{ secrets.MYSQL_ROOT_PASSWORD }}
-          MYSQL_DATABASE: ${{ secrets.DB_DATABASE }}
     steps:
-      - name: Check out code
-        uses: actions/checkout@v2
+    - name: Checkout code
+      uses: actions/checkout@v2
 
-      - name: Set up QEMU
-        uses: docker/setup-qemu-action@v2
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.11
 
-      - name: Set up Docker Buildx
-        uses: docker/setup-buildx-action@v2
+    - name: Install MySQL client
+      run: sudo apt-get install -y default-mysql-client
 
-      - name: Login to Docker Hub
-        uses: docker/login-action@v2
-        with:
-          username: ${{ secrets.DOCKER_USERNAME }}
-          password: ${{ secrets.DOCKER_PASSWORD }}
+    - name: Install project dependencies
+      run: |
+        pip install -r requirements.txt
 
-      - name: Build and push ETL Docker image
-        uses: docker/build-push-action@v4
-        with:
-          push: true
-          tags: fausstoo/grocery_store_pipeline:latest
+
+    - name: Set up MySQL Secrets
+      env:
+        MYSQL_HOST: ${{ secrets.MYSQL_HOST }}
+        MYSQL_USER: ${{ secrets.MYSQL_USER }}
+        MYSQL_PASSWORD: ${{ secrets.MYSQL_PASSWORD }}
+        MYSQL_DATABASE: ${{ secrets.MYSQL_DATABASE }}
+
+    - name: Test MySQL Connection
+      run: |
+        mysql -h $MYSQL_HOST -u $MYSQL_USER -p$MYSQL_PASSWORD -e "SELECT 1" $MYSQL_DATABASE
+        if [ $? -ne 0 ]; then
+          echo "MySQL connection test failed."
+          exit 1
+        fi
+
+
+    - name: Run Python pipeline
+      run: |
+        python src/components/pipeline.py
