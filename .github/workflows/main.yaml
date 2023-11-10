@@ -1,4 +1,4 @@
-name: Python Pipeline CI
+name: CI/CD Pipeline
 
 on:
   push:
@@ -6,41 +6,43 @@ on:
       - main
 
 jobs:
-  build:
+  build-and-deploy:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v2
+      - name: Checkout Repository
+        uses: actions/checkout@v2
 
-    - name: Set up Python
-      uses: actions/setup-python@v2
-      with:
-        python-version: 3.11
+      - name: Build Python Pipeline Docker Image
+        run: docker build -t python_pipeline -f ./grocery_store_pipeline/pipeline_py.Dockerfile .
+      
+      - name: Build MySQL Docker Image
+        run: docker build -t mysql-db -f ./grocery_store_pipeline/mysql.Dockerfile .
+      
+      - name: Run MySQL Container
+        run: |
+          docker run -d \
+            --name mysql-db \
+            -e DB_ROOT_PASSWORD=${{ secrets.DB_ROOT_PASSWORD }} \
+            -e MYSQL_DATABASE=grocery_store \
+            -e DB_HOST=${{ secrets.DB_HOST }} \
+            -e DB_USERNAME=${{ secrets.DB_USERNAME }} \
+            -e DB_PASSWORD=${{ secrets.DB_PASSWORD }} \
+            -e DB_PORT=${{ secrets.DB_PORT }} \
+            -e DB_DATABASE=${{ secrets.DB_DATABASE }} \
+            -v ./grocery_store_pipeline/db_setup.sql:/docker-entrypoint-initdb.d \
+            mysql-db
 
-    - name: Install MySQL client
-      run: sudo apt-get install -y default-mysql-client
-
-    - name: Install project dependencies
-      run: |
-        pip install -r requirements.txt
- 
-
-    - name: Set up MySQL Secrets
-      env:
-        MYSQL_HOST: ${{ secrets.MYSQL_HOST }}
-        MYSQL_USER: ${{ secrets.MYSQL_USER }}
-        MYSQL_PASSWORD: ${{ secrets.MYSQL_PASSWORD }}
-        MYSQL_DATABASE: ${{ secrets.MYSQL_DATABASE }}
-
-    - name: Test MySQL Connection
-      run: |
-        mysql -h $MYSQL_HOST -u $MYSQL_USER -p$MYSQL_PASSWORD -e "SELECT 1" $MYSQL_DATABASE
-        if [ $? -ne 0 ]; then
-          echo "MySQL connection test failed."
-          exit 1
-        fi
-
-    - name: Run Python pipeline
-      run: |
-        python src/components/pipeline.py
+      - name: Run Python App Container
+        run: |
+          docker run -d \
+            --name python_pipeline \
+            --link mysql-db:mysql-db \
+            -e DB_ROOT_PASSWORD=${{ secrets.DB_ROOT_PASSWORD }} \
+            -e MYSQL_DATABASE=grocery_store \
+            -e DB_HOST=${{ secrets.DB_HOST }} \
+            -e DB_USERNAME=${{ secrets.DB_USERNAME }} \
+            -e DB_PASSWORD=${{ secrets.DB_PASSWORD }} \
+            -e DB_PORT=${{ secrets.DB_PORT }} \
+            -e DB_DATABASE=${{ secrets.DB_DATABASE }} \
+            python_pipeline

@@ -136,7 +136,7 @@ def run_data_pipeline():
                 logging.info("Inserting sales table into database...")
                 try:
                     sales_config = InsertDataConfig(
-                        model=Sales,
+                        #model=Sales,
                         session=Session(),
                         csv_path=sales_csv_path,
                         batch_size=1000,
@@ -153,7 +153,7 @@ def run_data_pipeline():
                 logging.info("Inserting products_recieved table into database...")
                 try:
                     pr_config = InsertDataConfig(
-                        model=ProductsRecieved,
+                        #model=ProductsRecieved,
                         session=Session(),
                         csv_path=products_recieved_csv_path,
                         batch_size=200,
@@ -170,7 +170,7 @@ def run_data_pipeline():
                 logging.info("Inserting products table into database...")
                 try:
                     products_config = InsertDataConfig(
-                        model=Products,
+                        #model=Products,
                         session=Session(),
                         csv_path=products_csv_path,
                         batch_size=100,
@@ -187,7 +187,7 @@ def run_data_pipeline():
                 logging.info("Inserting transactions table into database...")
                 try:    
                     transactions_config = InsertDataConfig(
-                        model=Transactions,
+                        #model=Transactions,
                         session=Session(),
                         csv_path=transactions_csv_path,
                         batch_size=100,
@@ -212,8 +212,8 @@ if __name__=="__main__":
 #---------------------------------------------------------------------------------
     try:
         # Engine parameters
-        host = os.environ.get('DB_HOST')
-        username = os.environ.get('DB_USERNAME')
+        host = os.environ.get('DB_HOST')  
+        username = os.environ.get('DB_ROOT_PASSWORD')
         password = os.environ.get('DB_PASSWORD')
         port = int(os.environ.get('DB_PORT', 3306))
         database = os.environ.get('DB_DATABASE')

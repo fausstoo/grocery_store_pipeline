@@ -15,11 +15,11 @@ from src.logger import logging
 # import db_credentials
 
 # Engine parameters
-host = os.environ.get('DB_HOST')
-username = os.environ.get('DB_USERNAME')
+host = os.environ.get('DB_HOST')  
+username = os.environ.get('DB_ROOT_PASSWORD')
 password = os.environ.get('DB_PASSWORD')
 port = int(os.environ.get('DB_PORT', 3306))
-database = os.environ.get('DB_DATABASE')
+database = os.environ.get('DB_DATABASE') # db_credentials.database
 
 # Create database URL
 db_url = f'mysql://{username}:{password}@{host}:{port}/{database}'
@@ -81,7 +81,7 @@ try:
         total = Column(Float)
             
     # Create the tables in the database
-    Base.metadata.create_all(engine)
+   # Base.metadata.create_all(engine)
 
     # Create a session
     Session = sessionmaker(bind=engine)
