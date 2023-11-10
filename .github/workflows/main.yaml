@@ -14,10 +14,10 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Build Python Pipeline Docker Image
-        run: docker build -t python_pipeline -f .\grocery_store_pipeline\pipeline_py.Dockerfile .
+        run: docker build -t python_pipeline -f fausstoo/grocery_store_pipeline/pipeline_py.Dockerfile .
       
       - name: Build MySQL Docker Image
-        run: docker build -t mysql-db -f .\grocery_store_pipeline\mysql.Dockerfile .
+        run: docker build -t mysql-db -f fausstoo/grocery_store_pipeline/mysql.Dockerfile .
       
       - name: Run MySQL Container
         run: |
@@ -30,7 +30,7 @@ jobs:
             -e DB_PASSWORD=${{ secrets.DB_PASSWORD }} \
             -e DB_PORT=${{ secrets.DB_PORT }} \
             -e DB_DATABASE=${{ secrets.DB_DATABASE }} \
-            -v ${{ github.workspace }}\grocery_store_pipeline\db_setup.sql:/docker-entrypoint-initdb.d \
+            -v ${{ github.workspace }}fausstoo/grocery_store_pipeline/db_setup.sql:/docker-entrypoint-initdb.d \
             mysql-db
 
       - name: Run Python App Container
