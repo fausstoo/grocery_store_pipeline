@@ -14,7 +14,7 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Build Python Pipeline Docker Image
-        run: docker build -t python-app -f ./grocery_store_pipeline/pipeline_py.Dockerfile .
+        run: docker build -t python_pipeline -f ./grocery_store_pipeline/pipeline_py.Dockerfile .
       
       - name: Build MySQL Docker Image
         run: docker build -t mysql-db -f ./grocery_store_pipeline/mysql.Dockerfile .
@@ -30,14 +30,14 @@ jobs:
             -e DB_PASSWORD=${{ secrets.DB_PASSWORD }} \
             -e DB_PORT=${{ secrets.DB_PORT }} \
             -e DB_DATABASE=${{ secrets.DB_DATABASE }} \
-            -v ./grocery_store_pipeline/db_setup.sql:/docker-entrypoint-initdb.d \
+            -v ${{ github.workspace }}/grocery_store_pipeline/db_setup.sql:/docker-entrypoint-initdb.d \
             mysql-db
 
       - name: Run Python App Container
         run: |
           docker run -d \
-            --name python-app \
-            --link mysql-db:mysql-db \
+            --name python_pipeline \
+            --network host \
             -e DB_ROOT_PASSWORD=${{ secrets.DB_ROOT_PASSWORD }} \
             -e MYSQL_DATABASE=grocery_store \
             -e DB_HOST=${{ secrets.DB_HOST }} \
@@ -45,4 +45,4 @@ jobs:
             -e DB_PASSWORD=${{ secrets.DB_PASSWORD }} \
             -e DB_PORT=${{ secrets.DB_PORT }} \
             -e DB_DATABASE=${{ secrets.DB_DATABASE }} \
-            python-app
+            python_pipeline
