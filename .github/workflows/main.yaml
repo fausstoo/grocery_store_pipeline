@@ -1,48 +1,21 @@
-name: CI/CD Pipeline
+version: '3'
 
-on:
-  push:
-    branches:
-      - main
+services:
+  python-pipeline:
+    build: ./grocery_store_pipeline/pipeline_py.Dockerfile
+    depends_on:
+      - mysql-db
+    environment:
+      - DB_ROOT_PASSWORD: ${{ secrets.DB_ROOT_PASSWORD }}
+      - MYSQL_DATABASE: grocery_store
+      - DB_HOST: mysql
+      - DB_USERNAME: ${{ secrets.DB_USERNAME }}
+      - DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
+      - DB_PORT: 3306
+      - DB_DATABASE: ${{ secrets.DB_DATABASE }}
 
-jobs:
-  build-and-deploy:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v2
-
-      - name: Build Python Pipeline Docker Image
-        run: docker build -t python_pipeline -f fausstoo/grocery_store_pipeline/pipeline_py.Dockerfile .
-      
-      - name: Build MySQL Docker Image
-        run: docker build -t mysql-db -f fausstoo/grocery_store_pipeline/mysql.Dockerfile .
-      
-      - name: Run MySQL Container
-        run: |
-          docker run -d \
-            --name mysql-db \
-            -e DB_ROOT_PASSWORD=${{ secrets.DB_ROOT_PASSWORD }} \
-            -e MYSQL_DATABASE=grocery_store \
-            -e DB_HOST=${{ secrets.DB_HOST }} \
-            -e DB_USERNAME=${{ secrets.DB_USERNAME }} \
-            -e DB_PASSWORD=${{ secrets.DB_PASSWORD }} \
-            -e DB_PORT=${{ secrets.DB_PORT }} \
-            -e DB_DATABASE=${{ secrets.DB_DATABASE }} \
-            -v ${{ github.workspace }}fausstoo/grocery_store_pipeline/db_setup.sql:/docker-entrypoint-initdb.d \
-            mysql-db
-
-      - name: Run Python App Container
-        run: |
-          docker run -d \
-            --name python_pipeline \
-            --network host \
-            -e DB_ROOT_PASSWORD=${{ secrets.DB_ROOT_PASSWORD }} \
-            -e MYSQL_DATABASE=grocery_store \
-            -e DB_HOST=${{ secrets.DB_HOST }} \
-            -e DB_USERNAME=${{ secrets.DB_USERNAME }} \
-            -e DB_PASSWORD=${{ secrets.DB_PASSWORD }} \
-            -e DB_PORT=${{ secrets.DB_PORT }} \
-            -e DB_DATABASE=${{ secrets.DB_DATABASE }} \
-            python_pipeline
+  mysql-db:
+    image: mysql:latest
+    environment:
+      MYSQL_ROOT_PASSWORD: ${{ secrets.DB_ROOT_PASSWORD }}
+      MYSQL_DATABASE: grocery_store
