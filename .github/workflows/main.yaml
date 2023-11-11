@@ -6,41 +6,27 @@ on:
       - main
 
 jobs:
-  standalone-job:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository
+      - name: Checkout repository
         uses: actions/checkout@v2
 
-  build-and-test:
-    needs: standalone-job
+      - name: Build Docker image
+        run: docker build -t grocery_store_pipeline .
+
+      - name: Test
+        run: docker run -e DB_HOST=${{ secrets.DB_HOST }} -e DB_USERNAME=${{ secrets.DB_USERNAME }} -e DB_PASSWORD=${{ secrets.DB_PASSWORD }} -e DB_PORT=3306 -e DB_DATABASE=grocery_store Dockerfile pytest
+
+  deploy:
     runs-on: ubuntu-latest
-    
-    services:
-      python-pipeline:
-        image: ./grocery_store_pipeline/ # Use the path to your Dockerfile
-        options: --name=python-pipeline
 
-      mysql:
-        image: ./grocery_store_pipeline/mysql/
-        env:
-          MYSQL_ROOT_PASSWORD: ${{ secrets.MYSQL_ROOT_PASSWORD }}
-          MYSQL_DATABASE: ${{ secrets.DB_DATABASE }}
-          DB_HOST: ${{ secrets.DB_HOST }}
-          DB_USERNAME: ${{ secrets.DB_USERNAME }}
-          DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
-          DB_PORT: ${{ secrets.DB_PORT }}
-        ports:
-          - 3306:3306  # Adjust the port mapping if needed
-        options: --name=mysql
-    
+    needs: build
+
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v2
-
-      - name: Build and Test Python App
-        run: |
-          cd ./grocery_store_pipeline/
-          docker build -t python-pipeline .
-          docker run python-pipeline
+      - name: Deploy to Docker Hub
+        run: echo ${{ secrets.DOCKER_PASSWORD }} | docker login -u ${{ secrets.DOCKER_USERNAME }} --password-stdin
+        # Add your Docker Hub repository
+      - run: docker tag grocery_store_pipeline fausstoo/grocery_store_pipeline:latest
+      - run: docker push fausstoo/grocery_store_pipeline:latest
