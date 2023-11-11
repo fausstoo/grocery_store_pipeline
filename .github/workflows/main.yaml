@@ -30,24 +30,24 @@ jobs:
   docker-pipeline-setup:
     needs: mysql
     runs-on: ubuntu-latest
-      steps:
-      - name: Check out code
-        uses: actions/checkout@v2
+    steps:
+    - name: Check out code
+      uses: actions/checkout@v2
 
-      - name: Set up QEMU
-        uses: docker/setup-qemu-action@v2
+    - name: Set up QEMU
+      uses: docker/setup-qemu-action@v2
 
-      - name: Set up Docker Buildx
-        uses: docker/setup-buildx-action@v2
+    - name: Set up Docker Buildx
+      uses: docker/setup-buildx-action@v2
 
-      - name: Login to Docker Hub
-        uses: docker/login-action@v2
-        with:
-          username: ${{ secrets.DOCKER_USERNAME }}
-          password: ${{ secrets.DOCKER_PASSWORD }}
+    - name: Login to Docker Hub
+      uses: docker/login-action@v2
+      with:
+        username: ${{ secrets.DOCKER_USERNAME }}
+        password: ${{ secrets.DOCKER_PASSWORD }}
 
-      - name: Build and push
-        uses: docker/build-push-action@v4
-        with:
-          push: true
-          tags: fausstoo/grocery_store_pipeline:latest
+    - name: Build and push
+      uses: docker/build-push-action@v4
+      with:
+        push: true
+        tags: fausstoo/grocery_store_pipeline:latest
