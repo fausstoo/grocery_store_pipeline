@@ -19,11 +19,11 @@ jobs:
     
     services:
       python-pipeline:
-        image: ./ # Use the path to your Dockerfile
+        image: ./grocery_store_pipeline/ # Use the path to your Dockerfile
         options: --name=python-pipeline
 
       mysql:
-        image: ./mysql/
+        image: ./grocery_store_pipeline/mysql/
         env:
           MYSQL_ROOT_PASSWORD: ${{ secrets.MYSQL_ROOT_PASSWORD }}
           MYSQL_DATABASE: ${{ secrets.DB_DATABASE }}
