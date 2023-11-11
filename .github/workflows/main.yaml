@@ -20,12 +20,10 @@ jobs:
     services:
       python-pipeline:
         image: ./ # Use the path to your Dockerfile
-        dockerfile_name: Dockerfile
         options: --name=python-pipeline
 
       mysql:
-        image: ./
-        dockerfile_name: Dockerfile
+        image: ./mysql/
         env:
           MYSQL_ROOT_PASSWORD: ${{ secrets.MYSQL_ROOT_PASSWORD }}
           MYSQL_DATABASE: ${{ secrets.DB_DATABASE }}
