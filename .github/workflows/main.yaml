@@ -6,7 +6,15 @@ on:
       - main
 
 jobs:
+  standalone-job:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
   build-and-test:
+    needs: standalone-job
     runs-on: ubuntu-latest
     
     services:
@@ -28,8 +36,7 @@ jobs:
         options: --name=mysql
     
     needs:
-      - python-pipeline
-      - mysql
+      - standalone-job
 
     steps:
       - name: Checkout Repository
