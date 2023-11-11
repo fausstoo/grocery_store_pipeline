@@ -12,7 +12,7 @@ jobs:
     services:
       python-app:
         build: ./python/
-        depends-on:
+        depends_on:
           - mysql
 
       mysql:
