@@ -14,10 +14,10 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Build Python Pipeline Docker Image
-        run: docker build -t ./grocery_store_pipeline/pipeline_py.Dockerfile -f python_pipeline .
+        run: docker build -t /grocery_store_pipeline/pipeline_py.Dockerfile -f python_pipeline .
       
       - name: Build MySQL Docker Image
-        run: docker build -t ./grocery_store_pipeline/mysql.Dockerfile -f mysql-db .
+        run: docker build -t /grocery_store_pipeline/mysql.Dockerfile -f mysql-db .
       
       - name: Run MySQL Container
         run: |
