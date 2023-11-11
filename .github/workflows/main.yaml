@@ -26,7 +26,7 @@ jobs:
       - name: Verify MySQL connection from container 
         run: |
           sudo systemctl start mysql
-          mysql -h${{ secrets.DB_HOST }} --p${{ secret.DB_PORT}} -u${{ secrets.DB_USER }} -p${{ secrets.DB_PASSWORD }} -e "source grocery_store_pipeline/db_setup.sql";
+          mysql -h${{ secrets.DB_HOST }} --p${{ secrets.DB_PORT}} -u${{ secrets.DB_USER }} -p${{ secrets.DB_PASSWORD }} -e "source grocery_store_pipeline/db_setup.sql";
 
   docker-pipeline-setup:
     needs: mysql
