@@ -23,7 +23,7 @@ jobs:
       - uses: actions/checkout@v3
       - name: Verify MySQL connection from container 
         run: |
-          sudo /etc/init.d/mysql start
+          sudo systemctl start mysql
           mysql -h 127.0.0.1 --port 3306 -u root -p123456Fa$$ -e "source grocery_store_pipeline/db_setup.sql";
 
   docker-pipeline-setup:
