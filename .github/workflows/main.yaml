@@ -6,43 +6,48 @@ on:
       - main
 
 jobs:
-  build-and-deploy:
+  mysql:
     runs-on: ubuntu-latest
 
+    services:
+      mysql:
+        image: mysql:latest
+        env:
+          MYSQL_ROOT_PASSWORD: ${{ secrets.MYSQL_ROOT_PASSWORD }}
+          MYSQL_DATABASE: ${{ secrets.DB_DATABASE }}
+          DB_HOST: ${{ secrets.DB_HOST }}
+          DB_USERNAME: ${{ secrets.DB_USERNAME }}
+          DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
+          DB_PORT: ${{ secrets.DB_PORT }}
+
+        options: --health-cmd="mysqladmin ping" --health-interval=10s --health-timeout=5s --health-retries=3
     steps:
-      - name: Checkout Repository
+      - name: Verify MySQL connection from container 
+        run: |
+          apt-get update
+          run: mysql -h ${{ secrets.DB_HOST }} --port 3306 -u${{ secrets.DB_USERNAME }} -p${{ secrets.DB_PASSWORD }} -e "source grocery_store_pipeline/db_setup.sql";
+
+  docker-pipeline-setup:
+    needs: mysql
+    runs-on: ubuntu-latest
+      steps:
+      - name: Check out code
         uses: actions/checkout@v2
 
-      - name: Build Python Pipeline Docker Image
-        run: docker build -t /grocery_store_pipeline/pipeline_py.Dockerfile -f python_pipeline .
-      
-      - name: Build MySQL Docker Image
-        run: docker build -t /grocery_store_pipeline/mysql.Dockerfile -f mysql-db .
-      
-      - name: Run MySQL Container
-        run: |
-          docker run -d \
-            --name mysql-db \
-            -e DB_ROOT_PASSWORD=${{ secrets.DB_ROOT_PASSWORD }} \
-            -e MYSQL_DATABASE=grocery_store \
-            -e DB_HOST=${{ secrets.DB_HOST }} \
-            -e DB_USERNAME=${{ secrets.DB_USERNAME }} \
-            -e DB_PASSWORD=${{ secrets.DB_PASSWORD }} \
-            -e DB_PORT=${{ secrets.DB_PORT }} \
-            -e DB_DATABASE=${{ secrets.DB_DATABASE }} \
-            -v ${{ github.workspace }}/grocery_store_pipeline/db_setup.sql:/docker-entrypoint-initdb.d \
-            mysql-db
+      - name: Set up QEMU
+        uses: docker/setup-qemu-action@v2
 
-      - name: Run Python App Container
-        run: |
-          docker run -d \
-            --name python_pipeline \
-            --network host \
-            -e DB_ROOT_PASSWORD=${{ secrets.DB_ROOT_PASSWORD }} \
-            -e MYSQL_DATABASE=grocery_store \
-            -e DB_HOST=${{ secrets.DB_HOST }} \
-            -e DB_USERNAME=${{ secrets.DB_USERNAME }} \
-            -e DB_PASSWORD=${{ secrets.DB_PASSWORD }} \
-            -e DB_PORT=${{ secrets.DB_PORT }} \
-            -e DB_DATABASE=${{ secrets.DB_DATABASE }} \
-            python_pipeline
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v2
+
+      - name: Login to Docker Hub
+        uses: docker/login-action@v2
+        with:
+          username: ${{ secrets.DOCKER_USERNAME }}
+          password: ${{ secrets.DOCKER_PASSWORD }}
+
+      - name: Build and push
+        uses: docker/build-push-action@v4
+        with:
+          push: true
+          tags: fausstoo/grocery_store_pipeline:latest
