@@ -32,5 +32,6 @@ jobs:
 
       - name: Build and Test Python App
         run: |
-          mysql -h${{ secrets.DB_HOST }} --port 3306 -u${{ secrets.DB_USERNAME }} -p${{ secrets.DB_PASSWORD }} -e "source grocery_store_pipeline/mysql/db_setup.sql";
-
+          cd ./grocery_store_pipeline/
+          docker build -t python-app .
+          docker run python-app
