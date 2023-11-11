@@ -27,7 +27,7 @@ jobs:
           - 3306:3306  # Adjust the port mapping if needed
         options: --name=mysql
     
-    depends-on:
+    needs:
       - python-pipeline
       - mysql
 
