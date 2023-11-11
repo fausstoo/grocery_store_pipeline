@@ -7,7 +7,7 @@ on:
 
 jobs:
   mysql:
-    runs-on: [self-hosted, ubuntu-latest]
+    runs-on: ubuntu-latest
     services:
       mysql:
         image: mysql:latest
@@ -23,7 +23,6 @@ jobs:
       - uses: actions/checkout@v3
       - name: Verify MySQL connection from container 
         run: |
-          apt-get update
           mysql -h ${{ secrets.DB_HOST }} --port 3306 -u${{ secrets.DB_USERNAME }} -p${{ secrets.DB_PASSWORD }} -e "source grocery_store_pipeline/db_setup.sql";
 
   docker-pipeline-setup:
