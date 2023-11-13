@@ -16,7 +16,7 @@ from logger import logging
 # import db_credentials
 
 # Engine parameters
-host = os.environ['DB_HOST']
+host = str(os.environ['DB_HOST'])
 username = os.environ['DB_USERNAME']
 password = os.environ['DB_PASSWORD']
 port = int(os.environ['DB_PORT'])
