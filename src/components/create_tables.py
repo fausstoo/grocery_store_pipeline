@@ -19,7 +19,7 @@ from logger import logging
 host = str(os.environ['DB_HOST'])
 username = os.environ['DB_USERNAME']
 password = os.environ['DB_PASSWORD']
-port = int(os.environ['DB_PORT'])
+port = int(os.environ['DB_PORT'], 3306)
 database = os.environ['DB_DATABASE']
 
 # Create database URL
