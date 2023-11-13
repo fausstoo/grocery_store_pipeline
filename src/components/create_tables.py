@@ -16,11 +16,11 @@ from logger import logging
 # import db_credentials
 
 # Engine parameters
-host = str(os.environ.get(['DB_HOST']))
-username = os.environ.get(['DB_USERNAME'])
-password = os.environ.get(['DB_PASSWORD'])
-port = int(os.environ.get(['DB_PORT'], 3306))
-database = os.environ.get(['DB_DATABASE'])
+host = str(os.environ.get('DB_HOST'))
+username = os.environ.get('DB_USERNAME')
+password = os.environ.get('DB_PASSWORD')
+port = int(os.environ.get('DB_PORT', 3306))
+database = os.environ.get('DB_DATABASE')
 
 # Create database URL
 db_url = f'mysql://{username}:{password}@{host}:{port}/{database}'
