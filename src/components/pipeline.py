@@ -1,8 +1,8 @@
 import os
 import sys
 
-sys.path.append('/grocery_store_pipeline/src/')
-sys.path.append('/grocery_store_pipeline/data/')
+sys.path.append('./src/')
+sys.path.append('./data/')
 
 import schedule
 import time
@@ -13,24 +13,21 @@ from sqlalchemy import create_engine, Column, Integer, String, Date, Float
 from sqlalchemy.orm import sessionmaker
 from sqlalchemy.orm import Session
 
-from src.exception import CustomException
-from src.logger import logging
+from exception import CustomException
+from logger import logging
 
 # Database credentials
 # import db_credentials
 
 
 # Import from data_ingestion.py
-from src.components.data_ingestion import DataIngestionConfig, DataIngestion
+from components.data_ingestion import DataIngestionConfig, DataIngestion
 
 # Import from data_transformation.py
-from src.components.data_transformation import DataTransformationConfig, DataTransformation
-
-# Import from create_tables.py
-from src.components.create_tables import Sales, ProductsRecieved, Products, Transactions
+from components.data_transformation import DataTransformationConfig, DataTransformation
 
 # Import from data_storage.py
-from src.components.data_storage import InsertDataConfig, InsertData
+from components.data_storage import InsertDataConfig, InsertData
 
 
 #---------------------------------------------------------------------------------
@@ -212,11 +209,11 @@ if __name__=="__main__":
 #---------------------------------------------------------------------------------
     try:
         # Engine parameters
-        host = os.environ.get('DB_HOST')  
-        username = os.environ.get('DB_ROOT_PASSWORD')
-        password = os.environ.get('DB_PASSWORD')
-        port = int(os.environ.get('DB_PORT', 3306))
-        database = os.environ.get('DB_DATABASE')
+        host = os.environ['DB_HOST']
+        username = os.environ['DB_USERNAME']
+        password = os.environ['DB_PASSWORD']
+        port = int(os.environ['DB_PORT'])
+        database = os.environ['DB_DATABASE']
 
         # Create database URL
         db_url = f'mysql://{username}:{password}@{host}:{port}/{database}'

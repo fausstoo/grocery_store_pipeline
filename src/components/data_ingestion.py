@@ -1,12 +1,13 @@
 import sys
 import os
 
-sys.path.append('/grocery_store_pipeline/src/')
+sys.path.append('./src/')
+sys.path.append('./data/')
 
-from src.exception import CustomException
-from src.logger import logging
+from exception import CustomException
+from logger import logging
 
-sys.path.append('../../data')
+
 
 import pandas as pd
 

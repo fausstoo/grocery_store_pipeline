@@ -1,7 +1,8 @@
 import sys
 import os
 
-sys.path.append('/grocery_store_pipeline/src/')
+sys.path.append('./src/')
+sys.path.append('./data/')
 
 import pandas as pd
 
@@ -10,16 +11,16 @@ from sqlalchemy.orm import sessionmaker
 from sqlalchemy.orm import Session
 from sqlalchemy.ext.declarative import declarative_base
 
-from src.exception import CustomException
-from src.logger import logging
+from exception import CustomException
+from logger import logging
 # import db_credentials
 
 # Engine parameters
-host = os.environ.get('DB_HOST')  
-username = os.environ.get('DB_ROOT_PASSWORD')
-password = os.environ.get('DB_PASSWORD')
-port = int(os.environ.get('DB_PORT', 3306))
-database = os.environ.get('DB_DATABASE') # db_credentials.database
+host = os.environ['DB_HOST']
+username = os.environ['DB_USERNAME']
+password = os.environ['DB_PASSWORD']
+port = int(os.environ['DB_PORT'])
+database = os.environ['DB_DATABASE']
 
 # Create database URL
 db_url = f'mysql://{username}:{password}@{host}:{port}/{database}'

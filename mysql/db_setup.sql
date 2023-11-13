@@ -5,10 +5,15 @@ CREATE DATABASE IF NOT EXISTS grocery_store;
 USE grocery_store;
 
 -- Set a password for the root user
-ALTER USER 'root'@'localhost' IDENTIFIED BY '${DB_ROOT_PASSWORD}';
+ALTER USER 'root'@'localhost' IDENTIFIED BY '123456Fa$$';
+
+-- Grant privileges to the root user (adjust privileges as needed)
+GRANT ALL PRIVILEGES ON grocery_store.* TO 'root'@'localhost';
+FLUSH PRIVILEGES;
+
 
 -- Create 'sales' table
-CREATE TABLE sales (
+CREATE TABLE IF NOT EXISTS sales (
     sales_id INT PRIMARY KEY,
     invoice_number INT,
     date DATE,
@@ -22,7 +27,7 @@ CREATE TABLE sales (
 );
 
 -- Create 'products_recieved' table
-CREATE TABLE products_recieved (
+CREATE TABLE IF NOT EXISTS products_recieved (
     purchase_id INT PRIMARY KEY,
     invoice_number INT,
     date DATE,
@@ -38,7 +43,7 @@ CREATE TABLE products_recieved (
 );
 
 -- Create 'products' table
-CREATE TABLE products (
+CREATE TABLE IF NOT EXISTS products (
     product VARCHAR(66),
     category VARCHAR(16),
     unit_cost FLOAT,
@@ -47,7 +52,7 @@ CREATE TABLE products (
 );
 
 -- Create 'transactions' table
-CREATE TABLE transactions (
+CREATE TABLE IF NOT EXISTS transactions (
     transaction_id INT PRIMARY KEY,
     date DATE,
     account VARCHAR(16),
@@ -56,6 +61,3 @@ CREATE TABLE transactions (
     detail VARCHAR(24),
     total FLOAT
 );
-
-
-

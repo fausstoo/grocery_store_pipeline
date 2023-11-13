@@ -1,17 +1,17 @@
 import sys
 import os
 
-sys.path.append('/grocery_store_pipeline/src/')
-sys.path.append('/grocery_store_pipeline/data/')
+sys.path.append('./src/')
+sys.path.append('./data/')
 
 import pandas as pd
 
 from sqlalchemy.orm import Session
 
-from src.components.create_tables import Sales, ProductsRecieved, Products, Transactions
+from components.create_tables import Sales, ProductsRecieved, Products, Transactions
 
-from src.exception import CustomException
-from src.logger import logging
+from exception import CustomException
+from logger import logging
 
 from dataclasses import dataclass
 
