@@ -16,14 +16,27 @@ jobs:
         options: --health-cmd="mysqladmin ping" --health-interval=10s --health-timeout=5s --health-retries=3
 
     steps:
-      - name: install mysql client
+      - name: Install MySQL client
         run: |
           sudo apt-get update
-          sudo apt-get install -y  mysql-client 
+          sudo apt-get install -y mysql-client
 
-      - name: Check MySQL Connection
+      - name: Wait for MySQL to be ready
         run: |
-        
+          timeout=300
+          while [ $timeout -gt 0 ]; do
+            if mysqladmin ping --host=my-service --silent; then
+              break
+            fi
+            sleep 1
+            ((timeout--))
+          done
+          if [ $timeout -eq 0 ]; then
+            echo "MySQL not ready within the timeout period."
+            exit 1
+          fi
+          echo "MySQL is ready!"
+
       - name: Checkout Repository
         uses: actions/checkout@v2
 
