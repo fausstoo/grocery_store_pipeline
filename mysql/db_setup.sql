@@ -5,7 +5,8 @@ CREATE DATABASE IF NOT EXISTS grocery_store;
 USE grocery_store;
 
 -- Set a password for the root user
-ALTER USER 'root'@'localhost' IDENTIFIED BY '123456Fa$$';
+SET PASSWORD FOR '***'@'localhost' = PASSWORD('${{ secrets.DB_PASSWORD }}');
+FLUSH PRIVILEGES;
 
 -- Grant privileges to the root user (adjust privileges as needed)
 GRANT ALL PRIVILEGES ON grocery_store.* TO 'root'@'localhost';
