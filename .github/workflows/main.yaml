@@ -34,6 +34,7 @@ jobs:
           DB_PORT: ${{ secrets.DB_PORT }}
           DB_DATABASE: ${{ secrets.DB_DATABASE }}
         run: |
+          sudo /etc/init.d/mysql start
           # Connect to MySQL using mysql command
           mysql -h ${{ secrets.DB_HOST }} --port ${{ secrets.DB_PORT }} -u${{ secrets.DB_USERNAME }} -p${{ secrets.DB_PASSWORD }}
 
