@@ -8,23 +8,22 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    services:
+      my-service:
+        image: mysql:latest
+        ports:
+          - 3306/tcp
+        options: --health-cmd="mysqladmin ping" --health-interval=10s --health-timeout=5s --health-retries=3
 
-    env:
-      DB_HOST: ${{ secrets.DB_HOST }}
-      DB_USERNAME: ${{ secrets.DB_USERNAME }}
-      DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
-      DB_PORT: ${{ secrets.DB_PORT }}
-      DB_DATABASE: ${{ secrets.DB_DATABASE }}
-    ports:
-      3306:3306
-    options: --health-cmd="mysqladmin ping" --health-interval=10s --health-timeout=5s --health-retries=3
-    
     steps:
       - name: install mysql client
         run: |
           sudo apt-get update
           sudo apt-get install -y  mysql-client 
 
+      - name: Check MySQL Connection
+        run: |
+        
       - name: Checkout Repository
         uses: actions/checkout@v2
 
