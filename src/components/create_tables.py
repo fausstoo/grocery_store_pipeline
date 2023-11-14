@@ -16,11 +16,11 @@ from logger import logging
 # import db_credentials
 
 # Engine parameters
-host = str(os.environ.get('DB_HOST', 'localhost'))
-username = os.environ.get('DB_USERNAME', 'default_username')
-password = os.environ.get('DB_PASSWORD', 'default_password')
-port = int(os.environ.get('DB_PORT', 3306))
-database = os.environ.get('DB_DATABASE', 'default_database')
+host = '127.0.0.1'
+username = 'root'
+password = '123456Fa$$'
+port = 3306
+database = 'grocery_store'
 
 
 # Create database URL
