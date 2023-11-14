@@ -11,7 +11,7 @@ jobs:
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Set up Python
         uses: actions/setup-python@v2
@@ -27,6 +27,7 @@ jobs:
         run: sudo apt-get install -y default-mysql-client
 
       - name: Run Data Pipeline
+      - uses: actions/checkout@v3
         env:
           DB_HOST: ${{ secrets.DB_HOST }}
           DB_USERNAME: ${{ secrets.DB_USERNAME }}
@@ -34,4 +35,5 @@ jobs:
           DB_PORT: ${{ secrets.DB_PORT }}
           DB_DATABASE: ${{ secrets.DB_DATABASE }}
         run: |
+          run: mysql -h ${{ secrets.DB_HOST }} --port 3306 -u${{ secrets.DB_USERNAME }} -p${{ secrets.DB_PASSWORD }}
           python src/components/pipeline.py
