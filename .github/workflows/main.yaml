@@ -8,9 +8,15 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     services:
-      my-service:
+      mysql:
         image: mysql:latest
+        env:
+          MYSQL_ROOT_PASSWORD: root_password
+          MYSQL_DATABASE: my_database
+          MYSQL_USER: my_user
+          MYSQL_PASSWORD: my_password
         ports:
           - 3306/tcp
         options: --health-cmd="mysqladmin ping" --health-interval=10s --health-timeout=5s --health-retries=3
@@ -25,7 +31,7 @@ jobs:
         run: |
           timeout=300
           while [ $timeout -gt 0 ]; do
-            if mysqladmin ping --host=my-service --silent; then
+            if mysqladmin ping --host=mysql --user=my_user --password=my_password --silent; then
               break
             fi
             sleep 1
