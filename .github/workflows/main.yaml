@@ -29,10 +29,10 @@ jobs:
       - name: Run Data Pipeline
         env:
           DB_HOST: 127.0.0.1
-          DB_USERNAME: ${{ secrets.DB_USERNAME }}
+          DB_USERNAME: 'localhost'
           DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
-          DB_PORT: ${{ secrets.DB_PORT }}
-          DB_DATABASE: ${{ secrets.DB_DATABASE }}
+          DB_PORT: 3306
+          DB_DATABASE: grocery_store
 
         run: |
           sudo apt-get install -y mysql-client
