@@ -6,5 +6,4 @@ openpyxl
 mysql-connector-python
 SQLAlchemy
 schedule
-pkg-config
 mysqlclient
