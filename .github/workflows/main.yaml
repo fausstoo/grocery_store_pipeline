@@ -35,6 +35,7 @@ jobs:
           DB_DATABASE: ${{ secrets.DB_DATABASE }}
 
         run: |
+          sudo apt-get install -y mysql-client
           sudo /etc/init.d/mysql start
           # Connect to MySQL using mysql command
           mysql -h $DB_HOST --port ${{ secrets.DB_PORT }} -u${{ secrets.DB_USERNAME }} -p${{ secrets.DB_PASSWORD }} -e "source mysql/db_setup.sql";
