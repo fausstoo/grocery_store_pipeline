@@ -28,12 +28,11 @@ jobs:
 
       - name: Run Data Pipeline
         env:
-          env:
-            DB_HOST: 127.0.0.1
-            DB_USERNAME: ${{ secrets.DB_USERNAME }}
-            DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
-            DB_PORT: ${{ secrets.DB_PORT }}
-            DB_DATABASE: ${{ secrets.DB_DATABASE }}
+          DB_HOST: 127.0.0.1
+          DB_USERNAME: ${{ secrets.DB_USERNAME }}
+          DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
+          DB_PORT: ${{ secrets.DB_PORT }}
+          DB_DATABASE: ${{ secrets.DB_DATABASE }}
 
         run: |
           sudo /etc/init.d/mysql start
