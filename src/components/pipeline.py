@@ -19,7 +19,6 @@ from logger import logging
 # Database credentials
 # import db_credentials
 
-
 # Import from data_ingestion.py
 from components.data_ingestion import DataIngestionConfig, DataIngestion
 
@@ -116,6 +115,9 @@ cleaned_tables = {
 #                         DATA STORAGE CONFIGURATION                             |
 #---------------------------------------------------------------------------------
 def run_data_pipeline():
+    
+    
+    
     for table_name, table_data in cleaned_tables.items():
         # Paths to cleaned CSV files
         sales_csv_path = './data/CSV_cleaned_tables/sales.csv'
@@ -227,7 +229,7 @@ if __name__=="__main__":
         
         logging.info("Connected to the database!")
 
-       
+        # Run data pipeline
         run_data_pipeline()
         connection.close()
         logging.info("Connection closed")

@@ -83,7 +83,7 @@ try:
         total = Column(Float)
             
     # Create the tables in the database
-   # Base.metadata.create_all(engine)
+    Base.metadata.create_all(engine)
 
     # Create a session
     Session = sessionmaker(bind=engine)

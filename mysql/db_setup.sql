@@ -1,17 +1,15 @@
+SELECT user FROM mysql.user WHERE user='grocerystore';
+
+grant usage on *.* to 'grocerystore'@'localhost';
+
 -- Create database
 CREATE DATABASE IF NOT EXISTS grocery_store;
 
+grant all privileges on grocery_store.* to 'grocerystore'@'localhost';
+
+
 -- Use the database
 USE grocery_store;
-
--- Set a password for the root user
-SET PASSWORD FOR '***'@'localhost' = PASSWORD('${{ secrets.DB_PASSWORD }}');
-FLUSH PRIVILEGES;
-
--- Grant privileges to the root user (adjust privileges as needed)
-GRANT ALL PRIVILEGES ON grocery_store.* TO 'root'@'localhost';
-FLUSH PRIVILEGES;
-
 
 -- Create 'sales' table
 CREATE TABLE IF NOT EXISTS sales (
