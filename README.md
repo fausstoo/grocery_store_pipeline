@@ -11,33 +11,33 @@ This pipeline streamlines the management of grocery store data, offering a syste
  
 
 **Project Structure**
-fausstoo/grocery_store_pipeline
-│
-├── /data
-│   ├── /CSV_tables
-│   ├── /CSV_cleaned_tables
-│   └── /grocery_data.xlsm
-│
-├── /MySQL
-│   ├── /db_credentials.py
-|   ├── /db_setup.py
-|   └── /Dockerfile
-│
-├── /src
-│   ├── /components
-│   │   ├── /__init__.py
-│   │   ├── /create_tables.py
-│   │   ├── /data_ingestion.py
-│   │   ├── /data_transformation.py
-│   │   ├── /data_storage.py
-│   │   └── /pipeline.py
-│   ├── /__init__.py
-│   ├── /exception.py
-│   └── /login.py
-│
-├── setup.py
-├── requirements.txt
-└── README.md
+fausstoo/grocery_store_pipeline \
+│ \
+├── /data \
+│   ├── /CSV_tables \
+│   ├── /CSV_cleaned_tables \
+│   └── /grocery_data.xlsm \
+│ \
+├── /MySQL \
+│   ├── /db_credentials.py \
+|   ├── /db_setup.py \
+|   └── /Dockerfile \
+│ \
+├── /src \
+│   ├── /components \
+│   │   ├── /__init__.py \
+│   │   ├── /create_tables.py \
+│   │   ├── /data_ingestion.py \
+│   │   ├── /data_transformation.py \
+│   │   ├── /data_storage.py \
+│   │   └── /pipeline.py \
+│   ├── /__init__.py \
+│   ├── /exception.py \
+│   └── /login.py \
+│ \
+├── setup.py \
+├── requirements.txt \
+└── README.md \
 
 **Pipeline Overview**
 The pipeline involves three main stages and a script for each one: *extraction* (data_ingestion.py), *transofrmation* (data_transformation.py), and *storage* (data_storage.py). Each stage is orchestrated by the file *pipeline.py*.
@@ -53,8 +53,8 @@ To execute the data pipeline, users can run the pipeline.py script, which orches
 The modular structure of the project allows users to adapt and extend functionality according to specific requirements. Table structures, transformation logic, and database configurations can be modified to accommodate diverse datasets and use cases.
 
 *Academic and Professional Application:*
-This project serves as a valuable academic resource for students and researchers studying data engineering, data science, and database management. Its design principles adhere to best practices in data pipeline development, offering a practical example for educational purposes.
-In a professional context, this project is applicable to scenarios where structured data from Excel workbooks needs to be systematically processed and stored in a relational database. Industries such as retail, finance, and logistics could benefit from the project's capabilities in managing and analyzing large volumes of transactional data.
+This project serves as a valuable academic resource for students and researchers studying data engineering, data science, and database management. Its design principles adhere to best practices in data pipeline development, offering a practical example for educational purposes. \
+In a professional context, this project is applicable to scenarios where structured data from Excel workbooks needs to be systematically processed and stored in a relational database. Industries such as retail, finance, and logistics could benefit from the project's capabilities in managing and analyzing large volumes of transactional data. \
 The provided usage overview positions the project as a versatile and adaptable tool for managing and analyzing structured data in academic and professional settings.
 
 
@@ -82,19 +82,19 @@ The logger.py script sets up logging functionality for the project using the Pyt
 
 
 **Dependencies**
-pandas
-numpy
-matplotlib
-seaborn
-openpyxl
-mysql-connector-python
-SQLAlchemy
-schedule
-mysqlclient
+pandas \
+numpy \
+matplotlib \
+seaborn \
+openpyxl \
+mysql-connector-python \
+SQLAlchemy \
+schedule \
+mysqlclient \
 
 
 **Issues/Limitations** 
-While the current version of the pipeline provides a robust and efficient solution for automating the data workflow in a grocery store, it's essential to acknowledge certain limitations:
+While the current version of the pipeline provides a robust and efficient solution for automating the data workflow in a grocery store, it's essential to acknowledge certain limitations: 
 1. Containerization and CI/CD:
 The pipeline is not currently containerized. Future iterations of this project aim to implement containerization, making it more portable and scalable. Additionally, plans include the integration of Continuous Integration (CI) and Continuous Deployment (CD) practices using GitHub Actions. These enhancements will contribute to streamlined development, testing, and deployment processes.
 
