@@ -38,9 +38,10 @@ class DataIngestion:
             raise CustomException(e, sys)
         
     def select_tables(self, excel_data):
+        selected_tables = {}
         try:
             logging.info("Selecting tables...")
-            selected_tables = {}
+            
             for table_name in self.config.tables:
                 if table_name in excel_data:
                     # Assuming 'table_name' is the sheet name
@@ -76,7 +77,7 @@ class DataIngestion:
     
 
 if __name__ == "__main__":
-    config = DataIngestionConfig(excel_file_path="./data/Los_Puche_4.xlsm", tables=[
+    config = DataIngestionConfig(excel_file_path="./data/grocery_store_CRM.xlsm", tables=[
         "sales", "products_recieved", "transactions", "products"
     ])
     data_ingestion = DataIngestion(config)
@@ -88,7 +89,5 @@ if __name__ == "__main__":
         print(f"Table Name: {table_name}")
         print(table_data.head())
         
-    
-    # ----- USE CODE BELOW TO CHECK TABLES INGESTED -----
     # Export selected tables as CSVs
     data_ingestion.export_tables_as_csv(selected_tables)

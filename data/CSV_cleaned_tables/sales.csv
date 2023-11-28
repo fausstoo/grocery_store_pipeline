@@ -54,6 +54,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 53,49.0,2022-12-04,Marisa y Kuky,Efectivo, ,1,380.0,594
 54,49.0,2022-12-04,Marisa y Kuky,Efectivo, ,2,300.0,462
 55,50.0,2022-12-04,Marisa y Kuky,Efectivo, ,1,230.0,88
+56,51.0,2022-12-04,Marisa y Kuky,Efectivo, ,2,180.0,1039
 57,52.0,2022-12-04,Marisa y Kuky,Efectivo, ,1,100.0,505
 58,53.0,2022-12-04,Marisa y Kuky,Efectivo, ,2,40.0,293
 59,53.0,2022-12-04,Marisa y Kuky,Efectivo, ,300,330.0,85
@@ -129,11 +130,11 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 129,112.0,2022-12-05,Marisa y Kuky,Efectivo, ,1,490.0,209
 130,112.0,2022-12-05,Marisa y Kuky,Efectivo, ,2,340.0,30
 131,112.0,2022-12-05,Marisa y Kuky,Efectivo, ,1,350.0,1053
-132,113.0,2022-12-05,Marisa y Kuky,Efectivo, ,1,400.0,112
+132,113.0,2022-12-05,Marisa y Kuky,Efectivo, ,1,400.0,394
 133,114.0,2022-12-05,Marisa y Kuky,Efectivo, ,1,50.0,322
 134,115.0,2022-12-05,Marisa y Kuky,Efectivo, ,1,100.0,656
-135,116.0,2022-12-05,Marisa y Kuky,Efectivo, ,1,1000.0,1205
-136,117.0,2022-12-05,Marisa y Kuky,Efectivo, ,1,100.0,1198
+135,116.0,2022-12-05,Marisa y Kuky,Efectivo, ,1,1000.0,394
+136,117.0,2022-12-05,Marisa y Kuky,Efectivo, ,1,100.0,394
 137,118.0,2022-12-05,Marisa y Kuky,Efectivo, ,3,60.0,388
 138,119.0,2022-12-05,Marisa y Kuky,Efectivo, ,1,30.0,389
 139,119.0,2022-12-05,Marisa y Kuky,Efectivo, ,1,20.0,393
@@ -151,7 +152,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 151,125.0,2022-12-05,Marisa y Kuky,Efectivo, ,1,270.0,208
 152,126.0,2022-12-05,Marisa y Kuky,Efectivo, ,1,100.0,16
 153,127.0,2022-12-05,Marisa y Kuky,Efectivo, ,1,170.0,30
-154,128.0,2022-12-05,Marisa y Kuky,Efectivo, ,1,100.0,1197
+154,128.0,2022-12-05,Marisa y Kuky,Efectivo, ,1,100.0,394
 155,128.0,2022-12-05,Marisa y Kuky,Efectivo, ,1,20.0,388
 156,129.0,2022-12-05,Marisa y Kuky,Efectivo, ,1,3500.0,102
 157,129.0,2022-12-05,Marisa y Kuky,Efectivo, ,1,100.0,824
@@ -177,7 +178,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 177,143.0,2022-12-06,Marisa y Kuky,Efectivo,Log In,200,200.0,85
 178,144.0,2022-12-06,Marisa y Kuky,Efectivo, ,1,100.0,16
 179,145.0,2022-12-06,Marisa y Kuky,Efectivo, ,1,60.0,191
-180,145.0,2022-12-06,Marisa y Kuky,Efectivo, ,2,200.0,1197
+180,145.0,2022-12-06,Marisa y Kuky,Efectivo, ,2,200.0,394
 181,145.0,2022-12-06,Marisa y Kuky,Efectivo, ,2,40.0,388
 182,146.0,2022-12-06,Marisa y Kuky,Efectivo, ,1,100.0,509
 183,147.0,2022-12-06,Marisa y Kuky,Efectivo,Log In,300,330.0,85
@@ -447,7 +448,9 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 450,340.0,2022-12-10,Marisa y Kuky,Efectivo, ,1,300.0,510
 451,341.0,2022-12-10,Marisa y Kuky,Efectivo, ,1,240.0,114
 452,342.0,2022-12-10,Marisa y Kuky,Efectivo, ,1,50.0,1125
+453,343.0,2022-12-10,Marisa y Kuky,Efectivo, ,1,100.0,1039
 454,344.0,2022-12-10,Marisa y Kuky,Efectivo, ,1,300.0,42
+455,345.0,2022-12-10,Marisa y Kuky,Efectivo, ,1,100.0,1039
 456,345.0,2022-12-10,Marisa y Kuky,Efectivo, ,1,380.0,1050
 457,345.0,2022-12-10,Marisa y Kuky,Efectivo, ,3,720.0,109
 458,346.0,2022-12-10,Marisa y Kuky,Efectivo, ,1,200.0,217
@@ -538,7 +541,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 543,407.0,2022-12-11,Marisa y Kuky,Efectivo, ,1,30.0,393
 544,407.0,2022-12-11,Marisa y Kuky,Efectivo, ,2,100.0,389
 545,407.0,2022-12-11,Marisa y Kuky,Efectivo, ,1,30.0,388
-546,407.0,2022-12-11,Marisa y Kuky,Efectivo, ,2,200.0,1197
+546,407.0,2022-12-11,Marisa y Kuky,Efectivo, ,2,200.0,394
 547,407.0,2022-12-11,Marisa y Kuky,Efectivo, ,4,80.0,392
 548,408.0,2022-12-11,Marisa y Kuky,Efectivo, ,1,300.0,590
 549,408.0,2022-12-11,Marisa y Kuky,Efectivo, ,1,100.0,6
@@ -614,7 +617,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 619,451.0,2022-12-12,Marisa y Kuky,Efectivo, ,2,10.0,526
 620,452.0,2022-12-12,Marisa y Kuky,Efectivo, ,3,90.0,388
 621,453.0,2022-12-12,Marisa y Kuky,Efectivo,Log In,270,300.0,85
-622,454.0,2022-12-12,Marisa y Kuky,Efectivo, ,1,400.0,1199
+622,454.0,2022-12-12,Marisa y Kuky,Efectivo, ,1,400.0,394
 623,454.0,2022-12-12,Marisa y Kuky,Efectivo, ,2,60.0,388
 624,454.0,2022-12-12,Marisa y Kuky,Efectivo, ,1,5.0,526
 625,455.0,2022-12-12,Marisa y Kuky,Efectivo,Log In,500,550.0,85
@@ -629,7 +632,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 634,460.0,2022-12-12,Marisa y Kuky,Efectivo,Mi Recarga,500,550.0,85
 635,461.0,2022-12-12,Marisa y Kuky,Efectivo, ,1,500.0,213
 636,462.0,2022-12-12,Marisa y Kuky,Efectivo,Log In,450,500.0,85
-637,462.0,2022-12-12,Marisa y Kuky,Efectivo, ,1,400.0,1199
+637,462.0,2022-12-12,Marisa y Kuky,Efectivo, ,1,400.0,394
 638,463.0,2022-12-12,Marisa y Kuky,Efectivo, ,4,120.0,393
 639,463.0,2022-12-12,Marisa y Kuky,Efectivo, ,16,480.0,390
 640,464.0,2022-12-12,Marisa y Kuky,Efectivo,Mi Recarga,600,660.0,85
@@ -667,8 +670,8 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 672,491.0,2022-12-12,Marisa y Kuky,Efectivo, ,1,220.0,490
 673,491.0,2022-12-12,Marisa y Kuky,Efectivo, ,1,30.0,390
 674,492.0,2022-12-12,Marisa y Kuky,Efectivo, ,1,300.0,578
-675,493.0,2022-12-12,Marisa y Kuky,Efectivo, ,1,400.0,1199
-676,493.0,2022-12-12,Marisa y Kuky,Efectivo, ,1,100.0,1197
+675,493.0,2022-12-12,Marisa y Kuky,Efectivo, ,1,400.0,394
+676,493.0,2022-12-12,Marisa y Kuky,Efectivo, ,1,100.0,394
 677,494.0,2022-12-12,Marisa y Kuky,Efectivo, ,1,320.0,512
 678,495.0,2022-12-12,Marisa y Kuky,Efectivo, ,1,240.0,109
 679,496.0,2022-12-12,Marisa y Kuky,Mercado Libre, ,1,300.0,208
@@ -721,7 +724,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 726,524.0,2022-12-14,Marisa y Kuky,Efectivo, ,5,100.0,392
 727,525.0,2022-12-14,Marisa y Kuky,Efectivo,Log In,200,220.0,85
 728,525.0,2022-12-14,Marisa y Kuky,Efectivo,Log In,1,10.0,231
-729,526.0,2022-12-14,Marisa y Kuky,Efectivo, ,1,1000.0,1205
+729,526.0,2022-12-14,Marisa y Kuky,Efectivo, ,1,1000.0,394
 730,527.0,2022-12-14,Fausto,Efectivo, ,1,560.0,1047
 731,528.0,2022-12-14,Fausto,Efectivo,Log In,500,550.0,85
 732,529.0,2022-12-14,Fausto,Efectivo, ,4,120.0,388
@@ -775,7 +778,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 780,560.0,2022-12-14,Marisa y Kuky,Efectivo, ,1,220.0,490
 781,561.0,2022-12-15,Marisa y Kuky,Efectivo, ,2,60.0,388
 782,562.0,2022-12-15,Marisa y Kuky,Efectivo,Log In,450,500.0,85
-783,563.0,2022-12-15,Marisa y Kuky,Efectivo, ,1,400.0,1199
+783,563.0,2022-12-15,Marisa y Kuky,Efectivo, ,1,400.0,394
 784,564.0,2022-12-15,Marisa y Kuky,Efectivo, ,1,50.0,389
 785,564.0,2022-12-15,Marisa y Kuky,Efectivo, ,1,30.0,393
 786,564.0,2022-12-15,Marisa y Kuky,Efectivo, ,2,60.0,390
@@ -783,7 +786,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 788,566.0,2022-12-15,Marisa y Kuky,Efectivo, ,2,60.0,388
 789,566.0,2022-12-15,Marisa y Kuky,Efectivo, ,1,50.0,389
 790,566.0,2022-12-15,Marisa y Kuky,Efectivo, ,1,30.0,393
-791,566.0,2022-12-15,Marisa y Kuky,Efectivo, ,1,100.0,1197
+791,566.0,2022-12-15,Marisa y Kuky,Efectivo, ,1,100.0,394
 792,566.0,2022-12-15,Marisa y Kuky,Efectivo, ,1,50.0,688
 793,567.0,2022-12-15,Marisa y Kuky,Efectivo, ,1,80.0,562
 794,567.0,2022-12-15,Marisa y Kuky,Efectivo, ,1,30.0,388
@@ -809,7 +812,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 814,577.0,2022-12-15,Marisa y Kuky,Efectivo, ,4,40.0,231
 815,577.0,2022-12-15,Marisa y Kuky,Efectivo, ,1,350.0,46
 816,578.0,2022-12-15,Marisa y Kuky,Efectivo, ,1,50.0,688
-817,578.0,2022-12-15,Marisa y Kuky,Efectivo, ,1,400.0,1199
+817,578.0,2022-12-15,Marisa y Kuky,Efectivo, ,1,400.0,394
 818,578.0,2022-12-15,Marisa y Kuky,Efectivo, ,1,20.0,392
 819,578.0,2022-12-15,Marisa y Kuky,Efectivo, ,1,30.0,393
 820,579.0,2022-12-15,Marisa y Kuky,Efectivo,Mi Recarga,1000,1100.0,85
@@ -850,7 +853,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 855,601.0,2022-12-15,Marisa y Kuky,Efectivo, ,1,200.0,951
 856,602.0,2022-12-15,Marisa y Kuky,Efectivo, ,2,20.0,231
 857,603.0,2022-12-15,Marisa y Kuky,Efectivo, ,6,180.0,388
-858,604.0,2022-12-15,Marisa y Kuky,Efectivo, ,1,1000.0,1205
+858,604.0,2022-12-15,Marisa y Kuky,Efectivo, ,1,1000.0,394
 859,605.0,2022-12-15,Marisa y Kuky,Efectivo, ,1,350.0,42
 860,605.0,2022-12-15,Marisa y Kuky,Efectivo, ,1,80.0,180
 861,606.0,2022-12-15,Marisa y Kuky,Efectivo, ,1,420.0,488
@@ -862,7 +865,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 867,609.0,2022-12-15,Marisa y Kuky,Efectivo, ,1,50.0,389
 868,609.0,2022-12-15,Marisa y Kuky,Efectivo, ,1,30.0,390
 869,610.0,2022-12-15,Marisa y Kuky,Efectivo,Mi Recarga,300,330.0,85
-870,611.0,2022-12-15,Marisa y Kuky,Efectivo, ,1,400.0,1199
+870,611.0,2022-12-15,Marisa y Kuky,Efectivo, ,1,400.0,394
 871,612.0,2022-12-15,Marisa y Kuky,Efectivo, ,1,100.0,848
 872,613.0,2022-12-15,Fausto,Efectivo, ,1,500.0,134
 873,614.0,2022-12-15,Fausto,Efectivo, ,1,100.0,1112
@@ -879,7 +882,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 884,621.0,2022-12-16,Marisa y Kuky,Efectivo, ,1,170.0,24
 885,621.0,2022-12-16,Marisa y Kuky,Efectivo, ,1,180.0,1030
 886,622.0,2022-12-16,Marisa y Kuky,Efectivo, ,1,150.0,225
-887,623.0,2022-12-16,Marisa y Kuky,Efectivo, ,3,300.0,1197
+887,623.0,2022-12-16,Marisa y Kuky,Efectivo, ,3,300.0,394
 888,623.0,2022-12-16,Marisa y Kuky,Efectivo, ,4,120.0,388
 889,623.0,2022-12-16,Marisa y Kuky,Efectivo, ,3,90.0,393
 890,623.0,2022-12-16,Marisa y Kuky,Efectivo, ,3,150.0,389
@@ -889,7 +892,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 894,626.0,2022-12-16,Marisa y Kuky,Efectivo,Log In,600,660.0,85
 895,627.0,2022-12-16,Marisa y Kuky,Efectivo, ,2,200.0,10
 896,628.0,2022-12-16,Marisa y Kuky,Efectivo, ,2,60.0,388
-897,628.0,2022-12-16,Marisa y Kuky,Efectivo, ,1,100.0,1197
+897,628.0,2022-12-16,Marisa y Kuky,Efectivo, ,1,100.0,394
 898,628.0,2022-12-16,Marisa y Kuky,Efectivo, ,1,30.0,556
 899,629.0,2022-12-16,Marisa y Kuky,Efectivo, ,3,90.0,776
 900,630.0,2022-12-16,Marisa y Kuky,Efectivo,Log In,300,330.0,85
@@ -897,7 +900,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 902,631.0,2022-12-16,Marisa y Kuky,Efectivo, ,1,300.0,218
 903,631.0,2022-12-16,Marisa y Kuky,Efectivo, ,1,100.0,565
 904,632.0,2022-12-16,Marisa y Kuky,Efectivo,Log In,450,500.0,85
-905,633.0,2022-12-16,Marisa y Kuky,Efectivo, ,1,1000.0,1194
+905,633.0,2022-12-16,Marisa y Kuky,Efectivo, ,1,1000.0,394
 906,634.0,2022-12-16,Marisa y Kuky,Efectivo, ,3,150.0,389
 907,634.0,2022-12-16,Marisa y Kuky,Efectivo, ,1,30.0,393
 908,634.0,2022-12-16,Marisa y Kuky,Efectivo, ,1,100.0,756
@@ -922,6 +925,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 927,649.0,2022-12-16,Marisa y Kuky,Efectivo, ,1,30.0,687
 928,649.0,2022-12-16,Marisa y Kuky,Efectivo, ,7,140.0,392
 929,649.0,2022-12-16,Marisa y Kuky,Efectivo, ,20,100.0,526
+930,650.0,2022-12-16,Marisa y Kuky,Efectivo, ,1,300.0,9
 931,651.0,2022-12-16,Marisa y Kuky,Efectivo,Log In,100,110.0,85
 932,651.0,2022-12-16,Marisa y Kuky,Efectivo,Log In,400,440.0,85
 933,651.0,2022-12-16,Marisa y Kuky,Efectivo,Log In,270,300.0,85
@@ -1008,7 +1012,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 1014,704.0,2022-12-17,Fausto,Efectivo, ,1,240.0,114
 1015,705.0,2022-12-17,Fausto,Efectivo, ,1,100.0,505
 1016,705.0,2022-12-17,Fausto,Efectivo, ,2,60.0,388
-1017,705.0,2022-12-17,Fausto,Efectivo, ,1,100.0,1197
+1017,705.0,2022-12-17,Fausto,Efectivo, ,1,100.0,394
 1018,706.0,2022-12-17,Fausto,Efectivo, ,1,300.0,218
 1019,707.0,2022-12-17,Fausto,Efectivo, ,2,60.0,388
 1020,708.0,2022-12-17,Marisa y Kuky,Efectivo, ,1,450.0,220
@@ -1173,14 +1177,14 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 1180,810.0,2022-12-19,Marisa y Kuky,Efectivo, ,1,30.0,687
 1181,810.0,2022-12-19,Marisa y Kuky,Efectivo, ,2,60.0,390
 1182,811.0,2022-12-19,Marisa y Kuky,Efectivo,Log In,600,660.0,85
-1183,812.0,2022-12-19,Marisa y Kuky,Efectivo, ,1,400.0,1199
+1183,812.0,2022-12-19,Marisa y Kuky,Efectivo, ,1,400.0,394
 1184,812.0,2022-12-19,Marisa y Kuky,Efectivo, ,3,90.0,388
 1185,812.0,2022-12-19,Marisa y Kuky,Efectivo, ,1,30.0,393
 1186,812.0,2022-12-19,Marisa y Kuky,Efectivo, ,1,30.0,556
 1187,813.0,2022-12-19,Marisa y Kuky,Efectivo, ,3,90.0,393
 1188,813.0,2022-12-19,Marisa y Kuky,Efectivo, ,2,40.0,535
 1189,814.0,2022-12-19,Marisa y Kuky,Efectivo, ,270,300.0,85
-1190,815.0,2022-12-19,Marisa y Kuky,Efectivo, ,1,400.0,1199
+1190,815.0,2022-12-19,Marisa y Kuky,Efectivo, ,1,400.0,394
 1191,816.0,2022-12-19,Marisa y Kuky,Efectivo, ,1,350.0,251
 1192,817.0,2022-12-19,Marisa y Kuky,Efectivo, ,1,150.0,404
 1193,818.0,2022-12-19,Marisa y Kuky,Efectivo, ,1,100.0,549
@@ -1245,7 +1249,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 1252,864.0,2022-12-20,Marisa y Kuky,Efectivo, ,8,160.0,392
 1253,864.0,2022-12-20,Marisa y Kuky,Efectivo, ,7,210.0,393
 1254,864.0,2022-12-20,Marisa y Kuky,Efectivo, ,3,150.0,389
-1255,865.0,2022-12-20,Marisa y Kuky,Efectivo, ,1,100.0,1197
+1255,865.0,2022-12-20,Marisa y Kuky,Efectivo, ,1,100.0,394
 1256,865.0,2022-12-20,Marisa y Kuky,Efectivo, ,1,30.0,388
 1257,865.0,2022-12-20,Marisa y Kuky,Efectivo, ,2,40.0,392
 1258,865.0,2022-12-20,Marisa y Kuky,Efectivo, ,1,30.0,393
@@ -1255,7 +1259,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 1262,867.0,2022-12-20,Marisa y Kuky,Efectivo, ,1,50.0,287
 1263,867.0,2022-12-20,Marisa y Kuky,Efectivo, ,1,150.0,5
 1264,868.0,2022-12-20,Marisa y Kuky,Efectivo, ,1,320.0,510
-1265,869.0,2022-12-20,Marisa y Kuky,Efectivo, ,1,1000.0,1205
+1265,869.0,2022-12-20,Marisa y Kuky,Efectivo, ,1,1000.0,394
 1266,870.0,2022-12-20,Marisa y Kuky,Debito, ,1,300.0,590
 1267,870.0,2022-12-20,Marisa y Kuky,Debito, ,1,100.0,540
 1268,871.0,2022-12-20,Marisa y Kuky,Efectivo, ,1,200.0,217
@@ -1277,8 +1281,8 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 1284,886.0,2022-12-20,Fausto,Efectivo, ,1,200.0,217
 1285,887.0,2022-12-20,Fausto,Efectivo, ,2,480.0,114
 1286,888.0,2022-12-20,Fausto,Efectivo, ,1,500.0,209
-1287,889.0,2022-12-20,Fausto,Efectivo, ,1,400.0,1199
-1288,889.0,2022-12-20,Fausto,Efectivo, ,1,1100.0,1196
+1287,889.0,2022-12-20,Fausto,Efectivo, ,1,400.0,394
+1288,889.0,2022-12-20,Fausto,Efectivo, ,1,1100.0,394
 1289,890.0,2022-12-20,Fausto,Efectivo, ,1,330.0,504
 1290,891.0,2022-12-20,Fausto,Efectivo, ,4,120.0,388
 1291,891.0,2022-12-20,Fausto,Efectivo, ,2,100.0,389
@@ -1302,7 +1306,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 1309,902.0,2022-12-20,Marisa y Kuky,Efectivo, ,1,100.0,522
 1310,902.0,2022-12-20,Marisa y Kuky,Efectivo, ,1,200.0,217
 1311,902.0,2022-12-20,Marisa y Kuky,Efectivo,Log In,200,220.0,85
-1312,902.0,2022-12-20,Marisa y Kuky,Efectivo, ,1,300.0,1199
+1312,902.0,2022-12-20,Marisa y Kuky,Efectivo, ,1,300.0,394
 1313,903.0,2022-12-20,Marisa y Kuky,Efectivo, ,1,420.0,499
 1314,904.0,2022-12-20,Marisa y Kuky,Efectivo, ,200,220.0,85
 1315,905.0,2022-12-20,Marisa y Kuky,Efectivo, ,1,30.0,388
@@ -1335,7 +1339,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 1342,922.0,2022-12-21,Marisa y Kuky,Efectivo, ,1,420.0,514
 1343,923.0,2022-12-21,Marisa y Kuky,Efectivo,Log In,450,500.0,85
 1344,924.0,2022-12-21,Marisa y Kuky,Efectivo, ,1,50.0,1125
-1345,925.0,2022-12-21,Marisa y Kuky,Efectivo, ,2,800.0,1199
+1345,925.0,2022-12-21,Marisa y Kuky,Efectivo, ,2,800.0,394
 1346,925.0,2022-12-21,Marisa y Kuky,Efectivo, ,1,100.0,566
 1347,925.0,2022-12-21,Marisa y Kuky,Efectivo,Log In,400,440.0,85
 1348,925.0,2022-12-21,Marisa y Kuky,Efectivo,Log In,200,220.0,85
@@ -1350,8 +1354,8 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 1357,930.0,2022-12-21,Marisa y Kuky,Efectivo, ,4,120.0,317
 1358,930.0,2022-12-21,Marisa y Kuky,Efectivo, ,1,220.0,262
 1359,931.0,2022-12-21,Marisa y Kuky,Efectivo, ,200,220.0,85
-1360,932.0,2022-12-21,Marisa y Kuky,Efectivo, ,1,500.0,1199
-1361,932.0,2022-12-21,Marisa y Kuky,Efectivo, ,1,1000.0,1196
+1360,932.0,2022-12-21,Marisa y Kuky,Efectivo, ,1,500.0,394
+1361,932.0,2022-12-21,Marisa y Kuky,Efectivo, ,1,1000.0,394
 1362,933.0,2022-12-21,Marisa y Kuky,Efectivo, ,1,30.0,388
 1363,933.0,2022-12-21,Marisa y Kuky,Efectivo, ,1,30.0,393
 1364,933.0,2022-12-21,Marisa y Kuky,Efectivo, ,2,40.0,392
@@ -1381,7 +1385,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 1388,950.0,2022-12-21,Marisa y Kuky,Efectivo, ,1,500.0,216
 1389,951.0,2022-12-21,Marisa y Kuky,Efectivo, ,1,450.0,220
 1390,952.0,2022-12-21,Marisa y Kuky,Efectivo, ,1,200.0,222
-1391,952.0,2022-12-21,Marisa y Kuky,Efectivo, ,1,400.0,1199
+1391,952.0,2022-12-21,Marisa y Kuky,Efectivo, ,1,400.0,394
 1392,952.0,2022-12-21,Marisa y Kuky,Efectivo, ,1,30.0,388
 1393,952.0,2022-12-21,Marisa y Kuky,Efectivo, ,1,30.0,687
 1394,953.0,2022-12-21,Marisa y Kuky,Efectivo, ,1,150.0,663
@@ -1430,7 +1434,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 1438,980.0,2022-12-22,Marisa y Kuky,Efectivo, ,1,150.0,403
 1439,981.0,2022-12-22,Marisa y Kuky,Efectivo,Log In,300,330.0,85
 1440,982.0,2022-12-22,Marisa y Kuky,Efectivo,Mi Recarga,300,330.0,85
-1441,983.0,2022-12-22,Marisa y Kuky,Efectivo, ,2,200.0,1197
+1441,983.0,2022-12-22,Marisa y Kuky,Efectivo, ,2,200.0,394
 1442,983.0,2022-12-22,Marisa y Kuky,Efectivo, ,1,200.0,217
 1443,984.0,2022-12-22,Marisa y Kuky,Efectivo, ,1,300.0,590
 1444,985.0,2022-12-22,Marisa y Kuky,Efectivo, ,1,320.0,260
@@ -1484,7 +1488,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 1492,1023.0,2022-12-22,Fausto,Efectivo, ,1,420.0,488
 1493,1024.0,2022-12-22,Fausto,Efectivo, ,2,640.0,108
 1494,1025.0,2022-12-22,Fausto,Efectivo, ,1,300.0,590
-1495,1025.0,2022-12-22,Fausto,Efectivo, ,1,1000.0,1194
+1495,1025.0,2022-12-22,Fausto,Efectivo, ,1,1000.0,394
 1496,1026.0,2022-12-22,Fausto,Efectivo, ,1,330.0,492
 1497,1027.0,2022-12-22,Fausto,Efectivo, ,1,100.0,10
 1498,1028.0,2022-12-22,Fausto,Efectivo, ,1,500.0,219
@@ -1784,7 +1788,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 1793,1225.0,2022-12-26,Marisa y Kuky,Efectivo, ,1,20.0,392
 1794,1225.0,2022-12-26,Marisa y Kuky,Efectivo, ,1,30.0,393
 1795,1225.0,2022-12-26,Marisa y Kuky,Efectivo, ,2,60.0,390
-1796,1226.0,2022-12-26,Marisa y Kuky,Efectivo, ,1,400.0,1199
+1796,1226.0,2022-12-26,Marisa y Kuky,Efectivo, ,1,400.0,394
 1797,1227.0,2022-12-26,Marisa y Kuky,Efectivo, ,2,40.0,781
 1798,1228.0,2022-12-26,Marisa y Kuky,Efectivo, ,1,450.0,220
 1799,1229.0,2022-12-26,Marisa y Kuky,Efectivo, ,2,60.0,388
@@ -1958,7 +1962,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 1967,1347.0,2022-12-29,Marisa y Kuky,Efectivo, ,1,20.0,392
 1968,1348.0,2022-12-29,Marisa y Kuky,Efectivo, ,1,150.0,201
 1969,1348.0,2022-12-29,Marisa y Kuky,Efectivo, ,1,30.0,390
-1970,1348.0,2022-12-29,Marisa y Kuky,Efectivo, ,1,100.0,1201
+1970,1348.0,2022-12-29,Marisa y Kuky,Efectivo, ,1,100.0,394
 1971,1348.0,2022-12-29,Marisa y Kuky,Efectivo, ,1,20.0,392
 1972,1349.0,2022-12-29,Marisa y Kuky,Efectivo, ,2,1100.0,214
 1973,1350.0,2022-12-29,Marisa y Kuky,Efectivo, ,1,220.0,217
@@ -2048,6 +2052,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 2057,1399.0,2022-12-30,Marisa y Kuky,Efectivo, ,1,350.0,212
 2058,1399.0,2022-12-30,Marisa y Kuky,Efectivo, ,1,100.0,565
 2059,1400.0,2022-12-30,Marisa y Kuky,Efectivo, ,1,150.0,291
+2060,1401.0,2022-12-30,Marisa y Kuky,Efectivo, ,1,300.0,580
 2061,1402.0,2022-12-30,Marisa y Kuky,Efectivo, ,1,220.0,516
 2062,1402.0,2022-12-30,Marisa y Kuky,Efectivo, ,1,100.0,458
 2063,1403.0,2022-12-30,Marisa y Kuky,Efectivo, ,1,500.0,219
@@ -2362,12 +2367,12 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 2378,1615.0,2023-01-02,Marisa y Kuky,Efectivo,Log In,300,330.0,85
 2379,1616.0,2023-01-02,Marisa y Kuky,Efectivo, ,1,100.0,1112
 2380,1616.0,2023-01-02,Marisa y Kuky,Efectivo, ,1,220.0,217
-2381,1617.0,2023-01-02,Marisa y Kuky,Efectivo, ,1,400.0,1199
+2381,1617.0,2023-01-02,Marisa y Kuky,Efectivo, ,1,400.0,394
 2382,1618.0,2023-01-02,Marisa y Kuky,Efectivo, ,1,10.0,231
 2383,1619.0,2023-01-02,Marisa y Kuky,Efectivo, ,2,60.0,388
 2384,1619.0,2023-01-02,Marisa y Kuky,Efectivo, ,1,150.0,5
-2385,1620.0,2023-01-02,Marisa y Kuky,Efectivo, ,2,800.0,1199
-2386,1621.0,2023-01-02,Marisa y Kuky,Efectivo, ,1,400.0,1199
+2385,1620.0,2023-01-02,Marisa y Kuky,Efectivo, ,2,800.0,394
+2386,1621.0,2023-01-02,Marisa y Kuky,Efectivo, ,1,400.0,394
 2387,1622.0,2023-01-02,Marisa y Kuky,Efectivo, ,1,450.0,220
 2388,1624.0,2023-01-02,Marisa y Kuky,Efectivo, ,1,300.0,206
 2389,1625.0,2023-01-02,Marisa y Kuky,Efectivo, ,1,250.0,638
@@ -2380,6 +2385,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 2396,1631.0,2023-01-02,Marisa y Kuky,Efectivo, ,1,330.0,508
 2397,1632.0,2023-01-02,Marisa y Kuky,Efectivo, ,1,100.0,875
 2398,1633.0,2023-01-03,Marisa y Kuky,Efectivo, ,1,680.0,97
+2399,1634.0,2023-01-03,Marisa y Kuky,Efectivo, ,1,250.0,1120
 2400,1635.0,2023-01-03,Marisa y Kuky,Efectivo, ,2,200.0,387
 2401,1635.0,2023-01-03,Marisa y Kuky,Efectivo, ,2,300.0,290
 2402,1635.0,2023-01-03,Marisa y Kuky,Efectivo,Mi Recarga,200,220.0,85
@@ -2404,6 +2410,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 2421,1647.0,2023-01-03,Fausto,Efectivo, ,1,350.0,492
 2422,1648.0,2023-01-03,Fausto,Efectivo,Mi Recarga,300,330.0,85
 2423,1649.0,2023-01-03,Fausto,Efectivo, ,1,350.0,46
+2424,1649.0,2023-01-03,Fausto,Efectivo, ,2,100.0,394
 2425,1649.0,2023-01-03,Fausto,Efectivo, ,1,30.0,388
 2426,1650.0,2023-01-03,Fausto,Efectivo, ,2,40.0,906
 2427,1650.0,2023-01-03,Fausto,Efectivo, ,2,40.0,907
@@ -2464,6 +2471,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 2482,1682.0,2023-01-04,Fausto,Efectivo, ,300,330.0,85
 2483,1683.0,2023-01-04,Fausto,Efectivo, ,1,330.0,504
 2484,1683.0,2023-01-04,Fausto,Efectivo, ,1,300.0,1060
+2485,1683.0,2023-01-04,Fausto,Efectivo, ,1,100.0,1124
 2486,1684.0,2023-01-04,Fausto,Efectivo, ,1,100.0,1112
 2487,1685.0,2023-01-04,Fausto,Efectivo, ,1,150.0,201
 2488,1686.0,2023-01-04,Fausto,Efectivo,Log In,110,120.0,85
@@ -2498,10 +2506,10 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 2517,1705.0,2023-01-05,Fausto,Efectivo, ,1,100.0,10
 2518,1705.0,2023-01-05,Fausto,Efectivo,Log In,300,330.0,85
 2519,1706.0,2023-01-05,Fausto,Efectivo, ,1,30.0,388
-2520,1706.0,2023-01-05,Fausto,Efectivo, ,1,400.0,1199
+2520,1706.0,2023-01-05,Fausto,Efectivo, ,1,400.0,394
 2521,1706.0,2023-01-05,Fausto,Efectivo, ,1,20.0,392
-2522,1706.0,2023-01-05,Fausto,Efectivo, ,1,100.0,1197
-2523,1706.0,2023-01-05,Fausto,Efectivo, ,1,100.0,1201
+2522,1706.0,2023-01-05,Fausto,Efectivo, ,1,100.0,394
+2523,1706.0,2023-01-05,Fausto,Efectivo, ,1,100.0,394
 2524,1707.0,2023-01-05,Fausto,Efectivo, ,1,300.0,221
 2525,1708.0,2023-01-05,Fausto,Efectivo, ,1,30.0,388
 2526,1708.0,2023-01-05,Fausto,Efectivo, ,3,60.0,392
@@ -2564,7 +2572,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 2583,1750.0,2023-01-06,Marisa y Kuky,Efectivo, ,400,440.0,85
 2584,1751.0,2023-01-06,Marisa y Kuky,Efectivo, ,3,60.0,392
 2585,1752.0,2023-01-06,Marisa y Kuky,Efectivo, ,1,30.0,388
-2587,1752.0,2023-01-06,Marisa y Kuky,Efectivo, ,1,100.0,1197
+2587,1752.0,2023-01-06,Marisa y Kuky,Efectivo, ,1,100.0,394
 2589,1754.0,2023-01-06,Marisa y Kuky,Efectivo, ,1,430.0,122
 2590,1755.0,2023-01-06,Marisa y Kuky,Efectivo, ,1,200.0,30
 2591,1756.0,2023-01-06,Marisa y Kuky,Efectivo, ,1,0.0,650
@@ -2777,7 +2785,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 2801,1906.0,2023-01-09,Fausto,Efectivo, ,1,30.0,388
 2802,1907.0,2023-01-09,Fausto,Efectivo, ,2,60.0,388
 2803,1908.0,2023-01-09,Fausto,Efectivo,Log In,400,440.0,85
-2804,1908.0,2023-01-09,Fausto,Efectivo, ,1,100.0,1197
+2804,1908.0,2023-01-09,Fausto,Efectivo, ,1,100.0,394
 2805,1909.0,2023-01-09,Fausto,Efectivo,Log In,900,990.0,85
 2806,1910.0,2023-01-09,Fausto,Efectivo, ,1,30.0,687
 2807,1910.0,2023-01-09,Fausto,Efectivo, ,2,60.0,388
@@ -2825,7 +2833,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 2849,1937.0,2023-01-09,Fausto,Efectivo,Claro,1,450.0,488
 2850,1937.0,2023-01-09,Fausto,Efectivo,Claro,1,200.0,30
 2851,1938.0,2023-01-10,Fausto,Efectivo, ,2,60.0,388
-2852,1938.0,2023-01-10,Fausto,Efectivo, ,1,100.0,1197
+2852,1938.0,2023-01-10,Fausto,Efectivo, ,1,100.0,394
 2853,1938.0,2023-01-10,Fausto,Efectivo, ,11,330.0,390
 2854,1938.0,2023-01-10,Fausto,Efectivo, ,1,200.0,942
 2855,1939.0,2023-01-10,Fausto,Efectivo, ,1,670.0,1025
@@ -2893,6 +2901,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 2917,1982.0,2023-01-10,Fausto,Efectivo,Log In,800,880.0,85
 2918,1983.0,2023-01-10,Fausto,Efectivo, ,1,580.0,214
 2919,1984.0,2023-01-10,Fausto,Kuky y Marisa, ,1,0.0,903
+2920,1985.0,2023-01-10,Fausto,Efectivo, ,1,180.0,400
 2921,1985.0,2023-01-10,Fausto,Efectivo, ,18,60.0,526
 2922,1986.0,2023-01-10,Fausto,Efectivo,Log In,100,110.0,85
 2923,1987.0,2023-01-10,Fausto,Efectivo, ,1,100.0,387
@@ -2958,9 +2967,11 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 2983,2032.0,2023-01-11,Marisa y Kuky,Efectivo, ,1,30.0,556
 2984,2033.0,2023-01-11,Marisa y Kuky,Efectivo, ,1,30.0,388
 2985,2033.0,2023-01-11,Marisa y Kuky,Efectivo, ,2,60.0,390
+2986,2034.0,2023-01-12,Marisa y Kuky,Efectivo, ,1,400.0,580
 2987,2034.0,2023-01-12,Marisa y Kuky,Efectivo, ,1,500.0,220
 2988,2035.0,2023-01-12,Marisa y Kuky,Efectivo, ,1,30.0,229
 2989,2035.0,2023-01-12,Marisa y Kuky,Efectivo, ,2,20.0,525
+2990,2035.0,2023-01-12,Marisa y Kuky,Efectivo, ,1,400.0,580
 2991,2036.0,2023-01-12,Marisa y Kuky,Efectivo, ,1,180.0,403
 2992,2036.0,2023-01-12,Marisa y Kuky,Efectivo, ,1,350.0,215
 2993,2037.0,2023-01-12,Marisa y Kuky,Efectivo, ,2,60.0,388
@@ -3013,8 +3024,8 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 3042,2072.0,2023-01-12,Marisa y Kuky,Efectivo, ,10,100.0,231
 3043,2073.0,2023-01-12,Marisa y Kuky,Efectivo, ,1,550.0,1191
 3044,2073.0,2023-01-12,Marisa y Kuky,Efectivo, ,1,230.0,1084
-3045,2074.0,2023-01-13,Marisa y Kuky,Efectivo, ,1,400.0,1199
-3046,2074.0,2023-01-13,Marisa y Kuky,Efectivo, ,1,1000.0,1195
+3045,2074.0,2023-01-13,Marisa y Kuky,Efectivo, ,1,400.0,394
+3046,2074.0,2023-01-13,Marisa y Kuky,Efectivo, ,1,1000.0,394
 3047,2074.0,2023-01-13,Marisa y Kuky,Efectivo,Log In,300,330.0,85
 3048,2075.0,2023-01-13,Marisa y Kuky,Efectivo, ,2,1200.0,211
 3049,2075.0,2023-01-13,Marisa y Kuky,Efectivo, ,1,100.0,1112
@@ -3133,6 +3144,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 3162,2146.0,2023-01-15,Marisa y Kuky,Efectivo, ,270,300.0,85
 3163,2147.0,2023-01-15,Marisa y Kuky,Efectivo,Log In,1000,1100.0,85
 3164,2148.0,2023-01-15,Marisa y Kuky,Efectivo, ,1,150.0,5
+3165,2148.0,2023-01-15,Marisa y Kuky,Efectivo, ,1,180.0,400
 3166,2148.0,2023-01-15,Marisa y Kuky,Efectivo,Log In,300,330.0,85
 3167,2149.0,2023-01-15,Marisa y Kuky,Efectivo, ,1,100.0,657
 3168,2149.0,2023-01-15,Marisa y Kuky,Efectivo,Log In,360,400.0,85
@@ -3303,9 +3315,9 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 3333,2257.0,2023-01-17,Marisa y Kuky,Efectivo, ,1,100.0,552
 3334,2257.0,2023-01-17,Marisa y Kuky,Efectivo, ,2,80.0,324
 3335,2258.0,2023-01-17,Fausto,Efectivo, ,1,30.0,687
-3336,2258.0,2023-01-17,Fausto,Efectivo, ,1,400.0,1199
-3337,2258.0,2023-01-17,Fausto,Efectivo, ,1,400.0,1199
-3338,2258.0,2023-01-17,Fausto,Efectivo, ,1,100.0,1197
+3336,2258.0,2023-01-17,Fausto,Efectivo, ,1,400.0,394
+3337,2258.0,2023-01-17,Fausto,Efectivo, ,1,400.0,394
+3338,2258.0,2023-01-17,Fausto,Efectivo, ,1,100.0,394
 3339,2258.0,2023-01-17,Fausto,Efectivo, ,1,30.0,388
 3340,2258.0,2023-01-17,Fausto,Efectivo, ,1,30.0,390
 3341,2258.0,2023-01-17,Fausto,Efectivo, ,1,20.0,392
@@ -3461,6 +3473,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 3491,2366.0,2023-01-19,Fausto,Efectivo, ,1,100.0,1076
 3492,2367.0,2023-01-19,Fausto,Efectivo, ,1,350.0,215
 3493,2368.0,2023-01-19,Marisa y Kuky,Efectivo,Log In,500,550.0,85
+3494,2369.0,2023-01-19,Marisa y Kuky,Efectivo, ,1,180.0,400
 3495,2369.0,2023-01-19,Marisa y Kuky,Efectivo, ,1,570.0,213
 3496,2369.0,2023-01-19,Marisa y Kuky,Efectivo, ,2,60.0,388
 3497,2370.0,2023-01-19,Marisa y Kuky,Efectivo, ,500,550.0,85
@@ -3515,7 +3528,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 3548,2407.0,2023-01-20,Fausto,Efectivo, ,2,100.0,378
 3549,2408.0,2023-01-20,Marisa y Kuky,Efectivo, ,1,100.0,507
 3550,2409.0,2023-01-20,Marisa y Kuky,Efectivo,Log In,450,500.0,85
-3551,2409.0,2023-01-20,Marisa y Kuky,Efectivo, ,1,400.0,1199
+3551,2409.0,2023-01-20,Marisa y Kuky,Efectivo, ,1,400.0,394
 3552,2410.0,2023-01-20,Marisa y Kuky,Efectivo,Log In,300,330.0,85
 3553,2410.0,2023-01-20,Marisa y Kuky,Efectivo,Log In,200,220.0,85
 3554,2411.0,2023-01-20,Marisa y Kuky,Efectivo, ,1,330.0,512
@@ -3585,8 +3598,8 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 3618,2460.0,2023-01-21,Marisa y Kuky,Efectivo, ,1,230.0,225
 3619,2461.0,2023-01-21,Marisa y Kuky,Efectivo, ,1,220.0,157
 3620,2461.0,2023-01-21,Marisa y Kuky,Efectivo, ,3,9.0,526
-3621,2462.0,2023-01-21,Marisa y Kuky,Efectivo, ,1,100.0,1197
-3622,2462.0,2023-01-21,Marisa y Kuky,Efectivo, ,1,400.0,1199
+3621,2462.0,2023-01-21,Marisa y Kuky,Efectivo, ,1,100.0,394
+3622,2462.0,2023-01-21,Marisa y Kuky,Efectivo, ,1,400.0,394
 3623,2463.0,2023-01-21,Marisa y Kuky,Efectivo, ,5,50.0,231
 3624,2464.0,2023-01-21,Marisa y Kuky,Efectivo, ,4,120.0,390
 3625,2465.0,2023-01-21,Marisa y Kuky,Efectivo, ,1,1400.0,60
@@ -3705,7 +3718,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 3739,2550.0,2023-01-23,Marisa y Kuky,Efectivo, ,1,180.0,629
 3740,2551.0,2023-01-23,Marisa y Kuky,Efectivo, ,1,0.0,157
 3741,2552.0,2023-01-23,Marisa y Kuky,Efectivo, ,1,250.0,635
-3742,2553.0,2023-01-23,Marisa y Kuky,Efectivo, ,1,500.0,1199
+3742,2553.0,2023-01-23,Marisa y Kuky,Efectivo, ,1,500.0,394
 3743,2554.0,2023-01-23,Marisa y Kuky,Efectivo, ,1,100.0,551
 3744,2555.0,2023-01-23,Marisa y Kuky,Efectivo, ,1,500.0,251
 3745,2556.0,2023-01-23,Marisa y Kuky,Efectivo, ,1,600.0,211
@@ -3818,7 +3831,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 3852,2625.0,2023-01-24,Fausto,Kuky y Marisa, ,1,0.0,755
 3853,2626.0,2023-01-24,Fausto,Efectivo, ,1,700.0,1162
 3854,2627.0,2023-01-24,Fausto,Efectivo, ,5,150.0,388
-3855,2627.0,2023-01-24,Fausto,Efectivo, ,1,500.0,1199
+3855,2627.0,2023-01-24,Fausto,Efectivo, ,1,500.0,394
 3856,2628.0,2023-01-24,Fausto,Efectivo, ,1,570.0,213
 3857,2628.0,2023-01-24,Fausto,Efectivo, ,1,270.0,114
 3858,2629.0,2023-01-24,Fausto,Efectivo, ,1,270.0,114
@@ -3909,8 +3922,8 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 3943,2692.0,2023-01-25,Marisa y Kuky,Efectivo, ,1,450.0,368
 3944,2692.0,2023-01-25,Marisa y Kuky,Efectivo,Log In,200,220.0,85
 3945,2693.0,2023-01-25,Marisa y Kuky,Efectivo, ,1,0.0,242
-3946,2694.0,2023-01-25,Marisa y Kuky,Efectivo, ,1,100.0,1197
-3947,2694.0,2023-01-25,Marisa y Kuky,Efectivo, ,1,100.0,1201
+3946,2694.0,2023-01-25,Marisa y Kuky,Efectivo, ,1,100.0,394
+3947,2694.0,2023-01-25,Marisa y Kuky,Efectivo, ,1,100.0,394
 3948,2694.0,2023-01-25,Marisa y Kuky,Efectivo, ,2,60.0,388
 3949,2694.0,2023-01-25,Marisa y Kuky,Efectivo, ,6,120.0,392
 3950,2695.0,2023-01-25,Marisa y Kuky,Efectivo, ,1,0.0,869
@@ -3929,15 +3942,15 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 3964,2704.0,2023-01-25,Marisa y Kuky,Efectivo, ,1,350.0,1186
 3965,2704.0,2023-01-25,Marisa y Kuky,Efectivo, ,1,330.0,510
 3966,2704.0,2023-01-25,Marisa y Kuky,Efectivo, ,2,10.0,1089
-3967,2705.0,2023-01-25,Marisa y Kuky,Efectivo, ,1,720.0,1198
+3967,2705.0,2023-01-25,Marisa y Kuky,Efectivo, ,1,720.0,394
 3968,2705.0,2023-01-25,Marisa y Kuky,Efectivo, ,1,30.0,687
 3969,2705.0,2023-01-25,Marisa y Kuky,Efectivo, ,1,20.0,392
 3970,2705.0,2023-01-25,Marisa y Kuky,Efectivo, ,1,30.0,390
 3971,2706.0,2023-01-25,Marisa y Kuky,Efectivo, ,1,200.0,412
 3972,2707.0,2023-01-25,Marisa y Kuky,Efectivo, ,1,580.0,213
-3973,2708.0,2023-01-25,Marisa y Kuky,Efectivo, ,2,1000.0,1199
-3974,2709.0,2023-01-25,Marisa y Kuky,Efectivo, ,2,2000.0,1205
-3975,2710.0,2023-01-25,Marisa y Kuky,Efectivo, ,1,1000.0,1194
+3973,2708.0,2023-01-25,Marisa y Kuky,Efectivo, ,2,1000.0,394
+3974,2709.0,2023-01-25,Marisa y Kuky,Efectivo, ,2,2000.0,394
+3975,2710.0,2023-01-25,Marisa y Kuky,Efectivo, ,1,1000.0,394
 3976,2708.0,2023-01-26,Marisa y Kuky,Efectivo,Log In,500,550.0,85
 3977,2708.0,2023-01-26,Marisa y Kuky,Efectivo,Log In,500,550.0,85
 3978,2711.0,2023-01-26,Marisa y Kuky,Efectivo, ,1,30.0,390
@@ -4043,13 +4056,13 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 4080,2781.0,2023-01-27,Fausto,Efectivo,Log In,450,500.0,85
 4081,2782.0,2023-01-27,Fausto,Efectivo,Log In,300,330.0,85
 4082,2783.0,2023-01-27,Fausto,Efectivo, ,9,270.0,390
-4083,2784.0,2023-01-27,Fausto,Efectivo, ,1,500.0,1199
+4083,2784.0,2023-01-27,Fausto,Efectivo, ,1,500.0,394
 4084,2785.0,2023-01-27,Fausto,Efectivo, ,1,240.0,129
 4085,2786.0,2023-01-27,Fausto,Efectivo, ,1,350.0,39
 4086,2786.0,2023-01-27,Fausto,Efectivo, ,1,20.0,535
 4087,2787.0,2023-01-27,Fausto,Efectivo, ,2,460.0,217
-4088,2788.0,2023-01-27,Fausto,Efectivo, ,2,1000.0,1199
-4089,2788.0,2023-01-27,Fausto,Efectivo, ,2,200.0,1197
+4088,2788.0,2023-01-27,Fausto,Efectivo, ,2,1000.0,394
+4089,2788.0,2023-01-27,Fausto,Efectivo, ,2,200.0,394
 4090,2789.0,2023-01-27,Fausto,Efectivo, ,1,100.0,387
 4091,2790.0,2023-01-27,Fausto,Efectivo, ,2,200.0,1125
 4092,2791.0,2023-01-27,Fausto,Efectivo, ,1,450.0,130
@@ -4244,10 +4257,10 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 4281,2931.0,2023-01-30,Marisa y Kuky,Efectivo, ,1,100.0,1125
 4282,2932.0,2023-01-30,Marisa y Kuky,Efectivo, ,1,550.0,209
 4283,2933.0,2023-01-30,Marisa y Kuky,Efectivo, ,1,200.0,27
-4284,2934.0,2023-01-30,Fausto,Efectivo, ,1,1000.0,1205
+4284,2934.0,2023-01-30,Fausto,Efectivo, ,1,1000.0,394
 4285,2935.0,2023-01-30,Fausto,Efectivo, ,2,60.0,388
-4286,2936.0,2023-01-30,Fausto,Efectivo, ,2,1000.0,1199
-4287,2936.0,2023-01-30,Fausto,Efectivo, ,1,1000.0,1205
+4286,2936.0,2023-01-30,Fausto,Efectivo, ,2,1000.0,394
+4287,2936.0,2023-01-30,Fausto,Efectivo, ,1,1000.0,394
 4288,2938.0,2023-01-30,Fausto,Efectivo, ,1,30.0,388
 4289,2938.0,2023-01-30,Fausto,Efectivo, ,6,18.0,526
 4290,2939.0,2023-01-30,Fausto,Efectivo, ,1,350.0,206
@@ -4315,8 +4328,8 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 4352,2987.0,2023-01-31,Fausto,Efectivo, ,2,60.0,390
 4353,2987.0,2023-01-31,Fausto,Efectivo,Log In,200,220.0,85
 4354,2988.0,2023-01-31,Fausto,Efectivo,Log In,450,500.0,85
-4355,2989.0,2023-01-31,Fausto,Efectivo, ,1,100.0,1201
-4356,2989.0,2023-01-31,Fausto,Efectivo, ,1,100.0,1197
+4355,2989.0,2023-01-31,Fausto,Efectivo, ,1,100.0,394
+4356,2989.0,2023-01-31,Fausto,Efectivo, ,1,100.0,394
 4357,2989.0,2023-01-31,Fausto,Efectivo, ,2,60.0,388
 4358,2989.0,2023-01-31,Fausto,Efectivo, ,2,40.0,392
 4359,2990.0,2023-01-31,Fausto,Efectivo, ,1,150.0,5
@@ -4325,7 +4338,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 4362,2993.0,2023-01-31,Fausto,Efectivo,Log In,280,310.0,85
 4363,2994.0,2023-01-31,Fausto,Efectivo, ,1,330.0,510
 4364,2995.0,2023-01-31,Fausto,Efectivo, ,1,30.0,388
-4365,2995.0,2023-01-31,Fausto,Efectivo, ,1,100.0,1197
+4365,2995.0,2023-01-31,Fausto,Efectivo, ,1,100.0,394
 4366,2996.0,2023-01-31,Fausto,Efectivo, ,5,50.0,525
 4367,2996.0,2023-01-31,Fausto,Efectivo, ,1,30.0,390
 4368,2996.0,2023-01-31,Fausto,Efectivo, ,1,20.0,392
@@ -4335,7 +4348,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 4372,3000.0,2023-01-31,Fausto,Efectivo, ,1,230.0,217
 4373,3001.0,2023-01-31,Fausto,Efectivo, ,1,1200.0,80
 4374,3002.0,2023-01-31,Fausto,Efectivo,Log In,200,220.0,85
-4375,3002.0,2023-01-31,Fausto,Efectivo, ,1,500.0,1199
+4375,3002.0,2023-01-31,Fausto,Efectivo, ,1,500.0,394
 4376,3003.0,2023-01-31,Fausto,Efectivo, ,1,350.0,46
 4377,3003.0,2023-01-31,Fausto,Efectivo, ,1,200.0,412
 4378,3004.0,2023-01-31,Fausto,Efectivo, ,1,100.0,1125
@@ -4378,7 +4391,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 4415,3028.0,2023-02-01,Fausto,Efectivo, ,2,500.0,739
 4416,3029.0,2023-02-01,Fausto,Efectivo,Log In,500,550.0,85
 4417,3029.0,2023-02-01,Fausto,Efectivo, ,1,30.0,388
-4418,3029.0,2023-02-01,Fausto,Efectivo, ,1,100.0,1197
+4418,3029.0,2023-02-01,Fausto,Efectivo, ,1,100.0,394
 4419,3030.0,2023-02-01,Fausto,Efectivo, ,1,200.0,653
 4420,3031.0,2023-02-01,Fausto,Efectivo, ,1,350.0,215
 4421,3032.0,2023-02-01,Fausto,Efectivo,Log In,750,825.0,85
@@ -4387,7 +4400,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 4424,3033.0,2023-02-01,Fausto,Efectivo,Log In,300,330.0,85
 4425,3034.0,2023-02-01,Fausto,Efectivo, ,1,30.0,388
 4427,3034.0,2023-02-01,Fausto,Efectivo, ,1,30.0,390
-4428,3035.0,2023-02-01,Fausto,Efectivo, ,1,500.0,1199
+4428,3035.0,2023-02-01,Fausto,Efectivo, ,1,500.0,394
 4429,3035.0,2023-02-01,Fausto,Efectivo, ,1,30.0,388
 4430,3035.0,2023-02-01,Fausto,Efectivo, ,3,90.0,390
 4431,3035.0,2023-02-01,Fausto,Efectivo, ,4,80.0,392
@@ -4414,7 +4427,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 4452,3051.0,2023-02-01,Fausto,Efectivo, ,1,330.0,504
 4453,3052.0,2023-02-01,Fausto,Efectivo, ,1,300.0,124
 4454,3053.0,2023-02-01,Fausto,Efectivo, ,5,150.0,388
-4455,3053.0,2023-02-01,Fausto,Efectivo, ,1,100.0,1197
+4455,3053.0,2023-02-01,Fausto,Efectivo, ,1,100.0,394
 4456,3053.0,2023-02-01,Fausto,Efectivo, ,6,300.0,389
 4457,3054.0,2023-02-01,Fausto,Efectivo, ,1,200.0,24
 4458,3055.0,2023-02-01,Fausto,Efectivo, ,1,150.0,5
@@ -4487,8 +4500,8 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 4529,3103.0,2023-02-02,Fausto,Efectivo, ,1,30.0,388
 4530,3104.0,2023-02-02,Fausto,Efectivo, ,1,60.0,613
 4531,3104.0,2023-02-02,Fausto,Efectivo, ,1,60.0,602
-4532,3105.0,2023-02-02,Fausto,Efectivo, ,1,500.0,1199
-4533,3105.0,2023-02-02,Fausto,Efectivo, ,1,100.0,1197
+4532,3105.0,2023-02-02,Fausto,Efectivo, ,1,500.0,394
+4533,3105.0,2023-02-02,Fausto,Efectivo, ,1,100.0,394
 4534,3106.0,2023-02-02,Fausto,Efectivo, ,1,580.0,213
 4535,3107.0,2023-02-02,Fausto,Efectivo, ,1,380.0,212
 4536,3108.0,2023-02-02,Fausto,Efectivo, ,1,330.0,510
@@ -4507,15 +4520,15 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 4549,3115.0,2023-02-02,Fausto,Efectivo, ,1,100.0,1113
 4550,3116.0,2023-02-02,Fausto,Efectivo, ,1,150.0,848
 4551,3116.0,2023-02-02,Fausto,Efectivo, ,5,50.0,231
-4552,3117.0,2023-02-02,Marisa y Kuky,Efectivo, ,1,100.0,1197
-4553,3117.0,2023-02-02,Marisa y Kuky,Efectivo, ,1,500.0,1199
+4552,3117.0,2023-02-02,Marisa y Kuky,Efectivo, ,1,100.0,394
+4553,3117.0,2023-02-02,Marisa y Kuky,Efectivo, ,1,500.0,394
 4554,3117.0,2023-02-02,Marisa y Kuky,Efectivo, ,1,30.0,393
 4555,3117.0,2023-02-02,Marisa y Kuky,Efectivo, ,1,50.0,389
 4556,3117.0,2023-02-02,Marisa y Kuky,Efectivo, ,1,30.0,388
 4557,3118.0,2023-02-02,Marisa y Kuky,Efectivo,Log In,180,200.0,85
 4558,3118.0,2023-02-02,Marisa y Kuky,Efectivo,Log In,100,110.0,85
-4559,3119.0,2023-02-02,Marisa y Kuky,Efectivo, ,1,1000.0,1205
-4560,3119.0,2023-02-02,Marisa y Kuky,Efectivo, ,3,1500.0,1199
+4559,3119.0,2023-02-02,Marisa y Kuky,Efectivo, ,1,1000.0,394
+4560,3119.0,2023-02-02,Marisa y Kuky,Efectivo, ,3,1500.0,394
 4561,3120.0,2023-02-02,Marisa y Kuky,Efectivo, ,1,500.0,220
 4562,3120.0,2023-02-02,Marisa y Kuky,Efectivo, ,2,60.0,390
 4563,3121.0,2023-02-02,Marisa y Kuky,Efectivo, ,1,350.0,464
@@ -4577,8 +4590,8 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 4619,3162.0,2023-02-03,Fausto,Efectivo, ,1,0.0,5
 4620,3163.0,2023-02-03,Fausto,Efectivo, ,1,270.0,129
 4621,3164.0,2023-02-03,Fausto,Efectivo, ,1,350.0,42
-4622,3165.0,2023-02-03,Marisa y Kuky,Efectivo, ,1,500.0,1199
-4623,3165.0,2023-02-03,Marisa y Kuky,Efectivo, ,1,100.0,1197
+4622,3165.0,2023-02-03,Marisa y Kuky,Efectivo, ,1,500.0,394
+4623,3165.0,2023-02-03,Marisa y Kuky,Efectivo, ,1,100.0,394
 4624,3165.0,2023-02-03,Marisa y Kuky,Efectivo, ,1,30.0,388
 4625,3165.0,2023-02-03,Marisa y Kuky,Efectivo, ,1,200.0,412
 4626,3166.0,2023-02-03,Marisa y Kuky,Efectivo, ,1,380.0,212
@@ -4786,6 +4799,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 4829,3317.0,2023-02-05,Marisa y Kuky,Efectivo, ,1,700.0,97
 4830,3318.0,2023-02-05,Marisa y Kuky,Efectivo, ,1,460.0,90
 4831,3319.0,2023-02-05,Marisa y Kuky,Efectivo, ,1,500.0,220
+4832,3320.0,2023-02-05,Marisa y Kuky,Efectivo, ,1,200.0,1122
 4833,3321.0,2023-02-05,Marisa y Kuky,Efectivo, ,1,300.0,631
 4834,3321.0,2023-02-05,Marisa y Kuky,Efectivo, ,1,100.0,460
 4835,3322.0,2023-02-05,Marisa y Kuky,Efectivo, ,1,300.0,590
@@ -4809,6 +4823,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 4853,3337.0,2023-02-05,Fausto,Efectivo, ,2,440.0,496
 4854,3338.0,2023-02-05,Fausto,Efectivo, ,1,250.0,1049
 4855,3339.0,2023-02-05,Fausto,Efectivo, ,1,100.0,591
+4856,3339.0,2023-02-05,Fausto,Efectivo, ,1,100.0,241
 4857,3340.0,2023-02-05,Fausto,Efectivo, ,1,100.0,458
 4858,3341.0,2023-02-05,Fausto,Efectivo, ,1,50.0,355
 4859,3341.0,2023-02-05,Fausto,Efectivo, ,1,150.0,565
@@ -4829,7 +4844,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 4874,3355.0,2023-02-05,Fausto,Efectivo, ,1,300.0,590
 4875,3356.0,2023-02-05,Fausto,Efectivo, ,1,50.0,389
 4876,3356.0,2023-02-05,Fausto,Efectivo, ,1,30.0,393
-4877,3356.0,2023-02-05,Fausto,Efectivo, ,1,100.0,1197
+4877,3356.0,2023-02-05,Fausto,Efectivo, ,1,100.0,394
 4878,3357.0,2023-02-06,Marisa y Kuky,Efectivo, ,1,30.0,388
 4879,3357.0,2023-02-06,Marisa y Kuky,Efectivo, ,1,30.0,393
 4880,3358.0,2023-02-06,Marisa y Kuky,Efectivo, ,1,150.0,563
@@ -4883,7 +4898,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 4928,3394.0,2023-02-06,Marisa y Kuky,Debito, ,1,400.0,257
 4929,3394.0,2023-02-06,Marisa y Kuky,Debito, ,2,800.0,259
 4930,3395.0,2023-02-06,Marisa y Kuky,Efectivo, ,1,500.0,220
-4931,3396.0,2023-02-06,Marisa y Kuky,Efectivo, ,1,500.0,1199
+4931,3396.0,2023-02-06,Marisa y Kuky,Efectivo, ,1,500.0,394
 4932,3397.0,2023-02-06,Marisa y Kuky,Efectivo, ,1,300.0,1087
 4933,3398.0,2023-02-06,Marisa y Kuky,Efectivo, ,1,270.0,129
 4934,3399.0,2023-02-06,Marisa y Kuky,Efectivo, ,1,550.0,219
@@ -4926,22 +4941,23 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 4971,3425.0,2023-02-07,Marisa y Kuky,Efectivo,Log In,200,220.0,85
 4972,3425.0,2023-02-07,Marisa y Kuky,Efectivo,Log In,500,550.0,85
 4973,3426.0,2023-02-07,Marisa y Kuky,Efectivo, ,1,350.0,510
+4974,3426.0,2023-02-07,Marisa y Kuky,Efectivo, ,1,200.0,400
 4975,3427.0,2023-02-07,Marisa y Kuky,Efectivo,Log In,400,440.0,85
-4976,3428.0,2023-02-07,Marisa y Kuky,Efectivo, ,1,100.0,1197
+4976,3428.0,2023-02-07,Marisa y Kuky,Efectivo, ,1,100.0,394
 4977,3428.0,2023-02-07,Marisa y Kuky,Efectivo, ,1,30.0,388
 4978,3429.0,2023-02-07,Marisa y Kuky,Efectivo, ,1,300.0,250
 4979,3429.0,2023-02-07,Marisa y Kuky,Efectivo, ,1,100.0,1113
 4980,3429.0,2023-02-07,Marisa y Kuky,Efectivo, ,1,200.0,189
 4981,3430.0,2023-02-07,Marisa y Kuky,Efectivo,Log In,300,330.0,85
-4982,3431.0,2023-02-07,Marisa y Kuky,Efectivo, ,1,500.0,1199
+4982,3431.0,2023-02-07,Marisa y Kuky,Efectivo, ,1,500.0,394
 4983,3432.0,2023-02-07,Marisa y Kuky,Efectivo,Log In,700,770.0,85
-4984,3433.0,2023-02-07,Marisa y Kuky,Efectivo, ,1,100.0,1197
-4985,3433.0,2023-02-07,Marisa y Kuky,Efectivo, ,1,500.0,1199
+4984,3433.0,2023-02-07,Marisa y Kuky,Efectivo, ,1,100.0,394
+4985,3433.0,2023-02-07,Marisa y Kuky,Efectivo, ,1,500.0,394
 4986,3434.0,2023-02-07,Marisa y Kuky,Efectivo, ,1,20.0,392
 4987,3435.0,2023-02-07,Marisa y Kuky,Efectivo,Log In,1000,1100.0,85
 4988,3436.0,2023-02-07,Fausto,Efectivo, ,1,10.0,231
 4989,3437.0,2023-02-07,Fausto,Efectivo, ,1,150.0,201
-4990,3438.0,2023-02-07,Fausto,Efectivo, ,1,500.0,1199
+4990,3438.0,2023-02-07,Fausto,Efectivo, ,1,500.0,394
 4991,3439.0,2023-02-07,Fausto,Efectivo, ,1,250.0,650
 4992,3440.0,2023-02-07,Fausto,Efectivo, ,1,250.0,650
 4993,3441.0,2023-02-07,Fausto,Efectivo, ,1,230.0,217
@@ -4958,7 +4974,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 5004,3448.0,2023-02-07,Marisa y Kuky,Efectivo, ,1,250.0,30
 5005,3449.0,2023-02-07,Marisa y Kuky,Efectivo, ,1,550.0,209
 5006,3450.0,2023-02-07,Marisa y Kuky,Efectivo,Log In,300,330.0,85
-5007,3451.0,2023-02-07,Marisa y Kuky,Efectivo, ,1,500.0,1199
+5007,3451.0,2023-02-07,Marisa y Kuky,Efectivo, ,1,500.0,394
 5008,3452.0,2023-02-07,Marisa y Kuky,Efectivo, ,1,30.0,390
 5009,3453.0,2023-02-07,Marisa y Kuky,Efectivo, ,1,400.0,259
 5010,3454.0,2023-02-07,Marisa y Kuky,Efectivo, ,2,60.0,388
@@ -4992,13 +5008,14 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 5038,3472.0,2023-02-07,Marisa y Kuky,Efectivo, ,1,230.0,1084
 5039,3473.0,2023-02-07,Marisa y Kuky,Efectivo, ,1,230.0,1084
 5040,3474.0,2023-02-07,Marisa y Kuky,Efectivo, ,1,300.0,636
-5041,3475.0,2023-02-07,Marisa y Kuky,Efectivo, ,1,100.0,1197
+5041,3475.0,2023-02-07,Marisa y Kuky,Efectivo, ,1,100.0,394
 5042,3475.0,2023-02-07,Marisa y Kuky,Efectivo, ,2,40.0,392
 5043,3475.0,2023-02-07,Marisa y Kuky,Efectivo, ,1,50.0,389
 5044,3476.0,2023-02-07,Marisa y Kuky,Efectivo, ,1,630.0,214
 5045,3477.0,2023-02-07,Marisa y Kuky,Efectivo, ,2,520.0,88
 5046,3478.0,2023-02-07,Marisa y Kuky,Efectivo, ,1,330.0,504
 5047,3479.0,2023-02-07,Marisa y Kuky,Efectivo, ,1,550.0,209
+5048,3480.0,2023-02-07,Marisa y Kuky,Efectivo, ,1,200.0,400
 5049,3481.0,2023-02-07,Marisa y Kuky,Efectivo, ,1,250.0,30
 5050,3482.0,2023-02-07,Marisa y Kuky,Efectivo,Log In,300,330.0,85
 5051,3483.0,2023-02-08,Marisa y Kuky,Efectivo, ,1,530.0,220
@@ -5059,7 +5076,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 5106,3525.0,2023-02-08,Marisa y Kuky,Efectivo, ,1,50.0,389
 5107,3526.0,2023-02-08,Marisa y Kuky,Efectivo, ,3,90.0,388
 5108,3527.0,2023-02-08,Marisa y Kuky,Efectivo, ,10,100.0,231
-5109,3528.0,2023-02-08,Marisa y Kuky,Efectivo, ,1,500.0,1199
+5109,3528.0,2023-02-08,Marisa y Kuky,Efectivo, ,1,500.0,394
 5110,3529.0,2023-02-08,Marisa y Kuky,Efectivo, ,1,300.0,678
 5111,3530.0,2023-02-08,Marisa y Kuky,Efectivo, ,1,100.0,585
 5112,3531.0,2023-02-08,Marisa y Kuky,Efectivo,Log In,750,830.0,85
@@ -5194,11 +5211,11 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 5243,3623.0,2023-02-09,Marisa y Kuky,Mercado Pago, ,1,230.0,217
 5244,3624.0,2023-02-09,Marisa y Kuky,Efectivo, ,1,350.0,469
 5245,3625.0,2023-02-10,Marisa y Kuky,Efectivo, ,1,250.0,359
-5246,3626.0,2023-02-10,Marisa y Kuky,Efectivo, ,1,100.0,1197
+5246,3626.0,2023-02-10,Marisa y Kuky,Efectivo, ,1,100.0,394
 5247,3626.0,2023-02-10,Marisa y Kuky,Efectivo, ,2,60.0,388
 5248,3627.0,2023-02-10,Marisa y Kuky,Efectivo, ,1,100.0,1088
 5249,3628.0,2023-02-10,Marisa y Kuky,Efectivo, ,1,30.0,388
-5250,3629.0,2023-02-10,Marisa y Kuky,boton_efectivo,Log In,300,330.0,85
+5250,3629.0,2023-02-10,Marisa y Kuky,Efectivo,Log In,300,330.0,85
 5251,3630.0,2023-02-10,Marisa y Kuky,Efectivo, ,2,20.0,231
 5252,3631.0,2023-02-10,Marisa y Kuky,Efectivo, ,1,200.0,430
 5253,3632.0,2023-02-10,Marisa y Kuky,Efectivo, ,1,150.0,201
@@ -5207,9 +5224,9 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 5256,3635.0,2023-02-10,Marisa y Kuky,Efectivo,Log In,300,330.0,85
 5257,3636.0,2023-02-10,Marisa y Kuky,Efectivo,Log In,500,550.0,85
 5258,3637.0,2023-02-10,Marisa y Kuky,Efectivo, ,1,30.0,388
-5259,3638.0,2023-02-10,Marisa y Kuky,Efectivo, ,1,500.0,1199
-5260,3638.0,2023-02-10,Marisa y Kuky,Efectivo, ,1,500.0,1199
-5261,3638.0,2023-02-10,Marisa y Kuky,Efectivo, ,1,1000.0,1205
+5259,3638.0,2023-02-10,Marisa y Kuky,Efectivo, ,1,500.0,394
+5260,3638.0,2023-02-10,Marisa y Kuky,Efectivo, ,1,500.0,394
+5261,3638.0,2023-02-10,Marisa y Kuky,Efectivo, ,1,1000.0,394
 5262,3639.0,2023-02-10,Marisa y Kuky,Efectivo, ,1,30.0,388
 5263,3640.0,2023-02-10,Marisa y Kuky,Mercado Pago, ,37,1110.0,390
 5264,3640.0,2023-02-10,Marisa y Kuky,Mercado Pago, ,1,250.0,30
@@ -5244,7 +5261,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 5293,3662.0,2023-02-10,Fausto,Efectivo,Log In,200,220.0,85
 5294,3663.0,2023-02-10,Fausto,Efectivo, ,2,320.0,223
 5295,3663.0,2023-02-10,Fausto,Efectivo, ,1,500.0,493
-5296,3664.0,2023-02-10,Fausto,Efectivo, ,1,500.0,1199
+5296,3664.0,2023-02-10,Fausto,Efectivo, ,1,500.0,394
 5297,3665.0,2023-02-10,Fausto,Efectivo,Log In,700,770.0,85
 5298,3666.0,2023-02-10,Marisa y Kuky,Efectivo, ,1,400.0,595
 5299,3667.0,2023-02-10,Marisa y Kuky,Efectivo, ,1,600.0,216
@@ -5540,7 +5557,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 5589,3875.0,2023-02-13,Marisa y Kuky,Efectivo, ,4,120.0,388
 5590,3875.0,2023-02-13,Marisa y Kuky,Efectivo, ,1,20.0,392
 5591,3875.0,2023-02-13,Marisa y Kuky,Efectivo, ,1,30.0,687
-5592,3875.0,2023-02-13,Marisa y Kuky,Efectivo, ,1,500.0,1199
+5592,3875.0,2023-02-13,Marisa y Kuky,Efectivo, ,1,500.0,394
 5593,3876.0,2023-02-13,Marisa y Kuky,Efectivo, ,1,150.0,201
 5594,3877.0,2023-02-13,Fausto,Efectivo, ,1,250.0,30
 5595,3878.0,2023-02-13,Fausto,Efectivo, ,1,20.0,392
@@ -5650,11 +5667,11 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 5699,3954.0,2023-02-14,Fausto,Efectivo, ,1,250.0,30
 5700,3954.0,2023-02-14,Fausto,Efectivo,Log In,400,440.0,85
 5701,3955.0,2023-02-14,Fausto,Efectivo,Log In,1000,1100.0,85
-5702,3956.0,2023-02-14,Fausto,Efectivo, ,2,1000.0,1199
+5702,3956.0,2023-02-14,Fausto,Efectivo, ,2,1000.0,394
 5703,3957.0,2023-02-14,Fausto,Efectivo, ,1,450.0,200
 5704,3958.0,2023-02-14,Fausto,Efectivo, ,4,120.0,388
 5705,3959.0,2023-02-14,Fausto,Efectivo,Log In,200,220.0,85
-5706,3960.0,2023-02-14,Fausto,Efectivo, ,2,2000.0,1205
+5706,3960.0,2023-02-14,Fausto,Efectivo, ,2,2000.0,394
 5707,3961.0,2023-02-14,Fausto,Efectivo, ,1,100.0,1076
 5708,3962.0,2023-02-14,Fausto,Efectivo, ,1,100.0,1105
 5709,3963.0,2023-02-14,Fausto,Efectivo, ,3,180.0,154
@@ -5717,7 +5734,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 5766,4001.0,2023-02-14,Marisa y Kuky,Efectivo, ,1,50.0,389
 5767,4002.0,2023-02-14,Marisa y Kuky,Efectivo, ,1,230.0,217
 5768,4003.0,2023-02-14,Marisa y Kuky,Efectivo, ,1,380.0,492
-5769,4003.0,2023-02-14,Marisa y Kuky,Efectivo, ,1,100.0,1197
+5769,4003.0,2023-02-14,Marisa y Kuky,Efectivo, ,1,100.0,394
 5770,4004.0,2023-02-14,Marisa y Kuky,Efectivo, ,1,580.0,1191
 5771,4004.0,2023-02-14,Marisa y Kuky,Efectivo, ,1,230.0,1084
 5772,4004.0,2023-02-14,Marisa y Kuky,Efectivo, ,1,450.0,122
@@ -5813,7 +5830,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 5862,4068.0,2023-02-15,Marisa y Kuky,Efectivo, ,1,220.0,490
 5863,4069.0,2023-02-15,Marisa y Kuky,Efectivo, ,1,380.0,215
 5864,4070.0,2023-02-15,Marisa y Kuky,Efectivo, ,1,650.0,214
-5865,4071.0,2023-02-15,Marisa y Kuky,Efectivo, ,2,200.0,1201
+5865,4071.0,2023-02-15,Marisa y Kuky,Efectivo, ,2,200.0,394
 5866,4072.0,2023-02-15,Marisa y Kuky,Efectivo, ,1,250.0,27
 5867,4072.0,2023-02-15,Marisa y Kuky,Efectivo, ,1,250.0,424
 5868,4073.0,2023-02-15,Marisa y Kuky,Efectivo, ,1,100.0,187
@@ -5830,7 +5847,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 5879,4079.0,2023-02-15,Marisa y Kuky,Efectivo, ,1,250.0,30
 5880,4080.0,2023-02-15,Marisa y Kuky,Efectivo, ,1,350.0,55
 5881,4081.0,2023-02-15,Marisa y Kuky,Efectivo, ,1,100.0,519
-5882,4082.0,2023-02-15,Marisa y Kuky,Efectivo, ,1,500.0,1199
+5882,4082.0,2023-02-15,Marisa y Kuky,Efectivo, ,1,500.0,394
 5883,4082.0,2023-02-15,Marisa y Kuky,Efectivo, ,1,30.0,388
 5884,4083.0,2023-02-15,Marisa y Kuky,Efectivo,Log In,270,270.0,85
 5885,4084.0,2023-02-15,Marisa y Kuky,Efectivo,Log In,400,440.0,85
@@ -5911,7 +5928,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 5961,4124.0,2023-02-16,Marisa y Kuky,Efectivo, ,1,30.0,390
 5962,4125.0,2023-02-16,Marisa y Kuky,Efectivo, ,1,20.0,392
 5963,4125.0,2023-02-16,Marisa y Kuky,Efectivo, ,1,30.0,390
-5964,4126.0,2023-02-16,Marisa y Kuky,Efectivo, ,2,1000.0,1199
+5964,4126.0,2023-02-16,Marisa y Kuky,Efectivo, ,2,1000.0,394
 5965,4126.0,2023-02-16,Marisa y Kuky,Efectivo, ,2,100.0,389
 5966,4126.0,2023-02-16,Marisa y Kuky,Efectivo, ,5,100.0,392
 5967,4127.0,2023-02-16,Marisa y Kuky,Efectivo, ,1,230.0,217
@@ -5941,7 +5958,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 5991,4148.0,2023-02-16,Marisa y Kuky,Efectivo, ,1,350.0,512
 5992,4149.0,2023-02-16,Marisa y Kuky,Efectivo, ,1,200.0,462
 5993,4149.0,2023-02-16,Marisa y Kuky,Efectivo, ,1,30.0,776
-5994,4150.0,2023-02-16,Marisa y Kuky,Efectivo, ,1,500.0,1199
+5994,4150.0,2023-02-16,Marisa y Kuky,Efectivo, ,1,500.0,394
 5995,4151.0,2023-02-16,Marisa y Kuky,Efectivo, ,2,140.0,603
 5996,4152.0,2023-02-16,Marisa y Kuky,Efectivo, ,1,100.0,10
 5997,4152.0,2023-02-16,Marisa y Kuky,Efectivo, ,1,100.0,585
@@ -6063,7 +6080,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 6113,4235.0,2023-02-17,Marisa y Kuky,Efectivo, ,1,100.0,519
 6114,4235.0,2023-02-17,Marisa y Kuky,Efectivo, ,1,350.0,578
 6115,4236.0,2023-02-17,Marisa y Kuky,Efectivo, ,1,350.0,208
-6116,4237.0,2023-02-17,Marisa y Kuky,Efectivo, ,1,100.0,1197
+6116,4237.0,2023-02-17,Marisa y Kuky,Efectivo, ,1,100.0,394
 6117,4237.0,2023-02-17,Marisa y Kuky,Efectivo, ,1,30.0,388
 6118,4237.0,2023-02-17,Marisa y Kuky,Efectivo, ,1,20.0,392
 6119,4237.0,2023-02-17,Marisa y Kuky,Efectivo, ,1,30.0,687
@@ -6489,7 +6506,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 6541,4528.0,2023-02-22,Marisa y Kuky,Efectivo, ,1,230.0,1084
 6542,4529.0,2023-02-22,Marisa y Kuky,Efectivo, ,2,70.0,776
 6543,4529.0,2023-02-22,Marisa y Kuky,Efectivo, ,1,100.0,460
-6544,4530.0,2023-02-22,Marisa y Kuky,Efectivo, ,1,500.0,1199
+6544,4530.0,2023-02-22,Marisa y Kuky,Efectivo, ,1,500.0,394
 6545,4531.0,2023-02-22,Fausto,Efectivo, ,1,30.0,388
 6546,4534.0,2023-02-22,Fausto,Efectivo,Log In,1,550.0,85
 6547,4534.0,2023-02-22,Fausto,Efectivo,Log In,1,100.0,568
@@ -6534,7 +6551,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 6586,4559.0,2023-02-22,Marisa y Kuky,Efectivo, ,1,230.0,490
 6587,4559.0,2023-02-22,Marisa y Kuky,Efectivo, ,1,400.0,595
 6588,4560.0,2023-02-22,Marisa y Kuky,Efectivo, ,2,40.0,392
-6589,4561.0,2023-02-22,Marisa y Kuky,Efectivo, ,1,500.0,1199
+6589,4561.0,2023-02-22,Marisa y Kuky,Efectivo, ,1,500.0,394
 6590,4562.0,2023-02-22,Marisa y Kuky,Efectivo, ,1,30.0,390
 6591,4562.0,2023-02-22,Marisa y Kuky,Efectivo, ,1,30.0,388
 6592,4562.0,2023-02-22,Marisa y Kuky,Efectivo, ,2,40.0,392
@@ -6558,9 +6575,9 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 6610,4575.0,2023-02-22,Marisa y Kuky,Efectivo, ,1,550.0,488
 6611,4576.0,2023-02-22,Marisa y Kuky,Efectivo, ,1,380.0,221
 6612,4577.0,2023-02-22,Marisa y Kuky,Efectivo, ,1,530.0,220
-6613,4578.0,2023-02-22,Marisa y Kuky,Efectivo, ,1,1000.0,1205
-6614,4579.0,2023-02-22,Marisa y Kuky,Efectivo, ,1,1000.0,1205
-6615,4580.0,2023-02-22,Marisa y Kuky,Efectivo, ,1,500.0,1199
+6613,4578.0,2023-02-22,Marisa y Kuky,Efectivo, ,1,1000.0,394
+6614,4579.0,2023-02-22,Marisa y Kuky,Efectivo, ,1,1000.0,394
+6615,4580.0,2023-02-22,Marisa y Kuky,Efectivo, ,1,500.0,394
 6616,4581.0,2023-02-22,Marisa y Kuky,Efectivo, ,1,150.0,473
 6617,4582.0,2023-02-22,Marisa y Kuky,Efectivo, ,1,530.0,220
 6618,4583.0,2023-02-22,Marisa y Kuky,Efectivo, ,1,230.0,516
@@ -6677,8 +6694,8 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 6731,4662.0,2023-02-23,Marisa y Kuky,Efectivo, ,4,80.0,392
 6732,4662.0,2023-02-23,Marisa y Kuky,Efectivo, ,4,200.0,389
 6733,4663.0,2023-02-23,Marisa y Kuky,Efectivo, ,6,180.0,388
-6734,4664.0,2023-02-23,Marisa y Kuky,Efectivo, ,3,1500.0,1199
-6735,4664.0,2023-02-23,Marisa y Kuky,Efectivo, ,1,1000.0,1205
+6734,4664.0,2023-02-23,Marisa y Kuky,Efectivo, ,3,1500.0,394
+6735,4664.0,2023-02-23,Marisa y Kuky,Efectivo, ,1,1000.0,394
 6736,4665.0,2023-02-23,Marisa y Kuky,Efectivo, ,1,30.0,388
 6737,4665.0,2023-02-23,Marisa y Kuky,Efectivo, ,3,150.0,389
 6738,4666.0,2023-02-23,Marisa y Kuky,Efectivo, ,5,100.0,392
@@ -6694,8 +6711,8 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 6748,4669.0,2023-02-23,Marisa y Kuky,Efectivo, ,5,50.0,231
 6749,4670.0,2023-02-23,Marisa y Kuky,Efectivo, ,3,450.0,717
 6750,4671.0,2023-02-23,Marisa y Kuky,Efectivo, ,1,300.0,673
-6751,4672.0,2023-02-23,Marisa y Kuky,Efectivo, ,1,100.0,1197
-6752,4672.0,2023-02-23,Marisa y Kuky,Efectivo, ,2,1000.0,1199
+6751,4672.0,2023-02-23,Marisa y Kuky,Efectivo, ,1,100.0,394
+6752,4672.0,2023-02-23,Marisa y Kuky,Efectivo, ,2,1000.0,394
 6753,4673.0,2023-02-23,Marisa y Kuky,Efectivo, ,1,250.0,27
 6754,4673.0,2023-02-23,Marisa y Kuky,Efectivo,Log In,300,330.0,85
 6755,4674.0,2023-02-23,Marisa y Kuky,Efectivo,Log In,900,990.0,85
@@ -6758,7 +6775,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 6812,4712.0,2023-02-24,Marisa y Kuky,Efectivo, ,1,450.0,200
 6813,4713.0,2023-02-24,Marisa y Kuky,Efectivo, ,2,60.0,388
 6814,4713.0,2023-02-24,Marisa y Kuky,Efectivo, ,1,20.0,392
-6815,4714.0,2023-02-24,Marisa y Kuky,Efectivo, ,6,600.0,1197
+6815,4714.0,2023-02-24,Marisa y Kuky,Efectivo, ,6,600.0,394
 6816,4715.0,2023-02-24,Marisa y Kuky,Efectivo, ,1,200.0,400
 6817,4716.0,2023-02-24,Marisa y Kuky,Efectivo,Log In,300,330.0,85
 6818,4717.0,2023-02-24,Marisa y Kuky,Efectivo,Log In,500,550.0,85
@@ -6814,9 +6831,9 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 6868,4755.0,2023-02-24,Marisa y Kuky,Efectivo, ,12,240.0,392
 6869,4756.0,2023-02-24,Marisa y Kuky,Efectivo, ,1,350.0,208
 6870,4757.0,2023-02-24,Marisa y Kuky,Efectivo, ,1,250.0,468
-6871,4758.0,2023-02-24,Marisa y Kuky,Efectivo, ,1,100.0,1197
-6872,4758.0,2023-02-24,Marisa y Kuky,Efectivo, ,1,100.0,1201
-6873,4758.0,2023-02-24,Marisa y Kuky,Efectivo, ,1,500.0,1199
+6871,4758.0,2023-02-24,Marisa y Kuky,Efectivo, ,1,100.0,394
+6872,4758.0,2023-02-24,Marisa y Kuky,Efectivo, ,1,100.0,394
+6873,4758.0,2023-02-24,Marisa y Kuky,Efectivo, ,1,500.0,394
 6874,4759.0,2023-02-24,Marisa y Kuky,Efectivo, ,1,200.0,452
 6875,4760.0,2023-02-24,Marisa y Kuky,Efectivo,Log In,700,770.0,85
 6876,4760.0,2023-02-24,Marisa y Kuky,Efectivo,Log In,3,30.0,525
@@ -6865,6 +6882,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 6919,4790.0,2023-02-25,Marisa y Kuky,Efectivo, ,5,1500.0,114
 6920,4791.0,2023-02-25,Marisa y Kuky,Efectivo, ,1,150.0,1146
 6921,4792.0,2023-02-25,Marisa y Kuky,Efectivo, ,1,530.0,220
+6922,4793.0,2023-02-25,Marisa y Kuky,Efectivo, ,1,200.0,1121
 6923,4794.0,2023-02-25,Marisa y Kuky,Efectivo, ,2,560.0,88
 6924,4795.0,2023-02-25,Marisa y Kuky,Efectivo, ,1,100.0,560
 6925,4796.0,2023-02-25,Marisa y Kuky,Efectivo, ,1,240.0,217
@@ -7142,7 +7160,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 7197,4976.0,2023-02-27,Marisa y Kuky,Efectivo, ,1,30.0,388
 7198,4977.0,2023-02-27,Marisa y Kuky,Efectivo, ,1,100.0,542
 7199,4978.0,2023-02-27,Marisa y Kuky,Efectivo, ,3,60.0,392
-7200,4979.0,2023-02-27,Marisa y Kuky,Efectivo, ,2,200.0,1197
+7200,4979.0,2023-02-27,Marisa y Kuky,Efectivo, ,2,200.0,394
 7201,4979.0,2023-02-27,Marisa y Kuky,Efectivo, ,1,30.0,388
 7202,4979.0,2023-02-27,Marisa y Kuky,Efectivo, ,3,60.0,392
 7203,4979.0,2023-02-27,Marisa y Kuky,Efectivo, ,1,30.0,393
@@ -7153,8 +7171,8 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 7208,4982.0,2023-02-27,Marisa y Kuky,Efectivo, ,2,40.0,392
 7209,4983.0,2023-02-27,Marisa y Kuky,Efectivo, ,1,80.0,572
 7210,4983.0,2023-02-27,Marisa y Kuky,Efectivo, ,1,230.0,490
-7211,4984.0,2023-02-27,Marisa y Kuky,Efectivo, ,1,500.0,1199
-7212,4985.0,2023-02-27,Marisa y Kuky,Efectivo, ,1,500.0,1199
+7211,4984.0,2023-02-27,Marisa y Kuky,Efectivo, ,1,500.0,394
+7212,4985.0,2023-02-27,Marisa y Kuky,Efectivo, ,1,500.0,394
 7213,4986.0,2023-02-27,Marisa y Kuky,Mercado Pago, ,1,250.0,653
 7214,4986.0,2023-02-27,Marisa y Kuky,Mercado Pago, ,1,200.0,462
 7215,4987.0,2023-02-27,Marisa y Kuky,Efectivo, ,1,40.0,776
@@ -7163,10 +7181,10 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 7218,4988.0,2023-02-27,Marisa y Kuky,Efectivo, ,2,60.0,393
 7219,4988.0,2023-02-27,Marisa y Kuky,Efectivo, ,1,20.0,392
 7220,4989.0,2023-02-27,Marisa y Kuky,Efectivo, ,1,400.0,410
-7221,4990.0,2023-02-27,Marisa y Kuky,Efectivo, ,1,500.0,1199
+7221,4990.0,2023-02-27,Marisa y Kuky,Efectivo, ,1,500.0,394
 7222,4991.0,2023-02-27,Marisa y Kuky,Efectivo, ,2,100.0,389
 7225,4993.0,2023-02-27,Marisa y Kuky,Efectivo, ,1,30.0,388
-7226,4994.0,2023-02-27,Marisa y Kuky,Efectivo, ,3,300.0,1197
+7226,4994.0,2023-02-27,Marisa y Kuky,Efectivo, ,3,300.0,394
 7227,4994.0,2023-02-27,Marisa y Kuky,Efectivo, ,1,30.0,388
 7228,4994.0,2023-02-27,Marisa y Kuky,Efectivo, ,1,30.0,393
 7229,4994.0,2023-02-27,Marisa y Kuky,Efectivo, ,1,200.0,141
@@ -7187,8 +7205,8 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 7244,5004.0,2023-02-27,Marisa y Kuky,Efectivo, ,2,60.0,393
 7245,5005.0,2023-02-27,Fausto,Efectivo, ,1,30.0,388
 7246,5005.0,2023-02-27,Fausto,Efectivo, ,1,20.0,392
-7247,5005.0,2023-02-27,Fausto,Efectivo, ,1,100.0,1197
-7248,5005.0,2023-02-27,Fausto,Efectivo, ,1,100.0,1201
+7247,5005.0,2023-02-27,Fausto,Efectivo, ,1,100.0,394
+7248,5005.0,2023-02-27,Fausto,Efectivo, ,1,100.0,394
 7249,5006.0,2023-02-27,Fausto,Efectivo, ,1,120.0,591
 7250,5007.0,2023-02-27,Fausto,Efectivo, ,1,400.0,594
 7251,5007.0,2023-02-27,Fausto,Efectivo, ,1,630.0,209
@@ -7218,8 +7236,8 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 7275,5020.0,2023-02-27,Fausto,Efectivo, ,1,100.0,542
 7276,5021.0,2023-02-27,Fausto,Efectivo, ,1,20.0,392
 7277,5022.0,2023-02-27,Fausto,Efectivo, ,2,20.0,231
-7278,5023.0,2023-02-27,Fausto,Efectivo, ,1,100.0,1197
-7279,5023.0,2023-02-27,Fausto,Efectivo, ,1,100.0,1197
+7278,5023.0,2023-02-27,Fausto,Efectivo, ,1,100.0,394
+7279,5023.0,2023-02-27,Fausto,Efectivo, ,1,100.0,394
 7280,5023.0,2023-02-27,Fausto,Efectivo, ,3,60.0,392
 7281,5024.0,2023-02-27,Fausto,Efectivo,Log In,400,440.0,85
 7282,5024.0,2023-02-27,Fausto,Efectivo,Log In,1,900.0,1148
@@ -7235,10 +7253,10 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 7292,5031.0,2023-02-27,Marisa y Kuky,Efectivo, ,5,100.0,392
 7293,5032.0,2023-02-27,Marisa y Kuky,Efectivo, ,1,150.0,465
 7294,5033.0,2023-02-27,Marisa y Kuky,Efectivo, ,1,30.0,388
-7295,5033.0,2023-02-27,Marisa y Kuky,Efectivo, ,1,500.0,1199
-7296,5033.0,2023-02-27,Marisa y Kuky,Efectivo, ,1,100.0,1197
+7295,5033.0,2023-02-27,Marisa y Kuky,Efectivo, ,1,500.0,394
+7296,5033.0,2023-02-27,Marisa y Kuky,Efectivo, ,1,100.0,394
 7297,5034.0,2023-02-27,Marisa y Kuky,Efectivo, ,1,300.0,249
-7298,5035.0,2023-02-27,Marisa y Kuky,Efectivo, ,1,500.0,1199
+7298,5035.0,2023-02-27,Marisa y Kuky,Efectivo, ,1,500.0,394
 7299,5036.0,2023-02-27,Marisa y Kuky,Efectivo, ,2,60.0,393
 7300,5037.0,2023-02-27,Marisa y Kuky,Efectivo,Log In,1000,1100.0,85
 7301,5038.0,2023-02-27,Marisa y Kuky,Efectivo, ,1,230.0,490
@@ -7269,28 +7287,28 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 7326,5056.0,2023-02-27,Marisa y Kuky,Debito, ,1,70.0,582
 7327,5057.0,2023-02-27,Marisa y Kuky,Efectivo, ,1,30.0,388
 7328,5058.0,2023-02-27,Marisa y Kuky,Efectivo, ,1,300.0,109
-7329,5059.0,2023-02-28,Marisa y Kuky,Efectivo, ,4,2000.0,1199
+7329,5059.0,2023-02-28,Marisa y Kuky,Efectivo, ,4,2000.0,394
 7330,5060.0,2023-02-28,Marisa y Kuky,Efectivo, ,1,130.0,656
 7331,5060.0,2023-02-28,Marisa y Kuky,Efectivo,Log In,380,420.0,85
 7332,5060.0,2023-02-28,Marisa y Kuky,Efectivo,Log In,1,30.0,388
 7333,5061.0,2023-02-28,Marisa y Kuky,Efectivo, ,1,230.0,496
 7334,5062.0,2023-02-28,Marisa y Kuky,Efectivo, ,5,150.0,388
-7335,5062.0,2023-02-28,Marisa y Kuky,Efectivo, ,1,100.0,1197
+7335,5062.0,2023-02-28,Marisa y Kuky,Efectivo, ,1,100.0,394
 7336,5062.0,2023-02-28,Marisa y Kuky,Efectivo, ,1,30.0,393
 7337,5062.0,2023-02-28,Marisa y Kuky,Efectivo, ,1,20.0,392
-7338,5062.0,2023-02-28,Marisa y Kuky,Efectivo, ,2,1000.0,1199
-7339,5063.0,2023-02-28,Marisa y Kuky,Efectivo, ,1,500.0,1199
+7338,5062.0,2023-02-28,Marisa y Kuky,Efectivo, ,2,1000.0,394
+7339,5063.0,2023-02-28,Marisa y Kuky,Efectivo, ,1,500.0,394
 7340,5063.0,2023-02-28,Marisa y Kuky,Efectivo,Log In,200,220.0,85
 7341,5064.0,2023-02-28,Marisa y Kuky,Efectivo, ,1,20.0,392
 7342,5065.0,2023-02-28,Marisa y Kuky,Efectivo, ,4,120.0,388
 7343,5065.0,2023-02-28,Marisa y Kuky,Efectivo, ,2,60.0,393
 7344,5066.0,2023-02-28,Marisa y Kuky,Efectivo, ,1,30.0,388
 7345,5066.0,2023-02-28,Marisa y Kuky,Efectivo, ,5,150.0,390
-7346,5067.0,2023-02-28,Marisa y Kuky,Efectivo, ,1,500.0,1199
+7346,5067.0,2023-02-28,Marisa y Kuky,Efectivo, ,1,500.0,394
 7347,5067.0,2023-02-28,Marisa y Kuky,Efectivo,Log In,500,550.0,85
 7348,5067.0,2023-02-28,Marisa y Kuky,Efectivo, ,1,400.0,595
-7349,5068.0,2023-02-28,Marisa y Kuky,Efectivo, ,1,1000.0,1196
-7350,5068.0,2023-02-28,Marisa y Kuky,Efectivo, ,1,500.0,1199
+7349,5068.0,2023-02-28,Marisa y Kuky,Efectivo, ,1,1000.0,394
+7350,5068.0,2023-02-28,Marisa y Kuky,Efectivo, ,1,500.0,394
 7351,5069.0,2023-02-28,Marisa y Kuky,Efectivo, ,1,50.0,389
 7352,5069.0,2023-02-28,Marisa y Kuky,Efectivo, ,1,20.0,392
 7353,5069.0,2023-02-28,Marisa y Kuky,Efectivo, ,1,300.0,673
@@ -7321,7 +7339,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 7378,5090.0,2023-02-28,Fausto,Efectivo, ,1,30.0,388
 7379,5090.0,2023-02-28,Fausto,Efectivo, ,1,50.0,389
 7380,5091.0,2023-02-28,Fausto,Efectivo, ,1,100.0,1125
-7381,5092.0,2023-02-28,Fausto,Efectivo, ,2,200.0,1197
+7381,5092.0,2023-02-28,Fausto,Efectivo, ,2,200.0,394
 7382,5092.0,2023-02-28,Fausto,Efectivo, ,1,20.0,392
 7383,5093.0,2023-02-28,Fausto,Efectivo, ,1,20.0,392
 7384,5093.0,2023-02-28,Fausto,Efectivo, ,1,30.0,388
@@ -7346,13 +7364,13 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 7403,5105.0,2023-02-28,Marisa y Kuky,Efectivo, ,1,30.0,390
 7404,5106.0,2023-02-28,Marisa y Kuky,Efectivo, ,1,70.0,581
 7405,5107.0,2023-02-28,Marisa y Kuky,Efectivo,Log In,1000,1100.0,85
-7406,5108.0,2023-02-28,Marisa y Kuky,Efectivo, ,1,100.0,1197
-7407,5109.0,2023-02-28,Marisa y Kuky,Efectivo, ,3,300.0,1197
+7406,5108.0,2023-02-28,Marisa y Kuky,Efectivo, ,1,100.0,394
+7407,5109.0,2023-02-28,Marisa y Kuky,Efectivo, ,3,300.0,394
 7408,5109.0,2023-02-28,Marisa y Kuky,Efectivo, ,5,100.0,392
 7409,5109.0,2023-02-28,Marisa y Kuky,Efectivo, ,1,30.0,393
 7410,5109.0,2023-02-28,Marisa y Kuky,Efectivo, ,1,30.0,388
 7411,5110.0,2023-02-28,Marisa y Kuky,Efectivo, ,1,350.0,46
-7412,5111.0,2023-02-28,Marisa y Kuky,Efectivo, ,3,1500.0,1199
+7412,5111.0,2023-02-28,Marisa y Kuky,Efectivo, ,3,1500.0,394
 7413,5112.0,2023-02-28,Marisa y Kuky,Efectivo, ,5,50.0,231
 7414,5112.0,2023-02-28,Marisa y Kuky,Efectivo, ,1,20.0,392
 7415,5113.0,2023-02-28,Marisa y Kuky,Efectivo, ,2,60.0,393
@@ -7380,7 +7398,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 7437,5127.0,2023-02-28,Marisa y Kuky,Efectivo, ,1,150.0,915
 7438,5128.0,2023-02-28,Marisa y Kuky,Efectivo, ,1,350.0,208
 7439,5128.0,2023-02-28,Marisa y Kuky,Efectivo, ,1,150.0,1128
-7440,5129.0,2023-02-28,Marisa y Kuky,Efectivo, ,1,100.0,1197
+7440,5129.0,2023-02-28,Marisa y Kuky,Efectivo, ,1,100.0,394
 7441,5130.0,2023-02-28,Marisa y Kuky,Efectivo, ,1,240.0,204
 7442,5131.0,2023-02-28,Marisa y Kuky,Efectivo, ,1,300.0,917
 7443,5131.0,2023-02-28,Marisa y Kuky,Efectivo, ,1,200.0,767
@@ -7425,7 +7443,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 7482,5155.0,2023-03-01,Marisa y Kuky,Efectivo,Log In,9,30.0,526
 7483,5156.0,2023-03-01,Marisa y Kuky,Efectivo,Log In,200,220.0,85
 7485,5157.0,2023-03-01,Marisa y Kuky,Efectivo, ,1,400.0,1101
-7486,5157.0,2023-03-01,Marisa y Kuky,Efectivo, ,1,100.0,1197
+7486,5157.0,2023-03-01,Marisa y Kuky,Efectivo, ,1,100.0,394
 7487,5157.0,2023-03-01,Marisa y Kuky,Efectivo, ,1,20.0,392
 7488,5158.0,2023-03-01,Marisa y Kuky,Efectivo, ,4,80.0,781
 7489,5159.0,2023-03-01,Marisa y Kuky,Efectivo, ,8,160.0,392
@@ -7512,10 +7530,10 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 7574,5212.0,2023-03-02,Fausto,Efectivo, ,1,20.0,392
 7575,5212.0,2023-03-02,Fausto,Efectivo, ,1,30.0,393
 7576,5213.0,2023-03-02,Fausto,Efectivo, ,1,270.0,86
-7577,5213.0,2023-03-02,Fausto,Efectivo, ,1,500.0,1199
+7577,5213.0,2023-03-02,Fausto,Efectivo, ,1,500.0,394
 7578,5214.0,2023-03-02,Fausto,Efectivo, ,1,30.0,388
-7579,5214.0,2023-03-02,Fausto,Efectivo, ,1,500.0,1199
-7580,5214.0,2023-03-02,Fausto,Efectivo, ,1,100.0,1197
+7579,5214.0,2023-03-02,Fausto,Efectivo, ,1,500.0,394
+7580,5214.0,2023-03-02,Fausto,Efectivo, ,1,100.0,394
 7581,5214.0,2023-03-02,Fausto,Efectivo, ,1,30.0,687
 7582,5215.0,2023-03-02,Fausto,Efectivo,Log In,150,170.0,85
 7583,5216.0,2023-03-02,Fausto,Efectivo, ,1,240.0,217
@@ -7530,7 +7548,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 7592,5222.0,2023-03-02,Fausto,Efectivo, ,3,60.0,392
 7593,5222.0,2023-03-02,Fausto,Efectivo, ,3,90.0,393
 7594,5222.0,2023-03-02,Fausto,Efectivo, ,2,10.0,1089
-7595,5223.0,2023-03-02,Fausto,Efectivo, ,1,500.0,1199
+7595,5223.0,2023-03-02,Fausto,Efectivo, ,1,500.0,394
 7596,5224.0,2023-03-02,Fausto,Efectivo, ,1,30.0,388
 7597,5225.0,2023-03-02,Fausto,Efectivo, ,1,100.0,10
 7598,5226.0,2023-03-02,Fausto,Efectivo, ,3,90.0,388
@@ -7559,7 +7577,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 7621,5245.0,2023-03-02,Marisa y Kuky,Efectivo, ,1,580.0,1191
 7622,5246.0,2023-03-02,Marisa y Kuky,Efectivo, ,1,230.0,1084
 7623,5246.0,2023-03-02,Marisa y Kuky,Efectivo, ,3,9.0,526
-7624,5247.0,2023-03-03,Marisa y Kuky,Efectivo, ,3,1500.0,1199
+7624,5247.0,2023-03-03,Marisa y Kuky,Efectivo, ,3,1500.0,394
 7625,5248.0,2023-03-03,Marisa y Kuky,Efectivo, ,1,100.0,180
 7627,5249.0,2023-03-03,Marisa y Kuky,Efectivo, ,2,540.0,123
 7628,5249.0,2023-03-03,Marisa y Kuky,Efectivo, ,1,380.0,218
@@ -7577,8 +7595,8 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 7640,5255.0,2023-03-03,Marisa y Kuky,Efectivo, ,1,100.0,1070
 7641,5256.0,2023-03-03,Marisa y Kuky,Efectivo,Log In,300,330.0,85
 7642,5257.0,2023-03-03,Marisa y Kuky,Efectivo, ,1,150.0,471
-7643,5258.0,2023-03-03,Marisa y Kuky,Efectivo, ,5,500.0,1197
-7644,5258.0,2023-03-03,Marisa y Kuky,Efectivo, ,2,200.0,1201
+7643,5258.0,2023-03-03,Marisa y Kuky,Efectivo, ,5,500.0,394
+7644,5258.0,2023-03-03,Marisa y Kuky,Efectivo, ,2,200.0,394
 7645,5258.0,2023-03-03,Marisa y Kuky,Efectivo, ,6,180.0,388
 7646,5258.0,2023-03-03,Marisa y Kuky,Efectivo, ,3,150.0,389
 7647,5258.0,2023-03-03,Marisa y Kuky,Efectivo, ,3,90.0,393
@@ -7588,7 +7606,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 7651,5259.0,2023-03-03,Marisa y Kuky,Efectivo,Log In,300,330.0,85
 7652,5259.0,2023-03-03,Marisa y Kuky,Efectivo,Log In,300,330.0,85
 7653,5260.0,2023-03-03,Marisa y Kuky,Efectivo,Log In,500,550.0,85
-7654,5261.0,2023-03-03,Fausto,Efectivo, ,1,100.0,1197
+7654,5261.0,2023-03-03,Fausto,Efectivo, ,1,100.0,394
 7655,5262.0,2023-03-03,Fausto,Efectivo, ,3,30.0,525
 7656,5262.0,2023-03-03,Fausto,Efectivo, ,1,30.0,390
 7657,5263.0,2023-03-03,Fausto,Efectivo, ,1,30.0,393
@@ -7623,7 +7641,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 7686,5281.0,2023-03-03,Marisa y Kuky,Efectivo, ,1,350.0,42
 7687,5282.0,2023-03-03,Marisa y Kuky,Efectivo, ,1,550.0,744
 7688,5283.0,2023-03-03,Marisa y Kuky,Efectivo, ,1,230.0,225
-7689,5284.0,2023-03-03,Marisa y Kuky,Efectivo, ,1,500.0,1199
+7689,5284.0,2023-03-03,Marisa y Kuky,Efectivo, ,1,500.0,394
 7690,5285.0,2023-03-03,Marisa y Kuky,Efectivo, ,1,30.0,390
 7691,5285.0,2023-03-03,Marisa y Kuky,Efectivo,Claro,200,220.0,85
 7692,5286.0,2023-03-03,Marisa y Kuky,Efectivo, ,1,100.0,1
@@ -7672,7 +7690,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 7735,5314.0,2023-03-04,Marisa y Kuky,Efectivo,Log In,1000,1100.0,85
 7736,5315.0,2023-03-04,Marisa y Kuky,Efectivo, ,1,280.0,431
 7737,5315.0,2023-03-04,Marisa y Kuky,Efectivo, ,2,10.0,1089
-7738,5316.0,2023-03-04,Marisa y Kuky,Efectivo, ,1,500.0,1199
+7738,5316.0,2023-03-04,Marisa y Kuky,Efectivo, ,1,500.0,394
 7739,5317.0,2023-03-04,Marisa y Kuky,Efectivo, ,1,200.0,141
 7740,5317.0,2023-03-04,Marisa y Kuky,Efectivo, ,1,250.0,150
 7741,5318.0,2023-03-04,Marisa y Kuky,Efectivo, ,1,300.0,9
@@ -7904,9 +7922,9 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 7969,5463.0,2023-03-06,Marisa y Kuky,Efectivo, ,1,400.0,265
 7970,5464.0,2023-03-06,Marisa y Kuky,Efectivo, ,1,200.0,202
 7971,5465.0,2023-03-06,Marisa y Kuky,Efectivo, ,5,150.0,388
-7972,5466.0,2023-03-06,Marisa y Kuky,Efectivo, ,1,500.0,1199
+7972,5466.0,2023-03-06,Marisa y Kuky,Efectivo, ,1,500.0,394
 7973,5467.0,2023-03-06,Marisa y Kuky,Efectivo, ,1,200.0,59
-7974,5468.0,2023-03-06,Marisa y Kuky,Efectivo, ,1,500.0,1199
+7974,5468.0,2023-03-06,Marisa y Kuky,Efectivo, ,1,500.0,394
 7975,5469.0,2023-03-06,Marisa y Kuky,Efectivo, ,2,40.0,769
 7976,5470.0,2023-03-06,Marisa y Kuky,Efectivo, ,1,450.0,122
 7977,5470.0,2023-03-06,Marisa y Kuky,Efectivo, ,1,160.0,223
@@ -7919,11 +7937,11 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 7984,5477.0,2023-03-06,Fausto,Efectivo, ,1,230.0,1084
 7985,5478.0,2023-03-06,Fausto,Efectivo,Log In,240,270.0,85
 7986,5478.0,2023-03-06,Fausto,Efectivo,Log In,180,200.0,85
-7987,5479.0,2023-03-06,Fausto,Efectivo, ,1,500.0,1199
+7987,5479.0,2023-03-06,Fausto,Efectivo, ,1,500.0,394
 7988,5479.0,2023-03-06,Fausto,Efectivo, ,1,30.0,388
 7989,5480.0,2023-03-06,Fausto,Efectivo, ,3,90.0,388
-7990,5480.0,2023-03-06,Fausto,Efectivo, ,2,1000.0,1199
-7991,5481.0,2023-03-06,Fausto,Efectivo, ,1,500.0,1199
+7990,5480.0,2023-03-06,Fausto,Efectivo, ,2,1000.0,394
+7991,5481.0,2023-03-06,Fausto,Efectivo, ,1,500.0,394
 7992,5481.0,2023-03-06,Fausto,Efectivo, ,4,120.0,388
 7993,5482.0,2023-03-06,Fausto,Efectivo, ,4,40.0,525
 7994,5482.0,2023-03-06,Fausto,Efectivo, ,1,30.0,390
@@ -7940,8 +7958,8 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 8006,5489.0,2023-03-06,Fausto,Efectivo, ,1,20.0,392
 8007,5490.0,2023-03-06,Marisa y Kuky,Efectivo, ,2,600.0,109
 8008,5491.0,2023-03-06,Marisa y Kuky,Efectivo, ,1,200.0,59
-8009,5491.0,2023-03-06,Marisa y Kuky,Efectivo, ,1,500.0,1199
-8010,5492.0,2023-03-06,Marisa y Kuky,Efectivo, ,1,500.0,1199
+8009,5491.0,2023-03-06,Marisa y Kuky,Efectivo, ,1,500.0,394
+8010,5492.0,2023-03-06,Marisa y Kuky,Efectivo, ,1,500.0,394
 8011,5493.0,2023-03-06,Marisa y Kuky,Efectivo, ,1,250.0,441
 8012,5493.0,2023-03-06,Marisa y Kuky,Efectivo, ,1,180.0,629
 8013,5493.0,2023-03-06,Marisa y Kuky,Efectivo, ,1,380.0,588
@@ -7953,7 +7971,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 8019,5497.0,2023-03-06,Marisa y Kuky,Efectivo, ,1,20.0,392
 8020,5498.0,2023-03-06,Marisa y Kuky,Efectivo,Log In,150,170.0,85
 8021,5498.0,2023-03-06,Marisa y Kuky,Efectivo,Log In,1,100.0,1040
-8022,5499.0,2023-03-06,Marisa y Kuky,Efectivo, ,1,500.0,1199
+8022,5499.0,2023-03-06,Marisa y Kuky,Efectivo, ,1,500.0,394
 8023,5500.0,2023-03-06,Marisa y Kuky,Efectivo, ,1,280.0,27
 8024,5500.0,2023-03-06,Marisa y Kuky,Efectivo, ,1,100.0,1040
 8025,5501.0,2023-03-06,Marisa y Kuky,Efectivo,Log In,500,550.0,85
@@ -7961,11 +7979,11 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 8027,5502.0,2023-03-06,Marisa y Kuky,Efectivo, ,1,20.0,392
 8028,5503.0,2023-03-06,Marisa y Kuky,Efectivo,Log In,2000,2200.0,85
 8029,5504.0,2023-03-06,Marisa y Kuky,Efectivo, ,1,30.0,388
-8030,5504.0,2023-03-06,Marisa y Kuky,Efectivo, ,1,100.0,1197
+8030,5504.0,2023-03-06,Marisa y Kuky,Efectivo, ,1,100.0,394
 8031,5504.0,2023-03-06,Marisa y Kuky,Efectivo,Log In,700,770.0,85
-8032,5505.0,2023-03-06,Marisa y Kuky,Efectivo, ,1,500.0,1199
+8032,5505.0,2023-03-06,Marisa y Kuky,Efectivo, ,1,500.0,394
 8033,5506.0,2023-03-06,Marisa y Kuky,Efectivo, ,2,480.0,225
-8034,5507.0,2023-03-06,Marisa y Kuky,Efectivo, ,1,100.0,1197
+8034,5507.0,2023-03-06,Marisa y Kuky,Efectivo, ,1,100.0,394
 8035,5508.0,2023-03-06,Marisa y Kuky,Efectivo, ,1,300.0,673
 8036,5509.0,2023-03-06,Marisa y Kuky,Efectivo,Log In,300,330.0,85
 8037,5510.0,2023-03-06,Marisa y Kuky,Efectivo, ,1,150.0,563
@@ -8011,9 +8029,9 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 8077,5537.0,2023-03-07,Marisa y Kuky,Efectivo, ,1,200.0,717
 8078,5538.0,2023-03-07,Marisa y Kuky,Efectivo, ,1,30.0,388
 8079,5538.0,2023-03-07,Marisa y Kuky,Efectivo, ,2,40.0,392
-8080,5539.0,2023-03-07,Marisa y Kuky,Efectivo, ,1,500.0,1199
+8080,5539.0,2023-03-07,Marisa y Kuky,Efectivo, ,1,500.0,394
 8081,5540.0,2023-03-07,Marisa y Kuky,Efectivo,Log In,200,220.0,85
-8082,5541.0,2023-03-07,Marisa y Kuky,Efectivo, ,1,500.0,1199
+8082,5541.0,2023-03-07,Marisa y Kuky,Efectivo, ,1,500.0,394
 8083,5542.0,2023-03-07,Fausto,Efectivo, ,1,300.0,673
 8084,5542.0,2023-03-07,Fausto,Efectivo, ,2,10.0,1089
 8085,5542.0,2023-03-07,Fausto,Efectivo, ,1,50.0,389
@@ -8026,7 +8044,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 8092,5546.0,2023-03-07,Fausto,Efectivo, ,2,200.0,548
 8093,5547.0,2023-03-07,Fausto,Efectivo, ,1,280.0,26
 8094,5548.0,2023-03-07,Fausto,Efectivo, ,1,230.0,225
-8095,5549.0,2023-03-07,Fausto,Efectivo, ,1,500.0,1199
+8095,5549.0,2023-03-07,Fausto,Efectivo, ,1,500.0,394
 8096,5550.0,2023-03-07,Fausto,Efectivo, ,1,30.0,388
 8097,5550.0,2023-03-07,Fausto,Efectivo, ,1,30.0,393
 8098,5550.0,2023-03-07,Fausto,Efectivo, ,1,30.0,390
@@ -8184,7 +8202,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 8254,5657.0,2023-03-08,Marisa y Kuky,Efectivo, ,1,580.0,209
 8255,5657.0,2023-03-08,Marisa y Kuky,Efectivo, ,1,550.0,488
 8256,5658.0,2023-03-08,Marisa y Kuky,Efectivo, ,2,520.0,89
-8257,5659.0,2023-03-09,Marisa y Kuky,Efectivo, ,1,300.0,1206
+8257,5659.0,2023-03-09,Marisa y Kuky,Efectivo, ,1,300.0,394
 8258,5659.0,2023-03-09,Marisa y Kuky,Efectivo, ,4,120.0,388
 8259,5659.0,2023-03-09,Marisa y Kuky,Efectivo, ,3,60.0,392
 8262,5660.0,2023-03-09,Marisa y Kuky,Efectivo, ,1,400.0,923
@@ -8196,8 +8214,8 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 8268,5663.0,2023-03-09,Marisa y Kuky,Efectivo, ,1,250.0,430
 8269,5664.0,2023-03-09,Marisa y Kuky,Efectivo,Log In,650,720.0,85
 8270,5664.0,2023-03-09,Marisa y Kuky,Efectivo,Log In,400,440.0,85
-8271,5665.0,2023-03-09,Marisa y Kuky,Efectivo, ,1,500.0,1199
-8272,5665.0,2023-03-09,Marisa y Kuky,Efectivo, ,1,1000.0,1203
+8271,5665.0,2023-03-09,Marisa y Kuky,Efectivo, ,1,500.0,394
+8272,5665.0,2023-03-09,Marisa y Kuky,Efectivo, ,1,1000.0,394
 8273,5666.0,2023-03-09,Marisa y Kuky,Efectivo, ,3,90.0,388
 8274,5666.0,2023-03-09,Marisa y Kuky,Efectivo, ,1,50.0,389
 8275,5667.0,2023-03-09,Marisa y Kuky,Efectivo, ,9,180.0,392
@@ -8230,16 +8248,16 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 8302,5689.0,2023-03-09,Marisa y Kuky,Efectivo, ,1,200.0,417
 8303,5689.0,2023-03-09,Marisa y Kuky,Efectivo, ,1,280.0,26
 8304,5690.0,2023-03-09,Marisa y Kuky,Efectivo, ,1,350.0,208
-8305,5691.0,2023-03-09,Marisa y Kuky,Efectivo, ,1,500.0,1199
-8306,5691.0,2023-03-09,Marisa y Kuky,Efectivo, ,1,100.0,1197
+8305,5691.0,2023-03-09,Marisa y Kuky,Efectivo, ,1,500.0,394
+8306,5691.0,2023-03-09,Marisa y Kuky,Efectivo, ,1,100.0,394
 8307,5691.0,2023-03-09,Marisa y Kuky,Efectivo, ,1,30.0,388
 8308,5691.0,2023-03-09,Marisa y Kuky,Efectivo, ,1,50.0,389
 8309,5102.0,2023-02-28,Marisa y Kuky,Efectivo, ,1,450.0,23
 8310,5693.0,2023-03-09,Marisa y Kuky,Mercado Pago, ,2,760.0,627
 8311,5693.0,2023-03-09,Marisa y Kuky,Mercado Pago, ,1,200.0,417
-8312,5694.0,2023-03-09,Marisa y Kuky,Efectivo, ,1,500.0,1199
+8312,5694.0,2023-03-09,Marisa y Kuky,Efectivo, ,1,500.0,394
 8313,5695.0,2023-03-09,Marisa y Kuky,Efectivo, ,1,350.0,208
-8314,5696.0,2023-03-09,Marisa y Kuky,Efectivo, ,1,500.0,1199
+8314,5696.0,2023-03-09,Marisa y Kuky,Efectivo, ,1,500.0,394
 8315,5697.0,2023-03-09,Marisa y Kuky,Efectivo,Claro,300,330.0,85
 8316,5698.0,2023-03-09,Marisa y Kuky,Efectivo, ,4,200.0,389
 8317,5698.0,2023-03-09,Marisa y Kuky,Efectivo, ,2,60.0,687
@@ -8301,7 +8319,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 8373,5738.0,2023-03-10,Fausto,Efectivo, ,1,30.0,388
 8374,5739.0,2023-03-10,Fausto,Efectivo, ,1,240.0,1075
 8375,5739.0,2023-03-10,Fausto,Efectivo, ,1,230.0,516
-8376,5740.0,2023-03-10,Fausto,Efectivo, ,3,1500.0,1199
+8376,5740.0,2023-03-10,Fausto,Efectivo, ,3,1500.0,394
 8377,5741.0,2023-03-10,Fausto,Efectivo,Log In,200,220.0,85
 8378,5742.0,2023-03-10,Fausto,Efectivo, ,1,30.0,388
 8379,5743.0,2023-03-10,Fausto,Efectivo, ,1,150.0,585
@@ -8628,10 +8646,10 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 8701,5965.0,2023-03-13,Fausto,Efectivo, ,1,30.0,388
 8702,5966.0,2023-03-13,Fausto,Efectivo,Claro,800,880.0,85
 8703,5967.0,2023-03-13,Fausto,Efectivo, ,1,30.0,388
-8704,5968.0,2023-03-13,Fausto,Efectivo, ,1,500.0,1199
+8704,5968.0,2023-03-13,Fausto,Efectivo, ,1,500.0,394
 8705,5969.0,2023-03-13,Fausto,Efectivo,Log In,120,140.0,85
 8706,5970.0,2023-03-13,Fausto,Efectivo,Log In,600,660.0,85
-8707,5971.0,2023-03-13,Fausto,Efectivo, ,1,100.0,1197
+8707,5971.0,2023-03-13,Fausto,Efectivo, ,1,100.0,394
 8708,5971.0,2023-03-13,Fausto,Efectivo, ,1,30.0,388
 8709,5972.0,2023-03-13,Fausto,Efectivo,Log In,180,200.0,85
 8710,5972.0,2023-03-13,Fausto,Efectivo,Log In,270,300.0,85
@@ -8647,7 +8665,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 8720,5980.0,2023-03-13,Fausto,Efectivo, ,1,30.0,310
 8721,5980.0,2023-03-13,Fausto,Efectivo, ,6,120.0,392
 8722,5981.0,2023-03-13,Fausto,Efectivo, ,2,100.0,389
-8723,5981.0,2023-03-13,Fausto,Efectivo, ,1,500.0,1199
+8723,5981.0,2023-03-13,Fausto,Efectivo, ,1,500.0,394
 8724,5982.0,2023-03-13,Fausto,Efectivo, ,1,150.0,1113
 8725,5983.0,2023-03-13,Fausto,Efectivo, ,1,420.0,597
 8726,5984.0,2023-03-13,Fausto,Efectivo, ,1,450.0,499
@@ -8657,9 +8675,9 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 8730,5986.0,2023-03-13,Fausto,Efectivo, ,1,580.0,220
 8731,5987.0,2023-03-13,Fausto,Efectivo, ,1,280.0,217
 8732,5987.0,2023-03-13,Marisa y Kuky,Efectivo, ,1,100.0,1125
-8733,5988.0,2023-03-13,Marisa y Kuky,Efectivo, ,1,100.0,1197
-8734,5988.0,2023-03-13,Marisa y Kuky,Efectivo, ,6,3000.0,1199
-8735,5988.0,2023-03-13,Marisa y Kuky,Efectivo, ,1,100.0,1201
+8733,5988.0,2023-03-13,Marisa y Kuky,Efectivo, ,1,100.0,394
+8734,5988.0,2023-03-13,Marisa y Kuky,Efectivo, ,6,3000.0,394
+8735,5988.0,2023-03-13,Marisa y Kuky,Efectivo, ,1,100.0,394
 8736,5989.0,2023-03-13,Marisa y Kuky,Efectivo, ,1,200.0,844
 8737,5989.0,2023-03-13,Marisa y Kuky,Efectivo, ,1,100.0,748
 8738,5990.0,2023-03-13,Marisa y Kuky,Efectivo, ,1,630.0,219
@@ -8707,7 +8725,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 8782,6025.0,2023-03-14,Fausto,Efectivo, ,1,30.0,390
 8783,6025.0,2023-03-14,Fausto,Efectivo, ,2,20.0,525
 8784,6026.0,2023-03-14,Fausto,Efectivo, ,5,100.0,392
-8785,6027.0,2023-03-14,Fausto,Efectivo, ,1,1000.0,1205
+8785,6027.0,2023-03-14,Fausto,Efectivo, ,1,1000.0,394
 8786,6028.0,2023-03-14,Fausto,Efectivo, ,2,70.0,776
 8787,6029.0,2023-03-14,Fausto,Efectivo, ,4,120.0,388
 8788,6029.0,2023-03-14,Fausto,Efectivo, ,1,50.0,389
@@ -8723,7 +8741,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 8798,6035.0,2023-03-14,Fausto,Efectivo, ,1,100.0,1076
 8799,6036.0,2023-03-14,Fausto,Debito, ,2,760.0,627
 8800,6036.0,2023-03-14,Fausto,Debito, ,1,200.0,417
-8801,6037.0,2023-03-14,Fausto,Efectivo, ,1,100.0,1197
+8801,6037.0,2023-03-14,Fausto,Efectivo, ,1,100.0,394
 8802,6038.0,2023-03-14,Fausto,Efectivo, ,1,30.0,388
 8803,6038.0,2023-03-14,Fausto,Efectivo,Log In,500,550.0,85
 8804,6039.0,2023-03-14,Fausto,Efectivo, ,1,400.0,464
@@ -8735,7 +8753,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 8810,6042.0,2023-03-14,Fausto,Efectivo, ,1,580.0,220
 8811,6043.0,2023-03-14,Fausto,Efectivo, ,2,60.0,388
 8812,6044.0,2023-03-14,Fausto,Efectivo, ,2,60.0,390
-8813,6045.0,2023-03-14,Fausto,Efectivo, ,1,1000.0,1205
+8813,6045.0,2023-03-14,Fausto,Efectivo, ,1,1000.0,394
 8814,6046.0,2023-03-14,Fausto,Efectivo, ,1,500.0,1027
 8815,6047.0,2023-03-14,Fausto,Efectivo, ,1,30.0,388
 8816,6048.0,2023-03-14,Fausto,Efectivo, ,3,150.0,389
@@ -8744,7 +8762,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 8819,6051.0,2023-03-14,Fausto,Efectivo, ,1,150.0,1112
 8820,6052.0,2023-03-14,Fausto,Efectivo, ,1,240.0,1075
 8821,6052.0,2023-03-14,Fausto,Efectivo, ,1,30.0,390
-8822,6053.0,2023-03-14,Fausto,Efectivo, ,1,500.0,1199
+8822,6053.0,2023-03-14,Fausto,Efectivo, ,1,500.0,394
 8823,6054.0,2023-03-14,Fausto,Efectivo, ,1,300.0,217
 8824,6055.0,2023-03-14,Fausto,Efectivo, ,1,0.0,30
 8825,6055.0,2023-03-14,Fausto,Efectivo, ,1,0.0,614
@@ -8767,12 +8785,12 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 8842,6064.0,2023-03-14,Marisa y Kuky,Efectivo, ,1,350.0,208
 8843,5843.0,2023-03-11,Fausto,Efectivo, ,1,450.0,23
 8844,6065.0,2023-03-14,Marisa y Kuky,Efectivo, ,2,300.0,174
-8845,6066.0,2023-03-14,Marisa y Kuky,Efectivo, ,3,300.0,1197
+8845,6066.0,2023-03-14,Marisa y Kuky,Efectivo, ,3,300.0,394
 8846,6067.0,2023-03-14,Marisa y Kuky,Efectivo, ,1,20.0,392
 8847,6067.0,2023-03-14,Marisa y Kuky,Efectivo, ,1,30.0,388
 8848,6068.0,2023-03-14,Marisa y Kuky,Efectivo, ,2,60.0,388
 8849,6068.0,2023-03-14,Marisa y Kuky,Efectivo, ,1,50.0,389
-8850,6068.0,2023-03-14,Marisa y Kuky,Efectivo, ,1,100.0,1197
+8850,6068.0,2023-03-14,Marisa y Kuky,Efectivo, ,1,100.0,394
 8851,6068.0,2023-03-14,Marisa y Kuky,Efectivo, ,1,20.0,392
 8852,6069.0,2023-03-14,Marisa y Kuky,Efectivo, ,1,640.0,216
 8853,6070.0,2023-03-14,Marisa y Kuky,Efectivo,Log In,470,520.0,85
@@ -8845,9 +8863,9 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 8920,6120.0,2023-03-15,Marisa y Kuky,Efectivo,Log In,720,800.0,85
 8921,6121.0,2023-03-15,Marisa y Kuky,Efectivo, ,1,230.0,400
 8922,6121.0,2023-03-15,Marisa y Kuky,Efectivo, ,1,250.0,462
-8923,6122.0,2023-03-15,Marisa y Kuky,Efectivo, ,1,500.0,1199
-8924,6122.0,2023-03-15,Marisa y Kuky,Efectivo, ,1,500.0,1199
-8925,6123.0,2023-03-15,Marisa y Kuky,Efectivo, ,1,100.0,1197
+8923,6122.0,2023-03-15,Marisa y Kuky,Efectivo, ,1,500.0,394
+8924,6122.0,2023-03-15,Marisa y Kuky,Efectivo, ,1,500.0,394
+8925,6123.0,2023-03-15,Marisa y Kuky,Efectivo, ,1,100.0,394
 8926,6123.0,2023-03-15,Marisa y Kuky,Efectivo, ,3,90.0,388
 8927,6123.0,2023-03-15,Marisa y Kuky,Efectivo, ,2,40.0,392
 8928,6123.0,2023-03-15,Marisa y Kuky,Efectivo, ,1,30.0,393
@@ -8864,8 +8882,8 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 8939,6129.0,2023-03-15,Marisa y Kuky,Efectivo, ,1,20.0,392
 8940,6129.0,2023-03-15,Marisa y Kuky,Efectivo, ,1,260.0,89
 8941,6130.0,2023-03-15,Marisa y Kuky,Efectivo,Log In,500,550.0,85
-8942,6131.0,2023-03-15,Fausto,Efectivo, ,1,500.0,1199
-8943,6131.0,2023-03-15,Fausto,Efectivo, ,1,100.0,1197
+8942,6131.0,2023-03-15,Fausto,Efectivo, ,1,500.0,394
+8943,6131.0,2023-03-15,Fausto,Efectivo, ,1,100.0,394
 8944,6132.0,2023-03-15,Fausto,Efectivo,Log In,500,550.0,85
 8945,6133.0,2023-03-15,Fausto,Efectivo, ,1,380.0,510
 8946,6133.0,2023-03-15,Fausto,Efectivo, ,1,100.0,1125
@@ -8889,7 +8907,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 8964,6147.0,2023-03-15,Marisa y Kuky,Efectivo, ,1,100.0,561
 8965,6148.0,2023-03-15,Marisa y Kuky,Efectivo,Log In,300,330.0,85
 8966,6149.0,2023-03-15,Marisa y Kuky,Efectivo, ,1,100.0,1125
-8967,6150.0,2023-03-15,Marisa y Kuky,Efectivo, ,1,500.0,1199
+8967,6150.0,2023-03-15,Marisa y Kuky,Efectivo, ,1,500.0,394
 8968,6151.0,2023-03-15,Marisa y Kuky,Efectivo, ,1,400.0,215
 8969,6151.0,2023-03-15,Marisa y Kuky,Efectivo, ,1,280.0,27
 8970,6152.0,2023-03-15,Marisa y Kuky,Efectivo,Log In,400,440.0,85
@@ -8901,11 +8919,11 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 8976,6157.0,2023-03-15,Marisa y Kuky,Efectivo, ,4,2800.0,97
 8977,6157.0,2023-03-15,Marisa y Kuky,Efectivo, ,1,550.0,488
 8978,6157.0,2023-03-15,Marisa y Kuky,Efectivo, ,1,100.0,548
-8979,6158.0,2023-03-15,Marisa y Kuky,Efectivo, ,1,500.0,1199
-8980,6158.0,2023-03-15,Marisa y Kuky,Efectivo, ,1,500.0,1199
+8979,6158.0,2023-03-15,Marisa y Kuky,Efectivo, ,1,500.0,394
+8980,6158.0,2023-03-15,Marisa y Kuky,Efectivo, ,1,500.0,394
 8981,6159.0,2023-03-15,Marisa y Kuky,Efectivo, ,3,150.0,389
 8982,6160.0,2023-03-15,Marisa y Kuky,Efectivo, ,1,580.0,220
-8983,6161.0,2023-03-15,Marisa y Kuky,Efectivo, ,2,1000.0,1199
+8983,6161.0,2023-03-15,Marisa y Kuky,Efectivo, ,2,1000.0,394
 8984,6161.0,2023-03-15,Marisa y Kuky,Efectivo, ,2,60.0,388
 8985,6162.0,2023-03-15,Marisa y Kuky,Efectivo, ,2,500.0,319
 8986,6162.0,2023-03-15,Marisa y Kuky,Efectivo, ,1,300.0,204
@@ -8934,7 +8952,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 9009,6173.0,2023-03-16,Marisa y Kuky,Efectivo, ,2,80.0,776
 9010,6174.0,2023-03-16,Marisa y Kuky,Efectivo, ,1,30.0,388
 9011,6175.0,2023-03-16,Marisa y Kuky,Efectivo, ,1,100.0,562
-9012,6176.0,2023-03-16,Marisa y Kuky,Efectivo, ,1,100.0,1197
+9012,6176.0,2023-03-16,Marisa y Kuky,Efectivo, ,1,100.0,394
 9013,6177.0,2023-03-16,Marisa y Kuky,Efectivo, ,1,30.0,390
 9014,6177.0,2023-03-16,Marisa y Kuky,Efectivo, ,1,20.0,392
 9015,6177.0,2023-03-16,Marisa y Kuky,Efectivo, ,1,30.0,393
@@ -8947,8 +8965,8 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 9023,6181.0,2023-03-16,Marisa y Kuky,Efectivo, ,1,20.0,392
 9024,6182.0,2023-03-16,Marisa y Kuky,Efectivo, ,1,30.0,687
 9025,6182.0,2023-03-16,Marisa y Kuky,Efectivo, ,1,30.0,388
-9026,6182.0,2023-03-16,Marisa y Kuky,Efectivo, ,1,100.0,1197
-9027,6183.0,2023-03-16,Marisa y Kuky,Efectivo, ,1,500.0,1199
+9026,6182.0,2023-03-16,Marisa y Kuky,Efectivo, ,1,100.0,394
+9027,6183.0,2023-03-16,Marisa y Kuky,Efectivo, ,1,500.0,394
 9028,6183.0,2023-03-16,Marisa y Kuky,Efectivo,Log In,500,550.0,85
 9029,6183.0,2023-03-16,Marisa y Kuky,Efectivo,Log In,500,550.0,85
 9030,6184.0,2023-03-16,Marisa y Kuky,Efectivo, ,1,100.0,568
@@ -8964,7 +8982,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 9040,6189.0,2023-03-16,Marisa y Kuky,Efectivo, ,2,40.0,392
 9041,6190.0,2023-03-16,Marisa y Kuky,Efectivo, ,2,60.0,388
 9042,6191.0,2023-03-16,Marisa y Kuky,Efectivo, ,1,640.0,213
-9043,6192.0,2023-03-16,Marisa y Kuky,Efectivo, ,1,500.0,1199
+9043,6192.0,2023-03-16,Marisa y Kuky,Efectivo, ,1,500.0,394
 9044,6193.0,2023-03-16,Marisa y Kuky,Efectivo, ,1,20.0,392
 9045,6193.0,2023-03-16,Marisa y Kuky,Efectivo, ,1,30.0,393
 9046,6194.0,2023-03-16,Fausto,Efectivo, ,1,30.0,390
@@ -8988,7 +9006,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 9064,6206.0,2023-03-16,Marisa y Kuky,Efectivo, ,1,430.0,212
 9065,6207.0,2023-03-16,Marisa y Kuky,Efectivo, ,2,80.0,776
 9066,6208.0,2023-03-16,Marisa y Kuky,Efectivo, ,1,30.0,388
-9067,6209.0,2023-03-16,Marisa y Kuky,Efectivo, ,1,100.0,1201
+9067,6209.0,2023-03-16,Marisa y Kuky,Efectivo, ,1,100.0,394
 9069,6210.0,2023-03-16,Marisa y Kuky,Efectivo, ,1,100.0,548
 9070,6211.0,2023-03-16,Marisa y Kuky,Efectivo, ,1,280.0,30
 9071,6211.0,2023-03-16,Marisa y Kuky,Efectivo, ,5,100.0,392
@@ -9039,7 +9057,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 9116,6244.0,2023-03-17,Marisa y Kuky,Efectivo,Log In,1000,1100.0,85
 9117,6245.0,2023-03-17,Marisa y Kuky,Efectivo, ,1,250.0,444
 9118,6245.0,2023-03-17,Marisa y Kuky,Efectivo, ,2,60.0,388
-9119,6246.0,2023-03-17,Marisa y Kuky,Efectivo, ,1,500.0,1199
+9119,6246.0,2023-03-17,Marisa y Kuky,Efectivo, ,1,500.0,394
 9120,6247.0,2023-03-17,Marisa y Kuky,Efectivo, ,1,100.0,10
 9121,6247.0,2023-03-17,Marisa y Kuky,Efectivo, ,1,300.0,205
 9122,6248.0,2023-03-17,Fausto,Efectivo, ,1,400.0,206
@@ -9055,7 +9073,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 9132,5932.0,2023-03-12,Marisa y Kuky,Efectivo, ,1,450.0,23
 9133,6257.0,2023-03-17,Fausto,Efectivo,Log In,150,170.0,85
 9134,6258.0,2023-03-17,Fausto,Efectivo, ,2,40.0,392
-9135,6259.0,2023-03-17,Fausto,Efectivo, ,1,500.0,1199
+9135,6259.0,2023-03-17,Fausto,Efectivo, ,1,500.0,394
 9136,6260.0,2023-03-17,Fausto,Efectivo, ,1,50.0,321
 9137,6260.0,2023-03-17,Fausto,Efectivo, ,1,150.0,585
 9138,6261.0,2023-03-17,Fausto,Efectivo, ,1,30.0,390
@@ -9139,7 +9157,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 9216,6325.0,2023-03-18,Marisa y Kuky,Efectivo,Claro,100,110.0,85
 9217,6326.0,2023-03-18,Marisa y Kuky,Efectivo, ,1,550.0,494
 9218,6327.0,2023-03-18,Marisa y Kuky,Efectivo, ,1,230.0,397
-9219,6328.0,2023-03-18,Marisa y Kuky,Efectivo, ,1,500.0,1199
+9219,6328.0,2023-03-18,Marisa y Kuky,Efectivo, ,1,500.0,394
 9220,6329.0,2023-03-18,Marisa y Kuky,Efectivo, ,1,100.0,1
 9221,6330.0,2023-03-18,Marisa y Kuky,Efectivo, ,1,450.0,21
 9222,6331.0,2023-03-18,Marisa y Kuky,Efectivo, ,1,150.0,565
@@ -9236,15 +9254,15 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 9314,6385.0,2023-03-20,Marisa y Kuky,Efectivo, ,1,300.0,217
 9315,6385.0,2023-03-20,Marisa y Kuky,Efectivo, ,1,150.0,1112
 9316,6386.0,2023-03-20,Marisa y Kuky,Efectivo,Claro,300,330.0,85
-9317,6387.0,2023-03-20,Marisa y Kuky,Efectivo, ,2,1000.0,1199
+9317,6387.0,2023-03-20,Marisa y Kuky,Efectivo, ,2,1000.0,394
 9318,6388.0,2023-03-20,Marisa y Kuky,Efectivo, ,8,160.0,392
 9319,6389.0,2023-03-20,Marisa y Kuky,Efectivo, ,15,450.0,390
 9320,6389.0,2023-03-20,Marisa y Kuky,Efectivo, ,1,30.0,687
 9321,6390.0,2023-03-20,Marisa y Kuky,Efectivo, ,1,50.0,687
-9322,6391.0,2023-03-20,Marisa y Kuky,Efectivo, ,1,500.0,1199
-9323,6392.0,2023-03-20,Marisa y Kuky,Efectivo, ,1,500.0,1199
+9322,6391.0,2023-03-20,Marisa y Kuky,Efectivo, ,1,500.0,394
+9323,6392.0,2023-03-20,Marisa y Kuky,Efectivo, ,1,500.0,394
 9324,6393.0,2023-03-20,Marisa y Kuky,Efectivo, ,1,300.0,217
-9325,6394.0,2023-03-20,Marisa y Kuky,Efectivo, ,1,1000.0,1203
+9325,6394.0,2023-03-20,Marisa y Kuky,Efectivo, ,1,1000.0,394
 9326,6394.0,2023-03-20,Marisa y Kuky,Efectivo, ,2,60.0,388
 9327,6395.0,2023-03-20,Marisa y Kuky,Efectivo, ,1,100.0,10
 9328,6396.0,2023-03-20,Marisa y Kuky,Efectivo, ,1,30.0,388
@@ -9263,7 +9281,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 9341,6404.0,2023-03-20,Fausto,Efectivo, ,1,550.0,488
 9342,6405.0,2023-03-20,Fausto,Efectivo, ,3,60.0,392
 9343,6406.0,2023-03-20,Fausto,Efectivo, ,1,100.0,1125
-9344,6407.0,2023-03-20,Fausto,Efectivo, ,1,500.0,1199
+9344,6407.0,2023-03-20,Fausto,Efectivo, ,1,500.0,394
 9345,6408.0,2023-03-20,Fausto,Efectivo, ,1,450.0,1127
 9346,6409.0,2023-03-20,Fausto,Debito, ,1,300.0,30
 9347,6409.0,2023-03-20,Fausto,Debito, ,1,100.0,674
@@ -9287,7 +9305,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 9365,6421.0,2023-03-20,Marisa y Kuky,Efectivo, ,1,550.0,488
 9366,6422.0,2023-03-20,Marisa y Kuky,Efectivo, ,1,20.0,392
 9367,6422.0,2023-03-20,Marisa y Kuky,Efectivo, ,1,30.0,388
-9368,6423.0,2023-03-20,Marisa y Kuky,Efectivo, ,1,500.0,1199
+9368,6423.0,2023-03-20,Marisa y Kuky,Efectivo, ,1,500.0,394
 9369,6424.0,2023-03-20,Marisa y Kuky,Efectivo, ,2,200.0,561
 9370,6424.0,2023-03-20,Marisa y Kuky,Efectivo, ,1,100.0,562
 9372,6426.0,2023-03-20,Marisa y Kuky,Efectivo,Log In,800,880.0,85
@@ -9304,7 +9322,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 9383,6436.0,2023-03-20,Marisa y Kuky,Efectivo, ,1,300.0,205
 9384,6437.0,2023-03-20,Marisa y Kuky,Efectivo, ,1,0.0,611
 9385,6437.0,2023-03-20,Marisa y Kuky,Efectivo,Log In,1440,1590.0,85
-9386,6437.0,2023-03-20,Marisa y Kuky,Efectivo,Log In,1,500.0,1199
+9386,6437.0,2023-03-20,Marisa y Kuky,Efectivo,Log In,1,500.0,394
 9387,6438.0,2023-03-20,Marisa y Kuky,Efectivo, ,1,250.0,1029
 9388,6438.0,2023-03-20,Marisa y Kuky,Efectivo, ,1,400.0,492
 9389,6439.0,2023-03-20,Marisa y Kuky,Efectivo, ,1,280.0,123
@@ -9346,7 +9364,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 9425,6461.0,2023-03-21,Marisa y Kuky,Efectivo, ,1,100.0,1
 9426,6462.0,2023-03-21,Marisa y Kuky,Efectivo, ,1,20.0,392
 9427,6463.0,2023-03-21,Marisa y Kuky,Efectivo, ,40,800.0,392
-9428,6464.0,2023-03-21,Marisa y Kuky,Efectivo, ,1,500.0,1199
+9428,6464.0,2023-03-21,Marisa y Kuky,Efectivo, ,1,500.0,394
 9429,6464.0,2023-03-21,Marisa y Kuky,Efectivo, ,2,100.0,389
 9430,6464.0,2023-03-21,Marisa y Kuky,Efectivo, ,4,120.0,388
 9431,6464.0,2023-03-21,Marisa y Kuky,Efectivo, ,2,100.0,687
@@ -9365,25 +9383,25 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 9444,6472.0,2023-03-21,Fausto,Efectivo, ,8,80.0,525
 9445,6472.0,2023-03-21,Fausto,Efectivo, ,1,30.0,388
 9446,6472.0,2023-03-21,Fausto,Efectivo, ,1,20.0,392
-9447,6472.0,2023-03-21,Fausto,Efectivo, ,1,100.0,1197
-9448,6473.0,2023-03-21,Fausto,Efectivo, ,1,500.0,1199
+9447,6472.0,2023-03-21,Fausto,Efectivo, ,1,100.0,394
+9448,6473.0,2023-03-21,Fausto,Efectivo, ,1,500.0,394
 9449,6474.0,2023-03-21,Fausto,Efectivo, ,1,530.0,90
 9450,6474.0,2023-03-21,Fausto,Efectivo,Log In,100,110.0,85
 9451,6474.0,2023-03-21,Fausto,Efectivo,Log In,100,110.0,85
 9452,6475.0,2023-03-21,Fausto,Efectivo, ,1,180.0,1045
 9453,6475.0,2023-03-21,Fausto,Efectivo,Log In,300,330.0,85
-9454,6476.0,2023-03-21,Fausto,Efectivo, ,1,500.0,1199
+9454,6476.0,2023-03-21,Fausto,Efectivo, ,1,500.0,394
 9455,6477.0,2023-03-21,Fausto,Efectivo,Claro,400,440.0,85
 9456,6478.0,2023-03-21,Fausto,Efectivo, ,1,300.0,205
 9457,6479.0,2023-03-21,Fausto,Efectivo, ,1,300.0,204
-9458,6480.0,2023-03-21,Fausto,Efectivo, ,1,500.0,1199
+9458,6480.0,2023-03-21,Fausto,Efectivo, ,1,500.0,394
 9459,6481.0,2023-03-21,Fausto,Efectivo, ,4,120.0,388
 9460,6482.0,2023-03-21,Marisa y Kuky,Efectivo, ,1,30.0,388
-9461,6483.0,2023-03-21,Marisa y Kuky,Efectivo, ,1,1000.0,1196
-9462,6483.0,2023-03-21,Marisa y Kuky,Efectivo, ,1,500.0,1199
+9461,6483.0,2023-03-21,Marisa y Kuky,Efectivo, ,1,1000.0,394
+9462,6483.0,2023-03-21,Marisa y Kuky,Efectivo, ,1,500.0,394
 9463,6484.0,2023-03-21,Marisa y Kuky,Efectivo, ,1,550.0,1180
 9464,6484.0,2023-03-21,Marisa y Kuky,Efectivo, ,1,40.0,1093
-9465,6485.0,2023-03-21,Marisa y Kuky,Efectivo, ,1,500.0,1199
+9465,6485.0,2023-03-21,Marisa y Kuky,Efectivo, ,1,500.0,394
 9466,6486.0,2023-03-21,Marisa y Kuky,Efectivo, ,3,90.0,556
 9467,6486.0,2023-03-21,Marisa y Kuky,Efectivo, ,2,40.0,392
 9468,6487.0,2023-03-21,Marisa y Kuky,Efectivo,Log In,700,770.0,85
@@ -9408,7 +9426,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 9487,6501.0,2023-03-21,Marisa y Kuky,Efectivo, ,1,120.0,300
 9488,6501.0,2023-03-21,Marisa y Kuky,Efectivo, ,1,30.0,229
 9489,6502.0,2023-03-21,Marisa y Kuky,Efectivo, ,1,400.0,517
-9490,6503.0,2023-03-21,Marisa y Kuky,Efectivo, ,9,4500.0,1199
+9490,6503.0,2023-03-21,Marisa y Kuky,Efectivo, ,9,4500.0,394
 9491,6504.0,2023-03-21,Marisa y Kuky,Efectivo, ,1,400.0,492
 9492,6505.0,2023-03-21,Marisa y Kuky,Efectivo, ,2,300.0,1146
 9493,6506.0,2023-03-21,Marisa y Kuky,Efectivo, ,1,200.0,501
@@ -9429,12 +9447,12 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 9508,6517.0,2023-03-22,Marisa y Kuky,Efectivo, ,1,20.0,392
 9509,6518.0,2023-03-22,Marisa y Kuky,Efectivo, ,2,60.0,388
 9510,6518.0,2023-03-22,Marisa y Kuky,Efectivo, ,2,40.0,392
-9511,6519.0,2023-03-22,Marisa y Kuky,Efectivo, ,5,500.0,1201
+9511,6519.0,2023-03-22,Marisa y Kuky,Efectivo, ,5,500.0,394
 9512,6519.0,2023-03-22,Marisa y Kuky,Efectivo, ,5,100.0,392
 9513,6520.0,2023-03-22,Marisa y Kuky,Efectivo, ,1,100.0,674
 9514,6521.0,2023-03-22,Marisa y Kuky,Efectivo, ,1,380.0,577
 9515,6522.0,2023-03-22,Marisa y Kuky,Efectivo, ,1,100.0,10
-9516,6523.0,2023-03-22,Marisa y Kuky,Efectivo, ,1,1500.0,1194
+9516,6523.0,2023-03-22,Marisa y Kuky,Efectivo, ,1,1500.0,394
 9517,6524.0,2023-03-22,Marisa y Kuky,Efectivo,Log In,100,110.0,85
 9518,6524.0,2023-03-22,Marisa y Kuky,Efectivo,Log In,500,550.0,85
 9519,6524.0,2023-03-22,Marisa y Kuky,Efectivo,Log In,1000,1100.0,85
@@ -9502,9 +9520,9 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 9581,6568.0,2023-03-23,Marisa y Kuky,Efectivo, ,1,230.0,516
 9582,6568.0,2023-03-23,Marisa y Kuky,Efectivo, ,2,60.0,390
 9583,6569.0,2023-03-23,Marisa y Kuky,Efectivo, ,1,300.0,204
-9584,6570.0,2023-03-23,Marisa y Kuky,Efectivo, ,1,500.0,1199
-9585,6570.0,2023-03-23,Marisa y Kuky,Efectivo, ,1,100.0,1201
-9586,6570.0,2023-03-23,Marisa y Kuky,Efectivo, ,1,100.0,1197
+9584,6570.0,2023-03-23,Marisa y Kuky,Efectivo, ,1,500.0,394
+9585,6570.0,2023-03-23,Marisa y Kuky,Efectivo, ,1,100.0,394
+9586,6570.0,2023-03-23,Marisa y Kuky,Efectivo, ,1,100.0,394
 9587,6570.0,2023-03-23,Marisa y Kuky,Efectivo, ,1,300.0,204
 9588,6570.0,2023-03-23,Marisa y Kuky,Efectivo, ,1,30.0,388
 9589,6571.0,2023-03-23,Marisa y Kuky,Efectivo, ,4,1120.0,123
@@ -9745,7 +9763,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 9826,6744.0,2023-03-26,Marisa y Kuky,Efectivo, ,1,30.0,388
 9827,6744.0,2023-03-26,Marisa y Kuky,Efectivo, ,7,70.0,525
 9828,6745.0,2023-03-26,Marisa y Kuky,Efectivo, ,2,600.0,217
-9829,6746.0,2023-03-26,Marisa y Kuky,Efectivo, ,1,100.0,1197
+9829,6746.0,2023-03-26,Marisa y Kuky,Efectivo, ,1,100.0,394
 9830,6746.0,2023-03-26,Marisa y Kuky,Efectivo,Log In,300,330.0,85
 9831,6746.0,2023-03-26,Marisa y Kuky,Efectivo, ,5,100.0,228
 9832,6747.0,2023-03-26,Marisa y Kuky,Efectivo, ,17,510.0,390
@@ -9782,7 +9800,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 9863,6771.0,2023-03-27,Marisa y Kuky,Efectivo, ,1,380.0,627
 9864,6771.0,2023-03-27,Marisa y Kuky,Efectivo, ,1,150.0,471
 9865,6772.0,2023-03-27,Marisa y Kuky,Efectivo, ,1,300.0,204
-9866,6772.0,2023-03-27,Marisa y Kuky,Efectivo, ,1,500.0,1199
+9866,6772.0,2023-03-27,Marisa y Kuky,Efectivo, ,1,500.0,394
 9867,6773.0,2023-03-27,Marisa y Kuky,Efectivo, ,1,150.0,10
 9868,6774.0,2023-03-27,Marisa y Kuky,Efectivo, ,1,50.0,389
 9869,6775.0,2023-03-27,Marisa y Kuky,Efectivo, ,1,50.0,687
@@ -9819,20 +9837,20 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 9900,6798.0,2023-03-27,Fausto,Efectivo,Log In,450,500.0,85
 9901,6799.0,2023-03-27,Fausto,Efectivo, ,2,60.0,390
 9902,6800.0,2023-03-27,Fausto,Efectivo, ,2,100.0,355
-9903,6801.0,2023-03-27,Fausto,Efectivo, ,2,1000.0,1199
-9904,6801.0,2023-03-27,Fausto,Efectivo, ,1,100.0,1201
+9903,6801.0,2023-03-27,Fausto,Efectivo, ,2,1000.0,394
+9904,6801.0,2023-03-27,Fausto,Efectivo, ,1,100.0,394
 9905,6802.0,2023-03-27,Fausto,Efectivo, ,1,270.0,129
 9906,6802.0,2023-03-27,Fausto,Efectivo, ,3,30.0,525
 9907,6803.0,2023-03-27,Fausto,Efectivo, ,2,60.0,388
 9908,6803.0,2023-03-27,Fausto,Efectivo, ,1,30.0,393
 9909,6804.0,2023-03-27,Fausto,Efectivo, ,1,300.0,109
-9910,6805.0,2023-03-27,Fausto,Efectivo, ,1,500.0,1199
-9911,6805.0,2023-03-27,Fausto,Efectivo, ,1,100.0,1197
+9910,6805.0,2023-03-27,Fausto,Efectivo, ,1,500.0,394
+9911,6805.0,2023-03-27,Fausto,Efectivo, ,1,100.0,394
 9912,6806.0,2023-03-27,Fausto,Efectivo, ,6,30.0,526
 9913,6807.0,2023-03-27,Fausto,Efectivo, ,2,60.0,388
 9914,6807.0,2023-03-27,Fausto,Efectivo, ,1,20.0,392
-9915,6808.0,2023-03-27,Marisa y Kuky,Efectivo, ,1,500.0,1199
-9916,6808.0,2023-03-27,Marisa y Kuky,Efectivo, ,1,100.0,1201
+9915,6808.0,2023-03-27,Marisa y Kuky,Efectivo, ,1,500.0,394
+9916,6808.0,2023-03-27,Marisa y Kuky,Efectivo, ,1,100.0,394
 9917,6808.0,2023-03-27,Marisa y Kuky,Efectivo, ,1,230.0,490
 9918,6809.0,2023-03-27,Marisa y Kuky,Efectivo, ,1,400.0,1095
 9919,6809.0,2023-03-27,Marisa y Kuky,Efectivo, ,1,350.0,932
@@ -9848,7 +9866,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 9929,6631.0,2023-03-24,Fausto,Efectivo, ,1,450.0,23
 9930,6816.0,2023-03-27,Marisa y Kuky,Efectivo, ,1,400.0,410
 9931,6817.0,2023-03-27,Marisa y Kuky,Efectivo, ,1,150.0,10
-9932,6818.0,2023-03-27,Marisa y Kuky,Efectivo, ,1,500.0,1199
+9932,6818.0,2023-03-27,Marisa y Kuky,Efectivo, ,1,500.0,394
 9933,6819.0,2023-03-27,Marisa y Kuky,Efectivo, ,3,150.0,389
 9934,6819.0,2023-03-27,Marisa y Kuky,Efectivo, ,1,20.0,392
 9935,6820.0,2023-03-27,Marisa y Kuky,Efectivo, ,2,60.0,388
@@ -9867,12 +9885,12 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 9948,6829.0,2023-03-27,Marisa y Kuky,Efectivo, ,2,100.0,389
 9949,6829.0,2023-03-27,Marisa y Kuky,Efectivo, ,2,60.0,388
 9950,6830.0,2023-03-27,Marisa y Kuky,Efectivo, ,2,40.0,392
-9951,6830.0,2023-03-27,Marisa y Kuky,Efectivo, ,1,500.0,1199
-9952,6830.0,2023-03-27,Marisa y Kuky,Efectivo, ,1,100.0,1201
-9953,6830.0,2023-03-27,Marisa y Kuky,Efectivo, ,1,100.0,1197
+9951,6830.0,2023-03-27,Marisa y Kuky,Efectivo, ,1,500.0,394
+9952,6830.0,2023-03-27,Marisa y Kuky,Efectivo, ,1,100.0,394
+9953,6830.0,2023-03-27,Marisa y Kuky,Efectivo, ,1,100.0,394
 9954,6831.0,2023-03-27,Marisa y Kuky,Efectivo, ,1,120.0,300
 9955,6831.0,2023-03-27,Marisa y Kuky,Efectivo, ,1,60.0,379
-9956,6832.0,2023-03-27,Marisa y Kuky,Efectivo, ,2,1000.0,1199
+9956,6832.0,2023-03-27,Marisa y Kuky,Efectivo, ,2,1000.0,394
 9957,6833.0,2023-03-27,Marisa y Kuky,Efectivo, ,1,300.0,217
 9958,6834.0,2023-03-28,Marisa y Kuky,Efectivo, ,1,20.0,392
 9959,6834.0,2023-03-28,Marisa y Kuky,Efectivo, ,8,80.0,525
@@ -9885,8 +9903,8 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 9966,6837.0,2023-03-28,Marisa y Kuky,Efectivo, ,1,30.0,393
 9967,6838.0,2023-03-28,Marisa y Kuky,Efectivo, ,2,60.0,390
 9968,6838.0,2023-03-28,Marisa y Kuky,Efectivo, ,7,140.0,392
-9969,6839.0,2023-03-28,Marisa y Kuky,Efectivo, ,2,1000.0,1199
-9970,6839.0,2023-03-28,Marisa y Kuky,Efectivo, ,1,1000.0,1205
+9969,6839.0,2023-03-28,Marisa y Kuky,Efectivo, ,2,1000.0,394
+9970,6839.0,2023-03-28,Marisa y Kuky,Efectivo, ,1,1000.0,394
 9971,6840.0,2023-03-28,Marisa y Kuky,Efectivo,Log In,450,500.0,85
 9972,6841.0,2023-03-28,Marisa y Kuky,Efectivo,Log In,500,550.0,85
 9973,6841.0,2023-03-28,Marisa y Kuky,Efectivo,Log In,180,200.0,85
@@ -9898,7 +9916,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 9979,6845.0,2023-03-28,Marisa y Kuky,Efectivo, ,8,240.0,390
 9980,6845.0,2023-03-28,Marisa y Kuky,Efectivo,Log In,500,550.0,85
 9981,6845.0,2023-03-28,Marisa y Kuky,Efectivo,Log In,1,30.0,388
-9982,6845.0,2023-03-28,Marisa y Kuky,Efectivo,Log In,2,200.0,1201
+9982,6845.0,2023-03-28,Marisa y Kuky,Efectivo,Log In,2,200.0,394
 9983,6845.0,2023-03-28,Marisa y Kuky,Efectivo,Log In,2,100.0,389
 9984,6846.0,2023-03-28,Fausto,Efectivo,Log In,1000,1100.0,85
 9985,6847.0,2023-03-28,Fausto,Efectivo, ,10,100.0,525
@@ -9927,7 +9945,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 10008,6862.0,2023-03-28,Marisa y Kuky,Efectivo, ,1,0.0,578
 10009,6863.0,2023-03-28,Marisa y Kuky,Efectivo,Log In,900,1000.0,85
 10010,6864.0,2023-03-28,Marisa y Kuky,Efectivo, ,1,30.0,390
-10011,6865.0,2023-03-28,Marisa y Kuky,Efectivo, ,1000,1000.0,394
+10011,6865.0,2023-03-28,Marisa y Kuky,Efectivo, ,2,1000.0,394
 10012,6866.0,2023-03-28,Marisa y Kuky,Efectivo, ,2,100.0,703
 10013,6867.0,2023-03-28,Marisa y Kuky,Efectivo, ,3,840.0,123
 10014,6868.0,2023-03-28,Marisa y Kuky,Efectivo, ,1,300.0,217
@@ -9985,22 +10003,22 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 10066,6905.0,2023-03-29,Fausto,Efectivo, ,1,550.0,488
 10067,6906.0,2023-03-29,Fausto,Efectivo,Claro,200,220.0,85
 10068,6767.0,2023-03-26,Marisa y Kuky,Efectivo, ,1,450.0,23
-10069,6908.0,2023-03-29,Marisa y Kuky,Efectivo, ,1,100.0,1197
+10069,6908.0,2023-03-29,Marisa y Kuky,Efectivo, ,1,100.0,394
 10070,6908.0,2023-03-29,Marisa y Kuky,Efectivo, ,2,60.0,388
 10071,6908.0,2023-03-29,Marisa y Kuky,Efectivo, ,1,30.0,390
 10072,6909.0,2023-03-29,Marisa y Kuky,Efectivo, ,1,300.0,30
 10073,6909.0,2023-03-29,Marisa y Kuky,Efectivo, ,1,20.0,228
 10074,6910.0,2023-03-29,Marisa y Kuky,Efectivo, ,1,70.0,606
 10075,6911.0,2023-03-29,Marisa y Kuky,Efectivo, ,1,700.0,97
-10076,6912.0,2023-03-29,Marisa y Kuky,Efectivo, ,2,200.0,1197
-10077,6912.0,2023-03-29,Marisa y Kuky,Efectivo, ,2,1000.0,1199
+10076,6912.0,2023-03-29,Marisa y Kuky,Efectivo, ,2,200.0,394
+10077,6912.0,2023-03-29,Marisa y Kuky,Efectivo, ,2,1000.0,394
 10078,6913.0,2023-03-29,Marisa y Kuky,Efectivo,Log In,270,300.0,85
 10079,6914.0,2023-03-29,Marisa y Kuky,Efectivo, ,25,500.0,392
-10080,6915.0,2023-03-29,Marisa y Kuky,Efectivo, ,1,500.0,1199
+10080,6915.0,2023-03-29,Marisa y Kuky,Efectivo, ,1,500.0,394
 10081,6916.0,2023-03-29,Marisa y Kuky,Efectivo, ,9,180.0,392
 10082,6916.0,2023-03-29,Marisa y Kuky,Efectivo, ,1,230.0,496
 10083,6916.0,2023-03-29,Marisa y Kuky,Efectivo, ,1,50.0,321
-10084,6917.0,2023-03-29,Marisa y Kuky,Efectivo, ,1,500.0,1199
+10084,6917.0,2023-03-29,Marisa y Kuky,Efectivo, ,1,500.0,394
 10085,6918.0,2023-03-29,Marisa y Kuky,Mercado Pago, ,1,730.0,214
 10086,6918.0,2023-03-29,Marisa y Kuky,Mercado Pago, ,1,400.0,260
 10087,6919.0,2023-03-29,Marisa y Kuky,Efectivo,Log In,100,110.0,85
@@ -10017,8 +10035,8 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 10098,6923.0,2023-03-29,Marisa y Kuky,Efectivo, ,1,30.0,390
 10099,6923.0,2023-03-29,Marisa y Kuky,Efectivo, ,1,400.0,492
 10100,6924.0,2023-03-29,Marisa y Kuky,Efectivo,Log In,100,110.0,85
-10101,6925.0,2023-03-29,Marisa y Kuky,Efectivo, ,1,500.0,1199
-10102,6926.0,2023-03-29,Marisa y Kuky,Efectivo, ,2,1000.0,1199
+10101,6925.0,2023-03-29,Marisa y Kuky,Efectivo, ,1,500.0,394
+10102,6926.0,2023-03-29,Marisa y Kuky,Efectivo, ,2,1000.0,394
 10103,6927.0,2023-03-29,Marisa y Kuky,Efectivo, ,1,150.0,482
 10104,6928.0,2023-03-29,Marisa y Kuky,Efectivo,Log In,270,300.0,85
 10105,6929.0,2023-03-29,Marisa y Kuky,Efectivo, ,1,450.0,469
@@ -10105,7 +10123,6 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 10186,6987.0,2023-03-31,Marisa y Kuky,Efectivo, ,3,30.0,525
 10187,6988.0,2023-03-31,Marisa y Kuky,Efectivo, ,1,100.0,562
 10188,6989.0,2023-03-31,Marisa y Kuky,Efectivo, ,13,390.0,390
-10189,6990.0,2023-03-31,Marisa y Kuky,Efectivo, ,1,1000.0,1202
 10190,6991.0,2023-03-31,Marisa y Kuky,Efectivo, ,1,80.0,688
 10191,6991.0,2023-03-31,Marisa y Kuky,Efectivo, ,1,30.0,388
 10192,6991.0,2023-03-31,Marisa y Kuky,Efectivo, ,2,40.0,392
@@ -10115,9 +10132,9 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 10196,6992.0,2023-03-31,Marisa y Kuky,Efectivo, ,4,120.0,388
 10197,6992.0,2023-03-31,Marisa y Kuky,Efectivo, ,2,100.0,389
 10198,6992.0,2023-03-31,Marisa y Kuky,Efectivo, ,3,150.0,389
-10199,6993.0,2023-03-31,Marisa y Kuky,Efectivo, ,1,500.0,1199
+10199,6993.0,2023-03-31,Marisa y Kuky,Efectivo, ,1,500.0,394
 10200,6993.0,2023-03-31,Marisa y Kuky,Efectivo, ,1,30.0,388
-10201,6993.0,2023-03-31,Marisa y Kuky,Efectivo, ,1,100.0,1197
+10201,6993.0,2023-03-31,Marisa y Kuky,Efectivo, ,1,100.0,394
 10202,6993.0,2023-03-31,Marisa y Kuky,Efectivo, ,1,50.0,687
 10203,6994.0,2023-03-31,Marisa y Kuky,Efectivo, ,1,630.0,216
 10204,6995.0,2023-03-31,Marisa y Kuky,Efectivo, ,1,30.0,388
@@ -10243,7 +10260,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 10325,7076.0,2023-04-01,Marisa y Kuky,Efectivo, ,1,150.0,479
 10326,7076.0,2023-04-01,Marisa y Kuky,Efectivo, ,1,260.0,89
 10327,7077.0,2023-04-01,Marisa y Kuky,Efectivo, ,2,900.0,122
-10328,7078.0,2023-04-01,Marisa y Kuky,Efectivo, ,500,1000.0,1199
+10328,7078.0,2023-04-01,Marisa y Kuky,Efectivo, ,500,1000.0,394
 10329,7079.0,2023-04-01,Marisa y Kuky,Efectivo, ,1,150.0,479
 10330,7079.0,2023-04-01,Marisa y Kuky,Efectivo, ,5,50.0,525
 10331,7080.0,2023-04-01,Marisa y Kuky,Efectivo, ,1,400.0,42
@@ -10278,8 +10295,8 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 10360,7101.0,2023-04-01,Marisa y Kuky,Efectivo, ,1,300.0,205
 10361,7101.0,2023-04-01,Marisa y Kuky,Efectivo, ,1,150.0,565
 10362,7102.0,2023-04-01,Marisa y Kuky,Efectivo, ,1,20.0,228
-10363,7103.0,2023-04-01,Marisa y Kuky,Efectivo, ,500,500.0,394
-10364,7104.0,2023-04-01,Marisa y Kuky,Efectivo, ,500,500.0,394
+10363,7103.0,2023-04-01,Marisa y Kuky,Efectivo, ,1,500.0,394
+10364,7104.0,2023-04-01,Marisa y Kuky,Efectivo, ,1,500.0,394
 10365,7105.0,2023-04-01,Marisa y Kuky,Efectivo, ,1,370.0,206
 10366,7105.0,2023-04-01,Marisa y Kuky,Efectivo, ,3,30.0,525
 10367,7106.0,2023-04-01,Marisa y Kuky,Efectivo, ,1,100.0,552
@@ -10385,7 +10402,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 10468,7182.0,2023-04-03,Marisa y Kuky,Efectivo, ,1,30.0,388
 10469,7183.0,2023-04-03,Marisa y Kuky,Efectivo, ,1,500.0,122
 10470,7184.0,2023-04-03,Marisa y Kuky,Efectivo, ,5,150.0,390
-10471,7184.0,2023-04-03,Marisa y Kuky,Efectivo, ,1,500.0,1199
+10471,7184.0,2023-04-03,Marisa y Kuky,Efectivo, ,1,500.0,394
 10472,7185.0,2023-04-03,Marisa y Kuky,Efectivo, ,4,80.0,392
 10473,7186.0,2023-04-03,Fausto,Efectivo,Log In,150,170.0,85
 10474,7187.0,2023-04-03,Fausto,Efectivo, ,1,150.0,591
@@ -10413,7 +10430,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 10496,7203.0,2023-04-03,Marisa y Kuky,Efectivo, ,1,150.0,482
 10497,7204.0,2023-04-03,Marisa y Kuky,Efectivo, ,2,360.0,455
 10498,7204.0,2023-04-03,Marisa y Kuky,Efectivo, ,1,50.0,698
-10499,7205.0,2023-04-03,Marisa y Kuky,Efectivo, ,1,500.0,1199
+10499,7205.0,2023-04-03,Marisa y Kuky,Efectivo, ,1,500.0,394
 10500,7206.0,2023-04-03,Marisa y Kuky,Efectivo, ,18,540.0,390
 10501,7206.0,2023-04-03,Marisa y Kuky,Efectivo, ,1,50.0,687
 10502,7207.0,2023-04-03,Marisa y Kuky,Efectivo, ,1,100.0,674
@@ -10430,7 +10447,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 10513,7214.0,2023-04-03,Marisa y Kuky,Efectivo, ,1,0.0,471
 10514,7215.0,2023-04-03,Marisa y Kuky,Efectivo, ,2,200.0,191
 10515,7216.0,2023-04-03,Marisa y Kuky,Efectivo, ,2,200.0,191
-10516,7216.0,2023-04-03,Marisa y Kuky,Efectivo, ,2,1000.0,1199
+10516,7216.0,2023-04-03,Marisa y Kuky,Efectivo, ,2,1000.0,394
 10517,7217.0,2023-04-03,Marisa y Kuky,Efectivo, ,1,200.0,1128
 10518,7217.0,2023-04-03,Marisa y Kuky,Efectivo, ,1,150.0,565
 10519,7217.0,2023-04-03,Marisa y Kuky,Efectivo, ,1,300.0,30
@@ -10463,16 +10480,16 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 10546,7235.0,2023-04-04,Marisa y Kuky,Efectivo,Log In,100,110.0,85
 10547,7235.0,2023-04-04,Marisa y Kuky,Efectivo,Log In,100,110.0,85
 10548,7236.0,2023-04-04,Marisa y Kuky,Efectivo,Log In,1000,1100.0,85
-10549,7236.0,2023-04-04,Marisa y Kuky,Efectivo, ,2,1000.0,1199
+10549,7236.0,2023-04-04,Marisa y Kuky,Efectivo, ,2,1000.0,394
 10550,7237.0,2023-04-04,Marisa y Kuky,Efectivo, ,1,900.0,1148
 10551,7237.0,2023-04-04,Marisa y Kuky,Efectivo,Log In,540,600.0,85
-10552,7238.0,2023-04-04,Marisa y Kuky,Efectivo, ,1,500.0,1199
+10552,7238.0,2023-04-04,Marisa y Kuky,Efectivo, ,1,500.0,394
 10553,7239.0,2023-04-04,Marisa y Kuky,Efectivo, ,1,30.0,388
 10554,7239.0,2023-04-04,Marisa y Kuky,Efectivo, ,4,120.0,393
 10555,7239.0,2023-04-04,Marisa y Kuky,Efectivo, ,1,100.0,1065
 10556,7240.0,2023-04-04,Marisa y Kuky,Efectivo, ,1,30.0,388
 10557,7241.0,2023-04-04,Marisa y Kuky,Efectivo,Log In,200,220.0,85
-10558,7242.0,2023-04-04,Fausto,Efectivo, ,2,200.0,1197
+10558,7242.0,2023-04-04,Fausto,Efectivo, ,2,200.0,394
 10559,7242.0,2023-04-04,Fausto,Efectivo, ,2,60.0,388
 10560,7243.0,2023-04-04,Fausto,Efectivo, ,1,0.0,1155
 10561,7244.0,2023-04-04,Fausto,Efectivo, ,1,630.0,213
@@ -10488,7 +10505,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 10571,7250.0,2023-04-04,Marisa y Kuky,Efectivo, ,1,0.0,839
 10572,7251.0,2023-04-04,Marisa y Kuky,Efectivo, ,3,90.0,388
 10573,7251.0,2023-04-04,Marisa y Kuky,Efectivo, ,2,10.0,526
-10574,7252.0,2023-04-04,Marisa y Kuky,Efectivo, ,1,500.0,1199
+10574,7252.0,2023-04-04,Marisa y Kuky,Efectivo, ,1,500.0,394
 10575,7253.0,2023-04-04,Marisa y Kuky,Efectivo,Log In,2000,2200.0,85
 10576,7254.0,2023-04-04,Marisa y Kuky,Efectivo, ,2,100.0,698
 10577,7255.0,2023-04-04,Marisa y Kuky,Efectivo, ,1,400.0,256
@@ -10892,7 +10909,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 10977,7557.0,2023-04-10,Marisa y Kuky,Efectivo, ,3,90.0,388
 10978,7557.0,2023-04-10,Marisa y Kuky,Efectivo, ,1,20.0,392
 10979,7558.0,2023-04-10,Marisa y Kuky,Efectivo,Log In,300,330.0,85
-10980,7558.0,2023-04-10,Marisa y Kuky,Efectivo,Log In,1,500.0,1199
+10980,7558.0,2023-04-10,Marisa y Kuky,Efectivo,Log In,1,500.0,394
 10981,7558.0,2023-04-10,Marisa y Kuky,Efectivo,Log In,1,50.0,559
 10982,7559.0,2023-04-10,Marisa y Kuky,Efectivo,Log In,300,330.0,85
 10983,7559.0,2023-04-10,Marisa y Kuky,Efectivo,Log In,200,220.0,85
@@ -10905,7 +10922,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 10990,7563.0,2023-04-10,Marisa y Kuky,Efectivo,Log In,300,330.0,85
 10991,7564.0,2023-04-10,Marisa y Kuky,Efectivo, ,1,30.0,388
 10992,7565.0,2023-04-10,Marisa y Kuky,Efectivo,Log In,200,220.0,85
-10993,7566.0,2023-04-10,Marisa y Kuky,Efectivo, ,1,500.0,1199
+10993,7566.0,2023-04-10,Marisa y Kuky,Efectivo, ,1,500.0,394
 10994,7566.0,2023-04-10,Marisa y Kuky,Efectivo, ,1,30.0,388
 10995,7566.0,2023-04-10,Marisa y Kuky,Efectivo, ,1,40.0,393
 10996,7567.0,2023-04-10,Marisa y Kuky,Efectivo, ,1,150.0,10
@@ -10916,12 +10933,12 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 11001,7570.0,2023-04-10,Marisa y Kuky,Efectivo, ,1,300.0,30
 11002,7571.0,2023-04-10,Marisa y Kuky,Efectivo, ,1,700.0,214
 11003,7571.0,2023-04-10,Marisa y Kuky,Efectivo, ,1,150.0,10
-11004,7572.0,2023-04-10,Marisa y Kuky,Efectivo, ,1,1000.0,1196
+11004,7572.0,2023-04-10,Marisa y Kuky,Efectivo, ,1,1000.0,394
 11005,7573.0,2023-04-10,Fausto,Efectivo, ,6,180.0,390
 11006,7573.0,2023-04-10,Fausto,Efectivo, ,1,50.0,687
 11007,7574.0,2023-04-10,Fausto,Efectivo, ,1,450.0,620
 11008,7575.0,2023-04-10,Fausto,Efectivo,Log In,500,550.0,85
-11009,7576.0,2023-04-10,Fausto,Efectivo, ,1,500.0,1199
+11009,7576.0,2023-04-10,Fausto,Efectivo, ,1,500.0,394
 11010,7577.0,2023-04-10,Fausto,Efectivo,Log In,300,330.0,85
 11011,7578.0,2023-04-10,Fausto,Efectivo, ,2,200.0,665
 11012,7579.0,2023-04-10,Fausto,Efectivo,Log In,300,330.0,85
@@ -10939,8 +10956,8 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 11024,7589.0,2023-04-10,Fausto,Efectivo, ,1,0.0,1045
 11025,7391.0,2023-04-07,Marisa y Kuky,Efectivo, ,1,450.0,23
 11026,7590.0,2023-04-10,Fausto,Efectivo, ,1,150.0,567
-11027,7591.0,2023-04-10,Fausto,boton_efectivo, ,2,100.0,389
-11028,7591.0,2023-04-10,Fausto,boton_efectivo, ,8,240.0,390
+11027,7591.0,2023-04-10,Fausto,Efectivo, ,2,100.0,389
+11028,7591.0,2023-04-10,Fausto,Efectivo, ,8,240.0,390
 11029,7592.0,2023-04-10,Fausto,Efectivo, ,1,100.0,1070
 11030,7593.0,2023-04-10,Marisa y Kuky,Efectivo, ,1,300.0,217
 11031,7594.0,2023-04-10,Marisa y Kuky,Efectivo,Log In,100,11.0,85
@@ -10953,7 +10970,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 11038,7599.0,2023-04-10,Marisa y Kuky,Efectivo, ,1,50.0,700
 11039,7599.0,2023-04-10,Marisa y Kuky,Efectivo, ,3,90.0,390
 11040,7600.0,2023-04-10,Marisa y Kuky,Efectivo, ,1,570.0,220
-11041,7601.0,2023-04-10,Marisa y Kuky,Efectivo, ,2,1000.0,1199
+11041,7601.0,2023-04-10,Marisa y Kuky,Efectivo, ,2,1000.0,394
 11042,7602.0,2023-04-11,Marisa y Kuky,Efectivo, ,1,30.0,388
 11043,7602.0,2023-04-11,Marisa y Kuky,Efectivo, ,1,20.0,392
 11044,7603.0,2023-04-11,Marisa y Kuky,Debito, ,1,250.0,653
@@ -10965,13 +10982,13 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 11050,7607.0,2023-04-11,Marisa y Kuky,Efectivo, ,1,130.0,552
 11051,7608.0,2023-04-11,Marisa y Kuky,Efectivo, ,1,250.0,4
 11052,7609.0,2023-04-11,Marisa y Kuky,Efectivo, ,1,500.0,122
-11053,7610.0,2023-04-11,Marisa y Kuky,Efectivo, ,1,500.0,1199
+11053,7610.0,2023-04-11,Marisa y Kuky,Efectivo, ,1,500.0,394
 11054,7611.0,2023-04-11,Marisa y Kuky,Efectivo, ,1,320.0,638
 11055,7611.0,2023-04-11,Marisa y Kuky,Efectivo, ,1,320.0,638
 11056,7612.0,2023-04-11,Marisa y Kuky,Efectivo, ,1,300.0,205
 11057,7400.0,2023-04-07,Fausto,Efectivo, ,1,450.0,23
 11058,7613.0,2023-04-11,Marisa y Kuky,Efectivo, ,1,30.0,388
-11059,7613.0,2023-04-11,Marisa y Kuky,Efectivo, ,1,500.0,1199
+11059,7613.0,2023-04-11,Marisa y Kuky,Efectivo, ,1,500.0,394
 11060,7614.0,2023-04-11,Fausto,Efectivo, ,1,550.0,741
 11061,7615.0,2023-04-11,Fausto,Efectivo, ,1,20.0,392
 11062,7616.0,2023-04-11,Fausto,Efectivo, ,1,0.0,548
@@ -10984,7 +11001,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 11069,7623.0,2023-04-11,Fausto,Efectivo, ,1,400.0,39
 11070,7624.0,2023-04-11,Fausto,Efectivo, ,2,660.0,114
 11071,7625.0,2023-04-11,Marisa y Kuky,Efectivo, ,1,320.0,109
-11072,7626.0,2023-04-11,Marisa y Kuky,Efectivo, ,1,500.0,1199
+11072,7626.0,2023-04-11,Marisa y Kuky,Efectivo, ,1,500.0,394
 11073,7627.0,2023-04-11,Marisa y Kuky,Efectivo, ,1,150.0,10
 11074,7628.0,2023-04-11,Marisa y Kuky,Efectivo, ,2,640.0,88
 11075,7629.0,2023-04-11,Marisa y Kuky,Efectivo, ,1,70.0,354
@@ -11041,11 +11058,11 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 11126,7658.0,2023-04-12,Marisa y Kuky,Efectivo, ,4,120.0,388
 11127,7659.0,2023-04-12,Marisa y Kuky,Efectivo, ,1,20.0,392
 11129,7659.0,2023-04-12,Marisa y Kuky,Efectivo, ,1,30.0,388
-11130,7660.0,2023-04-12,Marisa y Kuky,Efectivo, ,1,500.0,1199
+11130,7660.0,2023-04-12,Marisa y Kuky,Efectivo, ,1,500.0,394
 11131,7661.0,2023-04-12,Fausto,Efectivo, ,1,230.0,516
 11132,7662.0,2023-04-12,Fausto,Efectivo,Log In,1000,1100.0,85
-11133,7663.0,2023-04-12,Fausto,Efectivo, ,1,500.0,1199
-11134,7664.0,2023-04-12,Fausto,Efectivo, ,2,1000.0,1199
+11133,7663.0,2023-04-12,Fausto,Efectivo, ,1,500.0,394
+11134,7664.0,2023-04-12,Fausto,Efectivo, ,2,1000.0,394
 11135,7665.0,2023-04-12,Fausto,Efectivo, ,2,60.0,388
 11136,7665.0,2023-04-12,Fausto,Efectivo, ,6,120.0,392
 11137,7666.0,2023-04-12,Fausto,Efectivo, ,1,30.0,388
@@ -11054,7 +11071,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 11140,7667.0,2023-04-12,Fausto,Efectivo, ,3,150.0,389
 11141,7668.0,2023-04-12,Fausto,Efectivo, ,2,60.0,388
 11142,7668.0,2023-04-12,Fausto,Efectivo, ,1,30.0,390
-11143,7668.0,2023-04-12,Fausto,Efectivo, ,1,100.0,1197
+11143,7668.0,2023-04-12,Fausto,Efectivo, ,1,100.0,394
 11144,7668.0,2023-04-12,Fausto,Efectivo, ,1,50.0,687
 11145,7635.0,2023-04-11,Marisa y Kuky,Efectivo, ,1,450.0,23
 11146,7670.0,2023-04-12,Fausto,Efectivo,Log In,200,220.0,85
@@ -11094,7 +11111,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 11181,7695.0,2023-04-12,Marisa y Kuky,Efectivo, ,1,400.0,497
 11182,7695.0,2023-04-12,Marisa y Kuky,Efectivo, ,1,250.0,4
 11183,7696.0,2023-04-12,Marisa y Kuky,Efectivo, ,1,370.0,208
-11184,7697.0,2023-04-12,Marisa y Kuky,Efectivo, ,1,500.0,1199
+11184,7697.0,2023-04-12,Marisa y Kuky,Efectivo, ,1,500.0,394
 11185,7697.0,2023-04-12,Marisa y Kuky,Efectivo, ,1,100.0,1
 11186,7698.0,2023-04-12,Marisa y Kuky,Efectivo,Log In,600,660.0,85
 11187,7699.0,2023-04-12,Marisa y Kuky,Efectivo, ,1,0.0,1180
@@ -11132,7 +11149,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 11219,7727.0,2023-04-13,Marisa y Kuky,Efectivo, ,1,360.0,762
 11220,7728.0,2023-04-13,Marisa y Kuky,Efectivo, ,1,400.0,478
 11221,7729.0,2023-04-13,Marisa y Kuky,Efectivo, ,1,30.0,388
-11222,7729.0,2023-04-13,Marisa y Kuky,Efectivo, ,1,400.0,1206
+11222,7729.0,2023-04-13,Marisa y Kuky,Efectivo, ,1,400.0,394
 11223,7730.0,2023-04-13,Marisa y Kuky,Efectivo,Log In,300,330.0,85
 11224,7730.0,2023-04-13,Marisa y Kuky,Efectivo,Log In,2,200.0,193
 11225,7730.0,2023-04-13,Marisa y Kuky,Efectivo,Log In,1,40.0,556
@@ -11140,7 +11157,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 11227,7732.0,2023-04-13,Marisa y Kuky,Efectivo, ,4,280.0,611
 11228,7733.0,2023-04-13,Marisa y Kuky,Efectivo, ,1,150.0,567
 11229,7733.0,2023-04-13,Marisa y Kuky,Efectivo, ,8,240.0,390
-11230,7734.0,2023-04-13,Marisa y Kuky,Efectivo, ,2,1000.0,1199
+11230,7734.0,2023-04-13,Marisa y Kuky,Efectivo, ,2,1000.0,394
 11231,7735.0,2023-04-13,Marisa y Kuky,Efectivo,Log In,500,550.0,85
 11232,7736.0,2023-04-13,Marisa y Kuky,Efectivo, ,1,370.0,208
 11233,7737.0,2023-04-13,Marisa y Kuky,Efectivo, ,1,750.0,1165
@@ -11166,7 +11183,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 11253,7749.0,2023-04-14,Marisa y Kuky,Efectivo, ,1,320.0,224
 11254,7750.0,2023-04-14,Marisa y Kuky,Efectivo, ,1,30.0,388
 11255,7751.0,2023-04-14,Marisa y Kuky,Efectivo, ,2,60.0,388
-11256,7751.0,2023-04-14,Marisa y Kuky,Efectivo, ,1,100.0,1197
+11256,7751.0,2023-04-14,Marisa y Kuky,Efectivo, ,1,100.0,394
 11257,7752.0,2023-04-14,Marisa y Kuky,Efectivo, ,1,350.0,1089
 11258,7752.0,2023-04-14,Marisa y Kuky,Efectivo, ,3,60.0,392
 11259,7753.0,2023-04-14,Marisa y Kuky,Efectivo, ,2,160.0,703
@@ -11371,14 +11388,13 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 11458,7893.0,2023-04-17,Marisa y Kuky,Efectivo, ,1,0.0,623
 11459,7894.0,2023-04-17,Fausto,Efectivo, ,1,30.0,388
 11460,7895.0,2023-04-17,Fausto,Efectivo, ,1,80.0,688
-11461,7895.0,2023-04-17,Fausto,Efectivo, ,4,200.0,1200
 11462,7896.0,2023-04-17,Fausto,Efectivo,Log In,330,370.0,85
 11463,7897.0,2023-04-17,Fausto,Efectivo, ,1,30.0,390
 11464,7898.0,2023-04-17,Fausto,Efectivo, ,1,30.0,390
 11465,7899.0,2023-04-17,Fausto,Efectivo, ,1,150.0,591
 11466,7899.0,2023-04-17,Fausto,Efectivo, ,1,130.0,179
 11467,7899.0,2023-04-17,Fausto,Efectivo, ,1,180.0,1052
-11468,7900.0,2023-04-17,Fausto,Efectivo, ,1,100.0,1201
+11468,7900.0,2023-04-17,Fausto,Efectivo, ,1,100.0,394
 11469,7900.0,2023-04-17,Fausto,Efectivo, ,1,80.0,1066
 11470,7901.0,2023-04-17,Fausto,Efectivo,Log In,190,210.0,85
 11471,7902.0,2023-04-17,Fausto,Efectivo, ,1,400.0,42
@@ -11390,7 +11406,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 11479,7909.0,2023-04-17,Fausto,Efectivo, ,1,180.0,455
 11480,7909.0,2023-04-17,Fausto,Efectivo, ,1,200.0,661
 11481,7910.0,2023-04-17,Fausto,Efectivo, ,1,350.0,1050
-11482,7910.0,2023-04-17,Fausto,Efectivo, ,1,100.0,1201
+11482,7910.0,2023-04-17,Fausto,Efectivo, ,1,100.0,394
 11483,7910.0,2023-04-17,Fausto,Efectivo, ,1,100.0,1070
 11484,7911.0,2023-04-17,Fausto,Efectivo, ,1,370.0,208
 11485,7912.0,2023-04-17,Fausto,Efectivo, ,2,60.0,388
@@ -11411,9 +11427,9 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 11500,7921.0,2023-04-17,Fausto,Efectivo, ,1,100.0,560
 11501,7922.0,2023-04-17,Marisa y Kuky,Efectivo, ,1,700.0,214
 11502,7923.0,2023-04-17,Marisa y Kuky,Efectivo,Log In,800,880.0,85
-11503,7924.0,2023-04-17,Marisa y Kuky,Efectivo, ,1,500.0,1199
-11504,7924.0,2023-04-17,Marisa y Kuky,Efectivo, ,1,500.0,1199
-11505,7924.0,2023-04-17,Marisa y Kuky,Efectivo, ,1,1200.0,1203
+11503,7924.0,2023-04-17,Marisa y Kuky,Efectivo, ,1,500.0,394
+11504,7924.0,2023-04-17,Marisa y Kuky,Efectivo, ,1,500.0,394
+11505,7924.0,2023-04-17,Marisa y Kuky,Efectivo, ,1,1200.0,394
 11506,7925.0,2023-04-17,Marisa y Kuky,Efectivo, ,1,80.0,376
 11507,7926.0,2023-04-17,Marisa y Kuky,Efectivo, ,1,150.0,176
 11508,7927.0,2023-04-17,Marisa y Kuky,Efectivo, ,10,200.0,392
@@ -11449,7 +11465,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 11539,7947.0,2023-04-18,Fausto,Efectivo, ,1,900.0,1148
 11540,7947.0,2023-04-18,Fausto,Efectivo,Log In,200,220.0,85
 11541,7948.0,2023-04-18,Fausto,Efectivo,Log In,1000,1100.0,85
-11542,7949.0,2023-04-18,Fausto,Efectivo, ,1,500.0,1199
+11542,7949.0,2023-04-18,Fausto,Efectivo, ,1,500.0,394
 11543,7950.0,2023-04-18,Fausto,Efectivo, ,1,570.0,220
 11544,7951.0,2023-04-18,Fausto,Efectivo, ,1,300.0,704
 11545,7952.0,2023-04-18,Fausto,Efectivo, ,1,150.0,10
@@ -11511,7 +11527,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 11605,7998.0,2023-04-19,Fausto,Efectivo, ,1,30.0,390
 11606,7999.0,2023-04-19,Fausto,Efectivo, ,1,450.0,760
 11607,8000.0,2023-04-19,Fausto,Efectivo, ,4,120.0,390
-11608,8000.0,2023-04-19,Fausto,Efectivo, ,1,1200.0,1196
+11608,8000.0,2023-04-19,Fausto,Efectivo, ,1,1200.0,394
 11609,8001.0,2023-04-19,Fausto,Efectivo,Log In,450,500.0,85
 11610,8002.0,2023-04-19,Fausto,Efectivo, ,1,30.0,388
 11611,8002.0,2023-04-19,Fausto,Efectivo, ,1,20.0,392
@@ -11565,7 +11581,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 11659,8040.0,2023-04-20,Marisa y Kuky,Efectivo, ,1,30.0,388
 11660,8040.0,2023-04-20,Marisa y Kuky,Efectivo, ,1,20.0,392
 11661,8041.0,2023-04-20,Marisa y Kuky,Efectivo, ,1,350.0,1050
-11662,8042.0,2023-04-20,Marisa y Kuky,Efectivo, ,1,500.0,1199
+11662,8042.0,2023-04-20,Marisa y Kuky,Efectivo, ,1,500.0,394
 11663,8043.0,2023-04-20,Marisa y Kuky,Efectivo, ,1,700.0,214
 11664,8043.0,2023-04-20,Marisa y Kuky,Efectivo, ,1,150.0,1112
 11665,8044.0,2023-04-20,Marisa y Kuky,Efectivo, ,1,20.0,392
@@ -11806,7 +11822,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 11904,8210.0,2023-04-23,Fausto,Efectivo, ,1,30.0,388
 11905,8210.0,2023-04-23,Fausto,Efectivo, ,2,100.0,389
 11906,8210.0,2023-04-23,Fausto,Efectivo, ,1,40.0,393
-11907,8210.0,2023-04-23,Fausto,Efectivo, ,1,100.0,1197
+11907,8210.0,2023-04-23,Fausto,Efectivo, ,1,100.0,394
 11908,8211.0,2023-04-23,Fausto,Efectivo, ,1,630.0,209
 11909,8212.0,2023-04-23,Fausto,Efectivo, ,220,250.0,85
 11910,8213.0,2023-04-23,Fausto,Efectivo,Log In,300,330.0,85
@@ -11884,8 +11900,8 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 11982,8255.0,2023-04-23,Marisa y Kuky,Efectivo, ,1,370.0,208
 11983,8256.0,2023-04-24,Marisa y Kuky,Efectivo, ,1,200.0,174
 11984,8257.0,2023-04-24,Marisa y Kuky,Efectivo, ,2,80.0,776
-11985,8258.0,2023-04-24,Marisa y Kuky,Efectivo, ,3,1800.0,1199
-11986,8258.0,2023-04-24,Marisa y Kuky,Efectivo, ,1,1200.0,1205
+11985,8258.0,2023-04-24,Marisa y Kuky,Efectivo, ,3,1800.0,394
+11986,8258.0,2023-04-24,Marisa y Kuky,Efectivo, ,1,1200.0,394
 11987,8258.0,2023-04-24,Marisa y Kuky,Efectivo, ,1,150.0,176
 11988,8259.0,2023-04-24,Marisa y Kuky,Efectivo, ,3,60.0,392
 11989,8260.0,2023-04-24,Marisa y Kuky,Efectivo, ,1,0.0,638
@@ -11893,9 +11909,9 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 11991,8261.0,2023-04-24,Marisa y Kuky,Efectivo, ,1,20.0,392
 11992,8261.0,2023-04-24,Marisa y Kuky,Efectivo, ,5,50.0,525
 11993,8262.0,2023-04-24,Marisa y Kuky,Efectivo,Log In,200,220.0,85
-11994,8263.0,2023-04-24,Marisa y Kuky,Efectivo, ,1,600.0,1199
-11995,8263.0,2023-04-24,Marisa y Kuky,Efectivo, ,1,1200.0,1196
-11996,8264.0,2023-04-24,Marisa y Kuky,Efectivo, ,2,200.0,1201
+11994,8263.0,2023-04-24,Marisa y Kuky,Efectivo, ,1,600.0,394
+11995,8263.0,2023-04-24,Marisa y Kuky,Efectivo, ,1,1200.0,394
+11996,8264.0,2023-04-24,Marisa y Kuky,Efectivo, ,2,200.0,394
 11997,8264.0,2023-04-24,Marisa y Kuky,Efectivo, ,1,40.0,393
 11998,8265.0,2023-04-24,Marisa y Kuky,Efectivo, ,5,50.0,525
 11999,8265.0,2023-04-24,Marisa y Kuky,Efectivo, ,1,20.0,392
@@ -11971,14 +11987,14 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 12069,8311.0,2023-04-25,Marisa y Kuky,Efectivo, ,1,240.0,225
 12070,8312.0,2023-04-25,Marisa y Kuky,Efectivo, ,2,800.0,42
 12071,8313.0,2023-04-25,Fausto,Efectivo, ,1,30.0,388
-12072,8314.0,2023-04-25,Fausto,Efectivo, ,1,600.0,1199
+12072,8314.0,2023-04-25,Fausto,Efectivo, ,1,600.0,394
 12073,8315.0,2023-04-25,Fausto,Efectivo, ,1,130.0,553
 12074,8316.0,2023-04-25,Fausto,Efectivo,Log In,100,110.0,85
 12075,8317.0,2023-04-25,Fausto,Efectivo, ,1,340.0,204
 12076,8318.0,2023-04-25,Fausto,Efectivo, ,1,30.0,390
 12077,8318.0,2023-04-25,Fausto,Efectivo, ,1,30.0,388
-12078,8319.0,2023-04-25,Fausto,Efectivo, ,3,1800.0,1199
-12079,8320.0,2023-04-25,Fausto,Efectivo, ,1,600.0,1199
+12078,8319.0,2023-04-25,Fausto,Efectivo, ,3,1800.0,394
+12079,8320.0,2023-04-25,Fausto,Efectivo, ,1,600.0,394
 12080,8321.0,2023-04-25,Fausto,Efectivo, ,1,130.0,194
 12081,8321.0,2023-04-25,Fausto,Efectivo, ,1,130.0,192
 12082,8321.0,2023-04-25,Fausto,Efectivo, ,1,230.0,490
@@ -12003,7 +12019,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 12101,8336.0,2023-04-25,Marisa y Kuky,Efectivo, ,1,0.0,488
 12102,8337.0,2023-04-25,Marisa y Kuky,Efectivo, ,1,20.0,392
 12103,8337.0,2023-04-25,Marisa y Kuky,Efectivo, ,1,30.0,388
-12104,8337.0,2023-04-25,Marisa y Kuky,Efectivo, ,1,600.0,1199
+12104,8337.0,2023-04-25,Marisa y Kuky,Efectivo, ,1,600.0,394
 12105,8338.0,2023-04-25,Marisa y Kuky,Efectivo, ,1,340.0,453
 12106,8338.0,2023-04-25,Marisa y Kuky,Efectivo, ,1,30.0,388
 12107,8338.0,2023-04-25,Marisa y Kuky,Efectivo, ,3,90.0,390
@@ -12045,10 +12061,10 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 12143,8363.0,2023-04-26,Marisa y Kuky,Efectivo,Log In,200,220.0,85
 12144,8364.0,2023-04-26,Marisa y Kuky,Efectivo, ,1,150.0,486
 12145,8365.0,2023-04-26,Fausto,Efectivo, ,1,230.0,490
-12146,8365.0,2023-04-26,Fausto,Efectivo, ,1,600.0,1199
+12146,8365.0,2023-04-26,Fausto,Efectivo, ,1,600.0,394
 12147,8365.0,2023-04-26,Fausto,Efectivo, ,16,320.0,392
 12148,8365.0,2023-04-26,Fausto,Efectivo, ,1,50.0,687
-12149,8366.0,2023-04-26,Fausto,Efectivo, ,1,600.0,1199
+12149,8366.0,2023-04-26,Fausto,Efectivo, ,1,600.0,394
 12150,8367.0,2023-04-26,Fausto,Efectivo, ,8,240.0,390
 12151,8367.0,2023-04-26,Fausto,Efectivo, ,2,100.0,687
 12152,8368.0,2023-04-26,Fausto,Efectivo, ,1,30.0,390
@@ -12102,8 +12118,8 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 12200,8402.0,2023-04-27,Fausto,Efectivo,Log In,220,250.0,85
 12201,8403.0,2023-04-27,Fausto,Efectivo, ,1,400.0,161
 12202,8404.0,2023-04-27,Fausto,Efectivo, ,2,680.0,205
-12203,8405.0,2023-04-27,Fausto,Efectivo, ,3,1800.0,1199
-12204,8405.0,2023-04-27,Fausto,Efectivo, ,1,1200.0,1205
+12203,8405.0,2023-04-27,Fausto,Efectivo, ,3,1800.0,394
+12204,8405.0,2023-04-27,Fausto,Efectivo, ,1,1200.0,394
 12205,8406.0,2023-04-27,Fausto,Efectivo, ,1,400.0,246
 12206,8406.0,2023-04-27,Fausto,Efectivo, ,1,400.0,252
 12207,8407.0,2023-04-27,Fausto,Efectivo, ,2,100.0,287
@@ -12476,8 +12492,8 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 12585,8669.0,2023-05-02,Marisa y Kuky,Efectivo, ,1,30.0,388
 12586,8670.0,2023-05-02,Marisa y Kuky,Efectivo, ,1,150.0,1112
 12587,8671.0,2023-05-02,Marisa y Kuky,Efectivo,Log In,500,550.0,85
-12588,8671.0,2023-05-02,Marisa y Kuky,Efectivo, ,2,1000.0,1199
-12589,8672.0,2023-05-02,Fausto,Efectivo, ,1,600.0,1199
+12588,8671.0,2023-05-02,Marisa y Kuky,Efectivo, ,2,1000.0,394
+12589,8672.0,2023-05-02,Fausto,Efectivo, ,1,600.0,394
 12590,8673.0,2023-05-02,Fausto,Efectivo,Log In,1000,1100.0,85
 12591,8674.0,2023-05-02,Fausto,Efectivo, ,5,100.0,781
 12592,8675.0,2023-05-02,Fausto,Efectivo,Log In,900,1000.0,85
@@ -12508,7 +12524,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 12617,8693.0,2023-05-02,Marisa y Kuky,Efectivo, ,10,200.0,228
 12618,8694.0,2023-05-02,Marisa y Kuky,Efectivo, ,3,90.0,388
 12619,8694.0,2023-05-02,Marisa y Kuky,Efectivo, ,12,240.0,392
-12620,8694.0,2023-05-02,Marisa y Kuky,Efectivo, ,2,1200.0,1199
+12620,8694.0,2023-05-02,Marisa y Kuky,Efectivo, ,2,1200.0,394
 12621,8694.0,2023-05-02,Marisa y Kuky,Efectivo, ,1,30.0,390
 12622,8694.0,2023-05-02,Marisa y Kuky,Efectivo, ,2,40.0,392
 12623,8695.0,2023-05-02,Marisa y Kuky,Efectivo, ,1,230.0,403
@@ -12524,13 +12540,13 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 12633,8704.0,2023-05-03,Fausto,Efectivo,Log In,1000,1100.0,85
 12634,8705.0,2023-05-03,Fausto,Efectivo, ,10,300.0,388
 12635,8705.0,2023-05-03,Fausto,Efectivo, ,5,100.0,392
-12636,8706.0,2023-05-03,Fausto,Efectivo, ,1,600.0,1199
+12636,8706.0,2023-05-03,Fausto,Efectivo, ,1,600.0,394
 12637,8707.0,2023-05-03,Fausto,Efectivo,Log In,200,220.0,85
 12638,8708.0,2023-05-03,Fausto,Efectivo, ,1,400.0,212
 12639,8709.0,2023-05-03,Fausto,Efectivo, ,1,500.0,122
 12640,8710.0,2023-05-03,Fausto,Efectivo, ,1,80.0,1066
 12641,8710.0,2023-05-03,Fausto,Efectivo, ,1,150.0,1040
-12642,8710.0,2023-05-03,Fausto,Efectivo, ,1,600.0,1199
+12642,8710.0,2023-05-03,Fausto,Efectivo, ,1,600.0,394
 12643,8710.0,2023-05-03,Fausto,Efectivo, ,1,20.0,392
 12644,8711.0,2023-05-03,Fausto,Efectivo, ,3,90.0,390
 12645,8712.0,2023-05-03,Fausto,Efectivo,Log In,200,220.0,85
@@ -12580,9 +12596,9 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 12690,8740.0,2023-05-04,Marisa y Kuky,Efectivo, ,1,150.0,466
 12691,8741.0,2023-05-04,Marisa y Kuky,Efectivo,Log In,400,440.0,85
 12692,8742.0,2023-05-04,Marisa y Kuky,Efectivo, ,1,570.0,220
-12693,8742.0,2023-05-04,Marisa y Kuky,Efectivo, ,1,1200.0,1205
+12693,8742.0,2023-05-04,Marisa y Kuky,Efectivo, ,1,1200.0,394
 12694,8743.0,2023-05-04,Fausto,Efectivo, ,1,100.0,562
-12695,8743.0,2023-05-04,Fausto,Efectivo, ,1,600.0,1199
+12695,8743.0,2023-05-04,Fausto,Efectivo, ,1,600.0,394
 12696,8744.0,2023-05-04,Fausto,Efectivo, ,1,0.0,936
 12697,8745.0,2023-05-04,Fausto,Efectivo, ,1,900.0,1148
 12698,8745.0,2023-05-04,Fausto,Efectivo,Log In,90,100.0,85
@@ -12594,8 +12610,8 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 12704,8750.0,2023-05-04,Fausto,Efectivo, ,1,330.0,114
 12705,8750.0,2023-05-04,Fausto,Efectivo, ,1,620.0,1191
 12706,8750.0,2023-05-04,Fausto,Efectivo, ,1,400.0,491
-12707,8751.0,2023-05-04,Marisa y Kuky,Efectivo, ,1,600.0,1199
-12708,8752.0,2023-05-04,Marisa y Kuky,Efectivo, ,1,600.0,1199
+12707,8751.0,2023-05-04,Marisa y Kuky,Efectivo, ,1,600.0,394
+12708,8752.0,2023-05-04,Marisa y Kuky,Efectivo, ,1,600.0,394
 12709,8753.0,2023-05-04,Marisa y Kuky,Efectivo, ,1,150.0,566
 12710,8754.0,2023-05-04,Marisa y Kuky,Efectivo, ,1,30.0,388
 12711,8754.0,2023-05-04,Marisa y Kuky,Efectivo, ,1,20.0,392
@@ -12632,7 +12648,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 12744,8778.0,2023-05-05,Fausto,Debito, ,1,400.0,627
 12745,8778.0,2023-05-05,Fausto,Debito, ,1,300.0,217
 12746,8779.0,2023-05-05,Fausto,Efectivo, ,2,60.0,388
-12747,8779.0,2023-05-05,Fausto,Efectivo, ,1,100.0,1197
+12747,8779.0,2023-05-05,Fausto,Efectivo, ,1,100.0,394
 12748,8780.0,2023-05-05,Fausto,Efectivo, ,2,60.0,390
 12749,8780.0,2023-05-05,Fausto,Efectivo, ,7,140.0,392
 12750,8781.0,2023-05-05,Fausto,Efectivo, ,6,15.0,1129
@@ -12848,7 +12864,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 12961,8932.0,2023-05-08,Fausto,Efectivo, ,1,30.0,393
 12962,8932.0,2023-05-08,Fausto,Efectivo, ,1,50.0,389
 12963,8933.0,2023-05-08,Fausto,Efectivo,Log In,450,500.0,85
-12964,8934.0,2023-05-08,Fausto,Efectivo, ,1,100.0,1201
+12964,8934.0,2023-05-08,Fausto,Efectivo, ,1,100.0,394
 12965,8935.0,2023-05-08,Fausto,Efectivo, ,1,20.0,392
 12966,8936.0,2023-05-08,Fausto,Efectivo,Claro,300,330.0,85
 12967,8937.0,2023-05-08,Fausto,Efectivo, ,1,230.0,501
@@ -12857,14 +12873,14 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 12970,8939.0,2023-05-08,Fausto,Efectivo,Log In,270,300.0,85
 12971,8939.0,2023-05-08,Fausto,Efectivo,Log In,1,900.0,1148
 12972,8940.0,2023-05-08,Fausto,Efectivo, ,1,30.0,388
-12973,8940.0,2023-05-08,Fausto,Efectivo, ,1,100.0,1201
-12974,8941.0,2023-05-08,Fausto,Efectivo, ,1,660.0,1199
+12973,8940.0,2023-05-08,Fausto,Efectivo, ,1,100.0,394
+12974,8941.0,2023-05-08,Fausto,Efectivo, ,1,660.0,394
 12975,8942.0,2023-05-08,Fausto,Efectivo, ,1,320.0,27
 12976,8942.0,2023-05-08,Fausto,Efectivo, ,1,770.0,85
 12977,8943.0,2023-05-08,Fausto,Efectivo, ,2,720.0,114
 12978,8943.0,2023-05-08,Fausto,Efectivo, ,1,700.0,213
 12979,8944.0,2023-05-08,Fausto,Efectivo, ,2,60.0,390
-12980,8945.0,2023-05-08,Fausto,Efectivo, ,2,2400.0,1205
+12980,8945.0,2023-05-08,Fausto,Efectivo, ,2,2400.0,394
 12981,8946.0,2023-05-08,Fausto,Efectivo, ,1,300.0,129
 12982,8947.0,2023-05-08,Fausto,Efectivo, ,1,430.0,492
 12983,8947.0,2023-05-08,Fausto,Efectivo, ,1,200.0,857
@@ -12876,7 +12892,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 12991,8952.0,2023-05-08,Fausto,Efectivo, ,2,20.0,525
 12992,8953.0,2023-05-08,Fausto,Efectivo,Log In,200,220.0,85
 12993,8954.0,2023-05-08,Fausto,Efectivo, ,1,630.0,220
-12994,8955.0,2023-05-08,Fausto,Efectivo, ,100,100.0,394
+12994,8955.0,2023-05-08,Fausto,Efectivo, ,1,100.0,394
 12995,8956.0,2023-05-08,Fausto,Efectivo, ,1,30.0,388
 12996,8957.0,2023-05-08,Fausto,Efectivo,Log In,200,220.0,85
 12997,8958.0,2023-05-08,Adriana,Efectivo, ,5,100.0,228
@@ -12929,13 +12945,13 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 13044,8990.0,2023-05-09,Fausto,Efectivo,Log In,450,500.0,85
 13045,8991.0,2023-05-09,Fausto,Efectivo, ,1,450.0,108
 13046,8992.0,2023-05-09,Fausto,Efectivo, ,1,400.0,246
-13047,8993.0,2023-05-09,Fausto,Efectivo, ,1,600.0,1199
+13047,8993.0,2023-05-09,Fausto,Efectivo, ,1,600.0,394
 13048,8994.0,2023-05-09,Fausto,Efectivo,Log In,900,990.0,85
 13049,8995.0,2023-05-09,Fausto,Efectivo,Log In,200,220.0,85
 13050,8996.0,2023-05-09,Fausto,Efectivo,Log In,300,330.0,85
 13051,8997.0,2023-05-09,Fausto,Efectivo,Log In,450,500.0,85
-13052,8998.0,2023-05-09,Fausto,Efectivo, ,1,1200.0,1205
-13053,8998.0,2023-05-09,Fausto,Efectivo, ,2,1200.0,1199
+13052,8998.0,2023-05-09,Fausto,Efectivo, ,1,1200.0,394
+13053,8998.0,2023-05-09,Fausto,Efectivo, ,2,1200.0,394
 13054,8998.0,2023-05-09,Fausto,Efectivo, ,10,100.0,525
 13055,8999.0,2023-05-09,Fausto,Efectivo, ,4,200.0,321
 13056,9000.0,2023-05-09,Fausto,Efectivo, ,1,200.0,174
@@ -12950,8 +12966,8 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 13065,9006.0,2023-05-09,Fausto,Efectivo, ,2,140.0,354
 13066,9006.0,2023-05-09,Fausto,Efectivo, ,2,260.0,548
 13067,9007.0,2023-05-09,Fausto,Efectivo, ,1,130.0,180
-13068,9008.0,2023-05-09,Fausto,Efectivo, ,1,1200.0,1205
-13069,9008.0,2023-05-09,Fausto,Efectivo, ,2,1200.0,1199
+13068,9008.0,2023-05-09,Fausto,Efectivo, ,1,1200.0,394
+13069,9008.0,2023-05-09,Fausto,Efectivo, ,2,1200.0,394
 13070,9009.0,2023-05-09,Fausto,Efectivo, ,1,150.0,563
 13071,9010.0,2023-05-09,Marisa y Kuky,Efectivo, ,1,150.0,766
 13072,9011.0,2023-05-09,Marisa y Kuky,Mercado Pago, ,1,300.0,720
@@ -12966,7 +12982,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 13081,9015.0,2023-05-09,Marisa y Kuky,Efectivo, ,1,100.0,674
 13082,9016.0,2023-05-09,Marisa y Kuky,Efectivo, ,6,180.0,388
 13083,9016.0,2023-05-09,Marisa y Kuky,Efectivo, ,1,20.0,392
-13084,9017.0,2023-05-09,Marisa y Kuky,Efectivo, ,1,600.0,1199
+13084,9017.0,2023-05-09,Marisa y Kuky,Efectivo, ,1,600.0,394
 13085,9017.0,2023-05-09,Marisa y Kuky,Efectivo, ,2,60.0,388
 13086,9018.0,2023-05-09,Marisa y Kuky,Efectivo, ,5,100.0,850
 13087,9019.0,2023-05-09,Marisa y Kuky,Efectivo, ,1,250.0,225
@@ -13009,8 +13025,8 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 13124,9046.0,2023-05-10,Marisa y Kuky,Efectivo,Log In,500,500.0,85
 13125,9046.0,2023-05-10,Marisa y Kuky,Efectivo,Log In,1,50.0,389
 13126,9046.0,2023-05-10,Marisa y Kuky,Efectivo,Log In,1,40.0,393
-13127,9047.0,2023-05-10,Marisa y Kuky,Efectivo, ,1,100.0,1201
-13128,9047.0,2023-05-10,Marisa y Kuky,Efectivo, ,1,600.0,1199
+13127,9047.0,2023-05-10,Marisa y Kuky,Efectivo, ,1,100.0,394
+13128,9047.0,2023-05-10,Marisa y Kuky,Efectivo, ,1,600.0,394
 13129,9047.0,2023-05-10,Marisa y Kuky,Efectivo, ,1,30.0,390
 13130,9048.0,2023-05-10,Marisa y Kuky,Efectivo, ,4,120.0,388
 13131,9048.0,2023-05-10,Marisa y Kuky,Efectivo, ,2,80.0,393
@@ -13029,7 +13045,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 13144,9055.0,2023-05-10,Fausto,Efectivo, ,1,50.0,532
 13145,9056.0,2023-05-10,Fausto,Efectivo, ,1,450.0,212
 13146,9056.0,2023-05-10,Fausto,Efectivo, ,1,400.0,39
-13147,9057.0,2023-05-10,Fausto,Efectivo, ,1,600.0,1199
+13147,9057.0,2023-05-10,Fausto,Efectivo, ,1,600.0,394
 13148,9058.0,2023-05-10,Fausto,Efectivo, ,1,180.0,456
 13149,9058.0,2023-05-10,Fausto,Efectivo, ,1,100.0,572
 13150,9059.0,2023-05-10,Fausto,Efectivo, ,1,180.0,10
@@ -13053,9 +13069,9 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 13168,9072.0,2023-05-10,Marisa y Kuky,Efectivo, ,2,60.0,388
 13169,9072.0,2023-05-10,Marisa y Kuky,Efectivo, ,1,20.0,392
 13170,9072.0,2023-05-10,Marisa y Kuky,Efectivo, ,1,40.0,393
-13171,9073.0,2023-05-10,Marisa y Kuky,Efectivo, ,1,1200.0,1205
+13171,9073.0,2023-05-10,Marisa y Kuky,Efectivo, ,1,1200.0,394
 13172,9074.0,2023-05-10,Marisa y Kuky,Efectivo, ,2,100.0,687
-13173,9075.0,2023-05-10,Marisa y Kuky,Efectivo, ,1,1200.0,1205
+13173,9075.0,2023-05-10,Marisa y Kuky,Efectivo, ,1,1200.0,394
 13174,9076.0,2023-05-10,Marisa y Kuky,Efectivo, ,3,90.0,388
 13175,9076.0,2023-05-10,Marisa y Kuky,Efectivo, ,200,220.0,85
 13176,9077.0,2023-05-10,Marisa y Kuky,Efectivo,Log In,800,880.0,85
@@ -13072,8 +13088,8 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 13187,9086.0,2023-05-10,Marisa y Kuky,Efectivo, ,2,60.0,388
 13188,9086.0,2023-05-10,Marisa y Kuky,Efectivo, ,28,140.0,526
 13189,9087.0,2023-05-10,Marisa y Kuky,Efectivo,Claro,1,400.0,481
-13190,9088.0,2023-05-10,Marisa y Kuky,Efectivo, ,2,1200.0,1199
-13191,9089.0,2023-05-10,Marisa y Kuky,Efectivo, ,1,1200.0,1205
+13190,9088.0,2023-05-10,Marisa y Kuky,Efectivo, ,2,1200.0,394
+13191,9089.0,2023-05-10,Marisa y Kuky,Efectivo, ,1,1200.0,394
 13192,9090.0,2023-05-11,Marisa y Kuky,Efectivo, ,4,160.0,393
 13193,9091.0,2023-05-11,Marisa y Kuky,Efectivo, ,1,700.0,209
 13194,9091.0,2023-05-11,Marisa y Kuky,Efectivo, ,1,40.0,393
@@ -13091,12 +13107,12 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 13206,9097.0,2023-05-11,Fausto,Efectivo,Log In,3,60.0,392
 13207,9097.0,2023-05-11,Fausto,Efectivo,Log In,1,50.0,687
 13208,9098.0,2023-05-11,Fausto,Efectivo, ,1,530.0,23
-13209,9099.0,2023-05-11,Fausto,Efectivo, ,1,600.0,1199
+13209,9099.0,2023-05-11,Fausto,Efectivo, ,1,600.0,394
 13210,9099.0,2023-05-11,Fausto,Efectivo, ,2,100.0,687
 13211,9100.0,2023-05-11,Fausto,Efectivo, ,1,20.0,392
 13212,9101.0,2023-05-11,Fausto,Efectivo, ,1,500.0,122
 13213,9102.0,2023-05-11,Fausto,Efectivo, ,2,60.0,388
-13214,9103.0,2023-05-11,Fausto,Efectivo, ,1,1200.0,1196
+13214,9103.0,2023-05-11,Fausto,Efectivo, ,1,1200.0,394
 13215,9104.0,2023-05-11,Fausto,Efectivo, ,1,320.0,27
 13216,9105.0,2023-05-11,Fausto,Efectivo, ,1,200.0,1112
 13217,9106.0,2023-05-11,Marisa y Kuky,Efectivo, ,5,100.0,228
@@ -13134,7 +13150,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 13249,9129.0,2023-05-12,Fausto,Efectivo, ,1,200.0,1112
 13250,9130.0,2023-05-12,Marisa y Kuky,Efectivo, ,3,90.0,388
 13251,9131.0,2023-05-12,Marisa y Kuky,Efectivo, ,3,90.0,388
-13252,9132.0,2023-05-12,Marisa y Kuky,Efectivo, ,1,600.0,1199
+13252,9132.0,2023-05-12,Marisa y Kuky,Efectivo, ,1,600.0,394
 13253,9132.0,2023-05-12,Marisa y Kuky,Efectivo,Log In,500,550.0,85
 13254,9133.0,2023-05-12,Fausto,Efectivo, ,3,90.0,781
 13255,9134.0,2023-05-12,Fausto,Efectivo, ,2,60.0,390
@@ -13147,15 +13163,15 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 13262,9138.0,2023-05-12,Fausto,Mercado Pago, ,1,250.0,319
 13263,9139.0,2023-05-12,Fausto,Efectivo, ,1,150.0,563
 13264,9140.0,2023-05-12,Fausto,Efectivo, ,1,200.0,894
-13265,9141.0,2023-05-12,Fausto,Efectivo, ,3,1800.0,1199
-13266,9141.0,2023-05-12,Fausto,Efectivo, ,1,1200.0,1196
+13265,9141.0,2023-05-12,Fausto,Efectivo, ,3,1800.0,394
+13266,9141.0,2023-05-12,Fausto,Efectivo, ,1,1200.0,394
 13267,9142.0,2023-05-12,Fausto,Efectivo, ,3,30.0,525
 13268,9142.0,2023-05-12,Fausto,Efectivo, ,5,100.0,392
 13269,9142.0,2023-05-12,Fausto,Efectivo, ,1,50.0,389
 13270,9142.0,2023-05-12,Fausto,Efectivo, ,2,60.0,390
 13271,9142.0,2023-05-12,Fausto,Efectivo, ,1,50.0,687
 13272,9143.0,2023-05-12,Fausto,Efectivo, ,1,100.0,674
-13273,9144.0,2023-05-12,Fausto,Efectivo, ,1,600.0,1199
+13273,9144.0,2023-05-12,Fausto,Efectivo, ,1,600.0,394
 13274,9145.0,2023-05-12,Fausto,Efectivo, ,1,150.0,567
 13275,9145.0,2023-05-12,Fausto,Efectivo, ,1,30.0,388
 13276,9146.0,2023-05-12,Fausto,Efectivo, ,3,60.0,392
@@ -13163,8 +13179,8 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 13278,9147.0,2023-05-12,Fausto,Efectivo, ,1,300.0,123
 13279,9148.0,2023-05-12,Fausto,Efectivo, ,1,350.0,217
 13280,9148.0,2023-05-12,Fausto,Efectivo, ,1,250.0,467
-13283,9150.0,2023-05-12,Marisa y Kuky,Efectivo, ,1,1200.0,1196
-13284,9150.0,2023-05-12,Marisa y Kuky,Efectivo, ,1,600.0,1199
+13283,9150.0,2023-05-12,Marisa y Kuky,Efectivo, ,1,1200.0,394
+13284,9150.0,2023-05-12,Marisa y Kuky,Efectivo, ,1,600.0,394
 13285,9151.0,2023-05-12,Marisa y Kuky,Efectivo, ,1,300.0,1084
 13286,9152.0,2023-05-12,Marisa y Kuky,Efectivo, ,1,0.0,901
 13287,9153.0,2023-05-12,Marisa y Kuky,Efectivo,Log In,800,880.0,85
@@ -13223,8 +13239,8 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 13340,9191.0,2023-05-13,Fausto,Efectivo, ,1,700.0,209
 13341,9192.0,2023-05-13,Fausto,Efectivo,Claro,500,550.0,85
 13342,9193.0,2023-05-13,Fausto,Efectivo, ,3,90.0,388
-13343,9194.0,2023-05-13,Fausto,Efectivo, ,1,1200.0,1205
-13344,9194.0,2023-05-13,Fausto,Efectivo, ,1,1200.0,1196
+13343,9194.0,2023-05-13,Fausto,Efectivo, ,1,1200.0,394
+13344,9194.0,2023-05-13,Fausto,Efectivo, ,1,1200.0,394
 13345,9195.0,2023-05-13,Fausto,Efectivo, ,1,230.0,223
 13346,9196.0,2023-05-13,Fausto,Efectivo,Log In,300,330.0,85
 13347,9197.0,2023-05-13,Fausto,Efectivo, ,1,530.0,23
@@ -13409,7 +13425,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 13527,9323.0,2023-05-15,Marisa y Kuky,Efectivo,Log In,1000,1100.0,85
 13528,9323.0,2023-05-15,Marisa y Kuky,Efectivo,Log In,200,220.0,85
 13529,9324.0,2023-05-15,Marisa y Kuky,Efectivo, ,4,120.0,390
-13530,9325.0,2023-05-15,Marisa y Kuky,Efectivo, ,1,600.0,1199
+13530,9325.0,2023-05-15,Marisa y Kuky,Efectivo, ,1,600.0,394
 13531,9326.0,2023-05-15,Marisa y Kuky,Efectivo, ,3,90.0,388
 13532,9326.0,2023-05-15,Marisa y Kuky,Efectivo, ,11,110.0,525
 13533,9327.0,2023-05-15,Marisa y Kuky,Efectivo, ,1,460.0,198
@@ -13447,17 +13463,17 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 13565,9350.0,2023-05-15,Marisa y Kuky,Efectivo, ,1,130.0,548
 13566,9350.0,2023-05-15,Marisa y Kuky,Efectivo, ,1,20.0,392
 13567,9351.0,2023-05-15,Marisa y Kuky,Efectivo, ,1,30.0,388
-13568,9351.0,2023-05-15,Marisa y Kuky,Efectivo, ,1,100.0,1201
-13569,9351.0,2023-05-15,Marisa y Kuky,Efectivo, ,2,1200.0,1199
+13568,9351.0,2023-05-15,Marisa y Kuky,Efectivo, ,1,100.0,394
+13569,9351.0,2023-05-15,Marisa y Kuky,Efectivo, ,2,1200.0,394
 13570,9351.0,2023-05-15,Marisa y Kuky,Efectivo, ,1,50.0,687
 13571,9352.0,2023-05-15,Marisa y Kuky,Efectivo, ,1,350.0,217
 13572,9352.0,2023-05-15,Marisa y Kuky,Efectivo, ,1,200.0,1112
 13573,9353.0,2023-05-15,Marisa y Kuky,Efectivo, ,1,30.0,388
-13574,9353.0,2023-05-15,Marisa y Kuky,Efectivo, ,1,100.0,1201
-13575,9353.0,2023-05-15,Marisa y Kuky,Efectivo, ,1,600.0,1199
+13574,9353.0,2023-05-15,Marisa y Kuky,Efectivo, ,1,100.0,394
+13575,9353.0,2023-05-15,Marisa y Kuky,Efectivo, ,1,600.0,394
 13576,9354.0,2023-05-15,Marisa y Kuky,Efectivo, ,3,90.0,388
-13577,9354.0,2023-05-15,Marisa y Kuky,Efectivo, ,3,300.0,1201
-13578,9354.0,2023-05-15,Marisa y Kuky,Efectivo, ,3,1800.0,1199
+13577,9354.0,2023-05-15,Marisa y Kuky,Efectivo, ,3,300.0,394
+13578,9354.0,2023-05-15,Marisa y Kuky,Efectivo, ,3,1800.0,394
 13579,9354.0,2023-05-15,Marisa y Kuky,Efectivo, ,3,150.0,687
 13580,9355.0,2023-05-15,Marisa y Kuky,Efectivo, ,1,350.0,205
 13581,9356.0,2023-05-15,Marisa y Kuky,Efectivo, ,1,70.0,354
@@ -13488,15 +13504,15 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 13606,9372.0,2023-05-16,Marisa y Kuky,Efectivo, ,1,350.0,217
 13607,9372.0,2023-05-16,Marisa y Kuky,Efectivo, ,10,100.0,525
 13608,9373.0,2023-05-16,Marisa y Kuky,Efectivo, ,5,50.0,530
-13609,9373.0,2023-05-16,Marisa y Kuky,Efectivo, ,1,600.0,1199
+13609,9373.0,2023-05-16,Marisa y Kuky,Efectivo, ,1,600.0,394
 13610,9374.0,2023-05-16,Marisa y Kuky,Efectivo, ,1,150.0,591
 13611,9375.0,2023-05-16,Fausto,Efectivo, ,1,20.0,392
 13612,9376.0,2023-05-16,Fausto,Efectivo, ,1,30.0,388
 13613,9377.0,2023-05-16,Fausto,Efectivo, ,2,80.0,388
 13614,9378.0,2023-05-16,Fausto,Efectivo, ,1,40.0,390
-13615,9378.0,2023-05-16,Fausto,Efectivo, ,1,100.0,1201
+13615,9378.0,2023-05-16,Fausto,Efectivo, ,1,100.0,394
 13616,9379.0,2023-05-16,Fausto,Efectivo, ,1,40.0,390
-13617,9380.0,2023-05-16,Fausto,Efectivo, ,1,600.0,1199
+13617,9380.0,2023-05-16,Fausto,Efectivo, ,1,600.0,394
 13618,9381.0,2023-05-16,Fausto,Efectivo, ,5,50.0,910
 13619,9381.0,2023-05-16,Fausto,Efectivo, ,2,200.0,376
 13620,9381.0,2023-05-16,Fausto,Efectivo, ,1,150.0,466
@@ -13509,8 +13525,8 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 13627,9388.0,2023-05-16,Fausto,Efectivo, ,3,120.0,390
 13628,9389.0,2023-05-16,Fausto,Efectivo, ,1,70.0,354
 13629,9390.0,2023-05-16,Fausto,Efectivo, ,1,40.0,388
-13630,9390.0,2023-05-16,Fausto,Efectivo, ,2,1200.0,1199
-13631,9390.0,2023-05-16,Fausto,Efectivo, ,1,100.0,1201
+13630,9390.0,2023-05-16,Fausto,Efectivo, ,2,1200.0,394
+13631,9390.0,2023-05-16,Fausto,Efectivo, ,1,100.0,394
 13632,9391.0,2023-05-16,Fausto,Efectivo, ,1,700.0,213
 13633,9391.0,2023-05-16,Fausto,Efectivo, ,2,720.0,114
 13634,9391.0,2023-05-16,Fausto,Efectivo, ,1,360.0,639
@@ -13519,7 +13535,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 13637,9393.0,2023-05-16,Fausto,Efectivo, ,21,420.0,392
 13638,9394.0,2023-05-16,Fausto,Efectivo,Log In,450,500.0,85
 13641,9397.0,2023-05-16,Marisa y Kuky,Efectivo, ,2,80.0,388
-13642,9397.0,2023-05-16,Marisa y Kuky,Efectivo, ,1,1200.0,1205
+13642,9397.0,2023-05-16,Marisa y Kuky,Efectivo, ,1,1200.0,394
 13643,9398.0,2023-05-16,Marisa y Kuky,Efectivo, ,1,100.0,674
 13646,9401.0,2023-05-16,Marisa y Kuky,Efectivo,Log In,300,330.0,85
 13647,9402.0,2023-05-16,Marisa y Kuky,Efectivo,Log In,400,440.0,85
@@ -13567,7 +13583,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 13691,9432.0,2023-05-17,Fausto,Efectivo, ,2,80.0,388
 13692,9432.0,2023-05-17,Fausto,Efectivo, ,6,240.0,393
 13693,9432.0,2023-05-17,Fausto,Efectivo, ,2,120.0,389
-13694,9432.0,2023-05-17,Fausto,Efectivo, ,2,200.0,1197
+13694,9432.0,2023-05-17,Fausto,Efectivo, ,2,200.0,394
 13695,9432.0,2023-05-17,Fausto,Efectivo, ,2,160.0,688
 13696,9433.0,2023-05-17,Fausto,Efectivo, ,2,80.0,388
 13697,9434.0,2023-05-17,Fausto,Efectivo, ,3,120.0,390
@@ -13576,7 +13592,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 13700,9436.0,2023-05-17,Fausto,Efectivo, ,9,180.0,392
 13701,9436.0,2023-05-17,Fausto,Efectivo, ,6,300.0,687
 13702,9437.0,2023-05-17,Fausto,Efectivo, ,1,40.0,388
-13703,9438.0,2023-05-17,Fausto,Efectivo, ,1,600.0,1199
+13703,9438.0,2023-05-17,Fausto,Efectivo, ,1,600.0,394
 13704,9439.0,2023-05-17,Fausto,Efectivo, ,1,150.0,290
 13705,9439.0,2023-05-17,Fausto,Efectivo, ,1,320.0,27
 13706,9440.0,2023-05-17,Fausto,Efectivo,Log In,450,500.0,85
@@ -13606,7 +13622,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 13730,9459.0,2023-05-17,Marisa y Kuky,Efectivo, ,1,550.0,464
 13731,9459.0,2023-05-17,Marisa y Kuky,Efectivo, ,1,150.0,1070
 13732,9460.0,2023-05-17,Marisa y Kuky,Efectivo,Log In,450,500.0,85
-13733,9461.0,2023-05-17,Marisa y Kuky,Efectivo, ,2,1200.0,1199
+13733,9461.0,2023-05-17,Marisa y Kuky,Efectivo, ,2,1200.0,394
 13734,9462.0,2023-05-17,Marisa y Kuky,Efectivo, ,400,440.0,85
 13735,9463.0,2023-05-17,Marisa y Kuky,Efectivo, ,1,40.0,390
 13736,9464.0,2023-05-17,Marisa y Kuky,Efectivo, ,2,260.0,553
@@ -13642,13 +13658,13 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 13766,9485.0,2023-05-17,Marisa y Kuky,Efectivo, ,1,800.0,214
 13767,9486.0,2023-05-17,Marisa y Kuky,Efectivo, ,1,630.0,494
 13768,9486.0,2023-05-17,Marisa y Kuky,Efectivo, ,1,100.0,240
-13769,9487.0,2023-05-18,Marisa y Kuky,Efectivo, ,1,1200.0,1196
-13770,9487.0,2023-05-18,Marisa y Kuky,Efectivo, ,1,600.0,1199
+13769,9487.0,2023-05-18,Marisa y Kuky,Efectivo, ,1,1200.0,394
+13770,9487.0,2023-05-18,Marisa y Kuky,Efectivo, ,1,600.0,394
 13771,9488.0,2023-05-18,Marisa y Kuky,Efectivo, ,6,180.0,779
 13772,9488.0,2023-05-18,Marisa y Kuky,Efectivo, ,3,90.0,778
 13773,9489.0,2023-05-18,Marisa y Kuky,Efectivo, ,2,80.0,388
 13774,9489.0,2023-05-18,Marisa y Kuky,Efectivo, ,1,20.0,392
-13775,9490.0,2023-05-18,Marisa y Kuky,Efectivo, ,1,600.0,1199
+13775,9490.0,2023-05-18,Marisa y Kuky,Efectivo, ,1,600.0,394
 13776,9491.0,2023-05-18,Fausto,Efectivo, ,3,120.0,388
 13777,9491.0,2023-05-18,Fausto,Efectivo, ,4,80.0,392
 13778,9492.0,2023-05-18,Fausto,Efectivo, ,2,80.0,388
@@ -13658,7 +13674,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 13782,9495.0,2023-05-18,Fausto,Efectivo,Log In,500,550.0,85
 13783,9496.0,2023-05-18,Fausto,Efectivo, ,2,80.0,388
 13784,9497.0,2023-05-18,Fausto,Efectivo, ,1,40.0,388
-13785,9498.0,2023-05-18,Fausto,Efectivo, ,1,600.0,1199
+13785,9498.0,2023-05-18,Fausto,Efectivo, ,1,600.0,394
 13786,9499.0,2023-05-18,Fausto,Efectivo, ,1,250.0,348
 13787,9500.0,2023-05-18,Fausto,Efectivo, ,1,700.0,219
 13788,9501.0,2023-05-18,Fausto,Efectivo, ,2,80.0,390
@@ -13689,7 +13705,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 13814,9515.0,2023-05-18,Marisa y Kuky,Efectivo, ,1,200.0,458
 13815,9515.0,2023-05-18,Marisa y Kuky,Efectivo, ,1,180.0,457
 13816,9515.0,2023-05-18,Marisa y Kuky,Efectivo, ,1,180.0,455
-13817,9516.0,2023-05-18,Marisa y Kuky,Efectivo, ,600,600.0,394
+13817,9516.0,2023-05-18,Marisa y Kuky,Efectivo, ,1,600.0,394
 13818,9517.0,2023-05-18,Marisa y Kuky,Efectivo, ,2,80.0,390
 13819,9518.0,2023-05-18,Marisa y Kuky,Efectivo, ,1,800.0,214
 13820,9519.0,2023-05-18,Marisa y Kuky,Efectivo,Log In,450,500.0,85
@@ -13899,7 +13915,7 @@ sales_id,invoice_number,date,employee,payment_type,platform,qty,total,product_id
 14025,9670.0,2023-05-22,Fausto,Efectivo, ,3,120.0,388
 14026,9670.0,2023-05-22,Fausto,Efectivo, ,1,20.0,392
 14027,9670.0,2023-05-22,Fausto,Efectivo, ,1,10.0,525
-14028,9670.0,2023-05-22,Fausto,Efectivo, ,1,100.0,1201
+14028,9670.0,2023-05-22,Fausto,Efectivo, ,1,100.0,394
 14029,9671.0,2023-05-22,Fausto,Efectivo, ,1,400.0,42
 14030,9672.0,2023-05-22,Fausto,Efectivo, ,2,120.0,389
 14031,9672.0,2023-05-22,Fausto,Efectivo, ,2,80.0,393

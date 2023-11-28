@@ -33,12 +33,13 @@ from components.data_storage import InsertDataConfig, InsertData
 #                       DATA INGESTION CONFIGURATION                             |
 #---------------------------------------------------------------------------------
 config = DataIngestionConfig(
-    excel_file_path="./data/Los_Puche_4.xlsm",
+    excel_file_path="./data/grocery_store_CRM.xlsm",
     tables=["sales", "products_recieved", "transactions", "products"]
 )
 data_ingestion = DataIngestion(config)
 data = data_ingestion.read_excel_workbook()
 selected_tables = data_ingestion.select_tables(data)
+data_ingestion.export_tables_as_csv(selected_tables)
 
 
 #---------------------------------------------------------------------------------
