@@ -90,7 +90,7 @@ openpyxl \
 mysql-connector-python \
 SQLAlchemy \
 schedule \
-mysqlclient \
+mysqlclient
 
 
 **Issues/Limitations** \
