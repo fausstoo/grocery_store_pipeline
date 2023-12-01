@@ -58,7 +58,7 @@ In a professional context, this project applies to scenarios where structured da
 The provided usage overview positions the project as a versatile and adaptable tool for managing and analyzing structured data in academic and professional settings.
 
 
-**File Descriptions** \
+**File Descriptions** 
 1. *data_ingestion.py*
 This script facilitates the extraction of records from an Excel workbook (Los_Puche_4.xlsm). It reads multiple sheets specified in the tables list using the pandas library. The selected tables are then exported as individual CSV files in the /data/CSV_tables directory. This script forms the initial step in the data pipeline, ensuring a structured and accessible format for subsequent data processing.
 
