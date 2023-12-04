@@ -49,6 +49,15 @@ The presented project offers a comprehensive and modularized data pipeline desig
 *Execution and Integration:*
 To execute the data pipeline, users can run the pipeline.py script, which orchestrates the entire process seamlessly. The script establishes a connection to the MySQL database, executes data extraction, transformation, and storage processes, and logs relevant information for monitoring and debugging purposes.
 
+*Setup:*
+1. Install Python and MySQL on your computer.
+2. Create a database in your local host.
+3. Git clone the repository.
+4. Create and activate a virtual environment.
+5. Run 'requirements.txt'.
+6. Modify the connector engine parameters under 'pipeline.py' and 'create_tables.py' according to your MySQL setup.
+7. Run 'pipeline.py'.
+
 *Customization and Adaptability:*
 The modular structure of the project allows users to adapt and extend functionality according to specific requirements. Table structures, transformation logic, and database configurations can be modified to accommodate diverse datasets and use cases.
 
@@ -69,10 +78,10 @@ The data_transformation.py script is responsible for cleaning and transforming d
 Defines the structure of MySQL tables for the grocery store database using the SQLAlchemy ORM. It establishes a connection to the MySQL server, creates instances of tables (Sales, ProductsReceived, Products, Transactions), and checks for table existence before creation. The script ensures a systematic and organized database schema for efficient data storage and retrieval.
 
 4. *data_storage.py*
-The data_storage.py script handles the periodic insertion of cleaned data into corresponding MySQL tables. It leverages the SQLAlchemy ORM and the InsertData class to handle batch-wise insertion, optimizing performance. By utilizing the InsertData class, it reads CSV files from the /data/CSV_cleaned_tables directory and efficiently inserts data into tables (Sales, ProductsReceived, Products, Transactions). The script ensures a seamless and optimized process for maintaining up-to-date records in the MySQL database.
+The data_storage.py script handles the periodic insertion of cleaned data into corresponding MySQL tables. It leverages the SQLAlchemy ORM and the InsertData class to handle batch-wise insertion, optimizing performance. The InsertData class reads CSV files from the /data/CSV_cleaned_tables directory and efficiently inserts data into tables (Sales, ProductsReceived, Products, Transactions). The script ensures a seamless and optimized process for maintaining up-to-date records in the MySQL database.
 
 5. *pipeline.py*
-The pipeline.py script orchestrates the entire data pipeline, connecting to a MySQL database, and executing the data extraction, transformation, and storage processes. It utilizes the classes defined in data_ingestion.py, data_transformation.py, and data_storage.py to streamline the workflow. The script ensures a seamless and automated execution of the pipeline, handling the entire process from data extraction to storage. The connection details to the MySQL database are specified within the script, providing a comprehensive solution for managing grocery store data.
+The pipeline.py script orchestrates the entire data pipeline, connecting to a MySQL database, and executing the data extraction, transformation, and storage processes. It utilizes the classes defined in data_ingestion.py, data_transformation.py, and data_storage.py to streamline the workflow. The script ensures a seamless and automated pipeline execution, handling the entire process from data extraction to storage. The connection details to the MySQL database are specified within the script, providing a comprehensive solution for managing grocery store data.
 
 7. *exception.py*
 The exception.py script defines a custom exception class, CustomException, to handle errors in the project. The error_message_detail function assists in generating detailed error messages by capturing information about the file, line number, and error message. The CustomException class enhances error reporting by providing specific details about where an error occurred in the Python script. This aids in debugging and understanding the context of encountered issues within the project.
