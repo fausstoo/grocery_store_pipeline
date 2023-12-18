@@ -1,13 +1,13 @@
 ### Grocery Store Pipeline
 **Overview**
-I developed this software with the primary goal of automating my data workflow as a bookkeeper in a grocery store. The pipeline, when executed, performs a comprehensive Extract, Transform, Load (ETL) process:
+I developed this project with the primary goal of automating my data workflow as a bookkeeper in a grocery store. The pipeline, when executed, performs a comprehensive Extract, Transform, Load (ETL) process:
 1. Extraction: extracts records from each table within the Excel CRM Workbook.
 2. Transformation: cleans and transforms each record according to specific business requirements.
 3. Database Connection: utilizes SQLAlchemy and MySQL to connect to the local SQL database.
 4. Table Creation: dynamically creates tables if they do not already exist in the database.
 5. Periodic Data Storage: stores records periodically in the SQL database, ensuring data integrity by avoiding duplicates.
 6. Allows customization of batch size for efficient processing on each run.
-This pipeline streamlines the management of grocery store data, offering a systematic approach to handle records from extraction to storage while ensuring adaptability to evolving business needs.
+This pipeline streamlines the management of grocery store data, offering a systematic approach to handling records from extraction to storage while ensuring adaptability to evolving business needs.
  
 
 **Project Structure**
@@ -40,11 +40,11 @@ fausstoo/grocery_store_pipeline \
 └── README.md 
 
 **Pipeline Overview** \
-The pipeline involves three main stages and a script for each one: *extraction* (data_ingestion.py), *transofrmation* (data_transformation.py), and *storage* (data_storage.py). Each stage is orchestrated by the file *pipeline.py*.
+The pipeline involves three main stages and a script for each one: *extraction* (data_ingestion.py), *transformation* (data_transformation.py), and *storage* (data_storage.py). Each stage is orchestrated by the file *pipeline.py*.
 
 
 **Usage** \
-The presented project offers a comprehensive and modularized data pipeline designed for the ingestion, transformation, and storage of grocery store data. Its primary utility lies in the structured handling of data sourced from an Excel workbook, subsequently cleaning and transforming the data, and persisting it in a MySQL database. The usage of this project can be outlined as follows:
+The presented project offers a comprehensive and modularized data pipeline designed for the ingestion, transformation, and storage of grocery store data. Its primary utility lies in the structured handling of data sourced from an Excel workbook, cleaning and transforming the data, and persisting it in a MySQL database. The usage of this project can be outlined as follows:
 
 *Execution and Integration:*
 To execute the data pipeline, users can run the pipeline.py script, which orchestrates the entire process seamlessly. The script establishes a connection to the MySQL database, executes data extraction, transformation, and storage processes, and logs relevant information for monitoring and debugging purposes.
@@ -69,7 +69,7 @@ The provided usage overview positions the project as a versatile and adaptable t
 
 **File Descriptions** 
 1. *data_ingestion.py*
-This script facilitates the extraction of records from an Excel workbook (Los_Puche_4.xlsm). It reads multiple sheets specified in the tables list using the pandas library. The selected tables are then exported as individual CSV files in the /data/CSV_tables directory. This script forms the initial step in the data pipeline, ensuring a structured and accessible format for subsequent data processing.
+This script facilitates the extraction of records from an Excel workbook (Los_Puche_4.xlsm). It reads multiple sheets specified in the tables list using pandas. The selected tables are then exported as individual CSV files in the /data/CSV_tables directory. This script forms the initial step in the data pipeline, ensuring a structured and accessible format for subsequent data processing.
 
 2. *data_transformation.py*
 The data_transformation.py script is responsible for cleaning and transforming data extracted from CSV files. It utilizes the pandas library to handle tasks such as dropping unnecessary columns, filling NaN values, and transforming date and numeric columns. The script ensures the data is prepared in a consistent and standardized format, facilitating effective analysis and storage. Cleaned tables are then exported as CSV files in the /data/CSV_cleaned_tables directory, ready for storage in the MySQL database.
