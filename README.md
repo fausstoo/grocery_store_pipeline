@@ -22,7 +22,7 @@ I developed this project with the primary goal of automating my data workflow as
 This pipeline streamlines the management of grocery store **sales data**, offering a systematic approach to handling records from extraction to storage while ensuring adaptability to evolving business needs.
  
 
-#### **Project Structure** \
+#### **Project Structure** 
 fausstoo/grocery_store_pipeline \
 │ \
 ├── /data \
@@ -51,11 +51,11 @@ fausstoo/grocery_store_pipeline \
 ├── requirements.txt \
 └── README.md 
 
-#### **Pipeline Description** \
+#### **Pipeline Description** 
 The pipeline involves three main stages and a script for each one: *extraction* (data_ingestion.py), *transformation* (data_transformation.py), and *storage* (data_storage.py). Each stage is orchestrated by the file *pipeline.py*.
 
 
-#### **Usage** \
+#### **Usage** 
 The presented project offers a comprehensive and modularized data pipeline designed for the ingestion, transformation, and storage of grocery store data. Its primary utility lies in the structured handling of data sourced from an Excel workbook, cleaning and transforming the data, and persisting it in a MySQL database. The usage of this project can be outlined as follows:
 
 *Execution and Integration:*
@@ -102,7 +102,7 @@ The exception.py script defines a custom exception class, CustomException, to ha
 The logger.py script sets up logging functionality for the project using the Python logging module. It creates log files with timestamps in the /logs directory, enhancing traceability and organization. The script ensures that log messages contain essential information, including the timestamp, line number, and log level. Logging is configured to capture details about the project's execution, errors, and other relevant events. This contributes to effective debugging and monitoring throughout the development and execution phases of the project.
 
 
-#### **Dependencies** \
+#### **Dependencies** 
 pandas \
 numpy \
 matplotlib \
@@ -114,7 +114,7 @@ schedule \
 mysqlclient
 
 
-#### **Issues/Limitations** \
+#### **Issues/Limitations** 
 While the current version of the pipeline provides a robust and efficient solution for automating the data workflow in a grocery store, it's essential to acknowledge certain limitations: 
 1. Containerization and CI/CD:
 The pipeline is not currently containerized. Future iterations of this project aim to implement containerization, making it more portable and scalable. Additionally, plans include the integration of Continuous Integration (CI) and Continuous Deployment (CD) practices using GitHub Actions. These enhancements will contribute to streamlined development, testing, and deployment processes.
