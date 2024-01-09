@@ -2,12 +2,12 @@
 
 #### Table of Contents
 - [Overview](#Overview)
-- [Project Structure](#Project Structure)
-- [Pipeline Description](#Pipeline Description)
+- [Project Structure](#ProjectStructure)
+- [Pipeline Description](#PipelineDescription)
 - [Usage](#Usage)
-- [Files Description](#Files Description)
+- [Files Description](#FilesDescription)
 - [Dependencies](#Dependencies)
-- [Issues/Limitations](#Issues/Limitations)
+- [Issues/Limitations](#Issues-Limitations)
 - [License](#License)
 
 
