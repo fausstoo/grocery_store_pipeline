@@ -5,7 +5,7 @@
 - [Project Structure](#ProjectStructure)
 - [Pipeline Description](#PipelineDescription)
 - [Usage](#Usage)
-- [Files Description](#FilesDescription)
+- [Files Description](#Files-Description)
 - [Dependencies](#Dependencies)
 - [Issues/Limitations](#Issues-Limitations)
 - [License](#License)
