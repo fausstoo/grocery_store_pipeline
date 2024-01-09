@@ -1,5 +1,17 @@
 ### Grocery Store Pipeline
-**Overview**
+
+#### Table of Contents
+- [Overview](#Overview)
+- [Project Structure](#Project Structure)
+- [Pipeline Description](#Pipeline Description)
+- [Usage](#Usage)
+- [Files Description](#Files Description)
+- [Dependencies](#Dependencies)
+- [Issues/Limitations](#Issues/Limitations)
+- [License](#License)
+
+
+#### **Overview**
 I developed this project with the primary goal of automating my data workflow as a bookkeeper in a grocery store. The pipeline, when executed, performs a comprehensive Extract, Transform, Load (ETL) process:
 1. Extraction: extracts records from each table within the Excel CRM Workbook.
 2. Transformation: cleans and transforms each record according to specific business requirements.
@@ -10,7 +22,7 @@ I developed this project with the primary goal of automating my data workflow as
 This pipeline streamlines the management of grocery store **sales data**, offering a systematic approach to handling records from extraction to storage while ensuring adaptability to evolving business needs.
  
 
-**Project Structure** \
+#### **Project Structure** \
 fausstoo/grocery_store_pipeline \
 │ \
 ├── /data \
@@ -39,11 +51,11 @@ fausstoo/grocery_store_pipeline \
 ├── requirements.txt \
 └── README.md 
 
-**Pipeline Overview** \
+#### **Pipeline Description** \
 The pipeline involves three main stages and a script for each one: *extraction* (data_ingestion.py), *transformation* (data_transformation.py), and *storage* (data_storage.py). Each stage is orchestrated by the file *pipeline.py*.
 
 
-**Usage** \
+#### **Usage** \
 The presented project offers a comprehensive and modularized data pipeline designed for the ingestion, transformation, and storage of grocery store data. Its primary utility lies in the structured handling of data sourced from an Excel workbook, cleaning and transforming the data, and persisting it in a MySQL database. The usage of this project can be outlined as follows:
 
 *Execution and Integration:*
@@ -67,7 +79,7 @@ In a professional context, this project applies to scenarios where structured da
 The provided usage overview positions the project as a versatile and adaptable tool for managing and analyzing structured data in academic and professional settings.
 
 
-**File Descriptions** 
+#### **Files Description** 
 1. *data_ingestion.py*
 This script facilitates the extraction of records from an Excel workbook (Los_Puche_4.xlsm). It reads multiple sheets specified in the tables list using pandas. The selected tables are then exported as individual CSV files in the /data/CSV_tables directory. This script forms the initial step in the data pipeline, ensuring a structured and accessible format for subsequent data processing.
 
@@ -90,7 +102,7 @@ The exception.py script defines a custom exception class, CustomException, to ha
 The logger.py script sets up logging functionality for the project using the Python logging module. It creates log files with timestamps in the /logs directory, enhancing traceability and organization. The script ensures that log messages contain essential information, including the timestamp, line number, and log level. Logging is configured to capture details about the project's execution, errors, and other relevant events. This contributes to effective debugging and monitoring throughout the development and execution phases of the project.
 
 
-**Dependencies** \
+#### **Dependencies** \
 pandas \
 numpy \
 matplotlib \
@@ -102,7 +114,7 @@ schedule \
 mysqlclient
 
 
-**Issues/Limitations** \
+#### **Issues/Limitations** \
 While the current version of the pipeline provides a robust and efficient solution for automating the data workflow in a grocery store, it's essential to acknowledge certain limitations: 
 1. Containerization and CI/CD:
 The pipeline is not currently containerized. Future iterations of this project aim to implement containerization, making it more portable and scalable. Additionally, plans include the integration of Continuous Integration (CI) and Continuous Deployment (CD) practices using GitHub Actions. These enhancements will contribute to streamlined development, testing, and deployment processes.
@@ -117,5 +129,5 @@ The logging functionality primarily captures essential information for debugging
 The current version focuses on data extraction from an Excel CRM Workbook specific to the grocery store context. Future iterations may explore enhancing the pipeline's adaptability to diverse data sources and formats.
 
 
-**License**
+#### **License**
 MIT License
