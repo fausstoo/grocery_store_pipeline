@@ -2,7 +2,7 @@
 
 #### Table of Contents
 - [Overview](#Overview)
-- [Project Structure](#ProjectStructure)
+- [Project Structure](#Project-Structure)
 - [Pipeline Description](#Pipeline-Description)
 - [Usage](#Usage)
 - [Files Description](#Files-Description)
