@@ -114,7 +114,7 @@ schedule \
 mysqlclient
 
 
-#### **Issues/Limitations** 
+#### <a name="Issues-Limitations"></a>**Issues/Limitations** 
 While the current version of the pipeline provides a robust and efficient solution for automating the data workflow in a grocery store, it's essential to acknowledge certain limitations: 
 1. Containerization and CI/CD:
 The pipeline is not currently containerized. Future iterations of this project aim to implement containerization, making it more portable and scalable. Additionally, plans include the integration of Continuous Integration (CI) and Continuous Deployment (CD) practices using GitHub Actions. These enhancements will contribute to streamlined development, testing, and deployment processes.
