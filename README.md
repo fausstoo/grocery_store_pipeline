@@ -7,10 +7,10 @@ I developed this project with the primary goal of automating my data workflow as
 4. Table Creation: dynamically creates tables if they do not already exist in the database.
 5. Periodic Data Storage: stores records periodically in the SQL database, ensuring data integrity by avoiding duplicates.
 6. Allows customization of batch size for efficient processing on each run.
-This pipeline streamlines the management of grocery store data, offering a systematic approach to handling records from extraction to storage while ensuring adaptability to evolving business needs.
+This pipeline streamlines the management of grocery store **sales data**, offering a systematic approach to handling records from extraction to storage while ensuring adaptability to evolving business needs.
  
 
-**Project Structure**
+**Project Structure** \
 fausstoo/grocery_store_pipeline \
 │ \
 ├── /data \
