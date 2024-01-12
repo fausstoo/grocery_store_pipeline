@@ -136,7 +136,7 @@ Initialize Git \
 `git init` 
 
 Clone the repository \
-`https://github.com/fausstoo/grocery_store_pipeline.git` 
+`git clone https://github.com/fausstoo/grocery_store_pipeline.git` 
 
 Enter to the project folder \
 `cd grocery_store_pipeline` 
