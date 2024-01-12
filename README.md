@@ -8,7 +8,7 @@
 - [Files Description](#Files-Description)
 - [Dependencies](#Dependencies)
 - [Issues & Limitations](#Issues--Limitations)
-- [Run Locally](#)
+- [Run Locally](#Run-Locally)
 - [License](#License)
 
 
@@ -131,7 +131,7 @@ The current version focuses on data extraction from an Excel CRM Workbook specif
 
 #### **Run Locally**
 Initialize Git \
-\'git init'
+'git init'
 
 
 
