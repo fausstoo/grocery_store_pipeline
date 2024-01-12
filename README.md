@@ -132,21 +132,21 @@ The current version focuses on data extraction from an Excel CRM Workbook specif
 #### **Run Locally**
 ATTENTION: You will need to have installed MySQL Workbench previously along with a database named 'grocery_store'. You should configure '123456Fa$$' as your database password, otherwise, you can change freely this parameter in the Python scripts within the project folder. \
 Initialize Git \
-`git init`
+`git init` \
 Clone the repository \
-`https://github.com/fausstoo/grocery_store_pipeline.git`
+`https://github.com/fausstoo/grocery_store_pipeline.git` \
 Enter to the project folder \
-`cd grocery_store_pipeline`
+`cd grocery_store_pipeline` \
 Create conda environment \
-`conda create -n <env_name> python=<python_version>`
+`conda create -n <env_name> python=<python_version>` \
 Activate conda environment \
-`conda activate /<env_name>`
+`conda activate /<env_name>` \
 Install packages \
-`pip install -r requirements.txt`
+`pip install -r requirements.txt` \
 Create the SQL tables\
-`python src/components/create_tables.py`
-Run the pipeline to store data
-`python src/components/pipeline.py`
+`python src/components/create_tables.py` \
+Run the pipeline to store data \
+`python src/components/pipeline.py` \
 
 #### **License**
 MIT License
