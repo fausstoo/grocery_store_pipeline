@@ -8,6 +8,7 @@
 - [Files Description](#Files-Description)
 - [Dependencies](#Dependencies)
 - [Issues & Limitations](#Issues--Limitations)
+- [Run Locally](#)
 - [License](#License)
 
 
@@ -127,6 +128,11 @@ The logging functionality primarily captures essential information for debugging
 
 4. Adaptability to Diverse Data Sources:
 The current version focuses on data extraction from an Excel CRM Workbook specific to the grocery store context. Future iterations may explore enhancing the pipeline's adaptability to diverse data sources and formats.
+
+#### **Run Locally**
+Initialize Git \
+\'git init'
+
 
 
 #### **License**
