@@ -13,7 +13,7 @@
 
 #### **Overview**
 I developed this project with the primary goal of automating my data workflow as a bookkeeper in a grocery store. \
-This pipeline streamlines the management of grocery store sales data, offering a systematic approach to handling records from extraction to storage while ensuring adaptability to evolving business needs. It also allows customization of batch size for efficient processing on each run. \
+This pipeline streamlines the management of grocery store sales data, offering a systematic approach to handling records from extraction to storage while ensuring adaptability to evolving business needs. It also allows customization of batch size for efficient processing on each run. 
 
 The pipeline involves three main stages and a script for each one: 
 - Extraction (data_ingestion.py)
