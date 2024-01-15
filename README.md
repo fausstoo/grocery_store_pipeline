@@ -3,7 +3,6 @@
 #### Table of Contents
 - [Overview](#Overview)
 - [Project Structure](#Project-Structure)
-- [Pipeline Description](#Pipeline-Description)
 - [Usage](#Usage)
 - [Files Description](#Files-Description)
 - [Dependencies](#Dependencies)
@@ -13,15 +12,20 @@
 
 
 #### **Overview**
-I developed this project with the primary goal of automating my data workflow as a bookkeeper in a grocery store. The pipeline, when executed, performs a comprehensive Extract, Transform, Load (ETL) process:
-1. Extraction: extracts records from each table within the Excel CRM Workbook.
-2. Transformation: cleans and transforms each record according to specific business requirements.
-3. Database Connection: utilizes SQLAlchemy and MySQL to connect to the local SQL database.
-4. Table Creation: dynamically creates tables if they do not already exist in the database.
-5. Periodic Data Storage: stores records periodically in the SQL database, ensuring data integrity by avoiding duplicates.
-6. Allows customization of batch size for efficient processing on each run.
-This pipeline streamlines the management of grocery store **sales data**, offering a systematic approach to handling records from extraction to storage while ensuring adaptability to evolving business needs.
- 
+I developed this project with the primary goal of automating my data workflow as a bookkeeper in a grocery store. \
+This pipeline streamlines the management of grocery store sales data, offering a systematic approach to handling records from extraction to storage while ensuring adaptability to evolving business needs. It also allows customization of batch size for efficient processing on each run. \
+
+The pipeline involves three main stages and a script for each one: 
+- Extraction (data_ingestion.py)
+- Transformation (data_transformation.py)
+- Storage (data_storage.py)
+- Each stage is orchestrated by the file pipeline.py
+
+
+When executed, it also performs the following tasks:
+- Database Connection: utilizes SQLAlchemy and MySQL to connect to the local SQL database.
+- Table Creation: dynamically creates tables if they do not already exist in the database.
+- Periodic Data Storage: stores records periodically in the SQL database, ensuring data integrity by avoiding duplicates.
 
 #### **Project Structure** 
 fausstoo/grocery_store_pipeline \
@@ -51,9 +55,6 @@ fausstoo/grocery_store_pipeline \
 ├── setup.py \
 ├── requirements.txt \
 └── README.md 
-
-#### **Pipeline Description** 
-The pipeline involves three main stages and a script for each one: *extraction* (data_ingestion.py), *transformation* (data_transformation.py), and *storage* (data_storage.py). Each stage is orchestrated by the file *pipeline.py*.
 
 
 #### **Usage** 
