@@ -18,7 +18,7 @@ This pipeline streamlines the management of grocery store sales data, offering a
 The pipeline involves three main stages and a script for each one: 
 - Extraction (data_ingestion.py)
 - Transformation (data_transformation.py)
-- Storage (data_storage.py)
+- Storage (data_storage.py) \
 Each stage is orchestrated by the file pipeline.py
 
 
