@@ -19,7 +19,7 @@ The pipeline involves three main stages and a script for each one:
 - Extraction (data_ingestion.py)
 - Transformation (data_transformation.py)
 - Storage (data_storage.py)
-- Each stage is orchestrated by the file pipeline.py
+Each stage is orchestrated by the file pipeline.py
 
 
 When executed, it also performs the following tasks:
