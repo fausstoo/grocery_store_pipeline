@@ -1,1195 +1,1540 @@
 category,product,unit_cost,unit_price,product_id
-Agua,Agua caliente 1,56.0,100.0,1
-Agua,Agua de Las Misiones x 1500 ml,130.83,200.0,2
+Agua,Agua caliente 1,56.0,300.0,1
+Agua,Agua de Las Misiones x 1500 ml,130.83,250.0,2
 Agua,Agua mineral  Sierra de los Padres  600ml,60.0,100.0,3
-Agua,Agua Mineral Benedictino 2 L,150.0,280.0,4
+Agua,Agua Mineral Benedictino 2 L,666.66,900.0,4
 Agua,"Agua Mineral Bio Sports 1,5L",101.563,150.0,5
 Agua,Agua Mineral H2O 500ml,56.0,100.0,6
 Agua,Agua Mineral Natural Villamanaos 2000ml,73.0,150.0,7
-Agua,Agua Mineral Secco 500ml,56.0,100.0,8
-Agua,Agua Mineral Sin Gas Benedictino 3L,120.0,350.0,9
-Agua,Agua Mineral sin Gas Benedictino 600cc ,65.0,180.0,10
-Agua,"Agua Mineral Villa del Sur 1,65ml",76.0,150.0,11
+Agua,Agua Mineral Secco 500ml,355.5,450.0,8
+Agua,Agua Mineral Sin Gas Benedictino 3L,833.33,1100.0,9
+Agua,Agua Mineral sin Gas Benedictino 600cc ,541.68,700.0,10
+Agua,"Agua Mineral Villa del Sur 1,65ml",186.61,300.0,11
 Agua,Agua Vitalíssima 500 ml,55.333,100.0,12
 Agua,Aguas de Las Misiones 500ml,56.0,100.0,13
-Agua,"Sierra de los Padres 1,5L",124.0,160.0,14
-Agua,Sierra de Los Padres Agua Mineral Natural,124.0,200.0,15
-Agua,Villamanaos 600ml,36.0,100.0,16
-Agua,"Vitalisima 1,5 L",94.0,150.0,17
-Agua Saborizada,Aquarius Manzana 2250ml,416.66,530.0,18
-Agua Saborizada,Aquarius Naranja 2250ml,416.66,530.0,19
-Agua Saborizada,Aquarius Pera 2250ml,416.66,530.0,20
-Agua Saborizada,Aquarius Pomelo 2250ml,416.66,530.0,21
-Agua Saborizada,Aquarius Pomelo 2250ml,416.66,530.0,22
-Agua Saborizada,Aquarius Pomelo Rosado 2250ml,416.66,530.0,23
-Agua Saborizada,Baggio Fresh Manzana Liviano 1500ml,211.66,320.0,24
-Agua Saborizada,Baggio Fresh Manzana Liviano 200ml,49.0,70.0,25
-Agua Saborizada,Baggio Fresh Mix Frutal 1500ml,211.66,320.0,26
-Agua Saborizada,Baggio Fresh Naranja 1500ml,211.66,320.0,27
-Agua Saborizada,Baggio Fresh Naranja Dulce Liviano 1500ml,211.66,320.0,28
-Agua Saborizada,Baggio Fresh Naranja Liviano 200ml,49.0,70.0,29
-Agua Saborizada,Baggio Fresh Pomelo 1500ml,211.66,320.0,30
-Agua Saborizada,"Bio Balance Manzana 1,5L",0.0,150.0,31
-Agua Saborizada,Levité Ananá 2250ml,175.0,250.0,32
-Agua Saborizada,Levité Manzana  2500ml,204.0,250.0,33
-Agua Saborizada,Levité Manzana 2250ml,175.0,260.0,34
-Agua Saborizada,Levité Naranja 1000ml,90.0,120.0,35
-Agua Saborizada,Levité Naranja 2250ml,175.0,260.0,36
-Agua Saborizada,Levité Pomelo 2250ml,171.0,260.0,37
-Agua Saborizada,Sierra de Los Padres Manzana 1500ml,190.0,300.0,38
-Agua Saborizada,Sierra de Los Padres Manzana 2250ml,302.0,400.0,39
-Agua Saborizada,Sierra de Los Padres Naranja 1500ml,190.0,300.0,40
-Agua Saborizada,Sierra de Los Padres Naranja 1500ml,190.0,300.0,41
-Agua Saborizada,Sierra de Los Padres Naranja 2250ml,302.0,400.0,42
-Agua Saborizada,Sierra de Los Padres Naranja 500ml,73.0,100.0,43
-Agua Saborizada,Sierra de Los Padres Pomelo 1500 ml,190.0,300.0,44
-Agua Saborizada,Sierra de Los Padres Pomelo 1500ml,190.0,300.0,45
-Agua Saborizada,Sierra de los Padres Pomelo 2250ml,302.0,400.0,46
-Agua Saborizada,Sierra de Los Padres Pomelo 500ml,73.0,100.0,47
-Aperitivo,Americano Gancia 950 ml ,699.0,1100.0,48
-Aperitivo,Americano Gancia Americano 1250ml,850.0,1550.0,49
-Aperitivo,Aperol 750ml,1399.0,1750.0,50
-Aperitivo,Campari 750ml,1600.0,2000.0,51
-Aperitivo,Carpano Rosso 950ml,999.98,1250.0,52
-Aperitivo,CinZano Vermouth Rosso 1000ml,1099.0,1350.0,53
-Aperitivo,Dr Lemon Pomelo 473ml,290.0,400.0,54
-Aperitivo,Dr Lemon Vodka 473ml,290.0,400.0,55
-Aperitivo,Dr. Lemon Limon 473 ml,290.0,400.0,56
-Aperitivo,Fernandito 1000ml,158.33,230.0,57
-Aperitivo,Fernandito Doble 1L,158.33,230.0,58
-Aperitivo,Fernando 1L,158.33,230.0,59
-Aperitivo,Fernet Branca 450ml,1162.2,1700.0,60
-Aperitivo,Fernet Branca 750 cc,1350.0,1800.0,61
-Aperitivo,Frizzé Blue Evolution 1000ml,210.0,280.0,62
-Aperitivo,Martini Rosso 1000ml,1199.0,1500.0,63
-Aperitivo,Smirnoff Ice  Red Berries 473 ml,400.0,550.0,64
-Aperitivo,"Terma Citrus Hierbabuena y Enebro 1,35 L",169.0,350.0,65
-Aperitivo,"Terma Pomelo Quina & Cuasia 1,35 L",234.11,350.0,66
-Aperitivo,"Terma Pomelo Rosado Peperina y Coriandro 1,35 L",237.99,350.0,67
-Aperitivo,"Terma Pomelo Rosado Peperina y Coriandro 1,35 L",234.11,350.0,68
-Bebida Blanca,Bols Café al Coñac 200ml,400.0,500.0,69
-Bebida Blanca,Café al Coñac Cusenier  20 cl,300.0,450.0,70
-Bebida Blanca,Criadores 195ml,488.0,650.0,71
-Bebida Blanca,CuernaVaca Tequila 1000ml,488.0,650.0,72
-Bebida Blanca,Licor Cusenier Blue Curacao 700ml,900.0,1200.0,73
-Bebida Blanca,Licor fino Bar & Pub's Chocolate 200ml,210.0,500.0,74
-Bebida Blanca,Licor fino Bar & Pub's Dulce de Leche 200ml,210.0,500.0,75
-Bebida Blanca,Ron Blanco New Style 1000ml,450.0,600.0,76
-Bebida Blanca,Skyy Vodka 750ml,713.0,950.0,77
-Bebida Blanca,Smirnoff Citrus 700ml,900.0,1200.0,78
-Bebida Blanca,Smirnoff Tangerine & Lemongrass 700ml,900.0,1200.0,79
-Bebida Blanca,Smirnoff Watermelon 700ml,900.0,1200.0,80
-Bebida Blanca,VAT 69 Apple Vibe 700ml,1900.0,2600.0,81
-Bebida Blanca,VAT 69 Blended Scotch Whisky 750ml,1900.0,2600.0,82
-Bebida Blanca,VAT 69 Guaraná Storm 750ml,1900.0,2600.0,83
-Bebida Blanca,Whisky Añejo Doble-V 1000ml,600.0,800.0,84
-Carga,Carga Virtual,1.0,1.0,85
-Cerveza,Amstel  473ml,260.23,350.0,86
-Cerveza,Andes Fresquita Mendocina 473ml,214.86,350.0,87
-Cerveza,Brahma  473ml,252.91,350.0,88
-Cerveza,Brahma Dorada Lata 473 cm3,274.81,360.0,89
-Cerveza,Brahma Retornable 1000ml,511.85,600.0,90
-Cerveza,Budweiser 473 cc,242.49,320.0,91
-Cerveza,Budweiser King of Beers 410cc,220.83,300.0,92
-Cerveza,Budweiser King of Beers 710cc,490.39,450.0,93
-Cerveza,Budweiser Retornable 1000ml,451.66,550.0,94
-Cerveza,Combo Quilmes 5x 473 ml + Vaso Murphy,1299.99,1800.0,95
-Cerveza,Cooler Corona ,15000.0,19000.0,96
-Cerveza,Corona  710ml,650.0,850.0,97
-Cerveza,Corona 330ml,411.0,500.0,98
-Cerveza,Corona 410ml,366.66,480.0,99
-Cerveza,Corona-Frapera-Tabla-Destapador,3500.0,5500.0,100
-Cerveza,ESH,1399.99,1800.0,101
-Cerveza,FRAPERA BUDWEISSER METAL,2800.0,5500.0,102
-Cerveza,Frapera Metal Corona,4800.0,5800.0,103
-Cerveza,Frapera Plática Brahma roja,1200.0,2700.0,104
-Cerveza,Frapera Stella Artois ,4160.0,5200.0,105
-Cerveza,Gif Pack 1 Botella de Agua + 2 porrones de 330 cc Corona,2770.0,3600.0,106
-Cerveza,GP Quilmes Vasos Independiente + 4 latas 473 ml,1399.99,1800.0,107
-Cerveza,Heineken  473ml,317.0,450.0,108
-Cerveza,Imperial Golden  473ml,267.66,350.0,109
-Cerveza,Imperial Golden Retornable 1000ml,442.0,580.0,110
-Cerveza,Imperial IPA 473 ml,130.0,300.0,111
-Cerveza,Imperial Lager  473ml,200.0,300.0,112
-Cerveza,Michelob Ultra 410 cm3,154.166,280.0,113
-Cerveza,Miller  473ml,297.41,360.0,114
-Cerveza,Patagonia  Bohemian Pilsener 473 cc,335.87,450.0,115
-Cerveza,Patagonia 24.7 730 ml,592.37,770.0,116
-Cerveza,Patagonia Amber Lager 730ml,592.37,770.0,117
-Cerveza,Patagonia Bohemian Pilsener 730 cc,592.37,770.0,118
-Cerveza,Patagonia Weisse 730 cc,592.37,770.0,119
-Cerveza,Promoción Brahma + Vaso,225.0,720.0,120
-Cerveza,Quilmes 1890 473ml,204.0,300.0,121
-Cerveza,Quilmes Bajo Cero Retornable 1000ml,451.66,530.0,122
-Cerveza,Quilmes Clásica  473ml,239.6,330.0,123
-Cerveza,Quilmes Negra  473ml,235.41,300.0,124
-Cerveza,Salta  473ml,128.0,190.0,125
-Cerveza,Santa Fé  473ml,193.75,280.0,126
-Cerveza,Santa Fé Pilsen,191.66,280.0,127
-Cerveza,Schin  473ml,120.0,200.0,128
-Cerveza,Schneider  473ml,227.5,300.0,129
-Cerveza,Stella Artois  Noire 473 cc,333.33,450.0,130
-Cerveza,Stella Artois Belgium 410 cm3,333.33,450.0,131
-Cerveza,Stella Artois Belgium 473 cc,399.0,500.0,132
-Cerveza,Stella Artois NO Retornable 710ml,611.0,700.0,133
-Cerveza,Stella Artois Retornable 1000ml,703.42,800.0,134
-Chocolate,Águila Minitorta Blanco 69g,147.52,200.0,135
-Chocolate,Águila Minitorta Clásico 69g,147.52,200.0,136
-Chocolate,"Águila Minitorta Cloco 70,5g",147.52,200.0,137
-Chocolate,"Alfajor B&N Blanco 73,5g",147.52,200.0,138
-Chocolate,"Alfajor B&N Negro 3,0 73,5g",147.52,250.0,139
-Chocolate,Alfajor Block 60g,147.52,200.0,140
-Chocolate,Alfajor Bonobon 3 ,138.52,200.0,141
-Chocolate,Alfajor Clásico Terrabussi 50 grs,78.16,200.0,142
-Chocolate,Alfajor Genio Nevares Triple Blanco 60 grs,66.89,100.0,143
-Chocolate,Alfajor Genio Nevares Triple Negro 60 grs,66.89,100.0,144
-Chocolate,Alfajor Glaseado Terrabussi 38 grs,100.0,200.0,145
-Chocolate,Alteza Chocolate Taza 90g,128.0,450.0,146
-Chocolate,Arcor Milk Sorpresa 264g,101.0,250.0,147
-Chocolate,"Bagley Negro Triple 3,0 1",114.0,200.0,148
-Chocolate,Block Cofler 110g,218.0,300.0,149
-Chocolate,Block Cofler 38g,141.78,200.0,150
-Chocolate,Bombón Bel Choco 9g,15.0,20.0,151
-Chocolate,Bon o Bon Aguila Negro,41.17,80.0,152
-Chocolate,Bon o Bon con Chocolinas Negro,41.17,80.0,153
-Chocolate,Bonobón Arcor Blanco,55.0,80.0,154
-Chocolate,Bonobón Arcor Negro,55.0,80.0,155
-Chocolate,Chocolate Mani Vizzio Bonafide 85g,174.0,250.0,156
-Chocolate,Chocolate Nesquik en Polvo 150 grs,150.0,250.0,157
-Chocolate,Chocolate Nestle Maní  33 grs,200.0,300.0,158
-Chocolate,Chocolate Taza Georgalos 100g,265.0,350.0,159
-Chocolate,Chocolino 180 grs,169.9,230.0,160
-Chocolate,Cofler Air Blanco 55 grs,298.6,400.0,161
-Chocolate,Cofler Air Leche 55 grs,298.6,400.0,162
-Chocolate,Cofler Almendras 55 grs,283.86,400.0,163
-Chocolate,Cofler Blanco Air 100 grs,520.48,650.0,164
-Chocolate,Cofler Blanco con Chocolinas 100 grs,512.17,650.0,165
-Chocolate,Cofler Chocolate con Leche  100 grs,512.17,650.0,166
-Chocolate,Cofler Chocolate con Leche 55g,283.86,400.0,167
-Chocolate,Cofler Graffiti Blanco 45 grs,125.0,200.0,168
-Chocolate,Cofler Graffiti Negro 45 grs,125.0,200.0,169
-Chocolate,Cofler Leche Air 100 grs,520.48,650.0,170
-Chocolate,Cofler Mixto Air 100 grs,520.48,650.0,171
-Chocolate,Cofler Rockets 100 grs,512.17,650.0,172
-Chocolate,Cofler Rocklets 55g,227.82,300.0,173
-Chocolate,Fel Fort Dos Corazones 26g,90.65,200.0,174
-Chocolate,Georgalos Full Maní 100g,180.0,240.0,175
-Chocolate,Hamlet Almendras y Maní 43 grs,53.33,150.0,176
-Chocolate,Hamlet Sabor Yoghurt Frutilla 43 grs,53.33,150.0,177
-Chocolate,KingTat 18g,38.0,50.0,178
-Chocolate,Las Colonias Blanco Triple 1,72.91,130.0,179
-Chocolate,Las Colonias Negro Triple 1,72.91,130.0,180
-Chocolate,Mantecol Clásico 111g,285.0,380.0,181
-Chocolate,Milka Leche 55 grs,420.0,450.0,182
-Chocolate,Oblea Twit Arcor 20 grs,60.0,80.0,183
-Chocolate,Obli-Bon Blanco 17g ,23.0,30.0,184
-Chocolate,Obli-Bon Bocadito Relleno 10g,30.0,40.0,185
-Chocolate,Obli-Bon Bombón 170g x 10 unidades,300.0,400.0,186
-Chocolate,Paraguitas ,53.79,100.0,187
-Chocolate,Rocklets  20g,68.0,100.0,188
-Chocolate,Rocklets 40 grs,167.5,200.0,189
-Chocolate,Sapito Maní 10g,23.0,30.0,190
-Chocolate,Tatín Blanco Simple 1,60.25,100.0,191
-Chocolate,Tatín Blanco Triple 1,82.0,130.0,192
-Chocolate,Tatín Negro Simple 1,60.25,100.0,193
-Chocolate,Tatín Negro Triple 1,82.0,130.0,194
-Chocolate,Tofi Blanco Triple 1,98.0,200.0,195
-Chocolate,Tofi Glaseado 44g,80.72,150.0,196
-Chocolate,Tofi Negro Triple 1,98.0,200.0,197
-Cigarrillo,Camel 11,405.0,460.0,198
-Cigarrillo,Chesterfield 20 Box,560.0,650.0,199
-Cigarrillo,Chesterfield 20 Común ,460.0,550.0,200
-Cigarrillo,Cigarrillo CJ Rubios,150.0,280.0,201
-Cigarrillo,Cigarrillos CJ Rubios Convertible,180.0,320.0,202
-Cigarrillo,Cigarrillos CJ Rubios Mentolado,150.0,300.0,203
-Cigarrillo,Liverpool 20 Box Rojo,255.0,350.0,204
-Cigarrillo,Liverpool Green,255.0,350.0,205
-Cigarrillo,Lucky Strike  Común 12 ,360.0,420.0,206
-Cigarrillo,Lucky Strike  Común Convertible 20,560.0,630.0,207
-Cigarrillo,Lucky Strike  Convertible 12,360.0,430.0,208
-Cigarrillo,Lucky Strike  Convertible Box 20,630.0,700.0,209
-Cigarrillo,Lucky Strike Común 20 Blanco ,560.0,630.0,210
-Cigarrillo,Lucky Strike Dark Paris,776.25,850.0,211
-Cigarrillo,Marlboro  Común 12,400.0,450.0,212
-Cigarrillo,Marlboro  Común 20,630.0,700.0,213
-Cigarrillo,Marlboro Box 20,720.0,800.0,214
-Cigarrillo,Marlboro Fusión 12,371.25,450.0,215
-Cigarrillo,Marlboro Fusión 20 Box,640.0,700.0,216
-Cigarrillo,Master Común 20,265.0,350.0,217
-Cigarrillo,Philip Morris  Común 12,360.0,450.0,218
-Cigarrillo,Philip Morris  Convertible Box 20,630.0,700.0,219
-Cigarrillo,Philip Morris 20 Común 20,560.0,630.0,220
-Cigarrillo,Philip Morris Convertible 12,360.0,450.0,221
-Cigarrillo,Pier Rojo 20 20,255.0,350.0,222
-Cigarrillo,Pier Rojo x 10,145.0,230.0,223
-Cigarrillo,Pier Verde 20 20,255.0,350.0,224
-Cigarrillo,Rodeo 20 20,180.0,250.0,225
-Cigarrillo,Rothmans Covertible 20,475.0,530.0,226
-Cigarrillo,Rothmans Red Ks 20,460.0,510.0,227
-Cigarrillo,Suelto Barato 1,0.0,20.0,228
-Cigarrillo,Suelto Nacional 1,0.0,30.0,229
-Cigarrillo,Sueltos $20,0.0,20.0,230
-Cotillón,Bengalas 1,60.0,100.0,231
-Cotillón,Bengalas para tortas Candela x 4 unidades,109.57,200.0,232
-Cotillón,Bombuchas Fiesta Loca 100 globitos,210.0,450.0,233
-Cotillón,Bombuchas Perfumadas x 100 globitos,375.0,450.0,234
-Cotillón,Cucharitas Plásticas,3.22,10.0,235
-Cotillón,"Globos Candela Blanco 12"" x 25 unidades Perlados",22.4,30.0,236
-Cotillón,"Globos Candela Celeste 12"" x 25 unidades Perlados",22.4,30.0,237
-Cotillón,"Globos Candela Multicolor 9"" x 50 unidades",12.0,20.0,238
-Cotillón,Vasos Descartables Color,8.0,30.0,239
-Cotillón,Vasos descartables x 1 litro ,45.0,150.0,240
-Cotillón,Velas de cumpleaños 1,8.0,20.0,241
-Embutidos,Salchichas 66 200 grs,114.99,200.0,242
-Embutidos,Salchichas Don Otto 190g,83.0,110.0,243
-Energizante,Gatorade Cool Blue 125L,482.56,650.0,244
-Energizante,Gatorade Cool Blue 500 ml,268.14,370.0,245
-Energizante,Gatorade Cool Blue 750ml,307.32,400.0,246
-Energizante,"Gatorade Frutas Tropicales 1,25L",482.56,650.0,247
-Energizante,Gatorade Frutas Tropicales 500ml,268.14,370.0,248
-Energizante,Gatorade Frutos Tropicales 750ml,307.32,400.0,249
-Energizante,Gatorade Lima Limón 500 ml,268.14,370.0,250
-Energizante,"Gatorade Manzana 1,25L",482.56,650.0,251
-Energizante,Gatorade Manzana 750ml,307.32,400.0,252
-Energizante,"Gatorade Naranja 1,25L",482.56,650.0,253
-Energizante,Gatorade Uva 500ml,268.14,370.0,254
-Energizante,Monster Energy The Doctor,340.0,450.0,255
-Energizante,Monster Energy Ultra 473cc,340.0,450.0,256
-Energizante,Monster Energy Ultra Paradise,340.0,450.0,257
-Energizante,Monster Energy Ultra Sunrise,340.0,450.0,258
-Energizante,Monster Mango Loco 473cc,340.0,450.0,259
-Energizante,Monster Negro 473ml,340.0,450.0,260
-Energizante,Monster Water Melon 473cc,340.0,450.0,261
-Energizante,Powerade Blue 500ml,200.0,300.0,262
-Energizante,Powerade Frutos Tropicales 500ml,200.0,300.0,263
-Energizante,Powerade Manzana 500ml,200.0,300.0,264
-Energizante,Red Bull 250ml,390.14,500.0,265
-Energizante,Red Bull Sabor sandía,390.14,500.0,266
-Energizante,Red Bull Sugar Free,390.14,500.0,267
-Energizante,Red Bull Tropical Edition 250ml,390.14,500.0,268
-Energizante,Speed 250ml,120.0,420.0,269
-Energizante,Speed 269ml 269ml,168.75,300.0,270
-Energizante,Speed Unlimited 250 ml,149.0,300.0,271
-Espumante,1888 Sidra 750ml,525.0,700.0,272
-Espumante,Anana Fizz Del Valle 720 cc,366.66,500.0,273
-Espumante,Ananá Fizz Real 720 ml,608.33,850.0,274
-Espumante,Del Valle Durazno Fizz 720ml,300.0,500.0,275
-Espumante,Del Valle Sidra Etiqueta Negra 720ml,300.0,500.0,276
-Espumante,DU Renaissance 750 ml,500.0,650.0,277
-Espumante,Federico de Alvear Extra Dulce,574.8,750.0,278
-Espumante,La Farruka Gran Sidra 910ml,263.0,500.0,279
-Espumante,La Victoria Fresas 720ml,300.0,500.0,280
-Espumante,La Victoria Sidra 720ml,263.0,500.0,281
-Espumante,Novecento Extra Dulce 750ml,490.0,650.0,282
-Espumante,Real Sidra 750ml,600.0,800.0,283
-Espumante,Sidra Real 910 ml,625.0,850.0,284
-Farmacia,Acondicionador Pantene Restauración 10 ml,11.0,50.0,285
-Farmacia,Actron 600,90.0,130.0,286
-Farmacia,Actron Ibuprofeno 400 mg,44.5,80.0,287
-Farmacia,Alcohol Etílico Dismar 500ml,128.0,170.0,288
-Farmacia,"Alikal 4,5g",68.0,150.0,289
-Farmacia,Alikal Antiácido sabor Naranja,89.66,150.0,290
-Farmacia,Alikal Clásico ,95.19,150.0,291
-Farmacia,Apósitos Protectores,10.0,20.0,292
-Farmacia,Apósitos Protectores Plásticos ,16.0,30.0,293
-Farmacia,Aspirinetas,5.0,10.0,294
-Farmacia,Azufre en Barra ,30.0,80.0,295
-Farmacia,Bayaspirina 500mg 1,23.0,30.0,296
-Farmacia,Bayaspirina Forte,25.0,40.0,297
-Farmacia,Buscapina Compositum 1,30.0,40.0,298
-Farmacia,Buscapina Dúo,87.0,120.0,299
-Farmacia,Buscapina Dúo 20 comprimidos,87.0,120.0,300
-Farmacia,Buscapina Perlas 10 mg,64.0,100.0,301
-Farmacia,Cafiaspirina 500mg 1,23.0,30.0,302
-Farmacia,Colgate Herbal Blanqueadora 90 grs,200.0,350.0,303
-Farmacia,Colgate Ultra Blanco 90 grs,227.76,350.0,304
-Farmacia,Crema Dental Colgate Herbal Blanqueadora 140 grs,495.0,650.0,305
-Farmacia,Crema Dental Colgate Triple Acción Xtra Blancura 50 grs,72.0,120.0,306
-Farmacia,Crema Dental con Flúor Fresh Dent,182.23,250.0,307
-Farmacia,Crema Dental Kolynos 180 grs,445.0,600.0,308
-Farmacia,Curitas 1,15.0,20.0,309
-Farmacia,Curitas Transpiel x 10,11.35,30.0,310
-Farmacia,Diclofenac Sódico 100mg 1,21.0,40.0,311
-Farmacia,Diclogesic Plus B12,28.0,40.0,312
-Farmacia,Doncella Anatómicos,83.0,130.0,313
-Farmacia,Esmalte Jactans,198.0,350.0,314
-Farmacia,Esmalte Miguel Angel,89.0,250.0,315
-Farmacia,Esmalte Secado Rápido India,89.0,250.0,316
-Farmacia,Fibrolex 500mg,7.0,30.0,317
-Farmacia,Geniol Forte x 16 comprimidos,36.5,50.0,318
-Farmacia,Gripaben Té Descongestivo Granulado Miel  y Limón 5 grs ,180.0,300.0,319
-Farmacia,Higienol Export 30m,58.1,100.0,320
-Farmacia,Ibu 400 ISA 1,35.0,50.0,321
-Farmacia,IbuEvanol Forte 400 mg,31.45,50.0,322
-Farmacia,Ibupirac Fem Analgésico Antiespasmódico,29.22,40.0,323
-Farmacia,Ibupirac Ibuprofeno 400 mg,25.75,40.0,324
-Farmacia,Ibupirac Plus Maxx 10 comprimidos,20.6,50.0,325
-Farmacia,Ibuprofeno 600 1,40.0,40.0,326
-Farmacia,Ibuprofeno TRB Pharma 400 mg,20.0,30.0,327
-Farmacia,Ibuprofeno Vent3 400 mg,12.0,30.0,328
-Farmacia,Ibuprofeno Vent3 600 mg,15.0,40.0,329
-Farmacia,Isaspirina Preventiva Aspirina 100 mg ,4.8375,10.0,330
-Farmacia,Jabón Carmel Rosa,70.0,100.0,331
-Farmacia,Jabón Rexona Frescura Revitalizante x3,255.0,320.0,332
-Farmacia,Jabón St Tropez Brillo y Luz X3,252.0,330.0,333
-Farmacia,Jabón St Tropez Flores X3,252.0,330.0,334
-Farmacia,Jabón Tocador Cupido  Tira 3 x 90 grs,43.3,80.0,335
-Farmacia,Kolynos 90 grs,247.99,350.0,336
-Farmacia,Kolynos Triple Extra Fresh 70g,103.0,250.0,337
-Farmacia,Kotex Normal con Alas,105.0,150.0,338
-Farmacia,Ladysoft Normal con alas x 8 u,112.51,250.0,339
-Farmacia,Ladysoft Ultradelgada con alas x 8 u,150.0,230.0,340
-Farmacia,Liberol Loratadina 10mg 1,23.0,30.0,341
-Farmacia,Maquillaje Corrector N° 1 Light Beige,400.0,500.0,342
-Farmacia,Maquillaje Corrector N° 3 Strobing ,400.0,500.0,343
-Farmacia,Maquillaje Corrector N°2 Mediano Beige,400.0,500.0,344
-Farmacia,Máquina de afeitar Bic Comfort 3 Advance 1,150.0,200.0,345
-Farmacia,Máquina de afeitar Bic Flex2 Cabeza Móvil,103.0,200.0,346
-Farmacia,Maquinita de Afeitar Bic 2 hojas,166.0,200.0,347
-Farmacia,Maquinita de Afeitar Bic 3 Hojas,166.0,250.0,348
-Farmacia,Migral Compositum,60.0,100.0,349
-Farmacia,Pack Economico Toallas Femeninas Calipso x 16 unidades,129.91,350.0,350
-Farmacia,Pañal Huggies M 1,38.0,60.0,351
-Farmacia,Pañal Pampers P 1,38.0,60.0,352
-Farmacia,Pañuelos Descartables 1,23.0,70.0,353
-Farmacia,Pañuelos Descartables Dismar,30.0,70.0,354
-Farmacia,Pañuelos Descartables Elite,24.59,70.0,355
-Farmacia,Papel Higiénico Elite Professional 50m ,75.0,100.0,356
-Farmacia,Paracetamol ISA 500mg 1,23.0,30.0,357
-Farmacia,Pastillas de Carbón Activado Eczane x 10 comprimidos,35.3,50.0,358
-Farmacia,Preservativos Tulipán  x 3,176.0,300.0,359
-Farmacia,Prime Anatómico 3,342.67,500.0,360
-Farmacia,Prime Espermicida 3,342.67,500.0,361
-Farmacia,Prime Extra Lubricado 3,342.67,500.0,362
-Farmacia,Prime Mega Mayor Comodidad 3,342.67,500.0,363
-Farmacia,Prime Retardante 3,342.67,500.0,364
-Farmacia,Prime Stronger 3,342.67,500.0,365
-Farmacia,Prime Super Fino 3,342.67,500.0,366
-Farmacia,Prime Tachas 3,342.67,500.0,367
-Farmacia,Prime Texturado 3,342.67,500.0,368
-Farmacia,Prime Turbo 3,342.67,500.0,369
-Farmacia,Prime Ultra Fino 3,342.67,500.0,370
-Farmacia,Prime Warming  3,342.67,500.0,371
-Farmacia,Protectores Diarios Calipso x 20,88.9,150.0,372
-Farmacia,Quitaesmaltes Algabo,69.0,130.0,373
-Farmacia,Sertal Compuesto,20.0,40.0,374
-Farmacia,Sertal Compuesto,70.0,100.0,375
-Farmacia,Sertal Propinol Perlas,64.0,100.0,376
-Farmacia,Shampoo Pantene  Restauración 10ml,11.0,50.0,377
-Farmacia,Tafirol  Paracetamol 500 mg,33.85,50.0,378
-Farmacia,Tafirol Forte Paracetamol 650 mg,38.65,60.0,379
-Farmacia,Tafirol Paracetamol 1g 1,63.0,80.0,380
-Farmacia,Tafirol Paracetamol 1g 1,63.0,80.0,381
-Farmacia,Toallas Femeninas Doncella x 8 u Normal con alas Perfumadas,82.9,200.0,382
-Farmacia,Toallas Femeninas Ladysoft con alas x 8,114.9,250.0,383
-Farmacia,Toallitas Always 8,113.0,180.0,384
-Farmacia,Treg Omeprazol 20 mg x 15 cápsulas,26.5,40.0,385
-Farmacia,Uvasal Clásico x 30 sobres,62.33,100.0,386
-Farmacia,Uvasal Naranja 5g,53.0,100.0,387
-Fotocopia,DNI 1,0.0,40.0,388
-Fotocopia,DOBLE FAZ LEGAL 1,0.0,60.0,389
-Fotocopia,IMPRESIÓN A4 1,0.0,40.0,390
-Fotocopia,IMPRESIÓN LEGAL  1,0.0,40.0,391
-Fotocopia,SIMPLE FAZ A4 1,0.0,20.0,392
-Fotocopia,SIMPLE FAZ LEGAL / DOBLE FAZ A4 1,0.0,40.0,393
-Tramites,Tramites,0.0,0.0,394
-Galletita,9 de Oro  Avena con Pasas 120 grs,149.0,200.0,395
-Galletita,9 de Oro Agridulce  200g,153.58,250.0,396
-Galletita,9 de Oro Agridulces 215 grs,153.58,250.0,397
-Galletita,9 de Oro Avena con Miel 120 grs,112.0,200.0,398
-Galletita,9 de Oro Azucaradas 210 grs,153.58,250.0,399
-Galletita,9 de Oro Azucarados 200g,153.58,250.0,400
-Galletita,9 de Oro Clásicos 215 grs,153.58,250.0,401
-Galletita,9 de Oro Cookies con Chips de Chocolate Blanco 120 grs,119.0,200.0,402
-Galletita,9 de Oro Salada  200g,153.58,250.0,403
-Galletita,Amor 108g,190.35,280.0,404
-Galletita,Amor Sabor Almendras 112 grs,158.99,250.0,405
-Galletita,Bauducco Sabor Chocolate 65 grs,60.0,100.0,406
-Galletita,Chocolinas Original 150 grs,242.58,330.0,407
-Galletita,Criollitas Bagley Pack Familiar x 3 300g,280.05,450.0,408
-Galletita,Diversión Arcor 390g,202.41,430.0,409
-Galletita,Diversión Arcor 398g,360.53,450.0,410
-Galletita,Fauna 150 grs,121.46,200.0,411
-Galletita,Galletitas Rex Tubo x 75 grs,164.92,230.0,412
-Galletita,Galletitas Saladas La Providencia 101g,47.0,80.0,413
-Galletita,Grisines con Salvado 180 grs Veneciana,118.0,180.0,414
-Galletita,Grisines Multicereal 180 grs Veneciana,118.0,180.0,415
-Galletita,Hojalmar Azucarada 180g,75.0,100.0,416
-Galletita,Kesitas Bagley  75 grs,159.82,200.0,417
-Galletita,Lia Desfile Surtido 390g,158.0,210.0,418
-Galletita,Macucas Sabor Chocolate 110 grs,165.12,250.0,419
-Galletita,Maná Clasica  Chocolate 145g,160.89,250.0,420
-Galletita,Maná Clasica Leche 145g,160.89,250.0,421
-Galletita,Maná Clasica Vainilla 145g,175.37,250.0,422
-Galletita,Maná Rellena Chocolate 152g,215.9,300.0,423
-Galletita,Maná Rellena Frutilla 152g,215.9,300.0,424
-Galletita,Maná Rellena Vainilla 152g,215.9,300.0,425
-Galletita,Mediatarde 105g,45.0,100.0,426
-Galletita,Mediatarde Sandwich x 3  321 grs,172.5,250.0,427
-Galletita,Mellizas 108g,190.35,280.0,428
-Galletita,Merengadas 108g,174.63,250.0,429
-Galletita,Merengadas 88g,130.59,250.0,430
-Galletita,Mini Crackers Paseo 300g,196.36,300.0,431
-Galletita,Mini Crackers Paseo 5 Semillas 300g,237.12,330.0,432
-Galletita,Oblita Chocolate 50 g,47.0,100.0,433
-Galletita,Oblita Frutilla 100g,75.0,150.0,434
-Galletita,Oblita Frutilla 50 g,47.0,100.0,435
-Galletita,Oblita La Oblea Sabor Frutilla 50 grs,46.07,100.0,436
-Galletita,Oblita La Oblea Sabor Vainilla 60 grs,46.07,100.0,437
-Galletita,Oblita Mix Frutal 50 g,47.0,100.0,438
-Galletita,Oblita Sabor Limón 50 grs,47.0,100.0,439
-Galletita,Oblita Vainilla 50 g,47.0,100.0,440
-Galletita,Oreo con Cacao 118g,169.0,250.0,441
-Galletita,Paseo Mix de Cereales,108.0,300.0,442
-Galletita,Pepas Trío 1000 grs,430.53,550.0,443
-Galletita,Pepitos 119 grs,125.0,250.0,444
-Galletita,Polvorita Frutilla/Fresa 150g,75.0,100.0,445
-Galletita,Polvorita Mini Limón 147g,75.0,100.0,446
-Galletita,Polvorita Mini Vainilla 147g,75.0,100.0,447
-Galletita,Polvorita Sabor Frutilla y Fresa 81 grs,65.0,100.0,448
-Galletita,Polvorita Sabor Vainilla 81 grs,65.0,100.0,449
-Galletita,Polvorita Sabor Vainilla con Chocolate 81 grs,65.0,100.0,450
-Galletita,Polvorita Vainilla 150g,85.0,150.0,451
-Galletita,Rex  Sabor Original 75 grs,129.91,200.0,452
-Galletita,Rex 125g,266.42,350.0,453
-Galletita,Rumba 108g,190.35,280.0,454
-Galletita,Saladix 25g Calabresa,104.5,180.0,455
-Galletita,Saladix 25g Jamón,104.5,180.0,456
-Galletita,Saladix 25g Jamón y Queso,104.5,180.0,457
-Galletita,Saladix Pizza 30g,104.5,200.0,458
-Galletita,Serranas 112g,97.28,150.0,459
-Galletita,Serranitas 30 grs,84.43,100.0,460
-Galletita,Solitas Surtidas Dulces 300g,113.0,230.0,461
-Galletita,Sonrisas 108g,174.63,280.0,462
-Galletita,Surtido Bagley 390g,267.24,530.0,463
-Galletita,Surtido Bagley 398g,439.76,550.0,464
-Galletita,Traviata Sabor Original 101 grs,101.0,150.0,465
-Galletita,Traviata Sabor Original x 3 303 grs,314.46,450.0,466
-Galletita,Trío Pepas 200g,148.31,250.0,467
-Galletita,Trio Pepas 320 grs,195.0,250.0,468
-Galletita,Trío Pepas 500gr,285.0,500.0,469
-Galletita,Trío Variette 500g,158.0,270.0,470
-Galletita,Vainillas Mauri 80 grs,84.35,200.0,471
-Galletita,Variedad Terrabussi 390 grs,249.0,350.0,472
-Galletita,Vocación Clásica 141 grs,86.58,150.0,473
-Galletita,Vocación Clásica pack x 3 384 grs,222.0,350.0,474
-Galletita ,Criollitas Más Grandes  169 grs,135.0,250.0,475
-Gaseosa,7up 500 ml,95.0,130.0,476
-Gaseosa,7up Lata 354ml,90.0,130.0,477
-Gaseosa,Cabalgata Cola 3000ml,311.66,430.0,478
-Gaseosa,Cabalgata Cola 500ml,91.66,150.0,479
-Gaseosa,Cabalgata Guaraná 3000ml,311.66,430.0,480
-Gaseosa,Cabalgata Lima 3000ml,311.66,430.0,481
-Gaseosa,Cabalgata Lima 500ml,91.66,150.0,482
-Gaseosa,Cabalgata Naranja 3000ml,311.66,430.0,483
-Gaseosa,Cabalgata Naranja 500ml,91.66,150.0,484
-Gaseosa,Cabalgata Pomelo 3000ml,311.66,430.0,485
-Gaseosa,Cabalgata Pomelo 500ml,91.66,150.0,486
-Gaseosa,"Coca Cola  Retornable 1,5 L",331.25,450.0,487
-Gaseosa,Coca Cola 2250ml,508.33,630.0,488
-Gaseosa,Coca Cola 375 ml,86.0,150.0,489
-Gaseosa,Coca Cola 500ml,208.33,280.0,490
-Gaseosa,"Coca Cola Descartable 1,5 L",420.0,530.0,491
-Gaseosa,Coca Cola Retornable 1500ml,331.25,450.0,492
-Gaseosa,"Coca Cola Zero 2,250 cc",281.44,500.0,493
-Gaseosa,Fanta 2250ml,508.33,630.0,494
-Gaseosa,Fanta 375ml,100.0,140.0,495
-Gaseosa,Fanta Naranja 500 ml,208.33,280.0,496
-Gaseosa,Fanta Retornable 2000ml,331.25,450.0,497
-Gaseosa,Mirinda Naranja Lata 354ml,90.0,130.0,498
-Gaseosa,Paso de Los Toros 2250ml,343.49,450.0,499
-Gaseosa,Paso de Los Toros Tónica 1500ml,311.71,430.0,500
-Gaseosa,Pepsi 500 ml,138.66,230.0,501
-Gaseosa,Pepsi Lata 354ml,90.0,130.0,502
-Gaseosa,Secco Cola 3000ml,343.75,430.0,503
-Gaseosa,Secco Lima 3000ml,343.75,430.0,504
-Gaseosa,Secco lima Limón 500 cc,70.3133,100.0,505
-Gaseosa,Secco Limón Intenso,312.5,400.0,506
-Gaseosa,Secco Manzana 500 cc,70.31333,100.0,507
-Gaseosa,Secco Naranja 3000ml,343.75,430.0,508
-Gaseosa,Secco Naranja 500 cc,70.31333,100.0,509
-Gaseosa,Secco Pomelo 3000ml,343.5,430.0,510
-Gaseosa,Secco Pomelo 500 cc,70.3133,100.0,511
-Gaseosa,Secco Pomelo Intenso 3000ml,343.5,430.0,512
-Gaseosa,Seco Cola 5600 cc,70.0,100.0,513
-Gaseosa,Sprite  2250ml,508.33,630.0,514
-Gaseosa,Sprite 375ml,100.0,140.0,515
-Gaseosa,Sprite 500 ml,208.33,280.0,516
-Gaseosa,Sprite Retornable 2000ml,331.25,430.0,517
-Golosina,"Alka Menta 3,27 grs",31.66,100.0,518
-Golosina,"Alka Strong 3,27 grs",31.66,100.0,519
-Golosina,Beldent Fresh Sparks Chicle Globo 10 grs,63.0,150.0,520
-Golosina,Beldent Fresh Sparks Frutilla 10 grs,63.0,150.0,521
-Golosina,Beldent Fresh Sparks Menta 10 grs,63.0,150.0,522
-Golosina,Beldent Fresh Sparks Menta Fuerte 10 grs,63.0,150.0,523
-Golosina,Beldent Fresh SparksMentol  10 grs,62.5,150.0,524
-Golosina,Caramelos 1,7.0,10.0,525
-Golosina,Caramelos Alka ,3.0,5.0,526
-Golosina,Caramelos Eucaliptus 73 unidades,9.17,15.0,527
-Golosina,Caramelos Frutales,4.0,5.0,528
-Golosina,Caramelos Saquitos ,11.2,15.0,529
-Golosina,Chicle Globo  Fierita ,3.85,10.0,530
-Golosina,Chicle Globo Fierita,4.0,10.0,531
-Golosina,Chupaleta Corazoncitos ,20.357,50.0,532
-Golosina,Chupaleta Mickey,17.5,50.0,533
-Golosina,Chupetin Dobleta 50 unidades,8.9,20.0,534
-Golosina,Chupetín Mister Pop,11.0,30.0,535
-Golosina,Chupetines 1,8.0,10.0,536
-Golosina,Garrapiñadas de Maní 40 grs,40.0,60.0,537
-Golosina,Garrapiñadas de Maní Alteza 80g,75.54,100.0,538
-Golosina,Gomitas Conitos Frutales,65.0,100.0,539
-Golosina,Gomitas Fantasía 100 grs,83.0,100.0,540
-Golosina,Gomitas Gometas 1,45.0,60.0,541
-Golosina,Gomitas Grandes Mogul 35g,73.0,100.0,542
-Golosina,Gomitas Mogul Ácido - Dulce,72.5,100.0,543
-Golosina,Malvaviscos Congys Billiken,66.86,100.0,544
-Golosina,Maní Color Latin,50.0,100.0,545
-Golosina,Mantecol 64 g,100.0,200.0,546
-Golosina,Menthoplus Cereza Zero,97.5,150.0,547
-Golosina,"Menthoplus Cherry 29,4g",85.0,150.0,548
-Golosina,"Menthoplus Mentol 29,4g",85.0,150.0,549
-Golosina,Menthoplus Mentol Zero,97.5,150.0,550
-Golosina,"Menthoplus Miel 29,4g",85.0,150.0,551
-Golosina,"Menthoplus Mint 29,4g",85.0,150.0,552
-Golosina,"Menthoplus Strong 29,4g",85.0,150.0,553
-Golosina,Mentita 26g,38.0,80.0,554
-Golosina,Misky Toffe   1,4.0,5.0,555
-Golosina,Mister Pop con Chicle,28.48,50.0,556
-Golosina,Nugatón Postre de Maní 100 grs,195.0,250.0,557
-Golosina,Paleta Redonda N 2,85.0,200.0,558
-Golosina,Pico Dulce Lheritier 48 unidades,33.54,50.0,559
-Golosina,"Topline Fruta 6,7g",51.0,100.0,560
-Golosina,"Topline Menta 6,7g",51.0,100.0,561
-Golosina,"Topline Sandía 6,7g",51.0,100.0,562
-Golosina,Topline Seven Atomic Strong 14g,105.0,150.0,563
-Golosina,Topline Seven Mandarina 14g,105.0,150.0,564
-Golosina,Topline Seven Vibrant Strawberry 14g,105.0,150.0,565
-Golosina,Topline Seven Violet Cherry 14g,105.0,150.0,566
-Golosina,Topline Seven X-plosive Mint 14g,105.0,150.0,567
-Golosina,"Topline Strong 6,7g",51.0,100.0,568
-Golosina,Turrón Bonafide Maní con Miel,139.162,250.0,569
-Golosina,Turrón de Maní Alteza,51.0,100.0,570
-Golosina,Turrón de Maní Fel-Fort,188.15,250.0,571
-Golosina,Turrón Maní Arcor 25g,47.34,100.0,572
-Golosina,Turrón Maní Chocolatada Arcor 25g,30.0,100.0,573
-Golosina ,Chupetín Yogus Mister Pops 50 unidades,14.0,30.0,574
-HIELO,HIELO 2KG,200.0,300.0,575
-Jugo,Jugo Del Valle Durazno 200ml,73.07,100.0,576
-Jugo,Ades  Soja + Jugo de Durazno 1000ml,120.0,380.0,577
-Jugo,Ades Frutas Tropicales 1000ml,360.0,450.0,578
-Jugo,Ades Manzana 1000ml,360.0,450.0,579
-Jugo,Ades Soja Ananá 1000ml,360.0,450.0,580
-Jugo,Arcor Ananá 18 grs,45.0,70.0,581
-Jugo,Arcor Durazno 18 grs,45.0,70.0,582
-Jugo,Baggio Fresh Liviano Multifruta 1 L,311.75,430.0,583
-Jugo,Baggio Pronto Durazno 1000ml,311.75,430.0,584
-Jugo,Baggio Pronto Durazno 200ml,95.84,150.0,585
-Jugo,Baggio Pronto Manzana 1 litro,311.75,430.0,586
-Jugo,Baggio Pronto Manzana 200ml,95.84,150.0,587
-Jugo,Baggio Pronto Mix Frutal 1000ml,311.75,430.0,588
-jugo,Baggio Pronto Mix Frutal 200 ml,95.84,150.0,589
-Jugo,Baggio Pronto Multifruta 1000ml,311.75,430.0,590
-Jugo,Baggio Pronto Multifruta 200ml,95.84,150.0,591
-Jugo,Baggio Pronto Naranja 200ml,95.84,150.0,592
-Jugo,Baggio Pronto Pera 200ml,95.84,150.0,593
-Jugo,Cepita Ananá 1500 ml,400.0,500.0,594
-Jugo,Cepita Durazno 1500ml,400.0,500.0,595
-Jugo,Cepita Manzana 1500ml,400.0,500.0,596
-Jugo,Cepita Naranja 1500ml,400.0,500.0,597
-Jugo,Cormillot Pomelo 1500ml,184.0,240.0,598
-Jugo,Jugo Arcor Limonada 18 g,45.0,70.0,599
-Jugo,Jugo Arcor Naranja 18 grs,45.0,70.0,600
-Jugo,Jugo Arcor Naranja Dulce 18 g,45.0,70.0,601
-Jugo,Jugo Tang Naranja Banana 18 grs,45.0,70.0,602
-Jugo,Jugo Tang Pera 18 grs,45.0,70.0,603
-Jugo,Jugo Tang Uva 18 grs,45.0,70.0,604
-Jugo,Tang Limonada Dulce 18g,45.0,70.0,605
-Jugo,Tang Manzana 18 grs,45.0,70.0,606
-Jugo,Tang Manzana 18 grs,45.0,70.0,607
-Jugo,Tang Multifruta 15 grs,45.0,70.0,608
-Jugo,Tang Multifruta 18g,45.0,70.0,609
-Jugo,Tang Naranja Dulce 18g,45.0,70.0,610
-Jugo,Tang Naranja Mango  15 grs,45.0,70.0,611
-Jugo,Tang Pomelo Rosado 15 grs,45.0,70.0,612
-Jugo,Tang Pomelo Rosado 18 grs,45.0,70.0,613
-Lácteos,Arroz con leche Clásico 180 grs,138.46,180.0,614
-Lácteos,Arroz con leche con dulce de leche 180 grs,138.46,180.0,615
-Lácteos,Baggio Chocolatada Latte 1 L,205.0,330.0,616
-Lácteos,Baggio Chocolatada Latte 200ml,74.82833,120.0,617
-Lácteos,Chocolatada Tregar 1000ml,180.0,300.0,618
-Lácteos,Chocolatada Tregar 200ml,90.0,120.0,619
-Lácteos,Crema de Leche Doble Crema Tregar 200 cc,343.75,450.0,620
-Lácteos,Crema de Leche Tregar 200cc Doble Crema,270.0,360.0,621
-Lácteos,Crema de Leche Tregar 200ml,270.0,360.0,622
-Lácteos,Dulce de Leche Manfrey Clásico 400 grs ,300.48,450.0,623
-Lácteos,Dulce de Leche Milkaut de Campo 400 grs,439.0,570.0,624
-Lácteos,Dulce de Leche Tonadita 250g,135.0,200.0,625
-Lácteos,Dulce de Leche Tregar 400g,287.0,400.0,626
-Lácteos,Leche Chocolatada Ilolay Kids 1 L,278.0,400.0,627
-Lácteos,Leche Chocolatada Las Tres Niñas 1000ml,250.0,400.0,628
-Lácteos,Leche Chocolatada Nesquik  con mix de cacaos 200 ml,182.0,120.0,629
-Lácteos,Leche Descremada Great Value 1000ml,135.0,340.0,630
-Lácteos,Leche Descremada Manfrey 1000ml,216.0,380.0,631
-Lácteos,Leche Entera Great Value 1000ml,135.0,380.0,632
-Lácteos,Leche Entera Ilolay 1 L,179.0,320.0,633
-Lácteos,Leche Entera La Suipachense 1000 ml,129.0,380.0,634
-Lácteos,Leche Entera LV S&P 1000 ml,129.0,320.0,635
-Lácteos,Leche Entera Manfrey 1000ml,245.0,380.0,636
-Lácteos,Leche Entera Tregar 1 litro,136.875,380.0,637
-Lácteos,Leche Entera Tregar 1000ml,276.83,380.0,638
-Lácteos,Leche La Lácteo Entera Larga Vida 1 L,259.0,360.0,639
-Lácteos,Leche Nido Forti Grow 800 grs,594.15,800.0,640
-Lácteos,Leche Parcialmente Descremada Tregar 1000 cc,276.83,380.0,641
-Lácteos,Manteca Tonadita 100 grs,227.9,330.0,642
-Lácteos,Manteca Tonadita 100g,190.54,300.0,643
-Lácteos,Queso Crema CasanCrem 290g,251.0,330.0,644
-Lácteos,Queso Crema Clásico Tregar 190g,370.0,480.0,645
-Lácteos,Queso Crema Cremón  Ligth La Serenísima 280g,224.0,330.0,646
-Lácteos,Queso Crema Cremón Original La Serenísima 280g,224.0,330.0,647
-Lácteos,Queso Crema Tregar 190g,426.81,550.0,648
-Lácteos,Queso Cremoso,700.0,900.0,649
-Lácteos,Queso Rallado Tregar 40g,183.27,250.0,650
-Lácteos,Yogourt Frutilla Tregar 900g,367.1,480.0,651
-Lácteos,Yogur Entero Frutilla Tregar 1kg,300.0,480.0,652
-Lácteos,Yogurt Entero Tops Tregar con Copos 164 grs,175.0,250.0,653
-Lácteos,Yogurt Entero Vainilla 1 kg,300.0,480.0,654
-Lácteos,Yogurt Entero Vainilla Vasito Tregar 125 grs,118.71,160.0,655
-Lácteos,Yogurt Entero Vasito Frutilla Tregar 125g,118.71,160.0,656
-Lácteos,Yogurt Entero Vasito Vainilla Tregar 125g,118.71,160.0,657
-Lácteos,Yogurt Frutilla Tregar 900g,367.1,480.0,658
-Lácteos,Yogurt Tregar Arándano 900g,367.1,480.0,659
-Lácteos,Yogurt Tregar Frutilla 125g,118.71,160.0,660
-Librería,Adhesivo Vinilico Acuarel 50g,45.0,200.0,661
-Librería,AFICHE 1 ,120.85,150.0,662
-Librería,Birome Filgo azul 1,75.0,200.0,663
-Librería,Birome Filgo negra 1,75.0,200.0,664
-Librería,Biromes Candela Negra Trazo Medio,15.63,200.0,665
-Librería,Bolígrafo Fabers Colors Trilux Violeta,65.33,200.0,666
-Librería,Bolígrafo Koby Triangular Semi Gel Rojo,60.0,200.0,667
-Librería,Bolsa de Papel Grande 1,91.0,200.0,668
-Librería,Bolsa de Papel Vino 1,70.0,200.0,669
-Librería,Borrador Lápiz Penguin,25.0,50.0,670
-Librería,Broche MIT 21/6 1000u,157.0,250.0,671
-Librería,Broche MIT 50 1000u,144.0,250.0,672
-Librería,Carpeta Cogante,193.96,300.0,673
-Librería,Cartulina  1,50.0,100.0,674
-Librería,Cartulina  Color,77.58,120.0,675
-Librería,Cinta Adhesiva Chica 1,56.0,200.0,676
-Librería,Cinta de Papel 50m 1,188.0,400.0,677
-Librería,Cinta Empaque 24x50 AUCA,150.0,300.0,678
-Librería,Cinta Scocht Adelbras,179.4,300.0,679
-Librería,Cuaderno América Tapa Dura 42 hojas ,266.67,400.0,680
-Librería,Cuaderno Espiralado  América x 80 hojas,450.0,600.0,681
-Librería,Cuaderno T/ Blanda América x 24 hojas rayado,58.39,200.0,682
-Librería,Cuaderno T/Blanda América x 48 hojas rayado,99.07,300.0,683
-Librería,Escuadra 20 cm  - 45 ° Pizzini,102.98,200.0,684
-Librería,Etiquetas autoadhesivas 2,38.0,50.0,685
-Librería,Etiquetas autoadhesivas ojalillos 1,38.0,50.0,686
-Librería,Folio A4 1,15.0,50.0,687
-Librería,Folio Oficio 1,23.0,80.0,688
-Librería,Hojas A4,0.0,6.0,689
-Librería,Hojas Legal,0.0,15.0,690
-Librería,Lápices Bic 1,60.0,100.0,691
-Librería,Lápiz Corrector Koby  Punta Metálica,75.52,300.0,692
-Librería,Lápiz Corrector Koby 1,150.0,350.0,693
-Librería,Mapa América del Norte N 3 Físico Político 1,15.0,80.0,694
-Librería,Mapa América del Sur N 3 Político 1,15.0,80.0,695
-Librería,Mapa América N 3 Físico Político 2,15.0,80.0,696
-Librería,Mapa Argentina N 3 Físico Político 1,15.0,80.0,697
-Librería,Mapa Argentina N 3 Político 2,15.0,80.0,698
-Librería,Mapa del Chaco N 3 Político 1,15.0,80.0,699
-Librería,Mapa Europa N 3 Físico Político 1,15.0,80.0,700
-Librería,Mapa Islas Malvinas N 3  1,15.0,80.0,701
-Librería,Mapa Planisferio N 3 Físico Político 1,15.0,80.0,702
-Librería,Mapa Planisferio N 3 Político 1,15.0,80.0,703
-Librería,Marcador Permanente negro 1,150.0,300.0,704
-Librería,Papel Afiche Regalo 1,150.0,200.0,705
-Librería,Papel Crepe Blanco 50 x 200 cm,83.27,200.0,706
-Librería,Papel Crepe Celeste 50 x 200 cm,83.27,200.0,707
-Librería,Papel Glacé Lustre 1,75.0,100.0,708
-Librería,Papel Glacé Metalizado 1,75.0,100.0,709
-Librería,"Papel Oficio 70 g 21,59 x 35,56 cm",3.0,10.0,710
-Librería,Papel Regalo Celofan 1,39.0,100.0,711
-Librería,Papel Regalo Celofán 1,75.0,100.0,712
-Librería,Pincel Chato x 3,80.0,200.0,713
-Librería,Pincel Pelos x 3,60.0,150.0,714
-Librería,Pouch A3 310 mm x 440 mm,188.54,500.0,715
-Librería,Pouch A4 225 mm x 303 mm,116.71,350.0,716
-Librería,Pouch Carnets  67x98 mm +76x110 mm + 90x130 mm,24.52,200.0,717
-Librería,Pouch Oficio 225 mm x 362 mm,110.22,400.0,718
-Librería,Regla 20 cm Koby,47.87,100.0,719
-Librería,Repuesto 48 hojas Rayadas América ,138.32,300.0,720
-Librería,Repuesto de hojas cuadriculada N° 3 Éxito 1,420.0,600.0,721
-Librería,Repuesto de Papel para Dibujo Luma x 8 hojas N° 5,20.0,50.0,722
-Librería,Repuesto de Papel para Dibujo Luma x 8 hojas N° 6,35.0,100.0,723
-Librería,Repuesto Dibujo N°3 El Nene 1,15.0,50.0,724
-Librería,Repuesto Dibujo N°5 El Nene 1,23.0,50.0,725
-Librería,Repuesto Dibujo N°6 Muresco 1,30.0,50.0,726
-Librería,Repuestro de hojas rayado N 3 Éxito 1,450.0,600.0,727
-Librería,Resaltadores Litt 004 1,113.0,300.0,728
-Librería,Resma A4,0.0,5.0,729
-Librería,Sacabroches Nail Puller 1,188.0,250.0,730
-Librería,Sacapuntas,30.0,50.0,731
-Librería,Silicona en Barra,38.0,80.0,732
-Librería,Sobres comercial con fondo Obra 63 grs 1,38.0,100.0,733
-Librería,Sobres comercial con fondo Obra 90 grs 1,53.0,100.0,734
-Librería,Talonario Recibos 1,23.0,200.0,735
-Librería,Talonario Vale Por,100.0,300.0,736
-Librería,Temperas Playcolor x 6,220.0,400.0,737
-Librería,Tizas Blancas 3,3.33,10.0,738
-Librería,Voligoma 30 ml,109.12,300.0,739
-Mercadito,Aceite  de Girasol Marolio 900cc,242.0,500.0,740
-Mercadito,Aceite  de Girasol Valderey  900 ml,443.0,550.0,741
-Mercadito,Aceite  Legítimo de Girasol 900 ml,299.0,550.0,742
-Mercadito,Aceite Alsamar 900 cc,409.99,550.0,743
-Mercadito,Aceite de Girasol Morixe 900 ml,399.0,550.0,744
-Mercadito,Aceite de Girasol Pureza 900ml,410.0,600.0,745
-Mercadito,Aceite Mezcla Florencia 750ml,165.0,220.0,746
-Mercadito,Agua Lavandina Esencial  1000ml,113.0,150.0,747
-Mercadito,Agua Lavandina Limpiadín 1L,72.42,200.0,748
-Mercadito,Agua Lavandina Sedilé,67.0,100.0,749
-Mercadito,Ají Molido Yuspe 25g,49.11,150.0,750
-Mercadito,Ajo Triturado Yuspe 50g,97.03,150.0,751
-Mercadito,Arroz Gallo Oro 500g,105.0,140.0,752
-Mercadito,Arroz Largo Fino María 1000g,160.0,250.0,753
-Mercadito,Arroz Largo Fino Marolio 500g,48.0,100.0,754
-Mercadito,Arroz Máximo Largo Fino  1 kg,297.0,380.0,755
-Mercadito,Arroz Molinos Ala Grano Selecto 500 g,78.8,200.0,756
-Mercadito,Arvejas Secas Remojadas Tarragona 340 grs,146.0,250.0,757
-Mercadito,Azúcar Arcor 1000g,203.25,300.0,758
-Mercadito,Azúcar Azucel 1 kg,448.99,550.0,759
-Mercadito,Azúcar Común Tipo A 1 kg,350.0,450.0,760
-Mercadito,Azúcar Impalpable 250g,161.0,300.0,761
-Mercadito,Azúcar La Estrella 1 Kg,268.0,360.0,762
-Mercadito,Azúcar Ledesma x 1kg,215.0,300.0,763
-Mercadito,Azúcar Los Cuatro 1 kg,160.0,300.0,764
-Mercadito,Azúcar Marolio 1000g,203.0,300.0,765
-Mercadito,Bicarbonato de Sodio 25 grs Dos Anclas,56.33,150.0,766
-Mercadito,Bicarbonato de Sodio 50 grs Alicante,60.0,200.0,767
-Mercadito,Boldo en saquitos,5.0,10.0,768
-Mercadito,Boldo La Morenita ,9.0,20.0,769
-Mercadito,Bolsas Consorcio 60 x 90 N°8 Reforzadas x 50,23.0,40.0,770
-Mercadito,Bolsas de Consorcio 90 x 120,35.0,50.0,771
-Mercadito,Café 5 Hispanos 5g,20.0,30.0,772
-Mercadito,Café Instantáneo La Virginia Suave 100 grs,488.34,650.0,773
-Mercadito,Café La Morenita 5g,23.5,40.0,774
-Mercadito,Café La Morenita Frasco  100g,263.0,350.0,775
-Mercadito,Café La Virginia 5g,25.35,40.0,776
-Mercadito,"Café La Virginia Instantáneo Clásico 1,7g",20.0,40.0,777
-Mercadito,"Caldo de Gallina knorr 12 u x 9,5 grs",17.56,30.0,778
-Mercadito,Caldo de Gallina Maggi ,15.0,30.0,779
-Mercadito,Caldo de Verduras,13.0,30.0,780
-Mercadito,"Caldo de Verduras Maggi 12 u x 9,5 grs",12.5,30.0,781
-Mercadito,Chimichurri Sabor Ahumado Vanoli 190g,149.05,300.0,782
-Mercadito,Chimichurri Yuspe 25g,77.86,200.0,783
-Mercadito,Chocolatada Toddy 180g,157.74,200.0,784
-Mercadito,Chocolate Nesquik  Extra Cacao 300 grs,316.75,450.0,785
-Mercadito,CIF Crema Multiuso 375 grs,153.0,230.0,786
-Mercadito,Comino Molido Dos Anclas 50 grs,195.21,300.0,787
-Mercadito,Condimento para pizza 25 grs Alicante,90.3,150.0,788
-Mercadito,Crema Multiuso Original Cif 375g,150.0,200.0,789
-Mercadito,"Desodorante de Ambiente Glade Caricias de Bebé 309,6 grs",229.0,400.0,790
-Mercadito,Desodorante de Ambiente Poett  Lavanda 360ml,176.0,250.0,791
-Mercadito,Detergente Magistral Limón 500 ml,448.99,700.0,792
-Mercadito,Detergente Magistral Pureza Activa 500 ml,389.0,700.0,793
-Mercadito,Detergente Magistral Rinde x 5 Marina 500ml,219.0,350.0,794
-Mercadito,Dulce de Batata Ensnaola 500g,226.0,300.0,795
-Mercadito,Dulce de Leche Ilolay Clásico 405 grs,289.0,450.0,796
-Mercadito,Dulce de Membrillo Dulcor 500g,193.2,300.0,797
-Mercadito,Durazno en mitades 485 grs,379.0,550.0,798
-Mercadito,Duraznos en lata BONMAR 820G,230.0,550.0,799
-Mercadito,Duraznos en lata BONMAR 820G,299.0,550.0,800
-Mercadito,Duraznos en Mitades 820 grs,329.99,550.0,801
-Mercadito,Duraznos Molto 820 grs,300.0,450.0,802
-Mercadito,Edulcorante Si Diet 200ml,164.0,220.0,803
-Mercadito,Espiral Fuyí Caja por 2,25.0,50.0,804
-Mercadito,Espiral Raid Caja por 2,25.0,50.0,805
-Mercadito,Espirales Fuyí 1,75.0,100.0,806
-Mercadito,Esponja de acero 1,113.0,250.0,807
-Mercadito,Esponja Mortimer 1,75.0,150.0,808
-Mercadito,Esponja Scotch Brite 3M Amarilla,50.0,150.0,809
-Mercadito,Esponja Scotch Brite 3M Lila,50.0,150.0,810
-Mercadito,Fideo Codos Marolio 500g,79.0,120.0,811
-Mercadito,Fideo Mostachol Liso Marolio 500g,79.0,120.0,812
-Mercadito,Fideo Tirabuzón Marolio 500g,79.0,120.0,813
-Mercadito,Fideos Codito Canale 500 grs,144.99,250.0,814
-Mercadito,Fideos Mostacholes La Providencia 500 grs,132.5,250.0,815
-Mercadito,Fideos Tallarines Canale 500 grs,144.99,300.0,816
-Mercadito,Fideos Tirabuzones Canale 500 grs,144.99,250.0,817
-Mercadito,Flan Sabor Vainilla Royal 60 grs,75.0,200.0,818
-Mercadito,Gelatina Cereza Noel 25 grs,100.0,200.0,819
-Mercadito,Harina 000 Cañuelas Ultra Refinada 1000g,98.0,130.0,820
-Mercadito,Harina Leudante Corona de Trigo 1 kg,165.99,250.0,821
-Mercadito,Harina Leudante Morixe 1000g,120.0,160.0,822
-Mercadito,Hierbas Digesativas Cachamai,6.0,20.0,823
-Mercadito,Jabón Argentino en pan 150 grs,79.0,100.0,824
-Mercadito,Jabón Blanco en pan Astro 120 grs,84.0,150.0,825
-Mercadito,Jabon de Tocador  Campos Verdes 120 grs Aromaterapia,131.0,230.0,826
-Mercadito,Jabón de Tocador  Campos Verdes 120 grs Frescura,131.0,230.0,827
-Mercadito,Jabón de Tocador  St. Tropez Brisa de Primavera 125 grs,118.99,200.0,828
-Mercadito,Jabón de Tocador Campos Verdes 120 grs  Pausa,131.0,230.0,829
-Mercadito,Jabón de Tocador Campos Verdes 120 grs Energía,131.0,230.0,830
-Mercadito,Jabón de Tocador Rexona Antibacterial Fresh 90 grs,102.65,150.0,831
-Mercadito,Jabón de Tocador Rexona Glicerina Hidratante Bamboo pack 375g 375,263.0,350.0,832
-Mercadito,Jabón de Tocador St. Tropez  Hidratación Intensa 125 grs,118.99,200.0,833
-Mercadito,Jabón de Tocador St. Tropez Armonía para vos 125 grs,118.99,200.0,834
-Mercadito,Jabon en Polvo Ala 3 kg,1169.0,1800.0,835
-Mercadito,Jabón Líquido Ala 3 Lts,1189.99,1800.0,836
-Mercadito,Jabón Líquido Skip 3 Lts,1169.01,2200.0,837
-Mercadito,Jabón Pan Blanco Astro  150 grs,85.0,150.0,838
-Mercadito,Ketchup Dánica 220 grs,199.5,300.0,839
-Mercadito,"Knorr Quick 12,6 grs",32.6,50.0,840
-Mercadito,Laurel Triturado 25g,80.5,200.0,841
-Mercadito,Limpiador Líquido Jardín Arpege,135.45,300.0,842
-Mercadito,Limpiador Líquido Jardín Jazmín,135.45,300.0,843
-Mercadito,Limpiador Líquido Jardín Jazmín Floral,135.45,300.0,844
-Mercadito,Magistral 215ml,255.0,400.0,845
-Mercadito,Magistral Limón Cremoso 500 ml,399.0,500.0,846
-Mercadito,Maíz Pisingallo Albor 400g,128.88,250.0,847
-Mercadito,Maiz Pisingallo La Abadía 400 g,128.88,250.0,848
-Mercadito,Maíz Pisingallo Morixe 400g,128.0,250.0,849
-Mercadito,Manzanilla Taragüi,5.0,20.0,850
-Mercadito,Mate Cocido S&P 3g,3.3,10.0,851
-Mercadito,Mayones Natura 250 cm3,212.5,350.0,852
-Mercadito,Mayonesa Dánica x 8 ml,8.677,20.0,853
-Mercadito,Mayonesa Hellmann´s Clásica 500 cm3,200.0,300.0,854
-Mercadito,Mayonesa Helmans Clásica 125cc,83.49,120.0,855
-Mercadito,Mayonesa Helmans Clásicas 237g,128.0,170.0,856
-Mercadito,Mayonesa Natura 125 cc3,122.319,200.0,857
-Mercadito,Mermelada de Damasco Dulcor 454grs,227.25,400.0,858
-Mercadito,Mermelada de Durazno Dulcor 454grs,227.25,400.0,859
-Mercadito,Mermelada de Durazno S&P 454g,143.0,400.0,860
-Mercadito,Mermelada de Frutilla S&P 454g,157.0,400.0,861
-Mercadito,Mermelada de Higo  Dulcor 454grs,227.49,400.0,862
-Mercadito,Mermelada de Naranja Dulcor 454grs,216.92,400.0,863
-Mercadito,Miel Prestigio 500g,407.0,650.0,864
-Mercadito,Mostaza Dánica 220 grs,142.5,300.0,865
-Mercadito,Mostaza Dánica x 8 ml,7.8125,20.0,866
-Mercadito,Nesquik 6 años 180g,155.0,200.0,867
-Mercadito,Nuez Moscada Yuspe 25 grs,141.32,250.0,868
-Mercadito,Orégano Yuspe 10g,105.31,200.0,869
-Mercadito,Papel Higiénico Bonux x 4 rollos x 50 mts ,92.25,150.0,870
-Mercadito,Papel Higiénico Bonux x 4 rollos x 80 mtrs c/u,123.74,200.0,871
-Mercadito,Papel Higiénico Elegante 4 x 80 mtrs,134.7475,180.0,872
-Mercadito,Papel Higiénico Élite 6 x 30 mtrs,55.0,100.0,873
-Mercadito,Papel Higiénico Higienol  50m,60.0,100.0,874
-Mercadito,Papel Higiénico Higienol Doble hoja 30 mts ,69.75,100.0,875
-Mercadito,Papel Higiénico Vual Clásico Blanco x 50 mts,77.772,100.0,876
-Mercadito,Papel Higiénico Vual Max x 80 mts 320mts,335.0,450.0,877
-Mercadito,Papel Higiénico x 80 mts Campanita XL,150.55,200.0,878
-Mercadito,Papel Servilleta Marolio 1,53.0,100.0,879
-Mercadito,Pimentón Alicante x 25 grs,98.46,200.0,880
-Mercadito,Pimienta Blanca Yuspe 25g,113.0,200.0,881
-Mercadito,Polenta Morixe 500 grs,85.62,200.0,882
-Mercadito,"Polvo para Lavar Skip x 2,5 kg",1791.71,2200.0,883
-Mercadito,Provenzal Menoyo 25 grs,63.43,150.0,884
-Mercadito,Puré de Tomate Copa de Oro 520g,75.0,100.0,885
-Mercadito,Puré de Tomate La Huerta 210g,102.84,150.0,886
-Mercadito,Puré de Tomate La Huerta 530 grs,183.66,250.0,887
-Mercadito,Puré de Tomate Marolio 520 grs,100.0,200.0,888
-Mercadito,Queso  Rallado La Quesera 40 grs,96.5,150.0,889
-Mercadito,Queso Rallado Manfrey 40 grs,169.0,250.0,890
-Mercadito,Rollos de Cocina Bonux x 3 x 50 paños,76.33,150.0,891
-Mercadito,Rollos de Cocina Cautiva 3x120 paños,60.974,100.0,892
-Mercadito,Sal Fina  Corrediza Celusal 500g,69.0,200.0,893
-Mercadito,Sal Fina Celusal 500 grs,111.65,200.0,894
-Mercadito,Sal Fina Corrediza Marolio 500g,52.0,200.0,895
-Mercadito,Sal Fina Dos Anclas 500g,75.0,200.0,896
-Mercadito,Salsa Barbacoa Dánica 220 grs,187.6,300.0,897
-Mercadito,Salsa Blanca Yuspe 40g,91.75,250.0,898
-Mercadito,Salsa de Soja Vanoli 190g,159.15,300.0,899
-Mercadito,Salsa Pizza CIALPIL 340 G,69.99,350.0,900
-Mercadito,Salsa Pizza Vanoli,133.4,350.0,901
-Mercadito,Si Diet 250 ml,249.167,350.0,902
-Mercadito,Spaghetti S&P 500gs,92.0,300.0,903
-Mercadito,Tallarín Morixe 500g,107.0,300.0,904
-Mercadito,Tallarines Santa Isabel 500g,69.0,300.0,905
-Mercadito,Te de Hierbas Menta Peperina 25 saquitos 25 grs,5.0,20.0,906
-Mercadito,Té de Manzanilla x 25 Saquitos de 25g c/u,5.0,20.0,907
-Mercadito,"Té Manzanilla con Anís x25 Saquitos de 37,5g c/u",7.0,20.0,908
-Mercadito,Té Mezcla de Hierbas Naturales x 25 Saquitos de 35g c/u,7.0,20.0,909
-Mercadito,Té Negro Taragui x 50 saquitos ,4.4,10.0,910
-Mercadito,Té Taragûi 2g,4.0,10.0,911
-Mercadito,Toothipick Lianjial,66.66,200.0,912
-Mercadito,Trapo de Piso Blanco Media Naranja 1,162.0,300.0,913
-Mercadito,Trapo de Piso Tejido Gris Bonux 1,109.0,300.0,914
-Mercadito,Velas La Promesa x 4,62.0,200.0,915
-Mercadito,Vinagre de Alcohol Dos Anclas 500ml,75.0,200.0,916
-Mercadito,Vinagre de Alcohol Menoyo 1 L,188.0,400.0,917
-Mercadito,Vinagre de Alcohol Menoyo 250 ml,68.99,200.0,918
-Mercadito,Yerba Amanda Tradicional 1000 grs,489.0,670.0,919
-Mercadito,Yerba Amanda Tradicional 250g,180.0,400.0,920
-Mercadito,Yerba Mañanita 1000g,488.0,700.0,921
-Mercadito,Yerba Marolio Tradicional 500g,195.0,550.0,922
-Mercadito,Yerba Mate CBC 500g,296.69,550.0,923
-Mercadito,Yerba Mate CBSé Naranja 500 grs,300.0,550.0,924
-Mercadito,Yerba Mate Mañanita 500g,402.38,550.0,925
-Mercadito,Yerba Mate Marolio 250g,132.0,420.0,926
-Mercadito,Yerba Mate Playadito 250 grs,254.81,400.0,927
-Mercadito,Yerba Mate Playadito 500g,407.0,550.0,928
-Mercadito,Yerba Mate Rosamonte 1000g,500.0,750.0,929
-Mercadito,Yerba Mate Rosamonte 500 grs,355.0,550.0,930
-Mercadito,Yerba Mate Taragui 500g,284.0,550.0,931
-Mercadito,Yerba Mate Unión 250 grs,242.0,420.0,932
-Mercadito,Yerba Mate Unión 500g,284.0,550.0,933
-Mercadito,Yerba Nobleza Gaucha Suave 500g,195.0,550.0,934
-Mercadito,Yerba Playadito 1000 grs,499.0,670.0,935
-Mercadito,Yerba Romance 500g,340.0,550.0,936
-Mercadito,Yerba Rosamonte Plus 500 grs,299.17,550.0,937
-Mercadito,Yerba Taragüí 250g,242.0,420.0,938
-Merceria,Moños escolares,120.0,250.0,939
-Merceria,Vinchas Blancas,170.0,350.0,940
-Mercería,Alfileres cabeza metalizada 1,188.0,250.0,941
-Mercería,Canastita de agujas 1,150.0,200.0,942
-Mercería,Cinta Métrica 1,225.0,300.0,943
-Mercería,Hilo de Coser 1,113.0,300.0,944
-Panificado,Alfajores de Maizena x 6 unidades,150.0,250.0,945
-Panificado,Budín Buon Natale con Frutas 170 grs,150.0,250.0,946
-Panificado,Budín Buon Natale Marmolado 170 grs,150.0,250.0,947
-Panificado,Budín Con Frutas Las Colonias,245.0,350.0,948
-Panificado,Budín Fantasía Chocolate 160g,235.41,300.0,949
-Panificado,Budín Sin Frutas Las Colonias,245.0,350.0,950
-Panificado,Budín Valenciano 170 grs,100.0,200.0,951
-Panificado,Pan de Hamburguesa x 4,150.0,250.0,952
-Panificado,Pan Dulce Buon Natale 400 grs,250.0,350.0,953
-Panificado,Pan Dulce Don Lorenzo Chips de Chocolate 400 grs,351.29,500.0,954
-Panificado,Pan Dulce Fruticolor 400g,235.0,300.0,955
-Panificado,Pan Dulce Milanés Las Colonias 400 grs,362.48,500.0,956
-Panificado,Pan Dulce Milanés Las Colonias 600 grs,563.69,700.0,957
-Panificado,Pan Hambuerguesas c/sésamo x 4 unidades Don Yeyo,188.8133,250.0,958
-Panificado,Pan Hambuerguesas ROYAL x4,176.0,250.0,959
-Panificado,Pan Lactal 335g,229.0,300.0,960
-Panificado,Pan Lactal Salvado 350g,291.0,380.0,961
-Panificado,Pan Lacteado 360 grs Don Yeyo,279.48333,350.0,962
-Panificado,Pan Panchos ROYAL x6,176.0,250.0,963
-Panificado,Pan para Hamburguesas Lactal 210 grs,234.8333,320.0,964
-Panificado,Pan para pancho x 6,149.0,250.0,965
-Panificado,Pan para Panchos Lactal 210 grs,234.8333,320.0,966
-Panificado,Pan para Panchos x 6 x 210 grs Don Yeyo,188.815,250.0,967
-Panificado,PAN x Gramos,290.0,390.0,968
-Panificado,Pebete Jamón y queso,150.0,300.0,969
-Panificado,Pre-Pizza 1u,100.0,200.0,970
-Pastas,Ravioles 4 Quesos Don Yeyo 500g,357.195,500.0,971
-Pastas,Ravioles con Ricota DeViano 500g,350.93,460.0,972
-Pastas,Ravioles Ricota Don Yeyo 500g,350.93,460.0,973
-Pastas,Tapas p/ Empanadas Plus Ultra x 12 u,107.42,200.0,974
-Pastas,Tapas Para Empanadas Criollas Don Yeyo 330g,108.972,200.0,975
-Pastas,Tapas Para Pascualinas Hojaldre Don Yeyo 400g,237.822,350.0,976
-Regalería,Bombilla Pop Naranja ,200.0,400.0,977
-Regalería,Botella Decorativa con Tapa 1 L,500.0,650.0,978
-Regalería,Botella Kivi 600 ml Rosa,380.0,500.0,979
-Regalería,Botella Kiwi 600 ml Lila,380.0,500.0,980
-Regalería,"Botellón Fresh 1,5 L",600.0,700.0,981
-Regalería,Canasto N° 1 Blanco,400.0,500.0,982
-Regalería,Canasto N°1  Celeste,400.0,500.0,983
-Regalería,Canasto Organizador Alhambre Rosa,400.0,500.0,984
-regalería,Cantimplora Infantil,690.0,950.0,985
-Regalería,Carameleras Pláticas 1,450.0,600.0,986
-Regalería,Colador  Suki Rosa,500.0,600.0,987
-Regalería,Colador Suki Lima ,500.0,600.0,988
-Regalería,Copa Noruega Cerveza 1,300.0,400.0,989
-Regalería,Copón Gourmet 1,338.0,450.0,990
-Regalería,Cornets Blancos x 3,400.0,500.0,991
-Regalería,Guantes 5.11 con Nudillos 1,1100.0,1500.0,992
-Regalería,Guantes 5.11 Sin Nudillos 1,750.0,1100.0,993
-Regalería,Guantes Fox para Moto 1,690.0,1100.0,994
-Regalería,Guantes Lana Gris y Negro Fashion 1,160.0,400.0,995
-Regalería,Guantes Lana Negro Fashion Gloves 1,120.0,400.0,996
-Regalería,Guantes para BB Children 1,220.0,400.0,997
-Regalería,Guantes Tricolor Ladies Luxury 1,220.0,500.0,998
-Regalería,Hieleras Pláticas 1,488.0,700.0,999
-Regalería,Huevera Para Microondas,400.0,500.0,1000
-Regalería,Llavero Corazón,188.0,350.0,1001
-Regalería,Manoplas Nena con Strass 1,150.0,400.0,1002
-Regalería,Mate Click Naranja ,400.0,500.0,1003
-Regalería,Mate Forrado Chico 1,160.0,400.0,1004
-Regalería,Mate Forrado Grande 1,350.0,500.0,1005
-Regalería,Mate Porongo Chico 1,210.0,300.0,1006
-Regalería,Mate Porongo Grande 1,350.0,400.0,1007
-Regalería,Molde p/ Helado x 4 Aqua Rosa,400.0,500.0,1008
-Regalería,Molde p/ Helado x 4 Aqua Verde,400.0,500.0,1009
-Regalería,Moños para regalos 1,15.0,20.0,1010
-Regalería,Moños para regalos 1,4.9,10.0,1011
-Regalería,Repasador Sargado,250.0,400.0,1012
-Regalería,Repasador Sargado,250.0,400.0,1013
-Regalería,Ser x 2 utensilios p/ ensaladas Iris,400.0,500.0,1014
-Regalería,Set Coladores x 2,400.0,500.0,1015
-Regalería,Tarro Azucarero 1800 ml,500.0,650.0,1016
-Regalería,Tarro para Azúcar 1800 ml,500.0,600.0,1017
-Regalería,Tarro para Cereales 1800 ml,500.0,600.0,1018
-Regalería,Tarro para Galletitas 1800 ml,500.0,600.0,1019
-Regalería,Tarro para Yerba 1800 ml,500.0,600.0,1020
-Regalería,Tarro Yerbero 1800 ml,500.0,650.0,1021
-Regalería,Vaso Chopero 1,525.0,700.0,1022
-Regalería,Vaso de Boca Juniors,550.0,700.0,1023
-Regalería,Vaso de River Plate,550.0,700.0,1024
-Regalería,Vaso infantil Exprimidor,490.0,700.0,1025
-Regalería,Vaso Pico Sorbete,290.0,400.0,1026
-Regalería,Vaso Pinta Deco Cerveza 1,375.0,500.0,1027
-Snack,3D 151g,300.0,400.0,1028
-Snack,3D 43g,156.48,250.0,1029
-Snack,3D 47g,123.0,200.0,1030
-Snack,3D 92g,384.6,500.0,1031
-Snack,3D Original Queso 95 grs,238.47,320.0,1032
-Snack,Aritos Frutados Lasfor 160g,112.0,180.0,1033
-Snack,Barrita de Cereal Yogurt y Frutilla ,77.034,100.0,1034
-Snack,Barritas de Cereal Chispas 30 grs Quaker,61.95,100.0,1035
-Snack,Barritas de Cereal Frutilla 30 grs Quaker,61.95,100.0,1036
-Snack,Barritas de Cereal Mousse de Chocolate 30 grs Quaker,61.95,100.0,1037
-Snack,Bolitas Chocolatadas Lasfor 1,126.0,200.0,1038
-Snack,Chizitos OVNI 50g,48.0,150.0,1039
-Snack,Chizitos x 100 grs,60.0,150.0,1040
-Snack,Chocobar de arroz 20 grs,93.33,130.0,1041
-Snack,Doritos  140g,315.0,420.0,1042
-Snack,Doritos 45g,156.48,250.0,1043
-Snack,Doritos Sabor Queso 85 grs,423.0,550.0,1044
-Snack,Flow Cereal Avellanas Arándanos con Miel 30g,103.72,180.0,1045
-Snack,Lay's Cheddar 85g,264.0,350.0,1046
-Snack,Lay's Clásicas 145g,576.92,730.0,1047
-Snack,Lay's Clásicas 249g,458.0,600.0,1048
-Snack,Lay's Clásicas 45g,192.3,250.0,1049
-Snack,Lay's Clásicas 94g,264.0,400.0,1050
-Snack,Maíz Inflado OVNI 50g,48.0,150.0,1051
-Snack,Maní King Salado Sin Piel 120g,133.41,180.0,1052
-Snack,Maní salado - pelado  a granel 250g,300.0,150.0,1053
-Snack,Maní salado - pelado  a granel 250g,240.0,350.0,1054
-Snack,Oblea de arroz 20 grs,93.33,130.0,1055
-Snack,Palios Salados OVNI 150g,114.0,200.0,1056
-Snack,Papas Clásicas Quento 100 grs,270.0,400.0,1057
-Snack,Papas Clásicas Quento 50 grs,78.0,200.0,1058
-Snack,Papas Pay QUENTO 110g,200.0,300.0,1059
-Snack,Papas Quento  Jamón Serrano 90 g,288.93,400.0,1060
-Snack,Papas Quento  Ketchup 90 g,288.93,400.0,1061
-Snack,Papas Quento Cebolla y Queso 45g,111.505,200.0,1062
-Snack,Papas Quento Clásicas Asado Criollo,288.93,400.0,1063
-Snack,Papas Quento Sabor Crema y Ciboulette 90 gr,288.93,400.0,1064
-Snack,Puflito ,41.0,150.0,1065
-Snack,Semillas de Girasol Tostadas y Saladas 40 grs,37.5,80.0,1066
-Snack,Tostex Barbacoa 125g,113.0,150.0,1067
-Snack,Tostex Sabor Cheddar 125g,113.0,150.0,1068
-Snack,Tostex Sabor Pizza 125g,113.0,150.0,1069
-Snack,Tutuca,48.0,150.0,1070
-Snack,Tutuca 100 grs 1,70.0,100.0,1071
-Snack,Tutuca 80 grs 1,59.0,80.0,1072
-Snack,Twistos Jamón Ibérico 100g,369.23,480.0,1073
-Snack,Twistos Jamón Ibérico 40g,184.6,240.0,1074
-Snack,Twistos Queso 40g,173.08,250.0,1075
-Soda,Agua Mineral con Gas Bio Sports 500 cc,62.5,100.0,1076
-Soda,Soda Benedictino 2000ml,92.0,200.0,1077
-Soda,Soda Benedictino 2000ml.,55.0,200.0,1078
-Soda,Soda Eco de los Andes 500ml,65.0,100.0,1079
-Soda,Soda Kapuy x 2000ml,100.0,200.0,1080
-Soda,Soda Sierra de los Padres  500ml,75.0,100.0,1081
-Soda,Soda Sifón Secco 2 L,218.75,300.0,1082
-Soda,Soda Torasso 2000ml,113.0,150.0,1083
-Soda,Soda Vitalissima 2000ml,203.12,300.0,1084
-Soda,Soda Wolfs 2 L,141.66,200.0,1085
-Varios,Adhesivo de Contacto POXI-ran 1,359.0,600.0,1086
-Varios,Apoya Celular FOONU,200.0,300.0,1087
-Varios,Barbijos 1,75.0,100.0,1088
-Varios,Bolsas camisetas 40 x 50,250.0,350.0,1089
-Varios,Bolsas camisetas 40 x 50,3.0,5.0,1090
-Varios,Bolsas Camisetas 50x70 ,11.04,20.0,1091
-Varios,Bolsas de Residuos Consorcio ADN Polimundi 60x90x10 unidades,15.7,25.0,1092
-Varios,Bolsas Residuos Polimundi x 10 u / 60x90 Baja Densidad,26.31,40.0,1093
-Varios,Bolsas residuos Polimundi x 10 u /80x100 Alta densidad,31.4,40.0,1094
-Varios,Bombilla grande Piedra,270.0,400.0,1095
-Varios,BOMBILLA MATE ESPIRALADA 1,260.0,500.0,1096
-Varios,BOMBILLA MATE RUBÍ CORTA 1,210.0,400.0,1097
-Varios,BOMBILLA MATE RUBÍ LARGA 1,210.0,450.0,1098
-Varios,BOMBILLA TERERÉ 1,105.0,150.0,1099
-Varios,Botella Pinguinito Celeste 300 ml,300.0,400.0,1100
-Varios,Botella Pinguinito Rosa 300 ml,300.0,400.0,1101
-Varios,Cartas de Loba Hachazo 1,380.0,600.0,1102
-Varios,Cartas de Truco Hachazo 1,190.0,400.0,1103
-Varios,Cartas FIFA WORLD CUP,150.0,300.0,1104
-Varios,Chip  1,38.0,100.0,1105
-Varios,Cinta Aisladora de PVC,120.0,200.0,1106
-Varios,Desodorante para Piso Sedilé Flor de Irupé,75.0,120.0,1107
-Varios,Desodorante para Piso Sedilé Lavanda,75.0,120.0,1108
-Varios,Duracell AA,37.0,200.0,1109
-Varios,Duracell AA,178.0,250.0,1110
-Varios,Duracell AAA,150.0,200.0,1111
-Varios,Encendedor Candela 1,128.57,200.0,1112
-Varios,Encendedor Fuegolandia,129.0,200.0,1113
-Varios,Escarapela de cinta celeste y blanca,50.0,100.0,1114
-Varios,Escarapela Tejida hilo,150.0,300.0,1115
-Varios,Escarapelas a crochet 1,210.0,300.0,1116
-Varios,Escarapelas moños de cinta 1,38.0,50.0,1117
-Varios,Escarapelas simple de cinta 1,23.0,50.0,1118
-Varios,Focos Ledvance 9 W = 75 W,193.52,300.0,1119
-Varios,Focos Osram 12 w  =  90 W,243.51,350.0,1120
-Varios,Focos Osram 5 w = 40 W,149.63,250.0,1121
-Varios,Focos Osram 9 w 1,113.0,200.0,1122
-Varios,Gorros Navideños,100.0,400.0,1123
-Varios,Hielo Botella Chica 1,0.0,100.0,1124
-Varios,Hielo Botella Grande 1,0.0,150.0,1125
-Varios,Juego Loteria Número Plásticos,190.0,400.0,1126
-Varios,La Gotita 1,343.19,450.0,1127
-Varios,Liyo Caja 50,103.16,200.0,1128
-Varios,Liyo X2 2,2.5,2.5,1129
-Varios,Loteria Familiar 1,375.0,700.0,1130
-Varios,Magistral Marina 215ml,147.0,180.0,1131
-Varios,Mate Tereré Argentina,380.0,500.0,1132
-Varios,Mate Vidrio Deco,480.0,700.0,1133
-Varios,Naipes Hachazo Truco,190.0,400.0,1134
-Varios,Pilas AA A Philco Alcalina x 4,133.75,200.0,1135
-Varios,Pilas AAA Energizer,146.4,200.0,1136
-Varios,PILAS DOBLE A 1,84.0,200.0,1137
-Varios,Pilas Energizer Alcalinas AA4,145.0,200.0,1138
-Varios,Pilas Energizer Alcalinas AAA1,178.0,250.0,1139
-Varios,Pilas Eveready AA1,82.47,200.0,1140
-Varios,PILAS TRIPLE A 1,70.0,200.0,1141
-Varios,Pintura Argentina,220.0,300.0,1142
-Varios,Pinza de depilar 1,150.0,200.0,1143
-Varios,Poker Naipes Loba Caja,390.0,600.0,1144
-Varios,PORTA TARJETA BUS 1,38.0,100.0,1145
-Varios,Rollo de Cocina Sussex 50,115.666,150.0,1146
-Varios,Tabla Picadora 1,338.0,500.0,1147
-Varios,Tarjeta Sube,600.0,900.0,1148
-Varios,Tazos Coleccionables del Mundial 2022,120.0,300.0,1149
-Varios,Termo Lumilagro Amigo con asa x 1 litro,1039.0,1800.0,1150
-Varios,Termo Lumilagro Super Térmica con asa x 1 litro,1190.0,2000.0,1151
-Varios,Vaso Sorbete Argentina,180.0,350.0,1152
-Varios,Velas Amanecer 1,53.0,150.0,1153
-Vino,AIMÉ Malbec 750 ml,640.01,750.0,1154
-Vino,Alaris Malbec 750ml,630.0,750.0,1155
-Vino,Alma Mora Malbec 750ml,850.0,950.0,1156
-Vino,Cafayate Malbec 750 ml,600.0,700.0,1157
-Vino,Canciller Blend 1125ml,329.0,500.0,1158
-Vino,Circus Dulce Terroir 750ml,364.0,650.0,1159
-Vino,Colon Cabernet Sauvignon 750ml,238.0,500.0,1160
-Vino,Cordero Piel de Lobo Malbec 2022 750ml,575.83,900.0,1161
-Vino,DADA Malbec 750ml,710.0,850.0,1162
-Vino,Dilema Blanco 750ml,818.0,950.0,1163
-Vino,Dilema No Hay Tal Tinto ,818.0,950.0,1164
-Vino,Dilema No Hay Tal Tinto Dulce,818.0,950.0,1165
-Vino,Dilema Rosé Dulce 750ml,818.0,950.0,1166
-Vino,Don Valentín Lacrado 750ml,670.0,800.0,1167
-Vino,El Bautismo Malbec 750ml,294.0,700.0,1168
-Vino,Estancia de Mendoza Cabernert Malbec 750 ml,603.0,750.0,1169
-Vino,Estancia de Mendoza Malbec 750ml,590.0,700.0,1170
-Vino,Estancia de Mendoza Malbec Cabernet 1125 ml,777.47,870.0,1171
-Vino,Estancia de Mendoza Syrah Malbec 750 ml,539.76,650.0,1172
-Vino,Estancia Mendoza Cabernet Malbec 1125ml,777.47,870.0,1173
-Vino,Estancia Mendoza Chenin Chardonnay 750ml,590.0,700.0,1174
-Vino,Federico de Alvear Blanco Dulce 750 ml,617.0,750.0,1175
-Vino,Finca Natalina Syrah Malbec 750cc,230.0,400.0,1176
-Vino,Fran Nieto Senetiner Cabernet Sauvignon 750ml,350.0,650.0,1177
-Vino,Hormiga Negra Malbec 750ml,210.0,500.0,1178
-Vino,Kadabra Malbec 750 ml,585.0,800.0,1179
-Vino,Marquéz del Sur Blend Magnum 1125ml,450.0,600.0,1180
-Vino,Novecento Malbec,533.33,700.0,1181
-Vino,Otro Loco Más Malbec 750 cc,440.0,750.0,1182
-Vino,Perro Callejero Blend de Malbec 750 ml,885.0,1400.0,1183
-Vino,Santa Julia Cabernet Sauvignon 750ml,800.0,950.0,1184
-Vino,Toro Blanco Tetra 1 Litro,432.6,550.0,1185
-Vino,Toro Tetra Pack x 1000 cc,400.0,520.0,1186
-Vino,"Toro Tinto 1,125 ml",630.0,750.0,1187
-Vino,Toro Viejo Clásico Tinto 1125ml,656.78,750.0,1188
-Vino,Tribu Malbec 750 ml,603.0,730.0,1189
-Vino,Valmont 750ml,420.0,750.0,1190
-Vino,Viñas de Balbo 1125ml,583.33,680.0,1191
-Vino,Vino de Marte Malbec 750 cc,430.0,800.0,1192
-Vino,Vino Toro Clásico Tinto 750 cc,430.82,550.0,1193
-Cigarrillo,Sueltos $10,0.0,20.0,231
+Agua,"Sierra de los Padres 1,5L",124.0,180.0,14
+Agua,Sierra de Los Padres Agua Mineral Natural,124.0,220.0,15
+Agua,Villamanaos 600ml,36.0,110.0,16
+Agua,"Vitalisima 1,5 L",94.0,170.0,17
+Agua,Agua sin gas Villavicencio 2 L,255.17,400.0,18
+Agua,Agua Mineral Nestle 500 cc,700.0,700.0,19
+Agua Saborizada,Aquarius Limonada 2250ml,1250.0,1700.0,20
+Agua Saborizada,Aquarius Manzana 2250ml,1250.0,1700.0,21
+Agua Saborizada,Aquarius Naranja 2250ml,1250.0,1700.0,22
+Agua Saborizada,Aquarius Pera 2250ml,1250.0,1700.0,23
+Agua Saborizada,Aquarius Pomelo 2250ml,1250.0,1700.0,24
+Agua Saborizada,Aquarius Pomelo Blanco 2250ml,1250.0,1700.0,25
+Agua Saborizada,Aquarius Pomelo Rosado 2250ml,1250.0,1700.0,26
+Agua Saborizada,Baggio Fresh Naranja 1500ml,697.67,1000.0,27
+Agua Saborizada,Baggio Fresh Pomelo 1500ml,697.67,1200.0,28
+Agua Saborizada,Bio Balance Manzana 1500ml,0.0,350.0,29
+Agua Saborizada,Bio Balance Naranja 1500ml,203.125,350.0,30
+Agua Saborizada,Bio Balance Pomelo 1500ml,203.125,350.0,31
+Agua Saborizada,Levité Ananá 2250ml,175.0,280.0,32
+Agua Saborizada,Levité Manzana  2500ml,204.0,280.0,33
+Agua Saborizada,Levité Manzana 2250ml,175.0,290.0,34
+Agua Saborizada,Levité Naranja 1000ml,90.0,130.0,35
+Agua Saborizada,Levité Naranja 2250ml,175.0,290.0,36
+Agua Saborizada,Levité Pomelo 2250ml,171.0,290.0,37
+Agua Saborizada,Sierra de Los Padres Manzana 1500ml,794.88,1200.0,38
+Agua Saborizada,Sierra de Los Padres Manzana 2250ml,621.66,800.0,39
+Agua Saborizada,Sierra de Los Padres Naranja 1500ml,794.88,1200.0,40
+Agua Saborizada,Sierra de Los Padres Naranja 1500ml,794.88,1200.0,41
+Agua Saborizada,Sierra de Los Padres Naranja 2250ml,621.66,800.0,42
+Agua Saborizada,Sierra de Los Padres Naranja 500ml,73.0,1200.0,43
+Agua Saborizada,Sierra de Los Padres Pomelo 1500 ml,794.88,1200.0,44
+Agua Saborizada,Sierra de Los Padres Pomelo 1500ml,794.88,1200.0,45
+Agua Saborizada,Sierra de los Padres Pomelo 2250ml,621.66,800.0,46
+Agua Saborizada,Sierra de Los Padres Pomelo 500ml,73.0,110.0,47
+Agua Saborizada,Sierras de los Padres Pomelo S/Azúcar 1500ml,794.88,1050.0,48
+Agua Saborizada,Baggio Fresh Naranja 1500 ml,550.0,1200.0,49
+Aperitivo,Americano Gancia 950 ml ,2799.0,3800.0,50
+Aperitivo,Americano Gancia Americano 1250ml,3299.0,4500.0,51
+Aperitivo,Americano Gancia Americano 450ml,1500.0,2500.0,52
+Aperitivo,Aperol 750ml,3735.0,5100.0,53
+Aperitivo,Campari 750ml,4299.0,5800.0,54
+Aperitivo,Carpano Rosso 950ml,2880.0,3900.0,55
+Aperitivo,CinZano Vermouth Rosso 1000ml,2589.0,3500.0,56
+Aperitivo,Smirnoff Ice  Red Berries 473 ml,400.0,900.0,57
+Aperitivo,Fernandito 1000ml,319.0,800.0,58
+Aperitivo,Fernandito Doble 1L,319.0,800.0,59
+Aperitivo,Fernet-Cola Fernando 1000ml,625.0,800.0,60
+Aperitivo,Fernet Branca 450ml,4575.0,6200.0,61
+Aperitivo,Fernet Branca 750 cc,5434.0,8500.0,62
+Aperitivo,Dr Lemon Pomelo 473ml,550.0,900.0,63
+Aperitivo,Dr Lemon Vodka 473ml,550.0,900.0,64
+Aperitivo,Dr Lemon Limon 473 ml,550.0,900.0,65
+Aperitivo,Frizzé Blue Evolution 1000ml,210.0,310.0,66
+Aperitivo,Martini Rosso 1000ml,2800.0,4000.0,67
+Aperitivo,Dr Lemon Mojito 473ml,550.0,900.0,68
+Aperitivo,"Terma Citrus Hierbabuena y Enebro 1,35 L",169.0,390.0,69
+Aperitivo,"Terma Pomelo Quina & Cuasia 1,35 L",234.11,390.0,70
+Aperitivo,"Terma Pomelo Rosado Peperina y Coriandro 1,35 L",237.99,390.0,71
+Aperitivo,"Terma Pomelo Rosado Peperina y Coriandro 1,35 L",234.11,390.0,72
+Aperitivo,Fernet 1882 75 cl,3500.0,6000.0,73
+Aperitivo,Dr Lemon Limon 1000ml,1498.0,2000.0,74
+Aperitivo,Dr Lemon Pomelo 1000ml,1498.0,2000.0,75
+Aperitivo,Smirnoff Bitter Citric 700ml,2899.0,4200.0,76
+Bebida Blanca,Bols Café al Coñac 200ml,400.0,800.0,77
+Bebida Blanca,Café al Coñac Cusenier  20 cl,300.0,800.0,78
+Bebida Blanca,Criadores 195ml,488.0,800.0,79
+Bebida Blanca,CuernaVaca Tequila 1000ml,488.0,720.0,80
+Bebida Blanca,Licor Cusenier Blue Curacao 700ml,900.0,2500.0,81
+Bebida Blanca,Licor fino Bar & Pub's Chocolate 200ml,210.0,800.0,82
+Bebida Blanca,Licor fino Bar & Pub's Dulce de Leche 200ml,293.44,800.0,83
+Bebida Blanca,Licor Fino Café al Cognac Bar&Pubs 200 cc,243.52,800.0,84
+Bebida Blanca,Licor Whisky Gloucester 200 cc,281.18,800.0,85
+Bebida Blanca,Petaca Whisky Pioneer 200 ml,350.0,800.0,86
+Bebida Blanca,Ron Blanco New Style 1000ml,450.0,60.0,87
+Bebida Blanca,Skyy Vodka 750ml,713.0,1050.0,88
+Bebida Blanca,Smirnoff Citrus 700ml,1425.0,2000.0,89
+Bebida Blanca,Smirnoff Tangerine & Lemongrass 700ml,1425.0,2000.0,90
+Bebida Blanca,Smirnoff Watermelon 700ml,1425.0,2000.0,91
+Bebida Blanca,VAT 69 Apple Vibe 700ml,1900.0,4500.0,92
+Bebida Blanca,VAT 69 Blended Scotch Whisky 750ml,1900.0,4500.0,93
+Bebida Blanca,VAT 69 Guaraná Storm 750ml,1900.0,4500.0,94
+Bebida Blanca,Whisky Añejo Doble-V 1000ml,600.0,880.0,95
+Carga,Carga Virtual,1.0,1.0,96
+Cerveza,Schin  473ml,120.0,220.0,97
+Cerveza,Santa Fé  473ml,193.75,310.0,98
+Cerveza,Andes Roja 1 L,1116.66,1500.0,99
+Cerveza,Imperial IPA 473 ml,130.0,330.0,100
+Cerveza,Quilmes 1890 473ml,204.0,330.0,101
+Cerveza,Quilmes 0% Alcohol 473ml,311.35,440.0,102
+Cerveza,Brahma Retornable 1000ml,1349.0,1800.0,103
+Cerveza,Quilmes Doble Malta 473ml,714.7,1000.0,104
+Cerveza,Quilmes Negra  473ml,705.2,1000.0,105
+Cerveza,Patagonia  Bohemian Pilsener 473 cc,448.56,600.0,106
+Cerveza,Brahma Retornable 1000ml La Joaqui,1349.0,1800.0,107
+Cerveza,Budweiser King of Beers 410cc,597.0,800.0,108
+Cerveza,Budweiser King of Beers 710cc,592.22,800.0,109
+Cerveza,Budweiser Retornable 1000ml,1270.0,1700.0,110
+Cerveza,Schneider  473ml,575.0,1000.0,111
+Cerveza,Cooler Corona ,30769.24,40000.0,112
+Cerveza,Corona  710ml,1550.0,2000.0,113
+Cerveza,Corona 330ml,488.55,690.0,114
+Cerveza,Brahma Dorada Lata 473 cm3,738.91,1000.0,115
+Cerveza,Corona 410ml,564.88,800.0,116
+Cerveza,Corona-Frapera-Tabla-Destapador,15615.0,23000.0,117
+Cerveza,ESH,1399.99,1980.0,118
+Cerveza,FRAPERA BUDWEISSER METAL,8880.0,12000.0,119
+Cerveza,Frapera Metal Corona,12000.0,16000.0,120
+Cerveza,Frapera Plática Brahma roja,4880.0,7000.0,121
+Cerveza,Frapera Stella Artois ,10000.0,13500.0,122
+Cerveza,Gif Pack 1 Botella de Agua + 2 porrones de 330 cc Corona,5076.81,6850.0,123
+Cerveza,Salta  Cautiva 473ml,604.16,950.0,124
+Cerveza,Salta Cautiva Blend 473ml,604.16,950.0,125
+Cerveza,Salta Cautiva Rubia 473ml,604.16,950.0,126
+Cerveza,Imperial Golden Retornable 1000ml,1218.83,1550.0,127
+Cerveza,Schneider 473 cc,658.33,950.0,128
+Cerveza,Amstel  473ml,658.33,1000.0,129
+Cerveza,Michelob Ultra 410 cm3,560.0,750.0,130
+Cerveza,Andes Fresquita Mendocina 473ml,716.66,900.0,131
+Cerveza,Brahma  473ml,775.7,1050.0,132
+Cerveza,Pack Chalice Copas x 2 Vintage,5538.46,8500.0,133
+Cerveza,Brahma 473ml La Joaqui,532.0,900.0,134
+Cerveza,Patagonia 24.7 730 ml,595.0,850.0,135
+Cerveza,Patagonia Amber Lager 730 ml,595.0,850.0,136
+Cerveza,Patagonia Bohemian Pilsener 730 cc,595.0,850.0,137
+Cerveza,Patagonia Weisse 730 cc,592.37,850.0,138
+Cerveza,Promoción Brahma + Vaso,980.0,860.0,139
+Cerveza,Imperial Lager  473ml,646.0,900.0,140
+Cerveza,Budweiser 473 cc,750.0,1000.0,141
+Cerveza,Quilmes Bajo Cero Retornable 1000ml,1066.0,1400.0,142
+Cerveza,Quilmes Clásica  473ml,775.0,1000.0,143
+Cerveza,Stella Artois  Noire 473 cc,833.33,1050.0,144
+Cerveza,Quilmes IPA 1 L,894.96,1700.0,145
+Cerveza,Stella Artois Belgium 473 cc,833.33,1050.0,146
+Cerveza,Stella Artois Blanche 473ml,833.33,1050.0,147
+Cerveza,Imperial Golden  473ml,833.0,1100.0,148
+Cerveza,Quilmes Stout 1 L,966.57,1900.0,149
+Cerveza,Miller  473ml,542.0,1100.0,150
+Cerveza,Miller Genuine  Draft 473 cc,757.74,1100.0,151
+Cerveza,Warsteiner 473 cc,820.24,1100.0,152
+Cerveza,Heineken 150 Años 473 ml,921.79,1200.0,153
+Cerveza,Santa Fé Pilsen,191.66,310.0,154
+Cerveza,Stella Artois Belgium 410 cm3,833.33,1050.0,155
+Cerveza,Heineken  473ml,1041.0,1400.0,156
+Cerveza,Combo Quilmes 5x 473 ml + Vaso Murphy,1299.99,1980.0,157
+Cerveza,Stella Artois NO Retornable 710ml,1250.0,1800.0,158
+Cerveza,Stella Artois Retornable 1000ml,839.7,1800.0,159
+Cerveza,GP Quilmes Vasos Independiente + 4 latas 473 ml,2700.0,3850.0,160
+Cerveza,Quilmes Bajo Cero Retornable 1000ml,1083.0,1400.0,161
+Cerveza,Andes Origen Mendocina Rubia 473 cc,727.0,1000.0,162
+Chocolate,Águila Minitorta Blanco 69g,147.52,200.0,163
+Chocolate,Águila Minitorta Clásico 69g,147.52,200.0,164
+Chocolate,"Águila Minitorta Cloco 70,5g",147.52,200.0,165
+Chocolate,"Alfajor B&N Blanco 73,5g",147.52,200.0,166
+Chocolate,"Alfajor B&N Negro 3,0 73,5g",147.52,250.0,167
+Chocolate,Alfajor Block 60g,272.97,600.0,168
+Chocolate,Alfajor Bonobon 3 ,272.97,400.0,169
+Chocolate,Alfajor Clásico Terrabussi 50 grs,78.16,200.0,170
+Chocolate,Alfajor Genio Nevares Triple Blanco 60 grs,66.89,100.0,171
+Chocolate,Alfajor Genio Nevares Triple Negro 60 grs,66.89,100.0,172
+Chocolate,Alfajor Glaseado Terrabussi 38 grs,100.0,200.0,173
+Chocolate,Alfajor Milka  Oreo Triple Negro 61 g,179.4,350.0,174
+Chocolate,Alfajor Milka  Triple Blanco 55 g,179.4,350.0,175
+Chocolate,Alfajor Oreo Triple Negro 56 g,209.69,350.0,176
+Chocolate,Alfajor Terrabusi Triple con Dulce de Leche 70 g,179.4,350.0,177
+Chocolate,Alteza Chocolate Taza 90g,128.0,450.0,178
+Chocolate,Arcor Milk Sorpresa 264g,101.0,280.0,179
+Chocolate,"Bagley Negro Triple 3,0 1",114.0,220.0,180
+Chocolate,Block Cofler 110g,218.0,330.0,181
+Chocolate,Block Cofler 38g,141.78,300.0,182
+Chocolate,Bombón Bel Choco 9g,15.0,20.0,183
+Chocolate,Bon o Bon Aguila Negro,41.17,110.0,184
+Chocolate,Bon o Bon con Chocolinas Negro,41.17,110.0,185
+Chocolate,Bonobón Arcor Blanco,55.0,110.0,186
+Chocolate,Bonobón Arcor Negro,55.0,110.0,187
+Chocolate,Chocolate Mani Vizzio Bonafide 85g,174.0,280.0,188
+Chocolate,Chocolate Nesquik en Polvo 150 grs,150.0,280.0,189
+Chocolate,Chocolate Nestle Maní  33 grs,200.0,330.0,190
+Chocolate,Chocolate Taza Georgalos 100g,265.0,390.0,191
+Chocolate,Chocolino 180 grs,169.9,250.0,192
+Chocolate,Cofler Air Blanco 55 grs,298.6,450.0,193
+Chocolate,Cofler Air Leche 55 grs,298.6,450.0,194
+Chocolate,Cofler Almendras 55 grs,283.86,450.0,195
+Chocolate,Cofler Blanco Air 100 grs,520.48,800.0,196
+Chocolate,Cofler Blanco con Chocolinas 100 grs,512.17,800.0,197
+Chocolate,Cofler Chocolate con Leche  100 grs,512.17,750.0,198
+Chocolate,Cofler Chocolate con Leche 55g,283.86,450.0,199
+Chocolate,Cofler Graffiti Blanco 45 grs,125.0,220.0,200
+Chocolate,Cofler Graffiti Negro 45 grs,125.0,220.0,201
+Chocolate,Cofler Leche Air 100 grs,520.48,800.0,202
+Chocolate,Cofler Mixto Air 100 grs,520.48,800.0,203
+Chocolate,Cofler Rockets 100 grs,512.17,800.0,204
+Chocolate,Cofler Rocklets 55g,227.82,330.0,205
+Chocolate,Fel Fort Dos Corazones 26g,218.49,300.0,206
+Chocolate,Georgalos Full Maní 100g,180.0,260.0,207
+Chocolate,Hamlet Almendras y Maní 43 grs,85.13,400.0,208
+Chocolate,Hamlet Sabor Yoghurt Frutilla 43 grs,85.13,400.0,209
+Chocolate,Huevo Kinder  20 g Rosado,271.75,500.0,210
+Chocolate,Huevo Kinder 20 g Azul,271.75,500.0,211
+Chocolate,Huevo Kinder 20g,325.86,500.0,212
+Chocolate,KingTat 18g,38.0,60.0,213
+Chocolate,Las Colonias Blanco Triple 1,213.25,450.0,214
+Chocolate,Las Colonias Negro Triple 1,213.25,450.0,215
+Chocolate,Mantecol Clásico 111g,285.0,700.0,216
+Chocolate,Milka Leche 55 grs,420.0,500.0,217
+Chocolate,Oblea Twit Arcor 20 grs,60.0,90.0,218
+Chocolate,Obli-Bon Blanco 17g ,23.0,30.0,219
+Chocolate,Obli-Bon Bocadito Relleno 10g,30.0,40.0,220
+Chocolate,Obli-Bon Bombón 170g x 10 unidades,300.0,440.0,221
+Chocolate,Paraguitas ,53.79,110.0,222
+Chocolate,Rocklets  20g,68.0,110.0,223
+Chocolate,Rocklets 40 grs,167.5,220.0,224
+Chocolate,Sapito Maní 10g,23.0,30.0,225
+Chocolate,Tatín Blanco Simple 1,67.4,150.0,226
+Chocolate,Tatín Blanco Triple 1,82.0,200.0,227
+Chocolate,Tatín Negro Simple 1,67.4,150.0,228
+Chocolate,Tatín Negro Triple 1,82.0,200.0,229
+Chocolate,Tofi Blanco Triple 1,98.0,220.0,230
+Chocolate,Tofi Glaseado 44g,80.72,170.0,231
+Chocolate,Tofi Negro Triple 1,98.0,220.0,232
+Chocolate,Alfajor Triple Fantoche Negro 85 g,291.01,400.0,233
+Chocolate,Alfajor Triple Fantoche Blanco 85 g,291.01,400.0,234
+Cigarrillo,Camel 11,1150.0,1400.0,235
+Cigarrillo,Chesterfield 20 Box,930.0,1200.0,236
+Cigarrillo,Chesterfield 20 Común ,1220.0,1500.0,237
+Cigarrillo,Cigarrillo CJ Rubios,460.0,650.0,238
+Cigarrillo,Cigarrillos CJ Rubios Convertible,460.0,600.0,239
+Cigarrillo,Cigarrillos CJ Rubios Mentolado,460.0,600.0,240
+Cigarrillo,Liverpool 20 Box Rojo,490.0,700.0,241
+Cigarrillo,Liverpool Green,490.0,700.0,242
+Cigarrillo,Liverpool Green 20,490.0,700.0,243
+Cigarrillo,Liverpool Red x 20,490.0,700.0,244
+Cigarrillo,Liyo Caja 50,150.0,500.0,245
+Cigarrillo,Liyo X2 2,2.5,15.0,246
+Cigarrillo,Lucky Strike Origen x 20,1270.0,1600.0,247
+Cigarrillo,Lucky Strike  Común 12 ,1066.0,1300.0,248
+Cigarrillo,Lucky Strike  Común Convertible 20,1500.0,1850.0,249
+Cigarrillo,Lucky Strike  Convertible 12,1066.0,1300.0,250
+Cigarrillo,Lucky Strike  Convertible Box 20,1755.0,2100.0,251
+Cigarrillo,Lucky Strike Común 20 Blanco ,1500.0,1850.0,252
+Cigarrillo,Lucky Strike Dark Paris,2119.0,2550.0,253
+Cigarrillo,Marlboro  Común 12,1230.0,1550.0,254
+Cigarrillo,Marlboro  Común 20,1770.0,2050.0,255
+Cigarrillo,Marlboro Box 20,1970.0,2400.0,256
+Cigarrillo,Marlboro Fusión 12,1100.0,1350.0,257
+Cigarrillo,Marlboro Fusión 20 Box,1780.0,2100.0,258
+Cigarrillo,Master Común 20,600.0,750.0,259
+Cigarrillo,Master suelto,50.0,60.0,260
+Cigarrillo,Philip Morris  Común 12,1150.0,1400.0,261
+Cigarrillo,Philip Morris  Convertible Box 20,1350.0,1500.0,262
+Cigarrillo,Philip Morris 20 Común 20,1540.0,1850.0,263
+Cigarrillo,Philip Morris Convertible 12,1150.0,1400.0,264
+Cigarrillo,Pier Rojo 10,170.0,300.0,265
+Cigarrillo,Pier Rojo 20 20,490.0,700.0,266
+Cigarrillo,Pier Verde 20 20,490.0,700.0,267
+Cigarrillo,Rodeo 20 20,450.0,550.0,268
+Cigarrillo,Rothmans Covertible 20,1248.0,1500.0,269
+Cigarrillo,Rothmans Red Ks 20,1200.0,1450.0,270
+Cigarrillo,Suelto Barato 1,0.0,40.0,271
+Cigarrillo,Suelto Nacional 1,0.0,100.0,272
+Cigarrillo,Sueltos $20,0.0,50.0,273
+Cigarrillo,Liyo Pier x unidad,5.0,15.0,274
+Cigarrillo,Liyo Pier Cajita,150.0,500.0,275
+Cigarrillo,Philip Morris Box 20,1080.0,1300.0,276
+Cigarrillo,Melbourne Red 20,600.0,750.0,277
+Cigarrillo,Melbourne 20,525.0,750.0,278
+Cigarrillo,Milenio Mint 20,610.0,750.0,279
+Cigarrillo,Milenio Red 20,610.0,750.0,280
+Cigarrillo,Milenio Gold 20,610.0,750.0,281
+Cigarrillo,Master Box 20,607.53,1000.0,282
+Cotillón,´Velas Cumpleaños Número 7,123.71,700.0,283
+Cotillón,Bengalas 1,60.0,110.0,284
+Cotillón,Bengalas para tortas Candela x 4 unidades,109.57,220.0,285
+Cotillón,Bombuchas Fiesta Loca 100 globitos,790.0,1050.0,286
+Cotillón,Bombuchas Perfumadas x 100 globitos,790.0,1050.0,287
+Cotillón,Corbatín para actos escolares,180.0,330.0,288
+Cotillón,Cucharitas Plásticas,3.22,10.0,289
+Cotillón,"Globos Candela Blanco 12"" x 25 unidades Perlados",22.4,30.0,290
+Cotillón,"Globos Candela Celeste 12"" x 25 unidades Perlados",22.4,30.0,291
+Cotillón,"Globos Candela Multicolor 9"" x 50 unidades",12.0,30.0,292
+Cotillón,Moños escolares,180.0,350.0,293
+Cotillón,Vasos Descartables Color,8.0,30.0,294
+Cotillón,Vasos descartables x 1 litro ,45.0,300.0,295
+Cotillón,Velas Amanecer 1,53.0,400.0,296
+Cotillón,Velas Cumpleaños Número 5,460.0,700.0,297
+Cotillón,Velas Cumpleaños Número 6,460.0,700.0,298
+Cotillón,Velas Cumpleaños Número 8,460.0,700.0,299
+Cotillón,Velas Cumpleaños Número 9,460.0,700.0,300
+Cotillón,Velas de cumpleaños 1,8.0,700.0,301
+Cotillón,Velas Farolito x 4,50.0,400.0,302
+Cotillón,Velas La Promesa x 4,62.0,400.0,303
+Embutidos,Salchichas 66 200 grs,114.99,220.0,304
+Embutidos,Salchichas Don Otto 190g,460.0,600.0,305
+Energizante,Speed 473ml,321.66,460.0,306
+Energizante,Gatorade Cool Blue 1250ml,576.77,830.0,307
+Energizante,Gatorade Cool Blue 500 ml,794.0,1050.0,308
+Energizante,Gatorade Cool Blue 750ml,413.49,610.0,309
+Energizante,Gatorade Frutas Tropicales 1250ml,576.77,830.0,310
+Energizante,Gatorade Frutas Tropicales 500ml,794.0,1050.0,311
+Energizante,Gatorade Frutos Tropicales 750ml,413.49,610.0,312
+Energizante,Gatorade Lima Limón 500 ml,794.0,1050.0,313
+Energizante,Gatorade Manzana 1250ml,576.77,830.0,314
+Energizante,Gatorade Manzana 500ml,794.0,1050.0,315
+Energizante,Gatorade Manzana 750ml,413.49,1050.0,316
+Energizante,"Gatorade Naranja 1,25L",576.77,830.0,317
+Energizante,Gatorade Naranja 500ml,794.0,1050.0,318
+Energizante,Gatorade Uva 500ml,794.0,1050.0,319
+Energizante,Monster Energy The Doctor,1039.99,1300.0,320
+Energizante,Monster Energy Ultra Paradise,1039.99,1300.0,321
+Energizante,Monster Energy Ultra Sunrise,1039.99,1300.0,322
+Energizante,Powerade Blue 500ml,800.0,1050.0,323
+Energizante,Powerade Frutos Tropicales 500ml,800.0,1050.0,324
+Energizante,Powerade Manzana 500ml,800.0,1050.0,325
+Energizante,Powerade Uva 500ml,800.0,1050.0,326
+Energizante,Red Bull 250ml,875.0,1150.0,327
+Energizante,Red Bull Sabor sandía,875.0,1150.0,328
+Energizante,Red Bull Sugar Free,875.0,1150.0,329
+Energizante,Red Bull Tropical Edition 250ml,875.0,1150.0,330
+Energizante,Speed 269ml ,627.0,850.0,331
+Energizante,Speed Unlimited 250 ml,627.0,850.0,332
+Energizante,Monster Energy Ultra 473cc,1039.99,1300.0,333
+Energizante,Monster Mango Loco 473cc,1039.99,1300.0,334
+Energizante,Monster Negro 473ml,1039.99,1300.0,335
+Energizante,Monster Water Melon 473cc,1039.99,1300.0,336
+Energizante,Gatorade Berry Sin Azucar 500ml,794.0,1050.0,337
+Energizante,Gatorade Naranja Sin Azucar 500ml,794.0,1050.0,338
+Espumante,1888 Sidra 750ml,525.0,220.0,339
+Espumante,Anana Fizz Del Valle 720 cc,366.66,1500.0,340
+Espumante,Ananá Fizz Real 720 ml,608.33,2000.0,341
+Espumante,Ananá Fizz Real 750 ml,1327.0,2100.0,342
+Espumante,Del Valle Durazno Fizz 720ml,300.0,1500.0,343
+Espumante,Del Valle Sidra Etiqueta Negra 720ml,300.0,1800.0,344
+Espumante,DU Renaissance 750 ml,500.0,720.0,345
+Espumante,Federico de Alvear Extra Dulce,574.8,2000.0,346
+Espumante,La Farruka Gran Sidra 910ml,263.0,1200.0,347
+Espumante,La Victoria Fresas 720ml,300.0,1400.0,348
+Espumante,La Victoria Sidra 720ml,1000.0,1300.0,349
+Espumante,Novecento Extra Dulce 750ml,1526.92,2000.0,350
+Espumante,Real Sidra 750ml,1608.0,2000.0,351
+Espumante,Sidra Real 910 ml,1659.0,2200.0,352
+Espumante,Federico de Alvear Extra Dulce 750 ml,1699.0,2800.0,353
+Espumante,Federico de Alvear  Dulce 750 ml,1699.0,2800.0,354
+Farmacia,Acondicionador Pantene Restauración 10 ml,11.0,100.0,355
+Farmacia,Actron 600 mg,364.1,500.0,356
+Farmacia,Actron Ibuprofeno 400 mg,168.2,250.0,357
+Farmacia,Alcohol al 70% 500 ml,312.0,800.0,358
+Farmacia,Alcohol Etílico Dismar 500ml,128.0,800.0,359
+Farmacia,Alcohol Frau x 96 ° 500 ml,315.28,800.0,360
+Farmacia,"Alikal 4,5g",283.0,400.0,361
+Farmacia,Alikal Antiácido sabor Naranja,283.0,400.0,362
+Farmacia,Alikal Clásico ,283.0,400.0,363
+Farmacia,Apósitos Protectores,10.0,50.0,364
+Farmacia,Apósitos Protectores Plásticos ,16.0,50.0,365
+Farmacia,Aspirinetas,27.55,50.0,366
+Farmacia,Aspirinetas 100 mg,27.55,50.0,367
+Farmacia,Azufre en Barra ,30.0,350.0,368
+Farmacia,Bayaspirina 500mg 1,93.66,150.0,369
+Farmacia,Bayaspirina Forte,93.66,150.0,370
+Farmacia,Buscapina Compositum 1,378.0,500.0,371
+Farmacia,Buscapina Dúo,378.0,500.0,372
+Farmacia,Buscapina Dúo 10 comprimidos,378.0,500.0,373
+Farmacia,Buscapina Perlas 10 mg,267.0,350.0,374
+Farmacia,Cafiaspirina 500mg 1,83.33,150.0,375
+Farmacia,Colgate Herbal Blanqueadora 90 grs,350.0,500.0,376
+Farmacia,Colgate Ultra Blanco 90 grs,350.0,500.0,377
+Farmacia,Crema Dental Colgate Herbal Blanqueadora 140 grs,495.0,720.0,378
+Farmacia,Crema Dental Colgate Triple Acción Xtra Blancura 50 grs,72.0,330.0,379
+Farmacia,Crema Dental con Flúor Fresh Dent,182.23,390.0,380
+Farmacia,Crema Dental Kolynos 180 grs,445.0,660.0,381
+Farmacia,Curitas 1,15.0,50.0,382
+Farmacia,Curitas Transpiel x 10,11.35,50.0,383
+Farmacia,Diclofenac Sódico 100mg 1,21.0,100.0,384
+Farmacia,Diclofenac Sódico 75 mg,24.66,100.0,385
+Farmacia,Diclogesic Plus B12,28.0,100.0,386
+Farmacia,Doncella Anatómicos,83.0,400.0,387
+Farmacia,Esmalte Jactans,198.0,400.0,388
+Farmacia,Esmalte Miguel Angel,89.0,350.0,389
+Farmacia,Esmalte Secado Rápido India,89.0,350.0,390
+Farmacia,Fibrolex 500mg,7.0,80.0,391
+Farmacia,Geniol Forte x 16 comprimidos,36.5,200.0,392
+Farmacia,Gillette Prestobarba,135.88,350.0,393
+Farmacia,Gillette Prestobarba Ultra Grip 2,234.7,450.0,394
+Farmacia,Gripaben Té Descongestivo Granulado Miel  y Limón 5 grs ,233.0,300.0,395
+Farmacia,Higienol Export 30m,58.1,100.0,396
+Farmacia,Ibu 400 ISA 1,35.0,100.0,397
+Farmacia,IbuEvanol,90.0,200.0,398
+Farmacia,IbuEvanol Forte 400 mg,145.0,200.0,399
+Farmacia,Ibupirac Fem Analgésico Antiespasmódico,29.22,200.0,400
+Farmacia,Ibupirac Ibuprofeno 400 mg,25.75,150.0,401
+Farmacia,Ibupirac Plus Maxx 10 comprimidos,20.6,100.0,402
+Farmacia,Ibuprofeno 600 1,40.0,100.0,403
+Farmacia,Ibuprofeno TRB Pharma 400 mg,35.0,100.0,404
+Farmacia,Ibuprofeno Vent3 400 mg,12.0,100.0,405
+Farmacia,Ibuprofeno Vent3 600 mg,60.0,150.0,406
+Farmacia,Isaspirina Preventiva Aspirina 100 mg ,4.8375,50.0,407
+Farmacia,Jabón Carmel Rosa,70.0,110.0,408
+Farmacia,Jabon de Tocador  Campos Verdes 120 grs Aromaterapia,131.0,280.0,409
+Farmacia,Jabón de Tocador  Campos Verdes 120 grs Frescura,131.0,280.0,410
+Farmacia,Jabón de Tocador  St. Tropez Brisa de Primavera 125 grs,290.0,400.0,411
+Farmacia,Jabón de Tocador Campos Verdes 120 grs  Pausa,131.0,280.0,412
+Farmacia,Jabón de Tocador Campos Verdes 120 grs Energía,131.0,280.0,413
+Farmacia,Jabón de Tocador Rexona 3 x 125 grs,638.68,850.0,414
+Farmacia,Jabón de Tocador Rexona Antibacterial Fresh 90 grs,102.65,170.0,415
+Farmacia,Jabón de Tocador Rexona Glicerina Hidratante Bamboo pack 375g 375,263.0,390.0,416
+Farmacia,Jabón de Tocador St. Tropez  Hidratación Intensa 125 grs,290.0,400.0,417
+Farmacia,Jabón de Tocador St. Tropez Armonía para vos 125 grs,290.0,400.0,418
+Farmacia,Jabón de Tocador St. Tropez Brillo y Luz,290.0,400.0,419
+Farmacia,Jabón Lux  x 125 grs,206.33,300.0,420
+Farmacia,Jabón Rexona Frescura Revitalizante x3,255.0,350.0,421
+Farmacia,Jabón St Tropez Brillo y Luz X3,252.0,390.0,422
+Farmacia,Jabón St Tropez Flores X3,252.0,390.0,423
+Farmacia,Jabón Tocador Cupido  Tira 3 x 90 grs,43.3,90.0,424
+Farmacia,Kolynos 90 grs,247.99,390.0,425
+Farmacia,Kolynos Triple Extra Fresh 70g,103.0,280.0,426
+Farmacia,Kotex Normal con Alas,105.0,700.0,427
+Farmacia,Ladysoft Normal con alas x 8 u,112.51,700.0,428
+Farmacia,Ladysoft Ultradelgada con alas x 8 u,150.0,700.0,429
+Farmacia,Liberol Loratadina 10mg 1,23.0,80.0,430
+Farmacia,Maquillaje Corrector N° 1 Light Beige,400.0,550.0,431
+Farmacia,Maquillaje Corrector N° 3 Strobing ,400.0,550.0,432
+Farmacia,Maquillaje Corrector N°2 Mediano Beige,400.0,550.0,433
+Farmacia,Máquina de afeitar Bic Comfort 3 Advance 1,150.0,400.0,434
+Farmacia,Máquina de afeitar Bic Flex2 Cabeza Móvil,103.0,400.0,435
+Farmacia,Maquinita de Afeitar Bic 2 hojas,166.0,450.0,436
+Farmacia,Maquinita de Afeitar Bic 3 Hojas,593.45,800.0,437
+Farmacia,Migral Compositum,221.0,300.0,438
+Farmacia,Omeprazol x 14,38.57,100.0,439
+Farmacia,Pack Economico Toallas Femeninas Calipso x 16 unidades,129.91,600.0,440
+Farmacia,Pañal Huggies M 1,38.0,110.0,441
+Farmacia,Pañal Pampers P 1,38.0,110.0,442
+Farmacia,Pañuelos Descartables 1,23.0,100.0,443
+Farmacia,Pañuelos Descartables Dismar,30.0,100.0,444
+Farmacia,Pañuelos Descartables Elite,24.59,100.0,445
+Farmacia,Papel Higiénico Elite Professional 50m ,75.0,110.0,446
+Farmacia,Paracetamol ISA 500mg 1,23.0,100.0,447
+Farmacia,Paracetamol Vent3 500 mg,42.0,100.0,448
+Farmacia,Pastillas de Carbón Activado Eczane x 10 comprimidos,70.0,150.0,449
+Farmacia,Preservativos Tulipán  x 3,176.0,700.0,450
+Farmacia,Prime Anatómico 3,1387.0,1900.0,451
+Farmacia,Prime Espermicida 3,1387.0,1900.0,452
+Farmacia,Prime Extra Lubricado 3,1387.0,1900.0,453
+Farmacia,Prime Mega Mayor Comodidad 3,1387.0,1900.0,454
+Farmacia,Prime Retardante 3,1387.0,1900.0,455
+Farmacia,Prime Stronger 3,1387.0,1900.0,456
+Farmacia,Prime Super Fino 3,1387.0,1900.0,457
+Farmacia,Prime Tachas 3,1387.0,1900.0,458
+Farmacia,Prime Texturado 3,1387.0,1900.0,459
+Farmacia,Prime Turbo 3,1387.0,1900.0,460
+Farmacia,Prime Ultra Fino 3,1387.0,1900.0,461
+Farmacia,Prime Warming  3,1387.0,1900.0,462
+Farmacia,Protectores Diarios Calipso x 20,88.9,400.0,463
+Farmacia,Quitaesmaltes Algabo,69.0,400.0,464
+Farmacia,Qura Plus,175.0,250.0,465
+Farmacia,Repelente de Insectos OFF en Aerosol x 170 cm3,830.0,4800.0,466
+Farmacia,Sertal Compuesto,328.0,400.0,467
+Farmacia,Sertal Compuesto,328.0,400.0,468
+Farmacia,Sertal Propinol Perlas,235.0,300.0,469
+Farmacia,Shampoo Pantene  Restauración 10ml,11.0,100.0,470
+Farmacia,Tafirol  Paracetamol 500 mg,100.0,150.0,471
+Farmacia,Tafirol Forte Paracetamol 650 mg,120.0,200.0,472
+Farmacia,Tafirol Paracetamol 1g 1,130.0,250.0,473
+Farmacia,Toallas Femeninas Doncella x 8 u Normal con alas Perfumadas,115.0,700.0,474
+Farmacia,Toallas Femeninas Ladysoft con alas x 8,114.9,700.0,475
+Farmacia,Toallitas Always 8,113.0,700.0,476
+Farmacia,Treg Omeprazol 20 mg x 15 cápsulas,26.5,50.0,477
+Farmacia,Uvasal Clásico x 30 sobres,210.0,350.0,478
+Farmacia,Uvasal Naranja 5g,210.0,350.0,479
+Farmacia,Crema Dental Kolynos 90 g,494.5,670.0,480
+Farmacia,Crema Dental Colgate Triple Acción 90 g,550.0,750.0,481
+Farmacia,Crema Dental Colgate Herbal 90 g,425.0,600.0,482
+Farmacia,Jabón Lux Botanicals x 3,186.11,300.0,483
+Farmacia,Gillette Derma ,470.0,650.0,484
+Farmacia,Omeprazol Stomacine 1,33.0,100.0,485
+Farmacia,Diclofenac Dolofenac 75mg,149.0,200.0,486
+Farmacia,Sertal Compuesto Comprimido Recubierto 1,328.0,450.0,487
+Farmacia,Jabón de Tocador St. Tropez Flores en tu piel 125 g,290.0,400.0,488
+Farmacia,Actrón Mujer  Forte Ibu 400 mg,174.6,250.0,489
+Farmacia,Actron 600 Ibuprofeno 600 mg,241.35,350.0,490
+Farmacia,IbuEvanol Plus ,110.0,200.0,491
+Farmacia,Jabón Rexona Cotton Fresh 125 grs,410.0,600.0,492
+Farmacia,Jabón Rexona Bamboo 125 grs,410.0,600.0,493
+Fotocopia,DNI 1,0.0,100.0,494
+Fotocopia,DOBLE FAZ LEGAL 1,0.0,200.0,495
+Fotocopia,IMPRESIÓN A4 1,0.0,100.0,496
+Fotocopia,IMPRESIÓN LEGAL  1,0.0,100.0,497
+Fotocopia,SIMPLE FAZ A4 1,0.0,100.0,498
+Fotocopia,SIMPLE FAZ LEGAL / DOBLE FAZ A4 1,0.0,100.0,499
+Fotocopia,Constancia Policial de Extravío,50.0,100.0,501
+Fotocopia,Constancia Policial por Razones Climáticas,50.0,100.0,502
+Fotocopia,Constancia Policial por Paro de Transporte,50.0,100.0,503
+Fotocopia,Supervivencia Policial,50.0,100.0,504
+Galletita,9 de Oro  Avena con Pasas 120 grs,516.63,650.0,505
+Galletita,9 de Oro Agridulce  200g,516.63,650.0,506
+Galletita,9 de Oro Agridulces 215 grs,516.63,650.0,507
+Galletita,9 de Oro Avena con Miel 120 grs,516.63,650.0,508
+Galletita,9 de Oro Azucaradas 210 grs,516.63,650.0,509
+Galletita,9 de Oro Azucarados 200g,516.63,650.0,510
+Galletita,9 de Oro Clásicos 215 grs,516.63,650.0,511
+Galletita,9 de Oro Cookies con Chips de Chocolate Blanco 120 grs,516.63,650.0,512
+Galletita,9 de Oro Salada  200g,516.63,650.0,513
+Galletita,Amor 108g,217.73,300.0,514
+Galletita,Amor Sabor Almendras 112 grs,217.73,300.0,515
+Galletita,Bauducco Sabor Chocolate 65 grs,60.0,110.0,516
+Galletita,Chocolinas Original 150 grs,242.58,390.0,517
+Galletita,Criollitas Bagley Pack Familiar x 3 300g,280.05,500.0,518
+Galletita,Criollitas Original 100 grs,107.69,200.0,519
+Galletita,Diversión Arcor 390g,412.39,600.0,520
+Galletita,Diversión Arcor 398g,515.48,700.0,521
+Galletita,Fauna 150 grs,351.97,500.0,522
+Galletita,Galletitas Saladas La Providencia 101g,47.0,90.0,523
+Galletita,Grisines con Salvado 180 grs Veneciana,118.0,200.0,524
+Galletita,Grisines Multicereal 180 grs Veneciana,118.0,200.0,525
+Galletita,Hojalmar Azucarada 180g,75.0,110.0,526
+Galletita,Lia Desfile Surtido 390g,158.0,230.0,527
+Galletita,Lincoln Clásica 153g,300.0,400.0,528
+Galletita,Macucas Sabor Chocolate 110 grs,165.12,280.0,529
+Galletita,Maná Clasica  Chocolate 145g,184.04,280.0,530
+Galletita,Maná Clasica Leche 145g,184.04,280.0,531
+Galletita,Maná Clasica Vainilla 145g,184.04,280.0,532
+Galletita,Maná Rellena Chocolate 152g,318.56,500.0,533
+Galletita,Maná Rellena Frutilla 152g,318.56,500.0,534
+Galletita,Maná Rellena Vainilla 152g,318.56,500.0,535
+Galletita,Mediatarde 105g,45.0,110.0,536
+Galletita,Mediatarde Clásicas x 3 315 g,93.33,700.0,537
+Galletita,Mediatarde Sandwich x 3  321 grs,172.5,350.0,538
+Galletita,Mellizas 108g,217.73,330.0,539
+Galletita,Merengadas 108g,188.45,310.0,540
+Galletita,Merengadas 88g,249.7,350.0,541
+Galletita,Mini Crackers Paseo 300g,550.0,750.0,542
+Galletita,Mini Crackers Paseo 5 Semillas 300g,550.0,750.0,543
+Galletita,Oblita Chocolate 50 g,47.0,200.0,544
+Galletita,Oblita Frutilla 100g,75.0,200.0,545
+Galletita,Oblita Frutilla 50 g,47.0,200.0,546
+Galletita,Oblita La Oblea Sabor Frutilla 50 grs,46.07,200.0,547
+Galletita,Oblita La Oblea Sabor Vainilla 60 grs,46.07,200.0,548
+Galletita,Oblita Mix Frutal 50 g,47.0,200.0,549
+Galletita,Oblita Sabor Limón 50 grs,47.0,200.0,550
+Galletita,Oblita Vainilla 50 g,47.0,200.0,551
+Galletita,Oreo Clásica 118 g,274.83,700.0,552
+Galletita,Oreo con Cacao 118g,169.0,300.0,553
+Galletita,Oreo Golden 118 g,428.32,700.0,554
+Galletita,Paseo Mix de Cereales,550.0,700.0,555
+Galletita,Pepas Trío 1000 grs,430.53,610.0,556
+Galletita,Pepitos 119 grs,125.0,280.0,557
+Galletita,Polvorita Frutilla/Fresa 150g,75.0,110.0,558
+Galletita,Polvorita Mini Limón 147g,75.0,110.0,559
+Galletita,Polvorita Mini Vainilla 147g,75.0,110.0,560
+Galletita,Polvorita Sabor Frutilla y Fresa 81g,65.0,110.0,561
+Galletita,Polvorita Sabor Vainilla 81g,65.0,110.0,562
+Galletita,Polvorita Sabor Vainilla con Chocolate 81g,65.0,110.0,563
+Galletita,Polvorita Vainilla 150g,85.0,170.0,564
+Galletita,Rumba 108g,217.73,330.0,565
+Galletita,Serranas 112g,104.97,170.0,566
+Galletita,Serranitas 30 grs,228.65,350.0,567
+Galletita,Serranitas pack por 3 315 g,83.97,150.0,568
+Galletita,Solitas Surtidas Dulces 300g,113.0,250.0,569
+Galletita,Sonrisas 108g,352.53,600.0,570
+Galletita,Surtido Bagley 390g,628.0,850.0,571
+Galletita,Surtido Bagley 398g,628.76,850.0,572
+Galletita,Traviata Sabor Original 101 grs,101.0,170.0,573
+Galletita,Traviata Sabor Original x 3 303 grs,314.46,500.0,574
+Galletita,Trío Pepas 200g,361.85,600.0,575
+Galletita,Trio Pepas 320 grs,195.0,500.0,576
+Galletita,Trío Pepas 500gr,485.0,660.0,577
+Galletita,Trío Variette 500g,158.0,300.0,578
+Galletita,Vainillas Mauri 80 grs,84.35,220.0,579
+Galletita,Variedad Terrabussi 390 grs,249.0,390.0,580
+Galletita,Vocación Clásica 141 grs,86.58,170.0,581
+Galletita,Vocación Clásica pack x 3 384 grs,222.0,390.0,582
+Galletita,Bizcochos Azucarados Mafalda 180g,291.1,400.0,583
+Galletita,Triangulitos Azucarados Mafalda 180g,291.1,400.0,584
+Galletita,Chocolinas 100g,200.7,300.0,585
+Galletita,Mini Chippis con chips de chocolate 120 g,155.96,200.0,586
+Galletita,Suavecitas con chips de Chocolate 140 g,155.96,200.0,587
+Galletita,Paseo Salvado 300g,550.0,700.0,588
+Galletita ,Criollitas Más Grandes  169 grs,135.0,280.0,589
+Gaseosa,Mirinda Naranja Lata 354ml,90.0,140.0,590
+Gaseosa,Fanta 375ml,100.0,150.0,591
+Gaseosa,Pepsi 250ml,93.1,150.0,592
+Gaseosa,Sprite 375ml,100.0,150.0,593
+Gaseosa,Coca Cola 375 ml,86.0,170.0,594
+Gaseosa,Secco Cola 500 cc,355.5,450.0,595
+Gaseosa,Secco Lima Limón 500ml,355.5,450.0,596
+Gaseosa,Secco Manzana 500ml,355.5,450.0,597
+Gaseosa,Secco Naranja 500ml,355.5,450.0,598
+Gaseosa,Secco Pomelo 500ml,355.5,450.0,599
+Gaseosa,Pepsi 500 ml,598.68,800.0,600
+Gaseosa,Cabalgata Cola 500ml,383.33,500.0,601
+Gaseosa,Cabalgata Lima 500ml,383.33,500.0,602
+Gaseosa,Cabalgata Manzana 500ml,383.33,500.0,603
+Gaseosa,Cabalgata Naranja 500ml,383.33,500.0,604
+Gaseosa,Cabalgata Pomelo 500ml,383.33,500.0,605
+Gaseosa,7up 500 ml,598.68,800.0,606
+Gaseosa,7up Lata 354ml,90.0,440.0,607
+Gaseosa,Pepsi Lata 354ml,598.68,800.0,608
+Gaseosa,Coca Cola 500ml,535.0,900.0,609
+Gaseosa,Fanta Naranja 500 ml,666.66,900.0,610
+Gaseosa,Mirinda Naranja 2250ml,345.95,550.0,611
+Gaseosa,Sprite 500 ml,666.66,900.0,612
+Gaseosa,"Coca Cola Descartable 1,5 L",458.33,600.0,613
+Gaseosa,Pepsi 2500ml,525.0,700.0,614
+Gaseosa,Coca Cola Zero Retornable 2000ml,375.0,750.0,615
+Gaseosa,"Coca Cola  Retornable 1,5 L",1000.0,1400.0,616
+Gaseosa,Coca Cola Retornable 1500ml,1000.0,1400.0,617
+Gaseosa,Fanta Retornable 2000ml,1000.0,1350.0,618
+Gaseosa,Paso de Los Toros Tónica 1500ml,1176.0,1550.0,619
+Gaseosa,Sprite Retornable 2000ml,729.17,1350.0,620
+Gaseosa,Cabalgata Cola 3000ml,1153.33,1600.0,621
+Gaseosa,Cabalgata Guaraná 3000ml,1153.33,1600.0,622
+Gaseosa,Cabalgata Lima 3000ml,1153.33,1600.0,623
+Gaseosa,Cabalgata Naranja 3000ml,1153.33,1600.0,624
+Gaseosa,Cabalgata Pomelo 3000ml,1153.33,1600.0,625
+Gaseosa,Coca Cola Zero 2250 cc,281.44,900.0,626
+Gaseosa,Secco Cola 3000ml,1200.0,1600.0,627
+Gaseosa,Secco Lima 3000ml,1200.0,1600.0,628
+Gaseosa,Secco Limón Intenso 3000 ml,1200.0,1600.0,629
+Gaseosa,Secco Naranja 3000ml,1200.0,1600.0,630
+Gaseosa,Secco Pomelo 3000ml,1200.0,1600.0,631
+Gaseosa,Secco Pomelo Intenso 3000ml,1200.0,1600.0,632
+Gaseosa,Paso de Los Toros 2250ml,480.0,1700.0,633
+Gaseosa,Coca Cola 2250ml,1250.0,2150.0,634
+Gaseosa,"Coca Cola Retornable 2,5 L",750.0,1500.0,635
+Gaseosa,Fanta 2250ml,783.33,2150.0,636
+Gaseosa,Sprite  2250ml,783.33,2150.0,637
+Gaseosa,Sprite Retornable 2500 cc ,750.0,2300.0,638
+Gaseosa,Coca Cola 3 L,1053.0,2500.0,639
+Gaseosa,Mirinda Naranja 500 ml,524.33,700.0,640
+Gaseosa,Paso de los Toros Pomelo 500 ml,598.68,800.0,641
+Gaseosa,"Pepsi Cola 1,50 L",950.0,1250.0,642
+Gaseosa,Fanta Misterio 500ml,666.66,900.0,643
+Gaseosa,Coca Cola Retornable 1500cc,1000.0,1400.0,644
+Golosina,"Alka Menta 3,27 grs",31.66,100.0,645
+Golosina,"Alka Strong 3,27 grs",31.66,100.0,646
+Golosina,Beldent Fresh Sparks Chicle Globo 10 grs,280.0,450.0,647
+Golosina,Beldent Fresh Sparks Frutilla 10 grs,280.0,450.0,648
+Golosina,Beldent Fresh Sparks Menta 10 grs,280.0,450.0,649
+Golosina,Beldent Fresh Sparks Menta Fuerte 10 grs,280.0,450.0,650
+Golosina,Beldent Fresh SparksMentol  10 grs,280.0,450.0,651
+Golosina,Caramelos 1,7.0,30.0,652
+Golosina,Caramelos Alka ,5.0,15.0,653
+Golosina,Caramelos Butter Toffees,8.0,50.0,654
+Golosina,Caramelos Eucaliptus ,9.17,30.0,655
+Golosina,Caramelos Frutales,4.0,30.0,656
+Golosina,Caramelos Saquitos ,11.2,30.0,657
+Golosina,Chicle Globo  Fierita ,3.85,10.0,658
+Golosina,Chicle Globo Fierita,4.0,10.0,659
+Golosina,Chicles Flics Fruta Tableta x 8,149.16,350.0,660
+Golosina,Chicles Flics Menta  Tableta x 8,97.12,350.0,661
+Golosina,Chupaleta Corazoncitos ,20.357,60.0,662
+Golosina,Chupaleta Mickey,17.5,60.0,663
+Golosina,Chupetin Chicle Cosmos Mega x 24,30.0,150.0,664
+Golosina,Chupetin Dobleta 50 unidades,8.9,150.0,665
+Golosina,Chupetín Mister Pop,11.0,150.0,666
+Golosina,Chupetines 1,8.0,150.0,667
+Golosina,Flynn Paff Sabor Tutti Frutti,22.28,50.0,668
+Golosina,Frutigelatin Saurios Misky 25 g,63.57,300.0,669
+Golosina,Garrapiñadas de Maní 40 grs,40.0,70.0,670
+Golosina,Garrapiñadas de Maní Alteza 80g,75.54,110.0,671
+Golosina,Gomitas Conitos Frutales,65.0,170.0,672
+Golosina,Gomitas Fantasía 100 grs,83.0,200.0,673
+Golosina,Gomitas Gometas 1,45.0,70.0,674
+Golosina,Gomitas Grandes Mogul 35g,73.0,110.0,675
+Golosina,Gomitas Mogul Ácido - Dulce,72.5,110.0,676
+Golosina,Malvaviscos Congys Billiken,66.86,110.0,677
+Golosina,Maní Color Latin,50.0,110.0,678
+Golosina,Mantecol 64 g,373.93,700.0,679
+Golosina,"Menthoplus Acido Cereza 27,2 grs",251.0,400.0,680
+Golosina,Menthoplus Cereza Zero,154.86,400.0,681
+Golosina,"Menthoplus Cherry 29,4g",154.86,400.0,682
+Golosina,"Menthoplus Mentol 29,4g",303.54,400.0,683
+Golosina,Menthoplus Mentol Zero,154.86,400.0,684
+Golosina,"Menthoplus Miel 29,4g",303.54,400.0,685
+Golosina,"Menthoplus Mint 29,4g",303.54,400.0,686
+Golosina,"Menthoplus Strong 29,4g",303.54,400.0,687
+Golosina,"Menthoplus Vit Limon 29,4 grs",187.39,500.0,688
+Golosina,Mentita 26g,38.0,90.0,689
+Golosina,Misky Toffe   1,4.0,10.0,690
+Golosina,Mister Pop con Chicle,28.48,60.0,691
+Golosina,Mr Floky Uva con Chicle,20.83,30.0,692
+Golosina,Nugatón Postre de Maní 100 grs,195.0,280.0,693
+Golosina,Paleta Redonda N 2,85.0,220.0,694
+Golosina,Pico Dulce Lheritier 48 unidades,37.79,100.0,695
+Golosina,"Topline Fruta 6,7g",215.94,300.0,696
+Golosina,"Topline Menta 6,7g",215.94,300.0,697
+Golosina,"Topline Sandía 6,7g",215.94,300.0,698
+Golosina,Topline Seven Atomic Strong 14g,160.48,300.0,699
+Golosina,Topline Seven Mandarina 14g,160.48,300.0,700
+Golosina,Topline Seven Vibrant Strawberry 14g,160.48,300.0,701
+Golosina,Topline Seven Violet Cherry 14g,160.48,300.0,702
+Golosina,Topline Seven X-plosive Mint 14g,160.48,300.0,703
+Golosina,"Topline Strong 6,7g",215.94,300.0,704
+Golosina,Turrón Bonafide Maní con Miel,139.162,300.0,705
+Golosina,Turrón de Maní Alteza,51.0,150.0,706
+Golosina,Turrón de Maní Fel-Fort,188.15,280.0,707
+Golosina,Turrón Maní Arcor 25g,123.33,300.0,708
+Golosina,Turrón Maní Chocolatada Arcor 25g,123.33,300.0,709
+Golosina,"Menthoplus 2 Naranja 27,2g",251.0,500.0,710
+Golosina,Chupetín Bola Loca  Sabor Frutilla,36.76,150.0,711
+Golosina,Chupetín Bola Loca Sabor Sandía,36.76,150.0,712
+Golosina,Chicle Beldent Mandarina ,300.0,450.0,713
+Golosina,Chicle Bazooka Tutti Frutti,23.33,50.0,714
+Golosina ,Chupetín Yogus Mister Pops 50 unidades,14.0,150.0,715
+HIELO,HIELO 2KG,200.0,330.0,716
+HIELO,HIELO BOTELLA,150.0,300.0,717
+Jugo,Ades  Soja + Jugo de Durazno 1000ml,500.0,650.0,718
+Jugo,Ades Frutas Tropicales 1000ml,500.0,650.0,719
+Jugo,Ades Manzana 1000ml,500.0,650.0,720
+Jugo,Ades Soja Ananá 1000ml,500.0,650.0,721
+Jugo,Arcor Ananá 18 grs,73.77,110.0,722
+Jugo,Arcor Durazno 18 grs,73.77,110.0,723
+Jugo,Baggio Fresh Liviano Multifruta 1000ml,645.0,1000.0,724
+Jugo,Baggio Fresh Manzana Liviano 1500ml,697.67,1000.0,725
+Jugo,Baggio Fresh Manzana Liviano 200ml,329.0,450.0,726
+Jugo,Baggio Fresh Mix Frutal 1500ml,697.67,1000.0,727
+Jugo,Baggio Fresh Multifruta 200ml,329.0,450.0,728
+Jugo,Baggio Fresh Naranja Dulce Liviano 1500ml,697.67,1200.0,729
+Jugo,Baggio Fresh Naranja Liviano 200ml,329.0,450.0,730
+Jugo,Baggio Pronto Durazno 1000ml,1118.77,1500.0,731
+Jugo,Baggio Pronto Durazno 200ml,329.0,450.0,732
+Jugo,Baggio Pronto Manzana 1000ml,1118.77,1500.0,733
+Jugo,Baggio Pronto Manzana 200ml,329.0,450.0,734
+Jugo,Baggio Pronto Mix Frutal 1000ml,1118.77,1500.0,735
+jugo,Baggio Pronto Mix Frutal 200 ml,329.0,450.0,736
+Jugo,Baggio Pronto Multifruta 1000ml,1118.77,1500.0,737
+Jugo,Baggio Pronto Multifruta 200ml,329.0,450.0,738
+Jugo,Baggio Pronto Naranja 200ml,329.0,450.0,739
+Jugo,Baggio Pronto Pera 200ml,329.0,450.0,740
+Jugo,Cepita Ananá 1500ml,1200.0,1550.0,741
+Jugo,Cepita del Valle Fresch Naranja,200.0,330.0,742
+Jugo,Cepita del Valle Fresch Pomelo,200.0,330.0,743
+Jugo,Cepita Durazno 1500ml,1200.0,1550.0,744
+Jugo,Cepita Manzana 1500ml,1200.0,1550.0,745
+Jugo,Cepita Naranja 1500ml,1200.0,1550.0,746
+Jugo,Cormillot Pomelo 1500ml,184.0,260.0,747
+Jugo,Jugo Arcor Limonada 18 g,169.0,250.0,748
+Jugo,Jugo Arcor Naranja 18 grs,169.0,250.0,749
+Jugo,Jugo Arcor Naranja Dulce 18 g,169.0,250.0,750
+Jugo,Jugo Del Valle Durazno 200ml,73.07,250.0,751
+Jugo,Jugo Tang Naranja Banana 18 grs,135.3,250.0,752
+Jugo,Jugo Tang Pera 18 grs,135.3,250.0,753
+Jugo,Jugo Tang Uva 18 grs,135.3,250.0,754
+Jugo,Tang Durazno 18 g,135.3,250.0,755
+Jugo,Tang Limonada Dulce 18g,135.3,250.0,756
+Jugo,Tang Manzana 18 grs,135.3,250.0,757
+Jugo,Tang Manzana 18 grs,135.3,250.0,758
+Jugo,Tang Multifruta 15 grs,135.3,250.0,759
+Jugo,Tang Multifruta 18g,135.3,250.0,760
+Jugo,Tang Naranja 18 g,135.3,250.0,761
+Jugo,Tang Naranja Dulce 18g,135.3,250.0,762
+Jugo,Tang Naranja Mango  15 grs,135.3,250.0,763
+Jugo,Tang Pomelo Rosado 15 grs,135.3,250.0,764
+Jugo,Tang Pomelo Rosado 18 grs,135.3,250.0,765
+Jugo,Tang Naranja Lima 15g,135.3,250.0,766
+Jugo,Tang Naranja 15g,135.3,250.0,767
+Jugo,Citric Naranja 1 L,763.19,2000.0,768
+Jugo,Jugo Pura Fruta Naranja 200 ml,356.15,450.0,769
+Jugo,Jugo Del Valle Naranja Dulce 200 ml,164.79,450.0,770
+Jugo,Jugo Pura Fruta Manzana Roja  1 L,1666.8,2200.0,771
+Jugo,Arcor Naranja Banana 18g,73.77,250.0,772
+Jugo,Arcor Manzana 18g,73.77,250.0,773
+Jugo,Arcor Naranja Mango 18g,73.77,250.0,774
+Jugo,Pura Fruta Manzana Roja 200ml,353.86,500.0,775
+Jugo,Tang Naranja Banana 15g,123.15,250.0,776
+Jugo,"Clight Manzana Verde 7,5 grs",159.0,250.0,777
+Jugo,Cligth Limonada 8 g,159.0,250.0,778
+Jugo,Tang Limonada Dulce 15g,135.3,250.0,779
+Jugo,Cepita del Valle Naranja 300ml,520.0,700.0,780
+Lácteos,Arroz con leche Clásico 180 grs,138.46,200.0,781
+Lácteos,Arroz con leche con dulce de leche 180 grs,138.46,200.0,782
+Lácteos,Baggio Chocolatada Latte 1000ml,1038.0,1500.0,783
+Lácteos,Baggio Chocolatada Latte 200ml,335.0,500.0,784
+Lácteos,Chocolatada Tregar 1000ml,180.0,330.0,785
+Lácteos,Chocolatada Tregar 200ml,90.0,130.0,786
+Lácteos,Crema de Leche Doble Crema Tregar 200 cc,343.75,500.0,787
+Lácteos,Crema de Leche Tregar 200cc Doble Crema,270.0,400.0,788
+Lácteos,Crema de Leche Tregar 200ml,270.0,400.0,789
+Lácteos,Dulce de Leche Manfrey Clásico 400 grs ,410.22,610.0,790
+Lácteos,Dulce de Leche Milkaut de Campo 400 grs,439.0,630.0,791
+Lácteos,Dulce de Leche Tonadita 250g,135.0,220.0,792
+Lácteos,Dulce de Leche Tregar 400g,287.0,440.0,793
+Lácteos,Leche Chocolatada Ilolay Kids 1 L,371.71,600.0,794
+Lácteos,Leche Chocolatada Las Tres Niñas 1000ml,250.0,440.0,795
+Lácteos,Leche Chocolatada Nesquik  con mix de cacaos 200 ml,182.0,130.0,796
+Lácteos,Leche Chocolatada Nesquik Menos Azúcar,157.0,280.0,797
+Lácteos,Leche Descremada Great Value 1000ml,388.0,500.0,798
+Lácteos,Leche Descremada Manfrey 1000ml,388.0,500.0,799
+Lácteos,Leche Entera Great Value 1000ml,388.0,500.0,800
+Lácteos,Leche Entera Ilolay 1 L,388.0,500.0,801
+Lácteos,Leche Entera La Suipachense 1000 ml,388.0,500.0,802
+Lácteos,Leche Entera LV S&P 1000 ml,388.0,500.0,803
+Lácteos,Leche Entera Manfrey 1000ml,388.0,500.0,804
+Lácteos,Leche Entera Tregar 1 litro,388.0,500.0,805
+Lácteos,Leche Entera Tregar 1000ml,381.37,500.0,806
+Lácteos,Leche La Lácteo Entera Larga Vida 1 L,388.0,500.0,807
+Lácteos,Leche Nido Forti Grow 800 grs,594.15,880.0,808
+Lácteos,Leche Parcialmente Descremada Tregar 1000ml,388.0,500.0,809
+Lácteos,Manteca Servio 100 g,200.0,400.0,810
+Lácteos,Manteca Tonadita 100 grs,293.4,440.0,811
+Lácteos,Manteca Tonadita 100g,293.44,440.0,812
+Lácteos,Queso  Rallado La Quesera 40 grs,300.0,450.0,813
+Lácteos,Queso Crema CasanCrem 290g,251.0,360.0,814
+Lácteos,Queso Crema Clásico Tregar 190g,370.0,530.0,815
+Lácteos,Queso Crema Cremón  Ligth La Serenísima 280g,224.0,360.0,816
+Lácteos,Queso Crema Cremón Original La Serenísima 280g,224.0,360.0,817
+Lácteos,Queso Crema Tregar 190g,426.81,610.0,818
+Lácteos,Queso Cremoso,700.0,990.0,819
+Lácteos,Queso Rallado Manfrey 40 grs,169.0,280.0,820
+Lácteos,Queso Rallado Tregar 40g,183.27,330.0,821
+Lácteos,Yogurt Frutilla Tregar 900g,557.72,750.0,822
+Lácteos,Yogurt Entero Frutilla Tregar 1kg,300.0,530.0,823
+Lácteos,Yogurt Entero Tops Tregar con Copos 164 grs,175.0,280.0,824
+Lácteos,Yogurt Entero Vainilla 1 kg,300.0,530.0,825
+Lácteos,Yogurt Entero Vainilla Vasito Tregar 125 grs,361.39,500.0,826
+Lácteos,.,170.68,250.0,827
+Lácteos,Yogurt Entero Vasito Vainilla Tregar 125g,170.68,250.0,828
+Lácteos,Yogurt Frutilla Tregar 900g,367.1,530.0,829
+Lácteos,Yogurt Ilolay Frutilla 900g,199.0,290.0,830
+Lácteos,Yogurt Ilolay Vainilla 900g,199.0,290.0,831
+Lácteos,Yogurt Tregar Arándano 900g,551.0,750.0,832
+Lácteos,Yogurt Entero Tregar Frutilla 125g,361.39,500.0,833
+Lácteos,Leche Chocolatada Baggio 200 ml,315.0,450.0,834
+Lácteos,Leche Entera Angelita 1 L,355.38,1000.0,835
+Lácteos,Leche Descremada Angelita 1 L,585.0,1000.0,836
+Lácteos,Yogurt Firme Manfrey Frutilla 140g,285.0,400.0,837
+Lácteos,Yogurt Firme Manfrey Vainilla 140g,285.0,400.0,838
+Lácteos,Flan Sin Huevo Manfrey 120g,240.0,350.0,839
+Lácteos,Yogurt Manfrey Frutilla 1 L,595.0,900.0,840
+Librería,Adhesivo Vinilico Acuarel 50g,45.0,650.0,841
+Librería,AFICHE 1 ,135.52,300.0,842
+Librería,Birome Filgo azul 1,91.53,300.0,843
+Librería,Birome Filgo negra 1,91.53,300.0,844
+Librería,Biromes Candela Negra Trazo Medio,15.63,300.0,845
+Librería,Bolígrafo Fabers Colors Trilux Violeta,65.33,600.0,846
+Librería,Bolígrafo Koby Triangular Semi Gel Rojo,60.0,600.0,847
+Librería,Bolsa de Papel Grande 1,91.0,350.0,848
+Librería,Bolsa de Papel Vino 1,70.0,300.0,849
+Librería,Borrador Lápiz Penguin,25.0,300.0,850
+Librería,Broche MIT 21/6 1000u,400.0,800.0,851
+Librería,Broche MIT 50 1000u,350.2,650.0,852
+Librería,Broches MiT N° 10 x 1000,350.2,650.0,853
+Librería,Carpeta Cogante,644.9,900.0,854
+Librería,Cartulina  1,100.0,250.0,855
+Librería,Cartulina  Color,133.63,350.0,856
+Librería,Cinta Adhesiva Chica 1,56.0,500.0,857
+Librería,Cinta Adhesiva para Embalaje x 100 mts,1200.56,1600.0,858
+Librería,Cinta de Papel 50m 1,188.0,450.0,859
+Librería,Cinta Empaque 24x50 AUCA,295.46,800.0,860
+Librería,Cinta Scocht Adelbras,179.4,600.0,861
+Librería,Cuaderno América Tapa Dura 42 hojas ,266.67,600.0,862
+Librería,Cuaderno Espiralado  América x 80 hojas,450.0,700.0,863
+Librería,Cuaderno T/ Blanda América x 24 hojas rayado,58.39,400.0,864
+Librería,Cuaderno T/Blanda América x 48 hojas rayado,99.07,600.0,865
+Librería,Escuadra 20 cm  - 45 ° Pizzini,102.98,500.0,866
+Librería,Etiquetas autoadhesivas 2,38.0,300.0,867
+Librería,Etiquetas autoadhesivas ojalillos 1,38.0,300.0,868
+Librería,Folio A4 1,41.79,100.0,869
+Librería,Folio Legal,20.0,200.0,870
+Librería,Folio Oficio 1,23.0,200.0,871
+Librería,Hojas A4,5.0,10.0,872
+Librería,Hojas Legal,0.0,20.0,873
+Librería,Lápices Bic 1,60.0,300.0,874
+Librería,Lápiz Corrector Koby  Punta Metálica,242.26,500.0,875
+Librería,Lápiz Corrector Koby 1,150.0,500.0,876
+Librería,Mapa América del Norte N 3 Físico Político 1,15.0,100.0,877
+Librería,Mapa América del Sur N 3 Político 1,15.0,100.0,878
+Librería,Mapa América N 3 Físico Político 2,15.0,100.0,879
+Librería,Mapa Argentina N 3 Físico Político 1,15.0,100.0,880
+Librería,Mapa Argentina N 3 Político 2,15.0,100.0,881
+Librería,Mapa Argentina Político MC,20.96,100.0,882
+Librería,Mapa de América Central Físico Político,20.0,100.0,883
+Librería,Mapa de América del Sur Físico Político,20.0,100.0,884
+Librería,Mapa de Argentina Bicontinental Político,20.0,100.0,885
+Librería,Mapa de Europa Político,20.0,100.0,886
+Librería,Mapa del Chaco N 3 Político 1,15.0,100.0,887
+Librería,Mapa Europa N 3 Físico Político 1,15.0,100.0,888
+Librería,Mapa Islas Malvinas N 3  1,15.0,100.0,889
+Librería,Mapa Planisferio N 3 Físico Político 1,15.0,100.0,890
+Librería,Mapa Planisferio N 3 Político 1,15.0,100.0,891
+Librería,Mapa Planisferio Político MC,20.96,100.0,892
+Librería,Marcador Permanente negro 1,150.0,500.0,893
+Librería,Papel Afiche Regalo 1,150.0,250.0,894
+Librería,Papel Crepe Blanco 50 x 200 cm,83.27,600.0,895
+Librería,Papel Crepe Celeste 50 x 200 cm,83.27,600.0,896
+Librería,Papel Glacé Lustre 1,75.0,250.0,897
+Librería,Papel Glacé Metalizado 1,75.0,250.0,898
+Librería,"Papel Oficio 70 g 21,59 x 35,56 cm",3.0,20.0,899
+Librería,Papel Regalo Celofan 1,39.0,300.0,900
+Librería,Papel Regalo Celofán 1,75.0,300.0,901
+Librería,Pincel Chato x 3,80.0,600.0,902
+Librería,Pincel Pelos x 3,60.0,600.0,903
+Librería,Pouch A3 310 mm x 440 mm,188.54,700.0,904
+Librería,Pouch A4 225 mm x 303 mm,116.71,400.0,905
+Librería,Pouch Carnets  67x98 mm +76x110 mm + 90x130 mm,24.52,300.0,906
+Librería,Pouch Oficio 225 mm x 362 mm,110.22,600.0,907
+Librería,Regla 20 cm Koby,47.87,400.0,908
+Librería,Repuesto 48 hojas Rayadas América ,472.19,1000.0,909
+Librería,Repuesto de hojas cuadriculada N° 3 Éxito 1 x 96 hojas,420.0,1600.0,910
+Librería,Repuesto de Papel para Dibujo Luma x 8 hojas N° 5,20.0,300.0,911
+Librería,Repuesto de Papel para Dibujo Luma x 8 hojas N° 6,35.0,300.0,912
+Librería,Repuesto Dibujo N°3 El Nene 1,15.0,200.0,913
+Librería,Repuesto Dibujo N°5 El Nene 1,23.0,200.0,914
+Librería,Repuesto Dibujo N°6 Muresco 1,30.0,200.0,915
+Librería,Repuestro de hojas rayado N 3 Éxito 1,450.0,1000.0,916
+Librería,Resaltadores Litt 004 1,113.0,500.0,917
+Librería,Resma A4,0.0,10.0,918
+Librería,Sacabroches Nail Puller 1,188.0,700.0,919
+Librería,Sacapuntas,30.0,300.0,920
+Librería,Silicona en Barra,38.0,300.0,921
+Librería,Silicona Líquida Koby 30 g,328.69,700.0,922
+Librería,Sobres comercial con fondo Obra 63 grs 1,38.0,200.0,923
+Librería,Sobres comercial con fondo Obra 90 grs 1,53.0,200.0,924
+Librería,Talonario Recibos 1,23.0,600.0,925
+Librería,Talonario Vale Por,443.28,600.0,926
+Librería,Temperas Playcolor x 6,220.0,440.0,927
+Librería,Tizas Blancas 3,15.0,30.0,928
+Librería,Voligoma 30 ml,109.12,400.0,929
+Librería,Tizas Barnizadas 6 colores x 12,37.46,100.0,930
+Librería,Recibo Mignon 30 hojas,326.7,600.0,931
+Librería,Talonario Guardarropas x 100,187.64,500.0,932
+Librería,Boligrafos Style Koby Negro x 50,67.21,500.0,933
+Librería,Nepako macho y hembra,50.0,200.0,934
+Mercadito,Aceite  de Girasol Marolio 900cc,242.0,470.0,935
+Mercadito,Aceite  de Girasol Valderey  900 ml,443.0,470.0,936
+Mercadito,Aceite  Legítimo de Girasol 900 ml,407.48,550.0,937
+Mercadito,Aceite Alsamar 900 cc,409.99,500.0,938
+Mercadito,Aceite de Girasol Morixe 900 ml,399.0,500.0,939
+Mercadito,Aceite de Girasol Pureza 900ml,485.0,500.0,940
+Mercadito,Aceite Mezcla Florencia 750ml,165.0,500.0,941
+Mercadito,Agua Lavandina Esencial  1000ml,183.86,3850.0,942
+Mercadito,Agua Lavandina Limpiadín 1L,72.42,250.0,943
+Mercadito,Agua Lavandina Sedilé,67.0,250.0,944
+Mercadito,Ají Molido Yuspe 25g,49.11,200.0,945
+Mercadito,Ajo Triturado Yuspe 50g,97.03,200.0,946
+Mercadito,Ala Concentrado Limón 300 ml,280.58,400.0,947
+Mercadito,Ala Cremoso Limón 750 ml,306.65,400.0,948
+Mercadito,Anis en Grano 25g,161.08,280.0,949
+Mercadito,Arroz Gallo Oro 500g,105.0,150.0,950
+Mercadito,Arroz Largo Fino María 1000g,160.0,280.0,951
+Mercadito,Arroz Largo Fino Marolio 500g,48.0,110.0,952
+Mercadito,Arroz Máximo Largo Fino  1 kg,297.0,420.0,953
+Mercadito,Arroz Molinos Ala Grano Selecto 500 g,421.73,650.0,954
+Mercadito,Arvejas Secas Remojadas Tarragona 340 grs,146.0,280.0,955
+Mercadito,Azúcar Arcor 1000g,203.25,900.0,956
+Mercadito,Azúcar Azucel 1 kg,448.99,1000.0,957
+Mercadito,Azúcar Común Tipo A 1 kg,350.0,900.0,958
+Mercadito,Azúcar Impalpable 250g,161.0,550.0,959
+Mercadito,Azúcar La Estrella 1 Kg,268.0,900.0,960
+Mercadito,Azúcar Ledesma x 1kg,816.14,1100.0,961
+Mercadito,Azúcar Los Cuatro 1 kg,519.9,900.0,962
+Mercadito,Azúcar Marolio 1000g,203.0,900.0,963
+Mercadito,Bicarbonato de Sodio 25 grs Dos Anclas,56.33,300.0,964
+Mercadito,Bicarbonato de Sodio 50 grs Alicante,60.0,350.0,965
+Mercadito,Boldo en saquitos,20.0,50.0,966
+Mercadito,Boldo La Morenita ,20.0,50.0,967
+Mercadito,Café 5 Hispanos 5g,20.0,30.0,968
+Mercadito,Café Instantáneo La Virginia Suave 100 grs,488.34,720.0,969
+Mercadito,Café La Morenita 5g,23.5,100.0,970
+Mercadito,Café La Morenita Frasco  100g,263.0,390.0,971
+Mercadito,Café La Virginia 5g,40.5,100.0,972
+Mercadito,"Café La Virginia Instantáneo Clásico 1,7g",20.0,100.0,973
+Mercadito,"Caldo de Gallina knorr 12 u x 9,5 grs",17.56,100.0,974
+Mercadito,"Caldo de Gallina knorr 12 u x 9,5 grs",27.77,100.0,975
+Mercadito,Caldo de Gallina Maggi ,15.0,100.0,976
+Mercadito,Caldo de Verduras,13.0,100.0,977
+Mercadito,"Caldo de Verduras Knorr 12u x 9,5g",15.0,100.0,978
+Mercadito,"Caldo de Verduras Knorr 12u x 9,5g",27.77,100.0,979
+Mercadito,"Caldo de Verduras Maggi 12 u x 9,5 grs",12.5,100.0,980
+Mercadito,Chimichurri Sabor Ahumado Vanoli 190g,149.05,400.0,981
+Mercadito,Chimichurri Yuspe 25g,77.86,400.0,982
+Mercadito,Chocolatada Toddy 180g,240.0,400.0,983
+Mercadito,Chocolate Nesquik  Extra Cacao 300 grs,316.75,500.0,984
+Mercadito,CIF Crema Multiuso 375 grs,153.0,400.0,985
+Mercadito,CIF Crema Multiuso 375 grs,283.38,400.0,986
+Mercadito,Comino Molido Dos Anclas 50 grs,195.21,400.0,987
+Mercadito,Condimento para pizza 25 grs Alicante,90.3,400.0,988
+Mercadito,Condimento para pizza Yuspe 25 g,70.0,400.0,989
+Mercadito,Crema Multiuso Original Cif 375g,150.0,400.0,990
+Mercadito,"Desodorante de Ambiente Glade Caricias de Bebé 309,6 grs",229.0,450.0,991
+Mercadito,Desodorante de Ambiente Poett  Lavanda 360ml,176.0,450.0,992
+Mercadito,Detergente Magistral Limón 500 ml,448.99,1000.0,993
+Mercadito,Detergente Magistral Pureza Activa 500 ml,389.0,1000.0,994
+Mercadito,Detergente Magistral Rinde x 5 Marina 500ml,219.0,1000.0,995
+Mercadito,Detergete Magistral Marina x 500 ml,660.0,1000.0,996
+Mercadito,Dulce de Batata Ensnaola 500g,226.0,330.0,997
+Mercadito,Dulce de Leche Ilolay Clásico 405 grs,289.0,500.0,998
+Mercadito,Dulce de Leche Manfrey 250g,562.0,800.0,999
+Mercadito,Dulce de Membrillo Dulcor 500g,193.2,330.0,1000
+Mercadito,Durazno en mitades 485 grs,379.0,1200.0,1001
+Mercadito,Duraznos en lata BONMAR 820G,230.0,1200.0,1002
+Mercadito,Duraznos en lata BONMAR 820G,299.0,1200.0,1003
+Mercadito,Duraznos en Mitades 820 grs,329.99,1200.0,1004
+Mercadito,Duraznos Molto 820 grs,300.0,1200.0,1005
+Mercadito,Edulcorante Si Diet 200ml,431.66,700.0,1006
+Mercadito,Esencia de Vainilla Alicante 100ml,185.0,350.0,1007
+Mercadito,Espiral Fuyí Caja por 2,25.0,110.0,1008
+Mercadito,Espiral Raid Caja por 2,25.0,110.0,1009
+Mercadito,Espirales Fuyí 1,75.0,150.0,1010
+Mercadito,Esponja de acero 1,113.0,400.0,1011
+Mercadito,Esponja Mortimer 1,75.0,400.0,1012
+Mercadito,Esponja Scotch Brite 3M Amarilla,50.0,400.0,1013
+Mercadito,Esponja Scotch Brite 3M Lila,50.0,400.0,1014
+Mercadito,Fideo Codos Marolio 500g,79.0,400.0,1015
+Mercadito,Fideo Mostachol Liso Marolio 500g,79.0,400.0,1016
+Mercadito,Fideo Tirabuzón Marolio 500g,79.0,400.0,1017
+Mercadito,Fideos Codito Canale 500 grs,144.99,400.0,1018
+Mercadito,Fideos Mostacholes La Providencia 500 grs,132.5,400.0,1019
+Mercadito,Fideos Secos Tagliatelle La Providencia 500g,239.2,500.0,1020
+Mercadito,Fideos Secos Tallarines La Providencia 500g,192.0,500.0,1021
+Mercadito,Fideos Tallarines Canale 500 grs,144.99,500.0,1022
+Mercadito,Fideos Tirabuzones Canale 500 grs,144.99,500.0,1023
+Mercadito,Flan Sabor Vainilla Royal 60 grs,75.0,500.0,1024
+Mercadito,Gelatina Cereza Noel 25 grs,100.0,300.0,1025
+Mercadito,Harina 000 Cañuelas Ultra Refinada 1000g,98.0,140.0,1026
+Mercadito,Harina Leudante Corona de Trigo 1 kg,165.99,280.0,1027
+Mercadito,Harina Leudante Morixe 1000g,232.61,330.0,1028
+Mercadito,Harina Pizza Morixe 1Kg,321.22,500.0,1029
+Mercadito,Harina Pizza Pureza 1Kg,299.0,550.0,1030
+Mercadito,Hierbas Digesativas Cachamai,6.0,50.0,1031
+Mercadito,Jabón Argentino en pan 150 grs,79.0,200.0,1032
+Mercadito,Jabón Blanco en pan Astro 120 grs,84.0,250.0,1033
+Mercadito,Jabon en Polvo Ala 3 kg,1169.0,1980.0,1034
+Mercadito,Jabón Líquido Ala 3 Lts,1189.99,1980.0,1035
+Mercadito,Jabón Líquido Skip 3 Lts,1169.01,2420.0,1036
+Mercadito,Jabón Pan Blanco Astro  150 grs,85.0,250.0,1037
+Mercadito,Jabón Pan Blanco Zorro 150 g,136.4,300.0,1038
+Mercadito,Ketchup Dánica 220 grs,199.5,350.0,1039
+Mercadito,"Knorr Quick 12,6 grs",32.6,60.0,1040
+Mercadito,Laurel Triturado 25g,80.5,250.0,1041
+Mercadito,Limpiador Líquido Concentrado Jardín Citronella 3 en 1 900ml,304.0,400.0,1042
+Mercadito,Limpiador Líquido Jardín Arpege,304.33,400.0,1043
+Mercadito,Limpiador Líquido Jardín Jazmín,304.33,400.0,1044
+Mercadito,Limpiador Líquido Jardín Jazmín Floral,304.33,400.0,1045
+Mercadito,Detergente Magistral 215ml,626.07,950.0,1046
+Mercadito,Detergente Magistral Limón Cremoso 500 ml,399.0,770.0,1047
+Mercadito,Maíz Pisingallo Albor 400g,128.88,330.0,1048
+Mercadito,Maiz Pisingallo La Abadía 400 g,128.88,330.0,1049
+Mercadito,Maíz Pisingallo Morixe 400g,128.0,330.0,1050
+Mercadito,Té Manzanilla Taragüi,15.69,100.0,1051
+Mercadito,Mate Cocido S&P 3g,5.4,20.0,1052
+Mercadito,Mayonesa Natura 250ml,807.55,1000.0,1053
+Mercadito,Mayonesa Dánica x 8 ml,8.677,20.0,1054
+Mercadito,Mayonesa Hellmann´s Clásica 500 cm3,200.0,350.0,1055
+Mercadito,Mayonesa Hellmans Liviana 1000 cm3,550.0,900.0,1056
+Mercadito,Mayonesa Helmans Clásica 125cc,83.49,130.0,1057
+Mercadito,Mayonesa Helmans Clásicas 237g,199.0,350.0,1058
+Mercadito,Mayonesa Natura 1000g,1040.0,1430.0,1059
+Mercadito,Mayonesa Natura 125ml,366.8,500.0,1060
+Mercadito,"Mermelada de Ciruela Dulcor 45,4g",385.52,550.0,1061
+Mercadito,Mermelada de Damasco Dulcor 454grs,227.25,550.0,1062
+Mercadito,Mermelada de Durazno Dulcor 454grs,227.25,550.0,1063
+Mercadito,Mermelada de Durazno S&P 454g,143.0,550.0,1064
+Mercadito,Mermelada de Frutilla S&P 454g,157.0,550.0,1065
+Mercadito,Mermelada de Higo  Dulcor 454grs,227.49,550.0,1066
+Mercadito,Mermelada de Naranja Dulcor 454grs,216.92,550.0,1067
+Mercadito,Miel Prestigio 500g,407.0,1300.0,1068
+Mercadito,Mostaza Dánica 220 grs,142.5,450.0,1069
+Mercadito,Mostaza Dánica x 8 ml,7.8125,20.0,1070
+Mercadito,Nesquik 60 años 180g,289.0,420.0,1071
+Mercadito,Nuez Moscada Yuspe 25 grs,141.32,400.0,1072
+Mercadito,Orégano en hojas Yuspe 25 g,140.0,400.0,1073
+Mercadito,Orégano Yuspe 10g,105.31,400.0,1074
+Mercadito,Papel Higiénico Bonux x 4 rollos x 50 mts ,92.25,400.0,1075
+Mercadito,Papel Higiénico Bonux x 4 rollos x 80 mtrs c/u,204.75,300.0,1076
+Mercadito,Papel Higiénico Elegante 4 x 80 mtrs,134.7475,200.0,1077
+Mercadito,Papel Higiénico Élite 6 x 30 mtrs,55.0,110.0,1078
+Mercadito,Papel Higiénico Elite Hoja Simple 4 x 80 mts,169.65,280.0,1079
+Mercadito,Papel Higiénico Higienol  50m,60.0,110.0,1080
+Mercadito,Papel Higiénico Higienol Doble hoja 30 mts ,69.75,110.0,1081
+Mercadito,Papel Higiénico Higienol Max 80 metros,705.12,1000.0,1082
+Mercadito,Papel Higiénico Higienol Tecnoogía Panal 50 m,113.29,200.0,1083
+Mercadito,Papel Higiénico Vual Clásico Blanco x 50 mts,77.772,110.0,1084
+Mercadito,Papel Higiénico Vual Max x 80 mts 320mts,335.0,500.0,1085
+Mercadito,Papel Higiénico x 80 mts Campanita XL,312.0,400.0,1086
+Mercadito,Papel Servilleta Marolio 1,53.0,150.0,1087
+Mercadito,Pimentón Alicante x 25 grs,98.46,300.0,1088
+Mercadito,Pimienta Blanca Yuspe 25g,113.0,300.0,1089
+Mercadito,Polenta Morixe 500 grs,85.62,300.0,1090
+Mercadito,"Polvo para Lavar Skip x 2,5 kg",1791.71,2420.0,1091
+Mercadito,Provenzal Menoyo 25 grs,63.43,250.0,1092
+Mercadito,Puré de Tomate Copa de Oro 520g,75.0,110.0,1093
+Mercadito,Puré de Tomate La Huerta 210g,102.84,170.0,1094
+Mercadito,Puré de Tomate La Huerta 530 grs,675.44,900.0,1095
+Mercadito,Puré de Tomate Marolio 520 grs,100.0,280.0,1096
+Mercadito,Puré de Tomates S&P 520g,120.0,400.0,1097
+Mercadito,Raid Mata Moscas y Mosquitos sin Olor 360 cm3,514.0,3500.0,1098
+Mercadito,Rollo de Cocina Sussex 50,115.666,600.0,1099
+Mercadito,Rollos de Cocina Bonux x 3 x 50 paños,173.0,600.0,1100
+Mercadito,Rollos de Cocina Cautiva 3x120 paños,60.974,600.0,1101
+Mercadito,Rollos de Cocina Sussex Clásicos 150 paños,393.73,600.0,1102
+Mercadito,Sal Fina  Corrediza Celusal 500g,130.0,250.0,1103
+Mercadito,Sal Fina Celusal 500 grs,111.65,250.0,1104
+Mercadito,Sal Fina Corrediza Marolio 500g,52.0,250.0,1105
+Mercadito,Sal Fina Dos Anclas 500g,340.0,600.0,1106
+Mercadito,Salsa Barbacoa Dánica 220 grs,187.6,400.0,1107
+Mercadito,Salsa Blanca Yuspe 40g,91.75,280.0,1108
+Mercadito,Salsa de Soja Vanoli 190g,159.15,400.0,1109
+Mercadito,Salsa Pizza CIALPIL 340 G,69.99,450.0,1110
+Mercadito,Salsa Pizza Vanoli,133.4,450.0,1111
+Mercadito,Si Diet 250 ml,249.167,800.0,1112
+Mercadito,Skip Jabón Líquido 500 ml,2073.52,2700.0,1113
+Mercadito,Spaghetti S&P 500gs,92.0,600.0,1114
+Mercadito,Tallarín Morixe 500g,107.0,600.0,1115
+Mercadito,Tallarines Santa Isabel 500g,69.0,600.0,1116
+Mercadito,Te Boldo La Virginia x 25 saquitos,11.92,100.0,1117
+Mercadito,Te de Hierbas Menta Peperina 25 saquitos 25 grs,36.52,100.0,1118
+Mercadito,Té de Manzanilla x 25 Saquitos de 25g c/u,36.52,100.0,1119
+Mercadito,"Té Manzanilla con Anís x25 Saquitos de 37,5g c/u",36.52,100.0,1120
+Mercadito,Té Mezcla de Hierbas Naturales x 25 Saquitos de 35g c/u,36.52,100.0,1121
+Mercadito,Té Negro Taragui x 50 saquitos ,4.4,50.0,1122
+Mercadito,Té Taragûi 2g,10.0,50.0,1123
+Mercadito,Te Verde Taragui x 20 saquitos,10.45,100.0,1124
+Mercadito,Toothipick Lianjial,66.66,220.0,1125
+Mercadito,Trapo de Piso Blanco Media Naranja 1,162.0,400.0,1126
+Mercadito,Trapo de Piso Tejido Gris Bonux 1,109.0,400.0,1127
+Mercadito,Vinagre de Alcohol Dos Anclas 500ml,75.0,600.0,1128
+Mercadito,Vinagre de Alcohol Menoyo 1 L,188.0,900.0,1129
+Mercadito,Vinagre de Alcohol Menoyo 250 ml,68.99,400.0,1130
+Mercadito,Vinagre de Alcohol Menoyo 500 ml,145.0,600.0,1131
+Mercadito,Virulana Rollitos x 10,15.0,100.0,1132
+Mercadito,Yerba Amanda Tradicional 1000 grs,489.0,740.0,1133
+Mercadito,Yerba Amanda Tradicional 250g,180.0,600.0,1134
+Mercadito,Yerba Mañanita 1000g,879.0,1270.0,1135
+Mercadito,Yerba Marolio Tradicional 500g,195.0,600.0,1136
+Mercadito,Yerba Mate CBC 500g,480.0,700.0,1137
+Mercadito,Yerba Mate CBSé Naranja 500 grs,480.0,700.0,1138
+Mercadito,Yerba Mate Mañanita 500g,1812.0,2350.0,1139
+Mercadito,Yerba Mate Marolio 250g,132.0,500.0,1140
+Mercadito,Yerba Mate Playadito 250 grs,315.48,500.0,1141
+Mercadito,Yerba Mate Playadito 500g,646.0,800.0,1142
+Mercadito,Yerba Mate Rosamonte 1000g,939.0,1340.0,1143
+Mercadito,Yerba Mate Rosamonte 250 grs,282.62,500.0,1144
+Mercadito,Yerba Mate Rosamonte 500 grs,489.0,800.0,1145
+Mercadito,Yerba Mate Taragui 500g,284.0,800.0,1146
+Mercadito,Yerba Mate Unión 250 grs,242.0,500.0,1147
+Mercadito,Yerba Mate Unión 500g,284.0,800.0,1148
+Mercadito,Yerba Nobleza Gaucha Suave 500g,195.0,800.0,1149
+Mercadito,Yerba Playadito 1000 grs,499.0,740.0,1150
+Mercadito,Yerba Romance 500g,429.9,800.0,1151
+Mercadito,Yerba Rosamonte Plus 500 grs,299.17,800.0,1152
+Mercadito,Yerba Taragüí 250g,242.0,500.0,1153
+Mercadito,PH Higienol Max 100 x 4 rollos,657.5,850.0,1154
+Mercadito,Rollo de Cocina Elegante x 3,153.33,200.0,1155
+Mercadito,Mezcla de Hierbas ,30.0,50.0,1156
+Mercadito,Si Diet 500 ml,808.33,1400.0,1157
+Mercadito,Té de Tilo Taragüí Saquito,21.23,100.0,1158
+Mercadito,Té de Boldo Taragüí Saquito,18.29,100.0,1159
+Mercadito,Esponja de Acero Inoxidable Romyl 13 g,206.0,300.0,1160
+Mercadito,Tostadas de Arroz Clásicas 150g,469.23,650.0,1161
+Mercadito,Papel Higiénico Bonux 6 x 80 mts,248.62,350.0,1162
+Mercadito,Polenta S&P 500 g,349.0,500.0,1163
+Mercadito,Detergente Magistral 300 ml,509.0,650.0,1164
+Mercadito,Agua Lavandina  Bonux 1L,216.0,300.0,1165
+Mercadito,Jabón de lavar Gran Federal 150 g,179.0,300.0,1166
+Mercadito,Exquisita sabor Vainilla 540 g,696.164,2000.0,1167
+Mercadito,Exquisita sabor Chocolate 540 g,799.02,2100.0,1168
+Mercadito,Yerba Cruz de Malta 500 g,868.64,2200.0,1169
+Mercadito,Fideos Spaguetti Favorita 500 g,283.74,400.0,1170
+Mercadito,Fideos Codito Favorita 500 g,283.74,400.0,1171
+Mercadito,Aceite Girasol Cocinero 900 ml,1300.0,1800.0,1172
+Mercadito,Nesquik Original 180 g,449.0,600.0,1173
+Mercadito,Tomates Peritas Salsati La Campagnola 400g,403.33,550.0,1174
+Mercadito,Limpiador Liquido Antigrasa Ecovita 500ml,322.63,500.0,1175
+Mercadito,Mate Cocido Rosamonte Saquitos 3g,0.0,50.0,1176
+Mercadito,Dulce de Batata Arcor 500 g,545.27,700.0,1177
+Mercadito,Tomillo La Campagnola 15 g,211.2,300.0,1178
+Mercadito,Condimento para Chimichurri La Campagnola 23 g,248.63,350.0,1179
+Mercadito,Orégano La Campagnola 23 g ,299.06,400.0,1180
+Mercadito,Condimento para Arroz La Campagnola 23 g,229.01,350.0,1181
+Mercadito,Pimienta Negra en Granos La Campagnola 23 g,259.21,400.0,1182
+Mercadito,Pimienta Negra Molida La Campagnola 23 g,258.73,400.0,1183
+Mercadito,Cif Crema Rosas y Jazmines 750 g,1012.0,1400.0,1184
+Mercadito,Agua Lavandina Héroe 1 L,341.0,500.0,1185
+Mercadito,Duraznos en mitades Bulnez 820 g,799.0,1200.0,1186
+Mercadito,Papel Higiénico Carrefour x 90 m,505.5,700.0,1187
+Mercadito,Pimenton Dulce Basilia 25g,408.54,550.0,1188
+Mercadito,Rollos de Cocina Sol Mayor 3 x 50 paños,425.0,600.0,1189
+Mercadito,Yerba Mate Verdeflor Hierbas Serranas 500 g,1672.0,1850.0,1190
+Mercadito,Azúcar  ESPE 1 Kg,730.0,1000.0,1191
+Mercadito,Puré de Tomate CORPER 520 G,500.0,650.0,1192
+Mercadito,Tomates Peritas Enteros Noel 400g,721.05,900.0,1193
+Mercadito,Aceite de Girasol Finca El Lazo 900ml,1200.0,1600.0,1194
+Mercadito,Espirales Fuyí 1 x 2,57.5,150.0,1195
+Mercadito,Raid Mata Moscas y Mosquitos sin Olor 380 cm3,3000.0,4100.0,1196
+Mercadito,Esponja Go! Max Multiuso,213.0,400.0,1197
+Mercadito,"Caldo de Verduras Maggi 12 u x 9,5 grs",46.25,100.0,1198
+Mercadito,Esponja de Acero Inoxidable Mortimer 13 grs,339.0,500.0,1199
+Mercadito,Té Verde La Virginia ,32.95,100.0,1200
+Mercadito,Cereales Bolitas de Chocolate 200 g,530.0,700.0,1201
+Mercadito,Repelente Fuyí  170cc,2082.63,2800.0,1202
+Mercadito,Repelente Fuyí Family 170cc,2526.72,3500.0,1203
+Mercadito,Dulce de Leche Granja de Oro 250 g,500.0,700.0,1204
+Mercadito,Limpiador Líquido Jardín 900 cc,619.0,850.0,1205
+Mercadito,Harina Leudante S&P 1 kg,758.63,1000.0,1206
+Mercadito,Harina de Trigo Tipo 000 1 kg,533.92,700.0,1207
+Mercadito,Pan Rallado Preferido 500 g,889.0,1200.0,1208
+Mercadito,Jabón Blanco Gigante 120 g,455.0,650.0,1209
+Merceria,Moños escolares,120.0,280.0,1210
+Merceria,Vinchas Blancas,170.0,390.0,1211
+Mercería,Alfileres cabeza metalizada 1,188.0,250.0,1212
+Mercería,Canastita de agujas 1,150.0,220.0,1213
+Mercería,Cinta Métrica 1,225.0,330.0,1214
+Mercería,Hilo de Coser 1,113.0,500.0,1215
+Panificado,Alfajores de Maizena x 6 unidades,150.0,350.0,1216
+Panificado,Budín Buon Natale con Frutas 170 grs,150.0,280.0,1217
+Panificado,Budín Buon Natale Marmolado 170 grs,150.0,280.0,1218
+Panificado,Budín Con Frutas Las Colonias,245.0,390.0,1219
+Panificado,Budín Fantasía Chocolate 160g,235.41,330.0,1220
+Panificado,Budín Sin Frutas Las Colonias,245.0,390.0,1221
+Panificado,Budín Valenciano 170 grs,100.0,220.0,1222
+Panificado,Magdalenas Con Dulce de Leche Pozo 200g,391.19,550.0,1223
+Panificado,Pan de Hamburguesa x 4,150.0,280.0,1224
+Panificado,Pan Dulce Buon Natale 400 grs,250.0,390.0,1225
+Panificado,Pan Dulce Don Lorenzo Chips de Chocolate 400 grs,351.29,550.0,1226
+Panificado,Pan Dulce Fruticolor 400g,235.0,330.0,1227
+Panificado,Pan Dulce Milanés Las Colonias 400 grs,1315.39,1800.0,1228
+Panificado,Pan Dulce Milanés Las Colonias 600 grs,563.69,770.0,1229
+Panificado,Pan Hambuerguesas c/sésamo x 4 unidades Don Yeyo,188.8133,280.0,1230
+Panificado,Pan Hambuerguesas ROYAL x4,176.0,280.0,1231
+Panificado,Pan Lactal 335g,229.0,330.0,1232
+Panificado,Pan Lactal Salvado 350g,291.0,420.0,1233
+Panificado,Pan Lacteado 360 grs Don Yeyo,279.48333,390.0,1234
+Panificado,Pan Panchos ROYAL x6,176.0,280.0,1235
+Panificado,Pan para Hamburguesas Lactal 210 grs,234.8333,350.0,1236
+Panificado,Pan para pancho x 6,149.0,280.0,1237
+Panificado,Pan para Panchos Lactal 210 grs,234.8333,350.0,1238
+Panificado,Pan para Panchos x 6 x 210 grs Don Yeyo,188.815,280.0,1239
+Panificado,PAN x Gramos,290.0,430.0,1240
+Panificado,Pebete Jamón y queso,150.0,330.0,1241
+Panificado,Pre-Pizza 1u,100.0,500.0,1242
+Panificado,Pan Dulce Panino 400 g,715.0,1000.0,1243
+Panificado,Pan Dulce Musel 500 g,1314.65,2500.0,1244
+Panificado,Pan Fraccionado x 1 kg,940.0,1400.0,1245
+Panificado,Pan fraccionado x 1/2 kg,470.0,700.0,1246
+Panificado,Pan Fraccionado x 300 g,235.0,500.0,1247
+Pastas,Fideos Secos Rigatti La Providencia 500 g,270.0,400.0,1248
+Pastas,Fideos Secos Spaguetti La Providencia 500 g,270.0,400.0,1249
+Pastas,Fideos Secos Tirabuzón La Providencia 500 g,270.0,400.0,1250
+Pastas,Ravioles 4 Quesos Don Yeyo 500g,357.195,550.0,1251
+Pastas,Ravioles con Ricota DeViano 500g,350.93,510.0,1252
+Pastas,Ravioles Ricota Don Yeyo 500g,350.93,510.0,1253
+Pastas,Tapas p/ Empanadas Plus Ultra x 12 u,107.42,220.0,1254
+Pastas,Tapas Para Empanadas Criollas Don Yeyo 330g,108.972,220.0,1255
+Pastas,Tapas Para Pascualinas Hojaldre Don Yeyo 400g,237.822,390.0,1256
+Pastas,Tapas para Empanadas Caseritas El Nono,385.0,550.0,1257
+Regalería,Bombilla Pop Naranja ,200.0,600.0,1258
+Regalería,Botella Decorativa con Tapa 1 L,500.0,770.0,1259
+Regalería,Botella Kivi 600 ml Rosa,380.0,550.0,1260
+Regalería,Botella Kiwi 600 ml Lila,380.0,550.0,1261
+Regalería,"Botellón Fresh 1,5 L",600.0,770.0,1262
+Regalería,Canasto N° 1 Blanco,400.0,550.0,1263
+Regalería,Canasto N°1  Celeste,400.0,550.0,1264
+Regalería,Canasto Organizador Alhambre Rosa,400.0,550.0,1265
+regalería,Cantimplora Infantil,690.0,1100.0,1266
+Regalería,Carameleras Pláticas 1,450.0,800.0,1267
+Regalería,Colador  Suki Rosa,500.0,600.0,1268
+Regalería,Colador Suki Lima ,500.0,600.0,1269
+Regalería,Copa Noruega Cerveza 1,300.0,700.0,1270
+Regalería,Copón Gourmet 1,338.0,700.0,1271
+Regalería,Cornets Blancos x 3,400.0,600.0,1272
+Regalería,Guantes 5.11 con Nudillos 1,1100.0,1650.0,1273
+Regalería,Guantes 5.11 Sin Nudillos 1,750.0,1210.0,1274
+Regalería,Guantes Fox para Moto 1,690.0,1210.0,1275
+Regalería,Guantes Lana Gris y Negro Fashion 1,160.0,440.0,1276
+Regalería,Guantes Lana Negro Fashion Gloves 1,120.0,440.0,1277
+Regalería,Guantes para BB Children 1,220.0,440.0,1278
+Regalería,Guantes Tricolor Ladies Luxury 1,220.0,550.0,1279
+Regalería,Hieleras Pláticas 1,488.0,800.0,1280
+Regalería,Huevera Para Microondas,400.0,550.0,1281
+Regalería,Llavero Corazón,188.0,390.0,1282
+Regalería,Manoplas Nena con Strass 1,150.0,440.0,1283
+Regalería,Mate Click Naranja ,400.0,550.0,1284
+Regalería,Mate Forrado Chico 1,160.0,800.0,1285
+Regalería,Mate Forrado Grande 1,350.0,800.0,1286
+Regalería,Mate Porongo Chico 1,210.0,1000.0,1287
+Regalería,Mate Porongo Grande 1,350.0,440.0,1288
+Regalería,Molde p/ Helado x 4 Aqua Rosa,400.0,600.0,1289
+Regalería,Molde p/ Helado x 4 Aqua Verde,400.0,600.0,1290
+Regalería,Moños para regalos 1,15.0,50.0,1291
+Regalería,Moños para regalos 1,4.9,50.0,1292
+Regalería,Repasador Sargado,250.0,440.0,1293
+Regalería,Repasador Sargado,250.0,440.0,1294
+Regalería,Ser x 2 utensilios p/ ensaladas Iris,400.0,700.0,1295
+Regalería,Set Coladores x 2,400.0,600.0,1296
+Regalería,Tarro Azucarero 1800 ml,500.0,720.0,1297
+Regalería,Tarro para Azúcar 1800 ml,500.0,660.0,1298
+Regalería,Tarro para Cereales 1800 ml,500.0,660.0,1299
+Regalería,Tarro para Galletitas 1800 ml,500.0,660.0,1300
+Regalería,Tarro para Yerba 1800 ml,500.0,660.0,1301
+Regalería,Tarro Yerbero 1800 ml,500.0,720.0,1302
+Regalería,Vaso Chopero 1,525.0,1200.0,1303
+Regalería,Vaso de Boca Juniors,550.0,1000.0,1304
+Regalería,Vaso de River Plate,550.0,1000.0,1305
+Regalería,Vaso infantil Exprimidor,490.0,1000.0,1306
+Regalería,Vaso Pico Sorbete,290.0,900.0,1307
+Regalería,Vaso Pinta Deco Cerveza 1,375.0,1000.0,1308
+Snack,3D 151g,300.0,310.0,1309
+Snack,3D 43g,156.48,330.0,1310
+Snack,3D 47g,123.0,330.0,1311
+Snack,3D 92g,384.6,390.0,1312
+Snack,3D Original Queso 95 grs,238.47,440.0,1313
+Snack,Aritos Frutados Lasfor 160g,112.0,200.0,1314
+Snack,Barrita de Cereal Yogurt y Frutilla ,77.034,110.0,1315
+Snack,Barritas de Cereal Quaker Chispas 30g,61.95,110.0,1316
+Snack,Barritas de Cereal Quaker Frutilla 30g,61.95,110.0,1317
+Snack,Barritas de Cereal Quaker Mousse de Chocolate 30g,61.95,110.0,1318
+Snack,Bolitas Chocolatadas Lasfor 1,126.0,220.0,1319
+Snack,Cheetos Original 43g ,295.85,400.0,1320
+Snack,Chizitos OVNI 50g,110.0,200.0,1321
+Snack,Chizitos x 100 grs,60.0,170.0,1322
+Snack,Chocobar de arroz 20 grs,93.33,140.0,1323
+Snack,Conitos Galácticos OVNI 180g,715.0,900.0,1324
+Snack,Doritos  140g,315.0,460.0,1325
+Snack,Doritos 40g,295.85,400.0,1326
+Snack,Doritos 45g,156.48,280.0,1327
+Snack,Doritos Sabor Queso 85 grs,423.0,610.0,1328
+Snack,Flow Cereal Avellanas Arándanos con Miel 30g,103.72,200.0,1329
+Snack,Kesitas Bagley  75 grs,555.65,750.0,1330
+Snack,Kesitas Bagley Caja 125 g,380.9,500.0,1331
+Snack,Lay's 40g,770.0,900.0,1332
+Snack,Lay's Cheddar 85g,264.0,400.0,1333
+Snack,Lay's Clásicas 145g,576.92,800.0,1334
+Snack,Lay's Clásicas 249g,458.0,700.0,1335
+Snack,Lay's Clásicas 45g,192.3,300.0,1336
+Snack,Lay's Clásicas 94g,264.0,450.0,1337
+Snack,Maíz Inflado OVNI 50g,123.0,200.0,1338
+Snack,Maní King Salado Sin Piel 120g,200.0,350.0,1339
+Snack,Maní salado - pelado  a granel 250g,300.0,200.0,1340
+Snack,Maní salado - pelado  a granel 250g,240.0,400.0,1341
+Snack,Maní Salado OVNI 160g,300.0,400.0,1342
+Snack,Oblea de arroz 20 grs,93.33,140.0,1343
+Snack,Palitos Galácticos OVNI 150g,337.0,450.0,1344
+Snack,Palitos Salados OVNI 150g,295.0,400.0,1345
+Snack,Papas Clásicas Quento 100 grs,607.28,800.0,1346
+Snack,Papas Clásicas Quento 50 grs,305.33,450.0,1347
+Snack,Papas Fritas Ovni 90g,485.0,650.0,1348
+Snack,Papas Pay QUENTO 110g,200.0,350.0,1349
+Snack,Papas Quento  Jamón Serrano 90 g,288.93,450.0,1350
+Snack,Papas Quento  Ketchup 90 g,288.93,450.0,1351
+Snack,Papas Quento Cebolla y Queso 45g,111.505,300.0,1352
+Snack,Papas Quento Clásicas Asado Criollo,288.93,450.0,1353
+Snack,Papas Quento Sabor Crema y Ciboulette 90 gr,288.93,450.0,1354
+Snack,Pizzetas Galácticas OVNI 100g,280.0,350.0,1355
+Snack,Puflito ,41.0,200.0,1356
+Snack,Rex  Sabor Original 75 grs,555.65,750.0,1357
+Snack,Rex 125g Caja,380.9,750.0,1358
+Snack,Rex Tubo x 75 grs,381.0,500.0,1359
+Snack,Saladix 25g Calabresa,333.31,450.0,1360
+Snack,Saladix 25g Jamón,333.31,450.0,1361
+Snack,Saladix 25g Jamón y Queso,333.31,450.0,1362
+Snack,Saladix Calabresa 100g,333.31,450.0,1363
+Snack,Saladix Jamón 100g,333.33,450.0,1364
+Snack,Saladix Pizza 30g,333.31,450.0,1365
+Snack,Semillas de Girasol Tostadas y Saladas 40 grs,37.5,90.0,1366
+Snack,Serranitos Galácticos OVNI 150g,320.0,450.0,1367
+Snack,Tostex Barbacoa 125g,113.0,170.0,1368
+Snack,Tostex Sabor Cheddar 125g,113.0,170.0,1369
+Snack,Tostex Sabor Pizza 125g,113.0,170.0,1370
+Snack,Tutuca,48.0,200.0,1371
+Snack,Tutuca 100 grs 1,70.0,110.0,1372
+Snack,Tutuca 80 grs 1,59.0,90.0,1373
+Snack,Twistos Jamón Ibérico 100g,369.23,530.0,1374
+Snack,Twistos Jamón Ibérico 40g,184.6,260.0,1375
+Snack,Twistos Queso 40g,173.08,280.0,1376
+Snack,Barrita de Arroz Crowie Sabor Coco 12 g,94.8,150.0,1377
+Snack,Barrita de Arroz Crowie Marroc 12 g,94.8,150.0,1378
+Snack,Barrita de Arroz Crowie Chocolate Blanco 12 g,94.8,150.0,1379
+Snack,Barrita de Arroz Crowie Limón 12 g,94.8,150.0,1380
+Snack,Barrita de Arroz Crowie Chocolate 12 g,94.8,150.0,1381
+Snack,Barrita de Arroz Crowie Yogurt de Frutilla 12 g,94.8,150.0,1382
+Snack,Snacks de Arroz Crowie Queso 50 g,235.5,350.0,1383
+Snack,Snacks de Arroz Crowie Pizza 50 g,235.5,350.0,1384
+Snack,Snacks de Arroz Crowie Jamón Serrano 50 g,235.5,350.0,1385
+Snack,Saladix Pizzitas 70 g,443.65,600.0,1386
+Snack,Saladix Quesitos 32 g,282.32,400.0,1387
+Snack,Saladix Papas Chedar 30g,461.13,600.0,1388
+Snack,Saladix Cross Sabor Original 67 g,461.13,600.0,1389
+Snack,Saladix Cross Sabor Queso 67 g,461.13,600.0,1390
+Snack,Mani King Salado Con Piel 100g,535.6,700.0,1391
+Snack,Mani King Salado Sin Piel 100g,535.6,700.0,1392
+Snack,Mani King Crocante Queso 80g,713.77,900.0,1393
+Snack,Mani King Panceta 80g,455.0,700.0,1394
+Snack,Pringles Sabor a Crema y Cebolla 124 g,1010.0,1400.0,1395
+Snack,Pringles Sabor Queso 71 g,636.92,850.0,1396
+Soda,Agua Mineral con Gas Bio Sports 500 cc,62.5,100.0,1397
+Soda,Soda Benedictino 2000ml,466.67,600.0,1398
+Soda,Soda Benedictino Sifón 2000ml,833.33,1100.0,1399
+Soda,Soda Eco de los Andes 500ml,65.0,110.0,1400
+Soda,Soda Kapuy x 2000ml,100.0,220.0,1401
+Soda,Soda Sierra de los Padres  500ml,75.0,110.0,1402
+Soda,Soda Sifón Secco 2 L,242.19,450.0,1403
+Soda,Soda Torasso 2000ml,113.0,170.0,1404
+Soda,Soda Vitalissima 2000ml,703.16,900.0,1405
+Soda,Soda Wolfs 2 L,141.66,220.0,1406
+Varios,Adhesivo de Contacto POXI-ran 1,359.0,640.0,1407
+Varios,Apoya Celular FOONU,200.0,500.0,1408
+Varios,Barbijos 1,75.0,300.0,1409
+Varios,Bolsas camisetas 40 x 50,250.0,390.0,1410
+Varios,Bolsas camisetas 40 x 50 sueltas,3.0,10.0,1411
+Varios,Bolsas Camisetas 50x70 ,11.04,20.0,1412
+Varios,Bolsas Consorcio 60 x 90  Panache,28.0,100.0,1413
+Varios,Bolsas Consorcio 60 x 90 N°8 Reforzadas x 50,23.0,100.0,1414
+Varios,Bolsas de Consorcio 90 x 120,80.0,200.0,1415
+Varios,Bolsas de Residuos Consorcio ADN Polimundi 60x90x10 unidades,15.7,100.0,1416
+Varios,Bolsas Residuos Grandes Virutx 80 x 110 cm x 10 u,56.0,100.0,1417
+Varios,Bolsas Residuos Mediana Virutex 50x70 cm x 20 u,15.5,60.0,1418
+Varios,Bolsas Residuos Polimundi x 10 u / 60x90 Baja Densidad,26.31,100.0,1419
+Varios,Bolsas residuos Polimundi x 10 u /80x100 Alta densidad,31.4,100.0,1420
+Varios,Bombilla grande Piedra,270.0,600.0,1421
+Varios,BOMBILLA MATE ESPIRALADA 1,260.0,700.0,1422
+Varios,BOMBILLA MATE RUBÍ CORTA 1,210.0,600.0,1423
+Varios,BOMBILLA MATE RUBÍ LARGA 1,210.0,700.0,1424
+Varios,BOMBILLA TERERÉ 1,105.0,500.0,1425
+Varios,Botella Pinguinito Celeste 300 ml,300.0,800.0,1426
+Varios,Botella Pinguinito Rosa 300 ml,300.0,800.0,1427
+Varios,Cable USB,300.0,700.0,1428
+Varios,Cartas de Loba Hachazo 1,910.0,1300.0,1429
+Varios,Cartas de Truco Hachazo 1,730.0,1100.0,1430
+Varios,Cartas FIFA WORLD CUP,150.0,700.0,1431
+Varios,Chip  1,0.0,400.0,1432
+Varios,Cinta Aisladora de PVC,120.0,800.0,1433
+Varios,Desodorante para Piso Sedilé Flor de Irupé,75.0,130.0,1434
+Varios,Desodorante para Piso Sedilé Lavanda,75.0,130.0,1435
+Varios,Duracell AA,37.0,1000.0,1436
+Varios,Duracell AA,330.0,1000.0,1437
+Varios,Duracell AAA,150.0,1000.0,1438
+Varios,Encendedor Candela 1,128.57,300.0,1440
+Varios,Encendedor Fuegolandia,129.0,300.0,1441
+Varios,Encendedor Hiper BX1,160.0,300.0,1442
+Varios,Encendedor Hiper M1-1,150.0,300.0,1443
+Varios,Envase de Coca,100.0,500.0,1444
+Varios,Escarapela de cinta celeste y blanca,50.0,150.0,1445
+Varios,Escarapela Tejida hilo,150.0,400.0,1446
+Varios,Escarapelas a crochet 1,210.0,400.0,1447
+Varios,Escarapelas moños de cinta 1,38.0,150.0,1448
+Varios,Escarapelas simple de cinta 1,23.0,150.0,1449
+Varios,Focos Ledvance 9 W = 75 W,193.52,1350.0,1450
+Varios,Focos Osram 12 w  =  90 W,243.51,1500.0,1451
+Varios,Focos Osram 5 w = 40 W,149.63,1000.0,1452
+Varios,Focos Osram 9 w 1,113.0,1350.0,1453
+Varios,"Globos Candela Perlado 9"" Naranja",11.76,200.0,1454
+Varios,"Globos Candela Perlado 9"" Verde",11.76,200.0,1455
+Varios,Gorros Navideños,100.0,1000.0,1456
+Varios,Hielo Botella Chica 1,0.0,200.0,1457
+Varios,Hielo Botella Grande 1,0.0,300.0,1458
+Varios,Juego Loteria Número Plásticos,190.0,1200.0,1459
+Varios,La Gotita 1,1173.0,1500.0,1460
+Varios,Loteria Familiar 1,375.0,1200.0,1461
+Varios,Magistral Marina 215ml,147.0,1000.0,1462
+Varios,Mate Tereré Argentina,380.0,800.0,1463
+Varios,Mate Vidrio Deco,480.0,1200.0,1464
+Varios,Naipes Hachazo Truco,760.0,1100.0,1465
+Varios,Parches grandes,70.0,400.0,1466
+Varios,Parches Medianos,50.0,300.0,1467
+Varios,Parches Pequeños,29.6,200.0,1468
+Varios,Pegamento para parches,150.0,500.0,1469
+Varios,Pila Alcalina AAA Rayovac,172.5,1000.0,1470
+Varios,Pila Eveready AAA ,239.22,300.0,1471
+Varios,Pilas AA A Philco Alcalina x 4,133.75,1000.0,1472
+Varios,Pilas AAA Energizer,146.4,1000.0,1473
+Varios,PILAS DOBLE A 1,84.0,1000.0,1474
+Varios,Pilas Energizer Alcalinas AA4,145.0,1000.0,1475
+Varios,Pilas Energizer Alcalinas AAA1,178.0,1000.0,1476
+Varios,Pilas Eveready AA1,82.47,1000.0,1477
+Varios,PILAS TRIPLE A 1,70.0,1000.0,1478
+Varios,Pintura Argentina,220.0,500.0,1479
+Varios,Pinza de depilar 1,150.0,300.0,1480
+Varios,Poker Naipes Loba Caja,390.0,1000.0,1481
+Varios,PORTA TARJETA BUS 1,38.0,300.0,1482
+Varios,Tabla Picadora 1,338.0,800.0,1483
+Varios,Tarjeta Sube,600.0,1500.0,1484
+Varios,Tazos Coleccionables del Mundial 2022,120.0,600.0,1485
+Varios,Termo Lumilagro Amigo con asa x 1 litro,1039.0,1980.0,1486
+Varios,Termo Lumilagro Super Térmica con asa x 1 litro,1190.0,2200.0,1487
+Varios,Vaso Sorbete Argentina,180.0,800.0,1488
+Varios,Focos Ledvance 40 w Luz Blanca,775.18,1050.0,1489
+Varios,Focos Ledvance 60 w Luz Blanca,980.8,1300.0,1490
+Varios,Bolsas Residuos Negra 50 x 70 cm,43.33,60.0,1491
+Varios,Bombillas El Chúcaro,350.66,600.0,1492
+Vino,AIMÉ Malbec 750 ml,1079.0,1500.0,1493
+Vino,Alaris Malbec 750ml,1723.0,2350.0,1494
+Vino,Alma Mora Malbec 750ml,2221.0,2900.0,1495
+Vino,Cafayate Malbec 750 ml,600.0,1700.0,1496
+Vino,Canciller Blend 1125ml,485.0,900.0,1497
+Vino,Circus Dulce Terroir 750ml,1089.0,1500.0,1498
+Vino,Colon Cabernet Sauvignon 750ml,238.0,550.0,1499
+Vino,Cordero Piel de Lobo Malbec 2022 750ml,1148.0,1900.0,1500
+Vino,DADA Malbec 750ml,2092.0,2800.0,1501
+Vino,Dilema Blanco 750ml,1404.0,2250.0,1502
+Vino,Dilema No Hay Tal Tinto ,1404.0,2200.0,1503
+Vino,Dilema No Hay Tal Tinto Dulce,1404.0,2200.0,1504
+Vino,Dilema Rosé Dulce 750ml,1404.0,2800.0,1505
+Vino,Don Valentín Lacrado 750ml,930.0,1320.0,1506
+Vino,Donde Manda Capitan Malbec 750 ml,1895.25,2500.0,1507
+Vino,El Bautismo Malbec 750ml,294.0,770.0,1508
+Vino,Estancia de Mendoza Cabernert Malbec 750 ml,1128.0,1900.0,1509
+Vino,Estancia de Mendoza Malbec 750ml,1387.3,1900.0,1510
+Vino,Estancia de Mendoza Malbec Cabernet 1125 ml,1516.0,2200.0,1511
+Vino,Estancia de Mendoza Syrah Malbec 750 ml,1128.0,1900.0,1512
+Vino,Estancia Mendoza Cabernet Malbec 1125ml,1268.0,1900.0,1513
+Vino,Estancia Mendoza Chenin Chardonnay 750ml,1421.98,1900.0,1514
+Vino,Federico de Alvear Blanco Dulce 750 ml,617.0,830.0,1515
+Vino,Finca Natalina Syrah Malbec 750cc,230.0,440.0,1516
+Vino,Fran Nieto Senetiner Cabernet Sauvignon 750ml,350.0,720.0,1517
+Vino,Hormiga Negra Malbec 750ml,1050.0,1350.0,1518
+Vino,Kadabra Malbec 750 ml,585.0,880.0,1519
+Vino,Maleante  Malbec 750 ml,1384.0,1800.0,1520
+Vino,Marquéz del Sur Blend Magnum 1125ml,450.0,660.0,1521
+Vino,New Age Bodegas Bianchi 750ml,1264.2,1700.0,1522
+Vino,Novecento Malbec,1037.48,1400.0,1523
+Vino,Otro Loco Más Malbec 750 cc,1275.12,1700.0,1524
+Vino,Perro Callejero Blend de Malbec 750 ml,1323.0,3300.0,1525
+Vino,Santa Julia Cabernet Sauvignon 750ml,800.0,1800.0,1526
+Vino,Toro Blanco Tetra 1 Litro,1078.2,1500.0,1527
+Vino,Toro Clásico Tinto 1125ml,1071.0,1400.0,1528
+Vino,"Toro Tinto 1,125 ml",1557.3,2100.0,1529
+Vino,Toro Tinto Tetra 1000ml ,1218.28,1600.0,1530
+Vino,Tribu Malbec 750 ml,1200.0,1600.0,1531
+Vino,Valmont 750ml,420.0,830.0,1532
+Vino,Vino de Marte Malbec 750 cc,430.0,880.0,1533
+Vino,Vino Toro Clásico Tinto 750 cc,840.0,1300.0,1534
+Vino,Viñas de Balbo 1125ml,1335.0,1800.0,1535
+Vino,Colon Malbec 750 ml,1289.84,1300.0,1536
+Vino,Cosecha Tardía Blanco Dulce Norton 750 ml,1150.0,1550.0,1537
+Vino,Cafayate Torrontes Blanco Dulce Tardío 750 ml,1155.0,1550.0,1538
+Vino,Callia Tardío Rosado Dulce 750 ml,1050.0,1550.0,1539
+Vino,Estancia Mendoza Cabernet Malbec 750ml,1027.66,1900.0,1540
+Vino,Dilema No hay Tal Blanco Dulce 750 ml,1877.39,2600.0,1541
