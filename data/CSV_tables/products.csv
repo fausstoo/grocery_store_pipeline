@@ -1,48 +1,48 @@
 product_code,category,product,unit_cost,unit_price,product_id
 AGUACALIENTE,Agua,Agua caliente 1,56.0,300.0,1
-7798164280033,Agua,Agua de Las Misiones x 1500 ml,130.83,250.0,2
-7798065733454,Agua,Agua mineral  Sierra de los Padres  600ml,60.0,100.0,3
-7790895647703,Agua,Agua Mineral Benedictino 2 L,666.66,900.0,4
-7792758251508,Agua,"Agua Mineral Bio Sports 1,5L",101.563,150.0,5
-7792758250501,Agua,Agua Mineral H2O 500ml,56.0,100.0,6
-7798113301611,Agua,Agua Mineral Natural Villamanaos 2000ml,73.0,150.0,7
-7798065730040,Agua,Agua Mineral Secco 500ml,355.5,450.0,8
-7790895648564,Agua,Agua Mineral Sin Gas Benedictino 3L,833.33,1100.0,9
-7790895647741,Agua,Agua Mineral sin Gas Benedictino 600cc ,541.68,700.0,10
-7790315000149,Agua,"Agua Mineral Villa del Sur 1,65ml",186.61,300.0,11
-7798178040104,Agua,Agua Vitalíssima 500 ml,55.333,100.0,12
-7798164280019,Agua,Aguas de Las Misiones 500ml,56.0,100.0,13
-7798065733485,Agua,"Sierra de los Padres 1,5L",124.0,180.0,14
-7798065730033,Agua,Sierra de Los Padres Agua Mineral Natural,124.0,220.0,15
-7798113300270,Agua,Villamanaos 600ml,36.0,110.0,16
-7798178040111,Agua,"Vitalisima 1,5 L",94.0,170.0,17
-7790315000422,Agua,Agua sin gas Villavicencio 2 L,255.17,400.0,18
-7792799000899,Agua,Agua Mineral Nestle 500 cc,700.0,700.0,19
-7790895008504,Agua Saborizada,Aquarius Limonada 2250ml,1250.0,1700.0,20
-7790895003301,Agua Saborizada,Aquarius Manzana 2250ml,1250.0,1700.0,21
-7790895003325,Agua Saborizada,Aquarius Naranja 2250ml,1250.0,1700.0,22
-7790895003295,Agua Saborizada,Aquarius Pera 2250ml,1250.0,1700.0,23
-7790895646621,Agua Saborizada,Aquarius Pomelo 2250ml,1250.0,1700.0,24
-7790895003288,Agua Saborizada,Aquarius Pomelo Blanco 2250ml,1250.0,1700.0,25
-7790895004971,Agua Saborizada,Aquarius Pomelo Rosado 2250ml,1250.0,1700.0,26
-7790036001562,Agua Saborizada,Baggio Fresh Naranja 1500ml,697.67,1000.0,27
-7790036001579,Agua Saborizada,Baggio Fresh Pomelo 1500ml,697.67,1200.0,28
-7792758372111,Agua Saborizada,Bio Balance Manzana 1500ml,0.0,350.0,29
-7792758372159,Agua Saborizada,Bio Balance Naranja 1500ml,203.125,350.0,30
-7792758372135,Agua Saborizada,Bio Balance Pomelo 1500ml,203.125,350.0,31
-7790315101327,Agua Saborizada,Levité Ananá 2250ml,175.0,280.0,32
-7790315101099,Agua Saborizada,Levité Manzana  2500ml,204.0,280.0,33
-7790315000880,Agua Saborizada,Levité Manzana 2250ml,175.0,290.0,34
-7798062544701,Agua Saborizada,Levité Naranja 1000ml,90.0,130.0,35
-7798062540291,Agua Saborizada,Levité Naranja 2250ml,175.0,290.0,36
-7798062540284,Agua Saborizada,Levité Pomelo 2250ml,171.0,290.0,37
-7798065730361,Agua Saborizada,Sierra de Los Padres Manzana 1500ml,794.88,1200.0,38
-7798065731030,Agua Saborizada,Sierra de Los Padres Manzana 2250ml,621.66,800.0,39
-7798065730323,Agua Saborizada,Sierra de Los Padres Naranja 1500ml,794.88,1200.0,40
-7798065730323,Agua Saborizada,Sierra de Los Padres Naranja 1500ml,794.88,1200.0,41
-7798065731009,Agua Saborizada,Sierra de Los Padres Naranja 2250ml,621.66,800.0,42
-7798065730330,Agua Saborizada,Sierra de Los Padres Naranja 500ml,73.0,1200.0,43
-7798065730347,Agua Saborizada,Sierra de Los Padres Pomelo 1500 ml,794.88,1200.0,44
+7798164280033,Agua,Agua de Las Misiones x 1500 ml,130.83,250.0,1
+7798065733454,Agua,Agua mineral  Sierra de los Padres  600ml,60.0,100.0,1
+7790895647703,Agua,Agua Mineral Benedictino 2 L,666.66,900.0,1
+7792758251508,Agua,"Agua Mineral Bio Sports 1,5L",101.563,150.0,1
+7792758250501,Agua,Agua Mineral H2O 500ml,56.0,100.0,1
+7798113301611,Agua,Agua Mineral Natural Villamanaos 2000ml,73.0,150.0,1
+7798065730040,Agua,Agua Mineral Secco 500ml,355.5,450.0,1
+7790895648564,Agua,Agua Mineral Sin Gas Benedictino 3L,833.33,1100.0,1
+7790895647741,Agua,Agua Mineral sin Gas Benedictino 600cc ,541.68,700.0,1
+7790315000149,Agua,"Agua Mineral Villa del Sur 1,65ml",186.61,300.0,1
+7798178040104,Agua,Agua Vitalíssima 500 ml,55.333,100.0,1
+7798164280019,Agua,Aguas de Las Misiones 500ml,56.0,100.0,1
+7798065733485,Agua,"Sierra de los Padres 1,5L",124.0,180.0,1
+7798065730033,Agua,Sierra de Los Padres Agua Mineral Natural,124.0,220.0,1
+7798113300270,Agua,Villamanaos 600ml,36.0,110.0,1
+7798178040111,Agua,"Vitalisima 1,5 L",94.0,170.0,1
+7790315000422,Agua,Agua sin gas Villavicencio 2 L,255.17,400.0,1
+7792799000899,Agua,Agua Mineral Nestle 500 cc,700.0,700.0,1
+7790895008504,Agua Saborizada,Aquarius Limonada 2250ml,1250.0,1700.0,1
+7790895003301,Agua Saborizada,Aquarius Manzana 2250ml,1250.0,1700.0,1
+7790895003325,Agua Saborizada,Aquarius Naranja 2250ml,1250.0,1700.0,1
+7790895003295,Agua Saborizada,Aquarius Pera 2250ml,1250.0,1700.0,1
+7790895646621,Agua Saborizada,Aquarius Pomelo 2250ml,1250.0,1700.0,1
+7790895003288,Agua Saborizada,Aquarius Pomelo Blanco 2250ml,1250.0,1700.0,1
+7790895004971,Agua Saborizada,Aquarius Pomelo Rosado 2250ml,1250.0,1700.0,1
+7790036001562,Agua Saborizada,Baggio Fresh Naranja 1500ml,697.67,1000.0,1
+7790036001579,Agua Saborizada,Baggio Fresh Pomelo 1500ml,697.67,1200.0,1
+7792758372111,Agua Saborizada,Bio Balance Manzana 1500ml,0.0,350.0,1
+7792758372159,Agua Saborizada,Bio Balance Naranja 1500ml,203.125,350.0,1
+7792758372135,Agua Saborizada,Bio Balance Pomelo 1500ml,203.125,350.0,1
+7790315101327,Agua Saborizada,Levité Ananá 2250ml,175.0,280.0,1
+7790315101099,Agua Saborizada,Levité Manzana  2500ml,204.0,280.0,1
+7790315000880,Agua Saborizada,Levité Manzana 2250ml,175.0,290.0,1
+7798062544701,Agua Saborizada,Levité Naranja 1000ml,90.0,130.0,1
+7798062540291,Agua Saborizada,Levité Naranja 2250ml,175.0,290.0,1
+7798062540284,Agua Saborizada,Levité Pomelo 2250ml,171.0,290.0,1
+7798065730361,Agua Saborizada,Sierra de Los Padres Manzana 1500ml,794.88,1200.0,1
+7798065731030,Agua Saborizada,Sierra de Los Padres Manzana 2250ml,621.66,800.0,1
+7798065730323,Agua Saborizada,Sierra de Los Padres Naranja 1500ml,794.88,1200.0,1
+7798065730323,Agua Saborizada,Sierra de Los Padres Naranja 1500ml,794.88,1200.0,1
+7798065731009,Agua Saborizada,Sierra de Los Padres Naranja 2250ml,621.66,800.0,1
+7798065730330,Agua Saborizada,Sierra de Los Padres Naranja 500ml,73.0,1200.0,1
+7798065730347,Agua Saborizada,Sierra de Los Padres Pomelo 1500 ml,794.88,1200.0,1
 7798065730347,Agua Saborizada,Sierra de Los Padres Pomelo 1500ml,794.88,1200.0,45
 7798065730989,Agua Saborizada,Sierra de los Padres Pomelo 2250ml,621.66,800.0,46
 7790036975405,Agua Saborizada,Sierra de Los Padres Pomelo 500ml,73.0,110.0,47
@@ -624,7 +624,7 @@ SUPERVIVENCIA,Fotocopia,Supervivencia Policial,50.0,100.0,504
 7791375001824,Gaseosa,Cabalgata Lima 3000ml,1153.33,1600.0,623
 7791375000391,Gaseosa,Cabalgata Naranja 3000ml,1153.33,1600.0,624
 7791375001800,Gaseosa,Cabalgata Pomelo 3000ml,1153.33,1600.0,625
-7790895067570,Gaseosa,Coca Cola Zero 2250 cc,281.44,900.0,626
+7790895067570,Gaseosa,Coca Cola Zero 2250ml,281.44,900.0,626
 7792758001073,Gaseosa,Secco Cola 3000ml,1200.0,1600.0,627
 7792758000236,Gaseosa,Secco Lima 3000ml,1200.0,1600.0,628
 7792758372074,Gaseosa,Secco Limón Intenso 3000 ml,1200.0,1600.0,629
@@ -1357,7 +1357,7 @@ MANISALADO,Snack,Maní salado - pelado  a granel 250g,300.0,200.0,1340
 7793165000154,Snack,Puflito ,41.0,200.0,1356
 7790040003569,Snack,Rex  Sabor Original 75 grs,555.65,750.0,1357
 7790040719804,Snack,Rex 125g Caja,380.9,750.0,1358
-7790040100336,Snack,Rex Tubo x 75 grs,381.0,500.0,1359
+7790040100336,Snack,Rex Tubo 75g,381.0,500.0,1359
 7790580775407,Snack,Saladix 25g Calabresa,333.31,450.0,1360
 7790580387105,Snack,Saladix 25g Jamón,333.31,450.0,1361
 7790040374706,Snack,Saladix 25g Jamón y Queso,333.31,450.0,1362
@@ -1540,3 +1540,4 @@ D5524502009,Varios,Bolsas Residuos Negra 50 x 70 cm,43.33,60.0,1491
 7798108834179,Vino,Callia Tardío Rosado Dulce 750 ml,1050.0,1550.0,1539
 7790314069345,Vino,Estancia Mendoza Cabernet Malbec 750ml,1027.66,1900.0,1540
 7790314079726,Vino,Dilema No hay Tal Blanco Dulce 750 ml,1877.39,2600.0,1541
+,Fotocopia,IMPRESIÓN DOBLE FAZ A4 1,0.0,200.0,1542
