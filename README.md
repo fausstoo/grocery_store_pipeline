@@ -12,7 +12,7 @@
 
 
 #### **Overview**
-I developed this project with the primary goal of automating my data workflow as a bookkeeper in a grocery store. \
+I developed this project with the primary goal of automating the data workflow of my grocery store. \
 This pipeline streamlines the management of grocery store sales data, offering a systematic approach to handling records from extraction to storage while ensuring adaptability to evolving business needs. It also allows customization of batch size for efficient processing on each run. 
 
 The pipeline involves three main stages and a script for each one: 
@@ -59,7 +59,7 @@ fausstoo/grocery_store_pipeline \
 
 
 #### **Usage** 
-The presented project offers a comprehensive and modularized data pipeline designed for the ingestion, transformation, and storage of grocery store data. Its primary utility lies in the structured handling of data sourced from an Excel workbook, cleaning and transforming the data, and persisting it in a MySQL database. The usage of this project can be outlined as follows:
+The presented project offers a comprehensive and modularized data pipeline designed for the ingestion, transformation, and storage of grocery store data. Its primary utility lies in the structured handling of data sourced from an Excel workbook, cleaning and transforming records, and persisting it in a MySQL database. The usage of this project can be outlined as follows:
 
 *Execution and Integration:*
 To execute the data pipeline, users can run the pipeline.py script, which orchestrates the entire process seamlessly. The script establishes a connection to the MySQL database, executes data extraction, transformation, and storage processes, and logs relevant information for monitoring and debugging purposes.
@@ -76,9 +76,9 @@ To execute the data pipeline, users can run the pipeline.py script, which orches
 *Customization and Adaptability:*
 The modular structure of the project allows users to adapt and extend functionality according to specific requirements. Table structures, transformation logic, and database configurations can be modified to accommodate diverse datasets and use cases.
 
-*Academic and Professional Application:*
-This project serves as a valuable academic resource for students and researchers studying data engineering, data science, and database management. Its design principles adhere to best practices in data pipeline development, offering a practical example for educational purposes. \
-In a professional context, this project applies to scenarios where structured data from Excel workbooks needs to be systematically processed and stored in a relational database. Industries such as retail, finance, and logistics could benefit from the project's capabilities in managing and analyzing large volumes of transactional data. \
+*Application:*
+The project outlines principles for handling small-scale data engineering tasks and addresses fundamental ETL operations tailored for small businesses. It follows industry best practices in data pipeline development, demonstrating key concepts that can be used for educational purposes.\
+In a professional context, this project applies to scenarios where structured data from Excel workbooks needs to be systematically processed and stored in a relational database. Industries such as retail, finance, and logistics could benefit from the project's capabilities in managing and analyzing low to medium volumes of transactional data. \
 The provided usage overview positions the project as a versatile and adaptable tool for managing and analyzing structured data in academic and professional settings.
 
 
